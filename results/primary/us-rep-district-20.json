@@ -1,82 +1,82 @@
 {
   "raceTitle": "U.S. House of Representatives District 20 - Districtwide Results",
-  "Reporting": "98.3% (470 of 478) precincts reporting",
-  "ReportingTime": "March 6, 2024, 2:37 a.m.",
+  "Reporting": "100% (478 of 478) precincts reporting",
+  "ReportingTime": "March 6, 2024, 2:45 a.m.",
   "candidates": [
     {
       "Name": "Andy Morales",
       "Party": "Dem",
-      "Votes": "2,339",
+      "Votes": "2,405",
       "Percent": "3.3",
       "incumbent": false
     },
     {
       "Name": "Marisa Wood",
       "Party": "Dem",
-      "Votes": "15,510",
+      "Votes": "15,930",
       "Percent": "21.7",
       "incumbent": false
     },
     {
       "Name": "Mike Boudreaux",
       "Party": "Rep",
-      "Votes": "17,299",
-      "Percent": "24.2",
+      "Votes": "18,261",
+      "Percent": "24.9",
       "incumbent": false
     },
     {
       "Name": "Stan Ellis",
       "Party": "Rep",
-      "Votes": "1,754",
-      "Percent": "2.5",
+      "Votes": "1,775",
+      "Percent": "2.4",
       "incumbent": false
     },
     {
       "Name": "Vince Fong",
       "Party": "Rep",
-      "Votes": "28,003",
-      "Percent": "39.2",
+      "Votes": "28,445",
+      "Percent": "38.7",
       "incumbent": false
     },
     {
       "Name": "David A. Giglio",
       "Party": "Rep",
-      "Votes": "1,314",
+      "Votes": "1,321",
       "Percent": "1.8",
       "incumbent": false
     },
     {
       "Name": "Kyle Kirkland",
       "Party": "Rep",
-      "Votes": "3,185",
-      "Percent": "4.5",
+      "Votes": "3,258",
+      "Percent": "4.4",
       "incumbent": false
     },
     {
       "Name": "Kelly Kulikoff",
       "Party": "Rep",
-      "Votes": "420",
+      "Votes": "423",
       "Percent": "0.6",
       "incumbent": false
     },
     {
       "Name": "Matthew Stoll",
       "Party": "Rep",
-      "Votes": "648",
+      "Votes": "657",
       "Percent": "0.9",
       "incumbent": false
     },
     {
       "Name": "Ben Dewell",
       "Party": "NPP",
-      "Votes": "665",
+      "Votes": "682",
       "Percent": "0.9",
       "incumbent": false
     },
     {
       "Name": "T.J. Esposito",
       "Party": "NPP",
-      "Votes": "283",
+      "Votes": "285",
       "Percent": "0.4",
       "incumbent": false
     }
