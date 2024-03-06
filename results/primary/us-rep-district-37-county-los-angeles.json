@@ -2,34 +2,34 @@
   {
     "raceTitle": "U.S. House of Representatives District 37 - Los Angeles County Results",
     "Reporting": "100% (171 of 171) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:16 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Adam J. Carmichael",
         "Party": "Dem",
-        "Votes": "3,363",
-        "Percent": "9.8",
+        "Votes": "3,525",
+        "Percent": "9.9",
         "incumbent": false
       },
       {
         "Name": "Sydney Kamlager-Dove",
         "Party": "Dem",
-        "Votes": "24,657",
-        "Percent": "72.0",
+        "Votes": "25,400",
+        "Percent": "71.6",
         "incumbent": true
       },
       {
         "Name": "John Thompson Parker",
         "Party": "P&F",
-        "Votes": "2,936",
-        "Percent": "8.6",
+        "Votes": "3,102",
+        "Percent": "8.7",
         "incumbent": false
       },
       {
         "Name": "Juan Rey",
         "Party": "NPP",
-        "Votes": "3,274",
-        "Percent": "9.6",
+        "Votes": "3,456",
+        "Percent": "9.7",
         "incumbent": false
       }
     ]
@@ -37,34 +37,34 @@
   {
     "raceTitle": "U.S. House of Representatives District 37 - Districtwide Results",
     "Reporting": "100% (171 of 171) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Adam J. Carmichael",
         "Party": "Dem",
-        "Votes": "3,363",
-        "Percent": "9.8",
+        "Votes": "3,525",
+        "Percent": "9.9",
         "incumbent": false
       },
       {
         "Name": "Sydney Kamlager-Dove",
         "Party": "Dem",
-        "Votes": "24,657",
-        "Percent": "72.0",
+        "Votes": "25,400",
+        "Percent": "71.6",
         "incumbent": true
       },
       {
         "Name": "John Thompson Parker",
         "Party": "P&F",
-        "Votes": "2,936",
-        "Percent": "8.6",
+        "Votes": "3,102",
+        "Percent": "8.7",
         "incumbent": false
       },
       {
         "Name": "Juan Rey",
         "Party": "NPP",
-        "Votes": "3,274",
-        "Percent": "9.6",
+        "Votes": "3,456",
+        "Percent": "9.7",
         "incumbent": false
       }
     ]

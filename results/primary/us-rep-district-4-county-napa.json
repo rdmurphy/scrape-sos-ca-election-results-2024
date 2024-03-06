@@ -2,33 +2,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 4 - Napa County Results",
     "Reporting": "100% (200 of 200) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:34 p.m.",
     "candidates": [
       {
         "Name": "Andrew David Engdahl",
         "Party": "Dem",
-        "Votes": "504",
-        "Percent": "3.5",
+        "Votes": "539",
+        "Percent": "3.6",
         "incumbent": false
       },
       {
         "Name": "Mike Thompson",
         "Party": "Dem",
-        "Votes": "9,876",
-        "Percent": "69.0",
+        "Votes": "10,129",
+        "Percent": "67.9",
         "incumbent": true
       },
       {
         "Name": "John Munn",
         "Party": "Rep",
-        "Votes": "3,865",
-        "Percent": "27.0",
+        "Votes": "4,178",
+        "Percent": "28.0",
         "incumbent": false
       },
       {
         "Name": "Niket Patwardhan",
         "Party": "NPP",
-        "Votes": "74",
+        "Votes": "80",
         "Percent": "0.5",
         "incumbent": false
       }
@@ -37,33 +37,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 4 - Districtwide Results",
     "Reporting": "92.6% (528 of 570) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Andrew David Engdahl",
         "Party": "Dem",
-        "Votes": "4,438",
+        "Votes": "4,473",
         "Percent": "4.7",
         "incumbent": false
       },
       {
         "Name": "Mike Thompson",
         "Party": "Dem",
-        "Votes": "60,641",
-        "Percent": "63.6",
+        "Votes": "60,894",
+        "Percent": "63.4",
         "incumbent": true
       },
       {
         "Name": "John Munn",
         "Party": "Rep",
-        "Votes": "29,376",
-        "Percent": "30.8",
+        "Votes": "29,689",
+        "Percent": "30.9",
         "incumbent": false
       },
       {
         "Name": "Niket Patwardhan",
         "Party": "NPP",
-        "Votes": "962",
+        "Votes": "968",
         "Percent": "1.0",
         "incumbent": false
       }

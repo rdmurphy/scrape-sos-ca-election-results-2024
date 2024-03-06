@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 29 - San Benito County Results",
     "Reporting": "100% (28 of 28) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:24 p.m.",
+    "ReportingTime": "March 5, 2024, 11:30 p.m.",
     "candidates": [
       {
         "Name": "Robert Rivas",
         "Party": "Dem",
-        "Votes": "2,042",
-        "Percent": "61.0",
+        "Votes": "2,237",
+        "Percent": "57.5",
         "incumbent": true
       },
       {
         "Name": "J.W. Paine",
         "Party": "Rep",
-        "Votes": "1,303",
-        "Percent": "39.0",
+        "Votes": "1,653",
+        "Percent": "42.5",
         "incumbent": false
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "State Assembly District 29 - Districtwide Results",
     "Reporting": "91.5% (182 of 199) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Robert Rivas",
         "Party": "Dem",
-        "Votes": "17,358",
-        "Percent": "65.7",
+        "Votes": "17,553",
+        "Percent": "65.1",
         "incumbent": true
       },
       {
         "Name": "J.W. Paine",
         "Party": "Rep",
-        "Votes": "9,050",
-        "Percent": "34.3",
+        "Votes": "9,400",
+        "Percent": "34.9",
         "incumbent": false
       }
     ]

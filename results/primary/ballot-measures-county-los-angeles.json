@@ -1,15 +1,15 @@
 {
   "raceTitle": "Ballot Measures - Los Angeles Results",
   "Reporting": "100.0% (2,391 of 2,391) precincts reporting",
-  "ReportingTime": "March 5, 2024, 11:16 p.m.",
+  "ReportingTime": "March 5, 2024, 11:36 p.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "355427",
-      "yesPercent": "56.4",
-      "noVotes": "274430",
-      "noPercent": "43.6"
+      "yesVotes": "371910",
+      "yesPercent": "55.9",
+      "noVotes": "293561",
+      "noPercent": "44.1"
     }
   ]
 }

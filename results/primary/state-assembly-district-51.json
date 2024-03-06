@@ -1,26 +1,26 @@
 {
   "raceTitle": "State Assembly District 51 - Districtwide Results",
   "Reporting": "100% (125 of 125) precincts reporting",
-  "ReportingTime": "March 5, 2024, 11:26 p.m.",
+  "ReportingTime": "March 5, 2024, 11:36 p.m.",
   "candidates": [
     {
       "Name": "Rick Chavez Zbur",
       "Party": "Dem",
-      "Votes": "31,070",
+      "Votes": "31,486",
       "Percent": "76.4",
       "incumbent": true
     },
     {
       "Name": "Shiva Bagheri",
       "Party": "Rep",
-      "Votes": "4,534",
+      "Votes": "4,610",
       "Percent": "11.2",
       "incumbent": false
     },
     {
       "Name": "Stephan Hohil",
       "Party": "Rep",
-      "Votes": "5,041",
+      "Votes": "5,106",
       "Percent": "12.4",
       "incumbent": false
     }

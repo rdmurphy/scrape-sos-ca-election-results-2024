@@ -1,41 +1,41 @@
 [
   {
     "raceTitle": "State Senate District 1 - Siskiyou County Results",
-    "Reporting": "58.9% (33 of 56) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:15 p.m.",
+    "Reporting": "100% (56 of 56) precincts reporting",
+    "ReportingTime": "March 5, 2024, 11:34 p.m.",
     "candidates": [
       {
         "Name": "Megan Dahle",
         "Party": "Rep",
-        "Votes": "4,331",
-        "Percent": "81.7",
+        "Votes": "5,067",
+        "Percent": "82.0",
         "incumbent": false
       },
       {
         "Name": "David Fennell",
         "Party": "Rep",
-        "Votes": "968",
-        "Percent": "18.3",
+        "Votes": "1,110",
+        "Percent": "18.0",
         "incumbent": false
       }
     ]
   },
   {
     "raceTitle": "State Senate District 1 - Districtwide Results",
-    "Reporting": "85.9% (579 of 674) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "Reporting": "89.3% (602 of 674) precincts reporting",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Megan Dahle",
         "Party": "Rep",
-        "Votes": "63,303",
+        "Votes": "64,039",
         "Percent": "77.5",
         "incumbent": false
       },
       {
         "Name": "David Fennell",
         "Party": "Rep",
-        "Votes": "18,420",
+        "Votes": "18,562",
         "Percent": "22.5",
         "incumbent": false
       }

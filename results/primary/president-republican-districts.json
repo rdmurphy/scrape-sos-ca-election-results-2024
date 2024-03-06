@@ -1,78 +1,78 @@
 [
   {
     "raceTitle": "President Republican - Statewide Results",
-    "Reporting": "67.7% (14,124 of 20,855) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "Reporting": "68.1% (14,209 of 20,855) precincts reporting",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
         "Party": "Rep",
-        "Votes": "2,106",
+        "Votes": "2,139",
         "Percent": "0.2",
         "incumbent": false
       },
       {
         "Name": "Chris Christie",
         "Party": "Rep",
-        "Votes": "11,860",
+        "Votes": "11,941",
         "Percent": "1.0",
         "incumbent": false
       },
       {
         "Name": "Ron DeSantis",
         "Party": "Rep",
-        "Votes": "18,242",
+        "Votes": "18,423",
         "Percent": "1.6",
         "incumbent": false
       },
       {
         "Name": "Nikki Haley",
         "Party": "Rep",
-        "Votes": "225,055",
-        "Percent": "19.8",
+        "Votes": "226,383",
+        "Percent": "19.6",
         "incumbent": false
       },
       {
         "Name": "Asa Hutchinson",
         "Party": "Rep",
-        "Votes": "1,881",
+        "Votes": "1,896",
         "Percent": "0.2",
         "incumbent": false
       },
       {
         "Name": "Vivek Ramaswamy",
         "Party": "Rep",
-        "Votes": "4,928",
+        "Votes": "5,006",
         "Percent": "0.4",
         "incumbent": false
       },
       {
         "Name": "David Stuckenberg",
         "Party": "Rep",
-        "Votes": "2,054",
+        "Votes": "2,107",
         "Percent": "0.2",
         "incumbent": false
       },
       {
         "Name": "Rachel Swift",
         "Party": "Rep",
-        "Votes": "2,299",
+        "Votes": "2,334",
         "Percent": "0.2",
         "incumbent": false
       },
       {
         "Name": "Donald J. Trump",
         "Party": "Rep",
-        "Votes": "870,436",
-        "Percent": "76.4",
+        "Votes": "883,693",
+        "Percent": "76.6",
         "incumbent": false
       }
     ]
   },
   {
     "raceTitle": "President Republican District 1 - Districtwide Results",
-    "Reporting": "81.6% (400 of 490) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "Reporting": "86.3% (423 of 490) precincts reporting",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -84,22 +84,22 @@
       {
         "Name": "Chris Christie",
         "Party": "Rep",
-        "Votes": "240",
+        "Votes": "241",
         "Percent": "0.6",
         "incumbent": false
       },
       {
         "Name": "Ron DeSantis",
         "Party": "Rep",
-        "Votes": "483",
+        "Votes": "487",
         "Percent": "1.3",
         "incumbent": false
       },
       {
         "Name": "Nikki Haley",
         "Party": "Rep",
-        "Votes": "5,207",
-        "Percent": "14.0",
+        "Votes": "5,249",
+        "Percent": "13.9",
         "incumbent": false
       },
       {
@@ -112,14 +112,14 @@
       {
         "Name": "Vivek Ramaswamy",
         "Party": "Rep",
-        "Votes": "121",
+        "Votes": "127",
         "Percent": "0.3",
         "incumbent": false
       },
       {
         "Name": "David Stuckenberg",
         "Party": "Rep",
-        "Votes": "60",
+        "Votes": "61",
         "Percent": "0.2",
         "incumbent": false
       },
@@ -133,8 +133,8 @@
       {
         "Name": "Donald J. Trump",
         "Party": "Rep",
-        "Votes": "30,903",
-        "Percent": "83.2",
+        "Votes": "31,574",
+        "Percent": "83.3",
         "incumbent": false
       }
     ]
@@ -142,7 +142,7 @@
   {
     "raceTitle": "President Republican District 2 - Districtwide Results",
     "Reporting": "100% (629 of 629) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -212,7 +212,7 @@
   {
     "raceTitle": "President Republican District 3 - Districtwide Results",
     "Reporting": "93.6% (425 of 454) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -282,7 +282,7 @@
   {
     "raceTitle": "President Republican District 4 - Districtwide Results",
     "Reporting": "92.6% (528 of 570) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -294,22 +294,22 @@
       {
         "Name": "Chris Christie",
         "Party": "Rep",
-        "Votes": "336",
+        "Votes": "337",
         "Percent": "1.2",
         "incumbent": false
       },
       {
         "Name": "Ron DeSantis",
         "Party": "Rep",
-        "Votes": "484",
+        "Votes": "486",
         "Percent": "1.8",
         "incumbent": false
       },
       {
         "Name": "Nikki Haley",
         "Party": "Rep",
-        "Votes": "6,134",
-        "Percent": "22.5",
+        "Votes": "6,160",
+        "Percent": "22.3",
         "incumbent": false
       },
       {
@@ -323,7 +323,7 @@
         "Name": "Vivek Ramaswamy",
         "Party": "Rep",
         "Votes": "124",
-        "Percent": "0.5",
+        "Percent": "0.4",
         "incumbent": false
       },
       {
@@ -343,8 +343,8 @@
       {
         "Name": "Donald J. Trump",
         "Party": "Rep",
-        "Votes": "20,061",
-        "Percent": "73.4",
+        "Votes": "20,314",
+        "Percent": "73.6",
         "incumbent": false
       }
     ]
@@ -352,7 +352,7 @@
   {
     "raceTitle": "President Republican District 5 - Districtwide Results",
     "Reporting": "87.2% (301 of 345) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -422,7 +422,7 @@
   {
     "raceTitle": "President Republican District 6 - Districtwide Results",
     "Reporting": "100% (280 of 280) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -492,7 +492,7 @@
   {
     "raceTitle": "President Republican District 7 - Districtwide Results",
     "Reporting": "100% (291 of 291) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -562,7 +562,7 @@
   {
     "raceTitle": "President Republican District 8 - Districtwide Results",
     "Reporting": "31.6% (114 of 361) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -632,7 +632,7 @@
   {
     "raceTitle": "President Republican District 9 - Districtwide Results",
     "Reporting": "84.6% (203 of 240) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -702,7 +702,7 @@
   {
     "raceTitle": "President Republican District 10 - Districtwide Results",
     "Reporting": "2.6% (17 of 645) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -772,7 +772,7 @@
   {
     "raceTitle": "President Republican District 11 - Districtwide Results",
     "Reporting": "99.6% (449 of 451) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -842,7 +842,7 @@
   {
     "raceTitle": "President Republican District 12 - Districtwide Results",
     "Reporting": "100% (179 of 179) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -912,7 +912,7 @@
   {
     "raceTitle": "President Republican District 13 - Districtwide Results",
     "Reporting": "96.2% (832 of 865) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -982,7 +982,7 @@
   {
     "raceTitle": "President Republican District 14 - Districtwide Results",
     "Reporting": "100% (348 of 348) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -1052,7 +1052,7 @@
   {
     "raceTitle": "President Republican District 15 - Districtwide Results",
     "Reporting": "24.2% (61 of 252) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -1122,7 +1122,7 @@
   {
     "raceTitle": "President Republican District 16 - Districtwide Results",
     "Reporting": "72.6% (199 of 274) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -1192,7 +1192,7 @@
   {
     "raceTitle": "President Republican District 17 - Districtwide Results",
     "Reporting": "100% (186 of 186) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -1262,7 +1262,7 @@
   {
     "raceTitle": "President Republican District 18 - Districtwide Results",
     "Reporting": "95.7% (269 of 281) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -1281,15 +1281,15 @@
       {
         "Name": "Ron DeSantis",
         "Party": "Rep",
-        "Votes": "179",
+        "Votes": "181",
         "Percent": "1.5",
         "incumbent": false
       },
       {
         "Name": "Nikki Haley",
         "Party": "Rep",
-        "Votes": "2,033",
-        "Percent": "16.9",
+        "Votes": "2,054",
+        "Percent": "16.6",
         "incumbent": false
       },
       {
@@ -1303,7 +1303,7 @@
         "Name": "Vivek Ramaswamy",
         "Party": "Rep",
         "Votes": "54",
-        "Percent": "0.5",
+        "Percent": "0.4",
         "incumbent": false
       },
       {
@@ -1323,8 +1323,8 @@
       {
         "Name": "Donald J. Trump",
         "Party": "Rep",
-        "Votes": "9,493",
-        "Percent": "79.1",
+        "Votes": "9,820",
+        "Percent": "79.5",
         "incumbent": false
       }
     ]
@@ -1332,7 +1332,7 @@
   {
     "raceTitle": "President Republican District 19 - Districtwide Results",
     "Reporting": "74.5% (251 of 337) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -1402,7 +1402,7 @@
   {
     "raceTitle": "President Republican District 20 - Districtwide Results",
     "Reporting": "69.7% (333 of 478) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -1472,7 +1472,7 @@
   {
     "raceTitle": "President Republican District 21 - Districtwide Results",
     "Reporting": "17.8% (37 of 208) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -1542,7 +1542,7 @@
   {
     "raceTitle": "President Republican District 22 - Districtwide Results",
     "Reporting": "82.9% (343 of 414) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -1612,7 +1612,7 @@
   {
     "raceTitle": "President Republican District 23 - Districtwide Results",
     "Reporting": "13.2% (212 of 1,609) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -1681,8 +1681,8 @@
   },
   {
     "raceTitle": "President Republican District 24 - Districtwide Results",
-    "Reporting": "56.9% (351 of 617) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "Reporting": "66.9% (413 of 617) precincts reporting",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -1694,35 +1694,35 @@
       {
         "Name": "Chris Christie",
         "Party": "Rep",
-        "Votes": "347",
+        "Votes": "350",
         "Percent": "1.1",
         "incumbent": false
       },
       {
         "Name": "Ron DeSantis",
         "Party": "Rep",
-        "Votes": "495",
+        "Votes": "503",
         "Percent": "1.6",
         "incumbent": false
       },
       {
         "Name": "Nikki Haley",
         "Party": "Rep",
-        "Votes": "7,782",
-        "Percent": "25.4",
+        "Votes": "7,907",
+        "Percent": "24.8",
         "incumbent": false
       },
       {
         "Name": "Asa Hutchinson",
         "Party": "Rep",
-        "Votes": "55",
+        "Votes": "56",
         "Percent": "0.2",
         "incumbent": false
       },
       {
         "Name": "Vivek Ramaswamy",
         "Party": "Rep",
-        "Votes": "132",
+        "Votes": "136",
         "Percent": "0.4",
         "incumbent": false
       },
@@ -1736,15 +1736,15 @@
       {
         "Name": "Rachel Swift",
         "Party": "Rep",
-        "Votes": "38",
+        "Votes": "40",
         "Percent": "0.1",
         "incumbent": false
       },
       {
         "Name": "Donald J. Trump",
         "Party": "Rep",
-        "Votes": "21,758",
-        "Percent": "70.9",
+        "Votes": "22,830",
+        "Percent": "71.5",
         "incumbent": false
       }
     ]
@@ -1752,7 +1752,7 @@
   {
     "raceTitle": "President Republican District 25 - Districtwide Results",
     "Reporting": "98.3% (572 of 582) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -1822,7 +1822,7 @@
   {
     "raceTitle": "President Republican District 26 - Districtwide Results",
     "Reporting": "73.7% (793 of 1,076) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -1848,7 +1848,7 @@
       {
         "Name": "Nikki Haley",
         "Party": "Rep",
-        "Votes": "7,227",
+        "Votes": "7,229",
         "Percent": "22.7",
         "incumbent": false
       },
@@ -1883,8 +1883,8 @@
       {
         "Name": "Donald J. Trump",
         "Party": "Rep",
-        "Votes": "23,567",
-        "Percent": "74.0",
+        "Votes": "23,568",
+        "Percent": "73.9",
         "incumbent": false
       }
     ]
@@ -1892,7 +1892,7 @@
   {
     "raceTitle": "President Republican District 27 - Districtwide Results",
     "Reporting": "100% (205 of 205) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -1911,14 +1911,14 @@
       {
         "Name": "Ron DeSantis",
         "Party": "Rep",
-        "Votes": "484",
+        "Votes": "485",
         "Percent": "1.9",
         "incumbent": false
       },
       {
         "Name": "Nikki Haley",
         "Party": "Rep",
-        "Votes": "4,157",
+        "Votes": "4,163",
         "Percent": "16.6",
         "incumbent": false
       },
@@ -1939,7 +1939,7 @@
       {
         "Name": "David Stuckenberg",
         "Party": "Rep",
-        "Votes": "38",
+        "Votes": "39",
         "Percent": "0.2",
         "incumbent": false
       },
@@ -1953,7 +1953,7 @@
       {
         "Name": "Donald J. Trump",
         "Party": "Rep",
-        "Votes": "19,853",
+        "Votes": "19,892",
         "Percent": "79.1",
         "incumbent": false
       }
@@ -1962,34 +1962,34 @@
   {
     "raceTitle": "President Republican District 28 - Districtwide Results",
     "Reporting": "58.2% (202 of 347) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
         "Party": "Rep",
-        "Votes": "80",
+        "Votes": "90",
         "Percent": "0.4",
         "incumbent": false
       },
       {
         "Name": "Chris Christie",
         "Party": "Rep",
-        "Votes": "375",
-        "Percent": "1.8",
+        "Votes": "394",
+        "Percent": "1.7",
         "incumbent": false
       },
       {
         "Name": "Ron DeSantis",
         "Party": "Rep",
-        "Votes": "420",
+        "Votes": "458",
         "Percent": "2.0",
         "incumbent": false
       },
       {
         "Name": "Nikki Haley",
         "Party": "Rep",
-        "Votes": "5,416",
-        "Percent": "25.7",
+        "Votes": "5,651",
+        "Percent": "24.6",
         "incumbent": false
       },
       {
@@ -2002,29 +2002,29 @@
       {
         "Name": "Vivek Ramaswamy",
         "Party": "Rep",
-        "Votes": "91",
+        "Votes": "100",
         "Percent": "0.4",
         "incumbent": false
       },
       {
         "Name": "David Stuckenberg",
         "Party": "Rep",
-        "Votes": "54",
+        "Votes": "61",
         "Percent": "0.3",
         "incumbent": false
       },
       {
         "Name": "Rachel Swift",
         "Party": "Rep",
-        "Votes": "70",
+        "Votes": "74",
         "Percent": "0.3",
         "incumbent": false
       },
       {
         "Name": "Donald J. Trump",
         "Party": "Rep",
-        "Votes": "14,524",
-        "Percent": "68.9",
+        "Votes": "16,060",
+        "Percent": "70.0",
         "incumbent": false
       }
     ]
@@ -2032,7 +2032,7 @@
   {
     "raceTitle": "President Republican District 29 - Districtwide Results",
     "Reporting": "100% (153 of 153) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -2044,22 +2044,22 @@
       {
         "Name": "Chris Christie",
         "Party": "Rep",
-        "Votes": "85",
+        "Votes": "91",
         "Percent": "1.3",
         "incumbent": false
       },
       {
         "Name": "Ron DeSantis",
         "Party": "Rep",
-        "Votes": "137",
+        "Votes": "149",
         "Percent": "2.0",
         "incumbent": false
       },
       {
         "Name": "Nikki Haley",
         "Party": "Rep",
-        "Votes": "1,017",
-        "Percent": "15.1",
+        "Votes": "1,053",
+        "Percent": "14.5",
         "incumbent": false
       },
       {
@@ -2072,29 +2072,29 @@
       {
         "Name": "Vivek Ramaswamy",
         "Party": "Rep",
-        "Votes": "44",
-        "Percent": "0.7",
+        "Votes": "46",
+        "Percent": "0.6",
         "incumbent": false
       },
       {
         "Name": "David Stuckenberg",
         "Party": "Rep",
-        "Votes": "36",
+        "Votes": "38",
         "Percent": "0.5",
         "incumbent": false
       },
       {
         "Name": "Rachel Swift",
         "Party": "Rep",
-        "Votes": "45",
+        "Votes": "50",
         "Percent": "0.7",
         "incumbent": false
       },
       {
         "Name": "Donald J. Trump",
         "Party": "Rep",
-        "Votes": "5,346",
-        "Percent": "79.3",
+        "Votes": "5,809",
+        "Percent": "79.9",
         "incumbent": false
       }
     ]
@@ -2102,34 +2102,34 @@
   {
     "raceTitle": "President Republican District 30 - Districtwide Results",
     "Reporting": "100% (194 of 194) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
         "Party": "Rep",
-        "Votes": "30",
+        "Votes": "36",
         "Percent": "0.2",
         "incumbent": false
       },
       {
         "Name": "Chris Christie",
         "Party": "Rep",
-        "Votes": "170",
-        "Percent": "1.2",
+        "Votes": "171",
+        "Percent": "1.1",
         "incumbent": false
       },
       {
         "Name": "Ron DeSantis",
         "Party": "Rep",
-        "Votes": "301",
-        "Percent": "2.2",
+        "Votes": "312",
+        "Percent": "2.1",
         "incumbent": false
       },
       {
         "Name": "Nikki Haley",
         "Party": "Rep",
-        "Votes": "2,764",
-        "Percent": "19.9",
+        "Votes": "2,870",
+        "Percent": "19.1",
         "incumbent": false
       },
       {
@@ -2142,29 +2142,29 @@
       {
         "Name": "Vivek Ramaswamy",
         "Party": "Rep",
-        "Votes": "120",
+        "Votes": "132",
         "Percent": "0.9",
         "incumbent": false
       },
       {
         "Name": "David Stuckenberg",
         "Party": "Rep",
-        "Votes": "72",
+        "Votes": "74",
         "Percent": "0.5",
         "incumbent": false
       },
       {
         "Name": "Rachel Swift",
         "Party": "Rep",
-        "Votes": "63",
+        "Votes": "70",
         "Percent": "0.5",
         "incumbent": false
       },
       {
         "Name": "Donald J. Trump",
         "Party": "Rep",
-        "Votes": "10,357",
-        "Percent": "74.5",
+        "Votes": "11,308",
+        "Percent": "75.4",
         "incumbent": false
       }
     ]
@@ -2172,69 +2172,69 @@
   {
     "raceTitle": "President Republican District 31 - Districtwide Results",
     "Reporting": "100% (199 of 199) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
         "Party": "Rep",
-        "Votes": "51",
+        "Votes": "53",
         "Percent": "0.3",
         "incumbent": false
       },
       {
         "Name": "Chris Christie",
         "Party": "Rep",
-        "Votes": "221",
+        "Votes": "231",
         "Percent": "1.4",
         "incumbent": false
       },
       {
         "Name": "Ron DeSantis",
         "Party": "Rep",
-        "Votes": "243",
-        "Percent": "1.6",
+        "Votes": "252",
+        "Percent": "1.5",
         "incumbent": false
       },
       {
         "Name": "Nikki Haley",
         "Party": "Rep",
-        "Votes": "2,632",
-        "Percent": "16.8",
+        "Votes": "2,702",
+        "Percent": "15.9",
         "incumbent": false
       },
       {
         "Name": "Asa Hutchinson",
         "Party": "Rep",
-        "Votes": "33",
+        "Votes": "35",
         "Percent": "0.2",
         "incumbent": false
       },
       {
         "Name": "Vivek Ramaswamy",
         "Party": "Rep",
-        "Votes": "67",
+        "Votes": "71",
         "Percent": "0.4",
         "incumbent": false
       },
       {
         "Name": "David Stuckenberg",
         "Party": "Rep",
-        "Votes": "52",
+        "Votes": "55",
         "Percent": "0.3",
         "incumbent": false
       },
       {
         "Name": "Rachel Swift",
         "Party": "Rep",
-        "Votes": "63",
+        "Votes": "65",
         "Percent": "0.4",
         "incumbent": false
       },
       {
         "Name": "Donald J. Trump",
         "Party": "Rep",
-        "Votes": "12,287",
-        "Percent": "78.5",
+        "Votes": "13,507",
+        "Percent": "79.6",
         "incumbent": false
       }
     ]
@@ -2242,34 +2242,34 @@
   {
     "raceTitle": "President Republican District 32 - Districtwide Results",
     "Reporting": "98.4% (182 of 185) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
         "Party": "Rep",
-        "Votes": "24",
-        "Percent": "0.1",
+        "Votes": "27",
+        "Percent": "0.2",
         "incumbent": false
       },
       {
         "Name": "Chris Christie",
         "Party": "Rep",
-        "Votes": "250",
+        "Votes": "256",
         "Percent": "1.4",
         "incumbent": false
       },
       {
         "Name": "Ron DeSantis",
         "Party": "Rep",
-        "Votes": "279",
+        "Votes": "289",
         "Percent": "1.6",
         "incumbent": false
       },
       {
         "Name": "Nikki Haley",
         "Party": "Rep",
-        "Votes": "4,593",
-        "Percent": "26.5",
+        "Votes": "4,622",
+        "Percent": "26.1",
         "incumbent": false
       },
       {
@@ -2282,29 +2282,29 @@
       {
         "Name": "Vivek Ramaswamy",
         "Party": "Rep",
-        "Votes": "73",
+        "Votes": "75",
         "Percent": "0.4",
         "incumbent": false
       },
       {
         "Name": "David Stuckenberg",
         "Party": "Rep",
-        "Votes": "33",
+        "Votes": "37",
         "Percent": "0.2",
         "incumbent": false
       },
       {
         "Name": "Rachel Swift",
         "Party": "Rep",
-        "Votes": "34",
+        "Votes": "35",
         "Percent": "0.2",
         "incumbent": false
       },
       {
         "Name": "Donald J. Trump",
         "Party": "Rep",
-        "Votes": "11,986",
-        "Percent": "69.2",
+        "Votes": "12,349",
+        "Percent": "69.7",
         "incumbent": false
       }
     ]
@@ -2312,7 +2312,7 @@
   {
     "raceTitle": "President Republican District 33 - Districtwide Results",
     "Reporting": "36.3% (238 of 655) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -2382,69 +2382,69 @@
   {
     "raceTitle": "President Republican District 34 - Districtwide Results",
     "Reporting": "100% (153 of 153) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
         "Party": "Rep",
-        "Votes": "29",
-        "Percent": "0.6",
+        "Votes": "30",
+        "Percent": "0.5",
         "incumbent": false
       },
       {
         "Name": "Chris Christie",
         "Party": "Rep",
-        "Votes": "72",
-        "Percent": "1.5",
+        "Votes": "73",
+        "Percent": "1.3",
         "incumbent": false
       },
       {
         "Name": "Ron DeSantis",
         "Party": "Rep",
-        "Votes": "76",
-        "Percent": "1.6",
+        "Votes": "84",
+        "Percent": "1.5",
         "incumbent": false
       },
       {
         "Name": "Nikki Haley",
         "Party": "Rep",
-        "Votes": "830",
-        "Percent": "17.2",
+        "Votes": "870",
+        "Percent": "15.9",
         "incumbent": false
       },
       {
         "Name": "Asa Hutchinson",
         "Party": "Rep",
-        "Votes": "10",
+        "Votes": "12",
         "Percent": "0.2",
         "incumbent": false
       },
       {
         "Name": "Vivek Ramaswamy",
         "Party": "Rep",
-        "Votes": "49",
+        "Votes": "54",
         "Percent": "1.0",
         "incumbent": false
       },
       {
         "Name": "David Stuckenberg",
         "Party": "Rep",
-        "Votes": "24",
+        "Votes": "26",
         "Percent": "0.5",
         "incumbent": false
       },
       {
         "Name": "Rachel Swift",
         "Party": "Rep",
-        "Votes": "43",
-        "Percent": "0.9",
+        "Votes": "46",
+        "Percent": "0.8",
         "incumbent": false
       },
       {
         "Name": "Donald J. Trump",
         "Party": "Rep",
-        "Votes": "3,683",
-        "Percent": "76.5",
+        "Votes": "4,264",
+        "Percent": "78.1",
         "incumbent": false
       }
     ]
@@ -2452,7 +2452,7 @@
   {
     "raceTitle": "President Republican District 35 - Districtwide Results",
     "Reporting": "12.8% (55 of 431) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -2479,7 +2479,7 @@
         "Name": "Nikki Haley",
         "Party": "Rep",
         "Votes": "1,379",
-        "Percent": "14.0",
+        "Percent": "13.9",
         "incumbent": false
       },
       {
@@ -2513,7 +2513,7 @@
       {
         "Name": "Donald J. Trump",
         "Party": "Rep",
-        "Votes": "8,091",
+        "Votes": "8,096",
         "Percent": "81.9",
         "incumbent": false
       }
@@ -2522,7 +2522,7 @@
   {
     "raceTitle": "President Republican District 36 - Districtwide Results",
     "Reporting": "100% (163 of 163) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -2541,15 +2541,15 @@
       {
         "Name": "Ron DeSantis",
         "Party": "Rep",
-        "Votes": "369",
+        "Votes": "370",
         "Percent": "1.8",
         "incumbent": false
       },
       {
         "Name": "Nikki Haley",
         "Party": "Rep",
-        "Votes": "6,191",
-        "Percent": "29.7",
+        "Votes": "6,214",
+        "Percent": "29.5",
         "incumbent": false
       },
       {
@@ -2562,14 +2562,14 @@
       {
         "Name": "Vivek Ramaswamy",
         "Party": "Rep",
-        "Votes": "103",
+        "Votes": "104",
         "Percent": "0.5",
         "incumbent": false
       },
       {
         "Name": "David Stuckenberg",
         "Party": "Rep",
-        "Votes": "38",
+        "Votes": "39",
         "Percent": "0.2",
         "incumbent": false
       },
@@ -2583,8 +2583,8 @@
       {
         "Name": "Donald J. Trump",
         "Party": "Rep",
-        "Votes": "13,662",
-        "Percent": "65.5",
+        "Votes": "13,836",
+        "Percent": "65.8",
         "incumbent": false
       }
     ]
@@ -2592,47 +2592,47 @@
   {
     "raceTitle": "President Republican District 37 - Districtwide Results",
     "Reporting": "100% (171 of 171) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
         "Party": "Rep",
         "Votes": "20",
-        "Percent": "0.6",
+        "Percent": "0.5",
         "incumbent": false
       },
       {
         "Name": "Chris Christie",
         "Party": "Rep",
         "Votes": "61",
-        "Percent": "1.7",
+        "Percent": "1.6",
         "incumbent": false
       },
       {
         "Name": "Ron DeSantis",
         "Party": "Rep",
-        "Votes": "45",
-        "Percent": "1.3",
+        "Votes": "47",
+        "Percent": "1.2",
         "incumbent": false
       },
       {
         "Name": "Nikki Haley",
         "Party": "Rep",
-        "Votes": "850",
-        "Percent": "23.6",
+        "Votes": "864",
+        "Percent": "22.9",
         "incumbent": false
       },
       {
         "Name": "Asa Hutchinson",
         "Party": "Rep",
-        "Votes": "10",
+        "Votes": "11",
         "Percent": "0.3",
         "incumbent": false
       },
       {
         "Name": "Vivek Ramaswamy",
         "Party": "Rep",
-        "Votes": "25",
+        "Votes": "26",
         "Percent": "0.7",
         "incumbent": false
       },
@@ -2647,14 +2647,14 @@
         "Name": "Rachel Swift",
         "Party": "Rep",
         "Votes": "24",
-        "Percent": "0.7",
+        "Percent": "0.6",
         "incumbent": false
       },
       {
         "Name": "Donald J. Trump",
         "Party": "Rep",
-        "Votes": "2,553",
-        "Percent": "71.0",
+        "Votes": "2,706",
+        "Percent": "71.8",
         "incumbent": false
       }
     ]
@@ -2662,54 +2662,54 @@
   {
     "raceTitle": "President Republican District 38 - Districtwide Results",
     "Reporting": "100% (197 of 197) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
         "Party": "Rep",
-        "Votes": "44",
+        "Votes": "46",
         "Percent": "0.3",
         "incumbent": false
       },
       {
         "Name": "Chris Christie",
         "Party": "Rep",
-        "Votes": "219",
-        "Percent": "1.3",
+        "Votes": "224",
+        "Percent": "1.2",
         "incumbent": false
       },
       {
         "Name": "Ron DeSantis",
         "Party": "Rep",
-        "Votes": "266",
-        "Percent": "1.6",
+        "Votes": "275",
+        "Percent": "1.5",
         "incumbent": false
       },
       {
         "Name": "Nikki Haley",
         "Party": "Rep",
-        "Votes": "2,945",
-        "Percent": "17.4",
+        "Votes": "3,056",
+        "Percent": "16.8",
         "incumbent": false
       },
       {
         "Name": "Asa Hutchinson",
         "Party": "Rep",
-        "Votes": "63",
+        "Votes": "64",
         "Percent": "0.4",
         "incumbent": false
       },
       {
         "Name": "Vivek Ramaswamy",
         "Party": "Rep",
-        "Votes": "65",
+        "Votes": "70",
         "Percent": "0.4",
         "incumbent": false
       },
       {
         "Name": "David Stuckenberg",
         "Party": "Rep",
-        "Votes": "44",
+        "Votes": "46",
         "Percent": "0.3",
         "incumbent": false
       },
@@ -2723,8 +2723,8 @@
       {
         "Name": "Donald J. Trump",
         "Party": "Rep",
-        "Votes": "13,274",
-        "Percent": "78.3",
+        "Votes": "14,404",
+        "Percent": "79.1",
         "incumbent": false
       }
     ]
@@ -2732,7 +2732,7 @@
   {
     "raceTitle": "President Republican District 39 - Districtwide Results",
     "Reporting": "100% (196 of 196) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -2802,7 +2802,7 @@
   {
     "raceTitle": "President Republican District 40 - Districtwide Results",
     "Reporting": "94.8% (681 of 718) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -2872,7 +2872,7 @@
   {
     "raceTitle": "President Republican District 41 - Districtwide Results",
     "Reporting": "100% (338 of 338) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -2942,69 +2942,69 @@
   {
     "raceTitle": "President Republican District 42 - Districtwide Results",
     "Reporting": "100% (172 of 172) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
         "Party": "Rep",
-        "Votes": "33",
+        "Votes": "36",
         "Percent": "0.3",
         "incumbent": false
       },
       {
         "Name": "Chris Christie",
         "Party": "Rep",
-        "Votes": "143",
-        "Percent": "1.3",
+        "Votes": "157",
+        "Percent": "1.1",
         "incumbent": false
       },
       {
         "Name": "Ron DeSantis",
         "Party": "Rep",
-        "Votes": "194",
-        "Percent": "1.7",
+        "Votes": "232",
+        "Percent": "1.6",
         "incumbent": false
       },
       {
         "Name": "Nikki Haley",
         "Party": "Rep",
-        "Votes": "2,350",
-        "Percent": "21.2",
+        "Votes": "2,641",
+        "Percent": "18.6",
         "incumbent": false
       },
       {
         "Name": "Asa Hutchinson",
         "Party": "Rep",
-        "Votes": "16",
+        "Votes": "21",
         "Percent": "0.1",
         "incumbent": false
       },
       {
         "Name": "Vivek Ramaswamy",
         "Party": "Rep",
-        "Votes": "54",
+        "Votes": "66",
         "Percent": "0.5",
         "incumbent": false
       },
       {
         "Name": "David Stuckenberg",
         "Party": "Rep",
-        "Votes": "52",
+        "Votes": "65",
         "Percent": "0.5",
         "incumbent": false
       },
       {
         "Name": "Rachel Swift",
         "Party": "Rep",
-        "Votes": "32",
-        "Percent": "0.3",
+        "Votes": "34",
+        "Percent": "0.2",
         "incumbent": false
       },
       {
         "Name": "Donald J. Trump",
         "Party": "Rep",
-        "Votes": "8,223",
-        "Percent": "74.1",
+        "Votes": "10,926",
+        "Percent": "77.1",
         "incumbent": false
       }
     ]
@@ -3012,34 +3012,34 @@
   {
     "raceTitle": "President Republican District 43 - Districtwide Results",
     "Reporting": "100% (187 of 187) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
         "Party": "Rep",
-        "Votes": "22",
+        "Votes": "23",
         "Percent": "0.4",
         "incumbent": false
       },
       {
         "Name": "Chris Christie",
         "Party": "Rep",
-        "Votes": "74",
+        "Votes": "76",
         "Percent": "1.4",
         "incumbent": false
       },
       {
         "Name": "Ron DeSantis",
         "Party": "Rep",
-        "Votes": "93",
-        "Percent": "1.8",
+        "Votes": "94",
+        "Percent": "1.7",
         "incumbent": false
       },
       {
         "Name": "Nikki Haley",
         "Party": "Rep",
-        "Votes": "966",
-        "Percent": "18.4",
+        "Votes": "974",
+        "Percent": "18.0",
         "incumbent": false
       },
       {
@@ -3052,29 +3052,29 @@
       {
         "Name": "Vivek Ramaswamy",
         "Party": "Rep",
-        "Votes": "28",
+        "Votes": "29",
         "Percent": "0.5",
         "incumbent": false
       },
       {
         "Name": "David Stuckenberg",
         "Party": "Rep",
-        "Votes": "22",
+        "Votes": "23",
         "Percent": "0.4",
         "incumbent": false
       },
       {
         "Name": "Rachel Swift",
         "Party": "Rep",
-        "Votes": "46",
+        "Votes": "48",
         "Percent": "0.9",
         "incumbent": false
       },
       {
         "Name": "Donald J. Trump",
         "Party": "Rep",
-        "Votes": "4,001",
-        "Percent": "76.0",
+        "Votes": "4,148",
+        "Percent": "76.4",
         "incumbent": false
       }
     ]
@@ -3082,69 +3082,69 @@
   {
     "raceTitle": "President Republican District 44 - Districtwide Results",
     "Reporting": "100% (174 of 174) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
         "Party": "Rep",
-        "Votes": "26",
+        "Votes": "28",
         "Percent": "0.3",
         "incumbent": false
       },
       {
         "Name": "Chris Christie",
         "Party": "Rep",
-        "Votes": "129",
-        "Percent": "1.4",
+        "Votes": "132",
+        "Percent": "1.3",
         "incumbent": false
       },
       {
         "Name": "Ron DeSantis",
         "Party": "Rep",
-        "Votes": "161",
-        "Percent": "1.8",
+        "Votes": "177",
+        "Percent": "1.7",
         "incumbent": false
       },
       {
         "Name": "Nikki Haley",
         "Party": "Rep",
-        "Votes": "1,606",
-        "Percent": "17.6",
+        "Votes": "1,705",
+        "Percent": "16.6",
         "incumbent": false
       },
       {
         "Name": "Asa Hutchinson",
         "Party": "Rep",
-        "Votes": "42",
-        "Percent": "0.5",
+        "Votes": "45",
+        "Percent": "0.4",
         "incumbent": false
       },
       {
         "Name": "Vivek Ramaswamy",
         "Party": "Rep",
-        "Votes": "56",
+        "Votes": "63",
         "Percent": "0.6",
         "incumbent": false
       },
       {
         "Name": "David Stuckenberg",
         "Party": "Rep",
-        "Votes": "46",
+        "Votes": "56",
         "Percent": "0.5",
         "incumbent": false
       },
       {
         "Name": "Rachel Swift",
         "Party": "Rep",
-        "Votes": "41",
+        "Votes": "45",
         "Percent": "0.4",
         "incumbent": false
       },
       {
         "Name": "Donald J. Trump",
         "Party": "Rep",
-        "Votes": "7,016",
-        "Percent": "76.9",
+        "Votes": "8,037",
+        "Percent": "78.1",
         "incumbent": false
       }
     ]
@@ -3152,34 +3152,34 @@
   {
     "raceTitle": "President Republican District 45 - Districtwide Results",
     "Reporting": "100% (456 of 456) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
         "Party": "Rep",
-        "Votes": "70",
+        "Votes": "73",
         "Percent": "0.2",
         "incumbent": false
       },
       {
         "Name": "Chris Christie",
         "Party": "Rep",
-        "Votes": "345",
+        "Votes": "354",
         "Percent": "1.1",
         "incumbent": false
       },
       {
         "Name": "Ron DeSantis",
         "Party": "Rep",
-        "Votes": "481",
+        "Votes": "490",
         "Percent": "1.5",
         "incumbent": false
       },
       {
         "Name": "Nikki Haley",
         "Party": "Rep",
-        "Votes": "5,684",
-        "Percent": "17.4",
+        "Votes": "5,728",
+        "Percent": "17.2",
         "incumbent": false
       },
       {
@@ -3192,29 +3192,29 @@
       {
         "Name": "Vivek Ramaswamy",
         "Party": "Rep",
-        "Votes": "120",
+        "Votes": "127",
         "Percent": "0.4",
         "incumbent": false
       },
       {
         "Name": "David Stuckenberg",
         "Party": "Rep",
-        "Votes": "60",
+        "Votes": "64",
         "Percent": "0.2",
         "incumbent": false
       },
       {
         "Name": "Rachel Swift",
         "Party": "Rep",
-        "Votes": "86",
+        "Votes": "89",
         "Percent": "0.3",
         "incumbent": false
       },
       {
         "Name": "Donald J. Trump",
         "Party": "Rep",
-        "Votes": "25,862",
-        "Percent": "78.9",
+        "Votes": "26,309",
+        "Percent": "79.0",
         "incumbent": false
       }
     ]
@@ -3222,7 +3222,7 @@
   {
     "raceTitle": "President Republican District 46 - Districtwide Results",
     "Reporting": "100% (367 of 367) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -3292,7 +3292,7 @@
   {
     "raceTitle": "President Republican District 47 - Districtwide Results",
     "Reporting": "100% (542 of 542) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -3362,7 +3362,7 @@
   {
     "raceTitle": "President Republican District 48 - Districtwide Results",
     "Reporting": "26.2% (110 of 420) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -3432,7 +3432,7 @@
   {
     "raceTitle": "President Republican District 49 - Districtwide Results",
     "Reporting": "41.1% (194 of 472) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -3502,7 +3502,7 @@
   {
     "raceTitle": "President Republican District 50 - Districtwide Results",
     "Reporting": "0% (0 of 437) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -3572,7 +3572,7 @@
   {
     "raceTitle": "President Republican District 51 - Districtwide Results",
     "Reporting": "0% (0 of 462) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -3642,7 +3642,7 @@
   {
     "raceTitle": "President Republican District 52 - Districtwide Results",
     "Reporting": "0% (0 of 399) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",

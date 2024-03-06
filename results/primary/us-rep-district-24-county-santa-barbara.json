@@ -1,56 +1,56 @@
 [
   {
     "raceTitle": "U.S. House of Representatives District 24 - Santa Barbara County Results",
-    "Reporting": "50% (97 of 194) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:42 p.m.",
+    "Reporting": "82% (159 of 194) precincts reporting",
+    "ReportingTime": "March 5, 2024, 11:32 p.m.",
     "candidates": [
       {
         "Name": "Salud Carbajal",
         "Party": "Dem",
-        "Votes": "28,930",
-        "Percent": "58.0",
+        "Votes": "29,448",
+        "Percent": "56.7",
         "incumbent": true
       },
       {
         "Name": "Helena Pasquarella",
         "Party": "Dem",
-        "Votes": "3,884",
-        "Percent": "7.8",
-        "incumbent": false
-      },
-      {
-        "Name": "Thomas Cole",
-        "Party": "Rep",
-        "Votes": "17,049",
-        "Percent": "34.2",
-        "incumbent": false
-      }
-    ]
-  },
-  {
-    "raceTitle": "U.S. House of Representatives District 24 - Districtwide Results",
-    "Reporting": "56.9% (351 of 617) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:26 p.m.",
-    "candidates": [
-      {
-        "Name": "Salud Carbajal",
-        "Party": "Dem",
-        "Votes": "56,190",
-        "Percent": "57.9",
-        "incumbent": true
-      },
-      {
-        "Name": "Helena Pasquarella",
-        "Party": "Dem",
-        "Votes": "7,658",
+        "Votes": "4,088",
         "Percent": "7.9",
         "incumbent": false
       },
       {
         "Name": "Thomas Cole",
         "Party": "Rep",
-        "Votes": "33,138",
-        "Percent": "34.2",
+        "Votes": "18,381",
+        "Percent": "35.4",
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "raceTitle": "U.S. House of Representatives District 24 - Districtwide Results",
+    "Reporting": "66.9% (413 of 617) precincts reporting",
+    "ReportingTime": "March 5, 2024, 11:36 p.m.",
+    "candidates": [
+      {
+        "Name": "Salud Carbajal",
+        "Party": "Dem",
+        "Votes": "56,708",
+        "Percent": "57.3",
+        "incumbent": true
+      },
+      {
+        "Name": "Helena Pasquarella",
+        "Party": "Dem",
+        "Votes": "7,862",
+        "Percent": "7.9",
+        "incumbent": false
+      },
+      {
+        "Name": "Thomas Cole",
+        "Party": "Rep",
+        "Votes": "34,470",
+        "Percent": "34.8",
         "incumbent": false
       }
     ]
