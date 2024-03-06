@@ -29,28 +29,28 @@
   },
   {
     "raceTitle": "U.S. House of Representatives District 1 - Districtwide Results",
-    "Reporting": "89% (436 of 490) precincts reporting",
-    "ReportingTime": "March 6, 2024, 12:02 a.m.",
+    "Reporting": "92.2% (452 of 490) precincts reporting",
+    "ReportingTime": "March 6, 2024, 12:08 a.m.",
     "candidates": [
       {
         "Name": "Mike Doran",
         "Party": "Dem",
-        "Votes": "8,220",
-        "Percent": "11.4",
+        "Votes": "8,284",
+        "Percent": "11.3",
         "incumbent": false
       },
       {
         "Name": "Rose Penelope Yee",
         "Party": "Dem",
-        "Votes": "17,779",
-        "Percent": "24.8",
+        "Votes": "17,878",
+        "Percent": "24.4",
         "incumbent": false
       },
       {
         "Name": "Doug LaMalfa",
         "Party": "Rep",
-        "Votes": "45,825",
-        "Percent": "63.8",
+        "Votes": "47,020",
+        "Percent": "64.3",
         "incumbent": true
       }
     ]

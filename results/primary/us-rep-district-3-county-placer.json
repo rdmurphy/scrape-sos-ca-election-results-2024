@@ -2,26 +2,26 @@
   {
     "raceTitle": "U.S. House of Representatives District 3 - Placer County Results",
     "Reporting": "100% (170 of 170) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:10 p.m.",
+    "ReportingTime": "March 6, 2024, 12:04 a.m.",
     "candidates": [
       {
         "Name": "Jessica Morse",
         "Party": "Dem",
-        "Votes": "26,983",
-        "Percent": "40.4",
+        "Votes": "27,215",
+        "Percent": "40.5",
         "incumbent": false
       },
       {
         "Name": "Kevin Kiley",
         "Party": "Rep",
-        "Votes": "38,539",
-        "Percent": "57.7",
+        "Votes": "38,688",
+        "Percent": "57.6",
         "incumbent": true
       },
       {
         "Name": "Robert Smith",
         "Party": "NPP",
-        "Votes": "1,255",
+        "Votes": "1,266",
         "Percent": "1.9",
         "incumbent": false
       }
@@ -30,26 +30,26 @@
   {
     "raceTitle": "U.S. House of Representatives District 3 - Districtwide Results",
     "Reporting": "97.6% (443 of 454) precincts reporting",
-    "ReportingTime": "March 6, 2024, 12:02 a.m.",
+    "ReportingTime": "March 6, 2024, 12:08 a.m.",
     "candidates": [
       {
         "Name": "Jessica Morse",
         "Party": "Dem",
-        "Votes": "52,891",
+        "Votes": "53,430",
         "Percent": "42.9",
         "incumbent": false
       },
       {
         "Name": "Kevin Kiley",
         "Party": "Rep",
-        "Votes": "67,997",
+        "Votes": "68,612",
         "Percent": "55.1",
         "incumbent": true
       },
       {
         "Name": "Robert Smith",
         "Party": "NPP",
-        "Votes": "2,430",
+        "Votes": "2,456",
         "Percent": "2.0",
         "incumbent": false
       }

@@ -1,75 +1,75 @@
 {
   "raceTitle": "U.S. House of Representatives District 47 - Districtwide Results",
   "Reporting": "100% (542 of 542) precincts reporting",
-  "ReportingTime": "March 6, 2024, 12:02 a.m.",
+  "ReportingTime": "March 6, 2024, 12:08 a.m.",
   "candidates": [
     {
       "Name": "Dave Min",
       "Party": "Dem",
-      "Votes": "27,100",
-      "Percent": "25.6",
+      "Votes": "27,166",
+      "Percent": "25.4",
       "incumbent": false
     },
     {
       "Name": "Boyd Roberts",
       "Party": "Dem",
-      "Votes": "1,319",
+      "Votes": "1,329",
       "Percent": "1.2",
       "incumbent": false
     },
     {
       "Name": "Joanna Weiss",
       "Party": "Dem",
-      "Votes": "20,004",
-      "Percent": "18.9",
+      "Votes": "20,089",
+      "Percent": "18.8",
       "incumbent": false
     },
     {
       "Name": "Shariq Zaidi",
       "Party": "Dem",
-      "Votes": "484",
+      "Votes": "486",
       "Percent": "0.5",
       "incumbent": false
     },
     {
       "Name": "Scott Baugh",
       "Party": "Rep",
-      "Votes": "35,194",
-      "Percent": "33.2",
+      "Votes": "35,557",
+      "Percent": "33.3",
       "incumbent": false
     },
     {
       "Name": "Long Pham",
       "Party": "Rep",
-      "Votes": "3,043",
+      "Votes": "3,074",
       "Percent": "2.9",
       "incumbent": false
     },
     {
       "Name": "Max Ukropina",
       "Party": "Rep",
-      "Votes": "15,728",
-      "Percent": "14.8",
+      "Votes": "15,862",
+      "Percent": "14.9",
       "incumbent": false
     },
     {
       "Name": "Terry L. Crandall",
       "Party": "NPP",
-      "Votes": "1,654",
+      "Votes": "1,663",
       "Percent": "1.6",
       "incumbent": false
     },
     {
       "Name": "Tom McGrath",
       "Party": "NPP",
-      "Votes": "884",
+      "Votes": "891",
       "Percent": "0.8",
       "incumbent": false
     },
     {
       "Name": "Bill Smith",
       "Party": "NPP",
-      "Votes": "653",
+      "Votes": "655",
       "Percent": "0.6",
       "incumbent": false
     }
