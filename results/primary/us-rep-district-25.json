@@ -1,47 +1,47 @@
 {
   "raceTitle": "U.S. House of Representatives District 25 - Districtwide Results",
-  "Reporting": "71.5% (416 of 582) precincts reporting",
-  "ReportingTime": "March 5, 2024, 11:20 p.m.",
+  "Reporting": "98.3% (572 of 582) precincts reporting",
+  "ReportingTime": "March 5, 2024, 11:26 p.m.",
   "candidates": [
     {
       "Name": "Oscar Ortiz",
       "Party": "Dem",
-      "Votes": "4,292",
+      "Votes": "4,309",
       "Percent": "8.7",
       "incumbent": false
     },
     {
       "Name": "Raul Ruiz",
       "Party": "Dem",
-      "Votes": "25,176",
-      "Percent": "51.1",
+      "Votes": "25,205",
+      "Percent": "50.9",
       "incumbent": true
     },
     {
       "Name": "Miguel Chapa",
       "Party": "Rep",
-      "Votes": "2,578",
+      "Votes": "2,596",
       "Percent": "5.2",
       "incumbent": false
     },
     {
       "Name": "Ceci \"Cecilia\" Truman",
       "Party": "Rep",
-      "Votes": "7,619",
-      "Percent": "15.4",
+      "Votes": "7,663",
+      "Percent": "15.5",
       "incumbent": false
     },
     {
       "Name": "Ian M. Weeks",
       "Party": "Rep",
-      "Votes": "9,040",
-      "Percent": "18.3",
+      "Votes": "9,109",
+      "Percent": "18.4",
       "incumbent": false
     },
     {
       "Name": "Ryan Dean Burkett",
       "Party": "NPP",
-      "Votes": "609",
+      "Votes": "613",
       "Percent": "1.2",
       "incumbent": false
     }

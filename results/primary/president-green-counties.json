@@ -1,13 +1,13 @@
 [
   {
     "raceTitle": "President Green - Statewide Results",
-    "Reporting": "66.9% (13,954 of 20,855) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "Reporting": "67.7% (14,124 of 20,855) precincts reporting",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Jill Stein",
         "Party": "Grn",
-        "Votes": "6,137",
+        "Votes": "6,113",
         "Percent": "100.0",
         "incumbent": false
       }
@@ -183,8 +183,8 @@
   },
   {
     "raceTitle": "President Green - Imperial County Results",
-    "Reporting": "48.9% (149 of 305) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:17 p.m.",
+    "Reporting": "100% (305 of 305) precincts reporting",
+    "ReportingTime": "March 5, 2024, 11:24 p.m.",
     "candidates": [
       {
         "Name": "Jill Stein",
@@ -394,7 +394,7 @@
   {
     "raceTitle": "President Green - Napa County Results",
     "Reporting": "100% (200 of 200) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:02 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Jill Stein",
@@ -631,14 +631,14 @@
   },
   {
     "raceTitle": "President Green - Shasta County Results",
-    "Reporting": "0% (0 of 68) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:32 p.m.",
+    "Reporting": "20.6% (14 of 68) precincts reporting",
+    "ReportingTime": "March 5, 2024, 11:23 p.m.",
     "candidates": [
       {
         "Name": "Jill Stein",
         "Party": "Grn",
-        "Votes": "24",
-        "Percent": "100.0",
+        "Votes": "0",
+        "Percent": "0.0",
         "incumbent": false
       }
     ]

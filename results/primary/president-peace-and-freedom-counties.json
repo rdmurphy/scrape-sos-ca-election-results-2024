@@ -1,28 +1,28 @@
 [
   {
     "raceTitle": "President Peace and Freedom - Statewide Results",
-    "Reporting": "66.9% (13,954 of 20,855) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "Reporting": "67.7% (14,124 of 20,855) precincts reporting",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Claudia De la Cruz",
         "Party": "P&F",
-        "Votes": "2,213",
+        "Votes": "2,204",
         "Percent": "45.3",
         "incumbent": false
       },
       {
         "Name": "Jasmine Sherman",
         "Party": "P&F",
-        "Votes": "751",
+        "Votes": "748",
         "Percent": "15.4",
         "incumbent": false
       },
       {
         "Name": "Cornel West",
         "Party": "P&F",
-        "Votes": "1,922",
-        "Percent": "39.3",
+        "Votes": "1,918",
+        "Percent": "39.4",
         "incumbent": false
       }
     ]
@@ -365,8 +365,8 @@
   },
   {
     "raceTitle": "President Peace and Freedom - Imperial County Results",
-    "Reporting": "48.9% (149 of 305) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:17 p.m.",
+    "Reporting": "100% (305 of 305) precincts reporting",
+    "ReportingTime": "March 5, 2024, 11:24 p.m.",
     "candidates": [
       {
         "Name": "Claudia De la Cruz",
@@ -786,7 +786,7 @@
   {
     "raceTitle": "President Peace and Freedom - Napa County Results",
     "Reporting": "100% (200 of 200) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:02 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Claudia De la Cruz",
@@ -1261,28 +1261,28 @@
   },
   {
     "raceTitle": "President Peace and Freedom - Shasta County Results",
-    "Reporting": "0% (0 of 68) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:32 p.m.",
+    "Reporting": "20.6% (14 of 68) precincts reporting",
+    "ReportingTime": "March 5, 2024, 11:23 p.m.",
     "candidates": [
       {
         "Name": "Claudia De la Cruz",
         "Party": "P&F",
-        "Votes": "9",
-        "Percent": "56.3",
+        "Votes": "0",
+        "Percent": "0.0",
         "incumbent": false
       },
       {
         "Name": "Jasmine Sherman",
         "Party": "P&F",
-        "Votes": "3",
-        "Percent": "18.8",
+        "Votes": "0",
+        "Percent": "0.0",
         "incumbent": false
       },
       {
         "Name": "Cornel West",
         "Party": "P&F",
-        "Votes": "4",
-        "Percent": "25.0",
+        "Votes": "0",
+        "Percent": "0.0",
         "incumbent": false
       }
     ]

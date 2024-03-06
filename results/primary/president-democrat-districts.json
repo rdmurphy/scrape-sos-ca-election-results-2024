@@ -1,62 +1,62 @@
 [
   {
     "raceTitle": "President Democratic - Statewide Results",
-    "Reporting": "66.9% (13,954 of 20,855) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "Reporting": "67.7% (14,124 of 20,855) precincts reporting",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
         "Party": "Dem",
-        "Votes": "1,513,107",
+        "Votes": "1,508,381",
         "Percent": "90.1",
         "incumbent": true
       },
       {
         "Name": "President R Boddie",
         "Party": "Dem",
-        "Votes": "12,785",
+        "Votes": "12,740",
         "Percent": "0.8",
         "incumbent": false
       },
       {
         "Name": "Eban Cambridge",
         "Party": "Dem",
-        "Votes": "5,284",
+        "Votes": "5,278",
         "Percent": "0.3",
         "incumbent": false
       },
       {
         "Name": "Gabriel Cornejo",
         "Party": "Dem",
-        "Votes": "19,055",
+        "Votes": "19,040",
         "Percent": "1.1",
         "incumbent": false
       },
       {
         "Name": "Stephen P Lyons",
         "Party": "Dem",
-        "Votes": "11,049",
+        "Votes": "10,995",
         "Percent": "0.7",
         "incumbent": false
       },
       {
         "Name": "Armando \"Mando\" Perez-Serrato",
         "Party": "Dem",
-        "Votes": "19,648",
+        "Votes": "19,633",
         "Percent": "1.2",
         "incumbent": false
       },
       {
         "Name": "Dean Phillips",
         "Party": "Dem",
-        "Votes": "47,575",
+        "Votes": "47,446",
         "Percent": "2.8",
         "incumbent": false
       },
       {
         "Name": "Marianne Williamson",
         "Party": "Dem",
-        "Votes": "51,201",
+        "Votes": "51,053",
         "Percent": "3.0",
         "incumbent": false
       }
@@ -64,63 +64,63 @@
   },
   {
     "raceTitle": "President Democratic District 1 - Districtwide Results",
-    "Reporting": "78.8% (386 of 490) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "Reporting": "81.6% (400 of 490) precincts reporting",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
         "Party": "Dem",
-        "Votes": "24,568",
-        "Percent": "89.7",
+        "Votes": "19,811",
+        "Percent": "89.2",
         "incumbent": true
       },
       {
         "Name": "President R Boddie",
         "Party": "Dem",
-        "Votes": "228",
+        "Votes": "181",
         "Percent": "0.8",
         "incumbent": false
       },
       {
         "Name": "Eban Cambridge",
         "Party": "Dem",
-        "Votes": "94",
-        "Percent": "0.3",
+        "Votes": "87",
+        "Percent": "0.4",
         "incumbent": false
       },
       {
         "Name": "Gabriel Cornejo",
         "Party": "Dem",
-        "Votes": "277",
-        "Percent": "1.0",
+        "Votes": "257",
+        "Percent": "1.2",
         "incumbent": false
       },
       {
         "Name": "Stephen P Lyons",
         "Party": "Dem",
-        "Votes": "213",
-        "Percent": "0.8",
+        "Votes": "156",
+        "Percent": "0.7",
         "incumbent": false
       },
       {
         "Name": "Armando \"Mando\" Perez-Serrato",
         "Party": "Dem",
-        "Votes": "223",
-        "Percent": "0.8",
+        "Votes": "205",
+        "Percent": "0.9",
         "incumbent": false
       },
       {
         "Name": "Dean Phillips",
         "Party": "Dem",
-        "Votes": "825",
-        "Percent": "3.0",
+        "Votes": "694",
+        "Percent": "3.1",
         "incumbent": false
       },
       {
         "Name": "Marianne Williamson",
         "Party": "Dem",
-        "Votes": "958",
-        "Percent": "3.5",
+        "Votes": "809",
+        "Percent": "3.6",
         "incumbent": false
       }
     ]
@@ -128,7 +128,7 @@
   {
     "raceTitle": "President Democratic District 2 - Districtwide Results",
     "Reporting": "100% (629 of 629) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -191,7 +191,7 @@
   {
     "raceTitle": "President Democratic District 3 - Districtwide Results",
     "Reporting": "93.6% (425 of 454) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -254,7 +254,7 @@
   {
     "raceTitle": "President Democratic District 4 - Districtwide Results",
     "Reporting": "92.6% (528 of 570) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -317,7 +317,7 @@
   {
     "raceTitle": "President Democratic District 5 - Districtwide Results",
     "Reporting": "87.2% (301 of 345) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -380,7 +380,7 @@
   {
     "raceTitle": "President Democratic District 6 - Districtwide Results",
     "Reporting": "100% (280 of 280) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -443,7 +443,7 @@
   {
     "raceTitle": "President Democratic District 7 - Districtwide Results",
     "Reporting": "100% (291 of 291) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -506,7 +506,7 @@
   {
     "raceTitle": "President Democratic District 8 - Districtwide Results",
     "Reporting": "31.6% (114 of 361) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -569,7 +569,7 @@
   {
     "raceTitle": "President Democratic District 9 - Districtwide Results",
     "Reporting": "84.6% (203 of 240) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -632,7 +632,7 @@
   {
     "raceTitle": "President Democratic District 10 - Districtwide Results",
     "Reporting": "2.6% (17 of 645) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -695,7 +695,7 @@
   {
     "raceTitle": "President Democratic District 11 - Districtwide Results",
     "Reporting": "99.6% (449 of 451) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -758,7 +758,7 @@
   {
     "raceTitle": "President Democratic District 12 - Districtwide Results",
     "Reporting": "100% (179 of 179) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -821,7 +821,7 @@
   {
     "raceTitle": "President Democratic District 13 - Districtwide Results",
     "Reporting": "96.2% (832 of 865) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -884,7 +884,7 @@
   {
     "raceTitle": "President Democratic District 14 - Districtwide Results",
     "Reporting": "100% (348 of 348) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -947,7 +947,7 @@
   {
     "raceTitle": "President Democratic District 15 - Districtwide Results",
     "Reporting": "24.2% (61 of 252) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -1010,7 +1010,7 @@
   {
     "raceTitle": "President Democratic District 16 - Districtwide Results",
     "Reporting": "72.6% (199 of 274) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -1073,7 +1073,7 @@
   {
     "raceTitle": "President Democratic District 17 - Districtwide Results",
     "Reporting": "100% (186 of 186) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -1136,7 +1136,7 @@
   {
     "raceTitle": "President Democratic District 18 - Districtwide Results",
     "Reporting": "95.7% (269 of 281) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -1199,7 +1199,7 @@
   {
     "raceTitle": "President Democratic District 19 - Districtwide Results",
     "Reporting": "74.5% (251 of 337) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -1262,7 +1262,7 @@
   {
     "raceTitle": "President Democratic District 20 - Districtwide Results",
     "Reporting": "69.7% (333 of 478) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -1325,7 +1325,7 @@
   {
     "raceTitle": "President Democratic District 21 - Districtwide Results",
     "Reporting": "17.8% (37 of 208) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -1388,7 +1388,7 @@
   {
     "raceTitle": "President Democratic District 22 - Districtwide Results",
     "Reporting": "82.9% (343 of 414) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -1451,7 +1451,7 @@
   {
     "raceTitle": "President Democratic District 23 - Districtwide Results",
     "Reporting": "13.2% (212 of 1,609) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -1514,7 +1514,7 @@
   {
     "raceTitle": "President Democratic District 24 - Districtwide Results",
     "Reporting": "56.9% (351 of 617) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -1576,62 +1576,62 @@
   },
   {
     "raceTitle": "President Democratic District 25 - Districtwide Results",
-    "Reporting": "71.5% (416 of 582) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "Reporting": "98.3% (572 of 582) precincts reporting",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
         "Party": "Dem",
-        "Votes": "21,550",
-        "Percent": "89.3",
+        "Votes": "21,581",
+        "Percent": "89.2",
         "incumbent": true
       },
       {
         "Name": "President R Boddie",
         "Party": "Dem",
-        "Votes": "366",
+        "Votes": "368",
         "Percent": "1.5",
         "incumbent": false
       },
       {
         "Name": "Eban Cambridge",
         "Party": "Dem",
-        "Votes": "44",
+        "Votes": "45",
         "Percent": "0.2",
         "incumbent": false
       },
       {
         "Name": "Gabriel Cornejo",
         "Party": "Dem",
-        "Votes": "341",
+        "Votes": "346",
         "Percent": "1.4",
         "incumbent": false
       },
       {
         "Name": "Stephen P Lyons",
         "Party": "Dem",
-        "Votes": "118",
+        "Votes": "121",
         "Percent": "0.5",
         "incumbent": false
       },
       {
         "Name": "Armando \"Mando\" Perez-Serrato",
         "Party": "Dem",
-        "Votes": "478",
+        "Votes": "481",
         "Percent": "2.0",
         "incumbent": false
       },
       {
         "Name": "Dean Phillips",
         "Party": "Dem",
-        "Votes": "566",
+        "Votes": "568",
         "Percent": "2.3",
         "incumbent": false
       },
       {
         "Name": "Marianne Williamson",
         "Party": "Dem",
-        "Votes": "681",
+        "Votes": "682",
         "Percent": "2.8",
         "incumbent": false
       }
@@ -1640,7 +1640,7 @@
   {
     "raceTitle": "President Democratic District 26 - Districtwide Results",
     "Reporting": "73.7% (793 of 1,076) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -1703,7 +1703,7 @@
   {
     "raceTitle": "President Democratic District 27 - Districtwide Results",
     "Reporting": "100% (205 of 205) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -1766,7 +1766,7 @@
   {
     "raceTitle": "President Democratic District 28 - Districtwide Results",
     "Reporting": "58.2% (202 of 347) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -1829,7 +1829,7 @@
   {
     "raceTitle": "President Democratic District 29 - Districtwide Results",
     "Reporting": "100% (153 of 153) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -1892,7 +1892,7 @@
   {
     "raceTitle": "President Democratic District 30 - Districtwide Results",
     "Reporting": "100% (194 of 194) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -1955,7 +1955,7 @@
   {
     "raceTitle": "President Democratic District 31 - Districtwide Results",
     "Reporting": "100% (199 of 199) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -2018,7 +2018,7 @@
   {
     "raceTitle": "President Democratic District 32 - Districtwide Results",
     "Reporting": "98.4% (182 of 185) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -2081,7 +2081,7 @@
   {
     "raceTitle": "President Democratic District 33 - Districtwide Results",
     "Reporting": "36.3% (238 of 655) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -2144,7 +2144,7 @@
   {
     "raceTitle": "President Democratic District 34 - Districtwide Results",
     "Reporting": "100% (153 of 153) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -2207,7 +2207,7 @@
   {
     "raceTitle": "President Democratic District 35 - Districtwide Results",
     "Reporting": "12.8% (55 of 431) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -2270,7 +2270,7 @@
   {
     "raceTitle": "President Democratic District 36 - Districtwide Results",
     "Reporting": "100% (163 of 163) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -2333,7 +2333,7 @@
   {
     "raceTitle": "President Democratic District 37 - Districtwide Results",
     "Reporting": "100% (171 of 171) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -2396,7 +2396,7 @@
   {
     "raceTitle": "President Democratic District 38 - Districtwide Results",
     "Reporting": "100% (197 of 197) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -2459,7 +2459,7 @@
   {
     "raceTitle": "President Democratic District 39 - Districtwide Results",
     "Reporting": "100% (196 of 196) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -2522,7 +2522,7 @@
   {
     "raceTitle": "President Democratic District 40 - Districtwide Results",
     "Reporting": "94.8% (681 of 718) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -2585,7 +2585,7 @@
   {
     "raceTitle": "President Democratic District 41 - Districtwide Results",
     "Reporting": "100% (338 of 338) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -2648,7 +2648,7 @@
   {
     "raceTitle": "President Democratic District 42 - Districtwide Results",
     "Reporting": "100% (172 of 172) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -2711,7 +2711,7 @@
   {
     "raceTitle": "President Democratic District 43 - Districtwide Results",
     "Reporting": "100% (187 of 187) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -2774,7 +2774,7 @@
   {
     "raceTitle": "President Democratic District 44 - Districtwide Results",
     "Reporting": "100% (174 of 174) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -2837,7 +2837,7 @@
   {
     "raceTitle": "President Democratic District 45 - Districtwide Results",
     "Reporting": "100% (456 of 456) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -2900,7 +2900,7 @@
   {
     "raceTitle": "President Democratic District 46 - Districtwide Results",
     "Reporting": "100% (367 of 367) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -2963,7 +2963,7 @@
   {
     "raceTitle": "President Democratic District 47 - Districtwide Results",
     "Reporting": "100% (542 of 542) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -3026,7 +3026,7 @@
   {
     "raceTitle": "President Democratic District 48 - Districtwide Results",
     "Reporting": "26.2% (110 of 420) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -3089,7 +3089,7 @@
   {
     "raceTitle": "President Democratic District 49 - Districtwide Results",
     "Reporting": "41.1% (194 of 472) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -3152,7 +3152,7 @@
   {
     "raceTitle": "President Democratic District 50 - Districtwide Results",
     "Reporting": "0% (0 of 437) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -3215,7 +3215,7 @@
   {
     "raceTitle": "President Democratic District 51 - Districtwide Results",
     "Reporting": "0% (0 of 462) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -3278,7 +3278,7 @@
   {
     "raceTitle": "President Democratic District 52 - Districtwide Results",
     "Reporting": "0% (0 of 399) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",

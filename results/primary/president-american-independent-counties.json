@@ -1,13 +1,13 @@
 [
   {
     "raceTitle": "President American Independent - Statewide Results",
-    "Reporting": "66.9% (13,954 of 20,855) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:20 p.m.",
+    "Reporting": "67.7% (14,124 of 20,855) precincts reporting",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "James Bradley",
         "Party": "AI",
-        "Votes": "22,166",
+        "Votes": "22,052",
         "Percent": "100.0",
         "incumbent": false
       }
@@ -183,13 +183,13 @@
   },
   {
     "raceTitle": "President American Independent - Imperial County Results",
-    "Reporting": "48.9% (149 of 305) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:17 p.m.",
+    "Reporting": "100% (305 of 305) precincts reporting",
+    "ReportingTime": "March 5, 2024, 11:24 p.m.",
     "candidates": [
       {
         "Name": "James Bradley",
         "Party": "AI",
-        "Votes": "50",
+        "Votes": "54",
         "Percent": "100.0",
         "incumbent": false
       }
@@ -394,7 +394,7 @@
   {
     "raceTitle": "President American Independent - Napa County Results",
     "Reporting": "100% (200 of 200) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:02 p.m.",
+    "ReportingTime": "March 5, 2024, 11:26 p.m.",
     "candidates": [
       {
         "Name": "James Bradley",
@@ -631,13 +631,13 @@
   },
   {
     "raceTitle": "President American Independent - Shasta County Results",
-    "Reporting": "0% (0 of 68) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:32 p.m.",
+    "Reporting": "20.6% (14 of 68) precincts reporting",
+    "ReportingTime": "March 5, 2024, 11:23 p.m.",
     "candidates": [
       {
         "Name": "James Bradley",
         "Party": "AI",
-        "Votes": "122",
+        "Votes": "4",
         "Percent": "100.0",
         "incumbent": false
       }

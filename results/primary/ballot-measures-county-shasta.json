@@ -1,15 +1,15 @@
 {
   "raceTitle": "Ballot Measures - Shasta Results",
-  "Reporting": "0.0% (0 of 68) precincts reporting",
-  "ReportingTime": "March 5, 2024, 9:32 p.m.",
+  "Reporting": "20.6% (14 of 68) precincts reporting",
+  "ReportingTime": "March 5, 2024, 11:23 p.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "7173",
-      "yesPercent": "44.2",
-      "noVotes": "9065",
-      "noPercent": "55.8"
+      "yesVotes": "207",
+      "yesPercent": "29.1",
+      "noVotes": "504",
+      "noPercent": "70.9"
     }
   ]
 }
