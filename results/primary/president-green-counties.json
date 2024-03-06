@@ -1,13 +1,13 @@
 [
   {
     "raceTitle": "President Green - Statewide Results",
-    "Reporting": "87.2% (18,180 of 20,855) precincts reporting",
-    "ReportingTime": "March 6, 2024, 1:23 a.m.",
+    "Reporting": "87.4% (18,218 of 20,855) precincts reporting",
+    "ReportingTime": "March 6, 2024, 1:36 a.m.",
     "candidates": [
       {
         "Name": "Jill Stein",
         "Party": "Grn",
-        "Votes": "6,848",
+        "Votes": "6,857",
         "Percent": "100.0",
         "incumbent": false
       }
@@ -239,13 +239,13 @@
   },
   {
     "raceTitle": "President Green - Lake County Results",
-    "Reporting": "29.2% (14 of 48) precincts reporting",
-    "ReportingTime": "March 6, 2024, 12:35 a.m.",
+    "Reporting": "100% (48 of 48) precincts reporting",
+    "ReportingTime": "March 6, 2024, 1:36 a.m.",
     "candidates": [
       {
         "Name": "Jill Stein",
         "Party": "Grn",
-        "Votes": "20",
+        "Votes": "24",
         "Percent": "100.0",
         "incumbent": false
       }
@@ -785,13 +785,13 @@
   },
   {
     "raceTitle": "President Green - Ventura County Results",
-    "Reporting": "72.9% (1,020 of 1,399) precincts reporting",
-    "ReportingTime": "March 6, 2024, 12:28 a.m.",
+    "Reporting": "73.2% (1,024 of 1,399) precincts reporting",
+    "ReportingTime": "March 6, 2024, 1:28 a.m.",
     "candidates": [
       {
         "Name": "Jill Stein",
         "Party": "Grn",
-        "Votes": "156",
+        "Votes": "161",
         "Percent": "100.0",
         "incumbent": false
       }

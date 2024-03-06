@@ -1,27 +1,27 @@
 [
   {
     "raceTitle": "President Peace and Freedom - Statewide Results",
-    "Reporting": "87.2% (18,180 of 20,855) precincts reporting",
-    "ReportingTime": "March 6, 2024, 1:23 a.m.",
+    "Reporting": "87.4% (18,218 of 20,855) precincts reporting",
+    "ReportingTime": "March 6, 2024, 1:36 a.m.",
     "candidates": [
       {
         "Name": "Claudia De la Cruz",
         "Party": "P&F",
-        "Votes": "2,759",
+        "Votes": "2,771",
         "Percent": "45.1",
         "incumbent": false
       },
       {
         "Name": "Jasmine Sherman",
         "Party": "P&F",
-        "Votes": "870",
+        "Votes": "874",
         "Percent": "14.2",
         "incumbent": false
       },
       {
         "Name": "Cornel West",
         "Party": "P&F",
-        "Votes": "2,494",
+        "Votes": "2,502",
         "Percent": "40.7",
         "incumbent": false
       }
@@ -477,28 +477,28 @@
   },
   {
     "raceTitle": "President Peace and Freedom - Lake County Results",
-    "Reporting": "29.2% (14 of 48) precincts reporting",
-    "ReportingTime": "March 6, 2024, 12:35 a.m.",
+    "Reporting": "100% (48 of 48) precincts reporting",
+    "ReportingTime": "March 6, 2024, 1:36 a.m.",
     "candidates": [
       {
         "Name": "Claudia De la Cruz",
         "Party": "P&F",
         "Votes": "2",
-        "Percent": "22.2",
+        "Percent": "20.0",
         "incumbent": false
       },
       {
         "Name": "Jasmine Sherman",
         "Party": "P&F",
-        "Votes": "4",
-        "Percent": "44.4",
+        "Votes": "5",
+        "Percent": "50.0",
         "incumbent": false
       },
       {
         "Name": "Cornel West",
         "Party": "P&F",
         "Votes": "3",
-        "Percent": "33.3",
+        "Percent": "30.0",
         "incumbent": false
       }
     ]
@@ -1569,28 +1569,28 @@
   },
   {
     "raceTitle": "President Peace and Freedom - Ventura County Results",
-    "Reporting": "72.9% (1,020 of 1,399) precincts reporting",
-    "ReportingTime": "March 6, 2024, 12:28 a.m.",
+    "Reporting": "73.2% (1,024 of 1,399) precincts reporting",
+    "ReportingTime": "March 6, 2024, 1:28 a.m.",
     "candidates": [
       {
         "Name": "Claudia De la Cruz",
         "Party": "P&F",
-        "Votes": "73",
-        "Percent": "59.8",
+        "Votes": "85",
+        "Percent": "58.6",
         "incumbent": false
       },
       {
         "Name": "Jasmine Sherman",
         "Party": "P&F",
-        "Votes": "11",
-        "Percent": "9.0",
+        "Votes": "14",
+        "Percent": "9.7",
         "incumbent": false
       },
       {
         "Name": "Cornel West",
         "Party": "P&F",
-        "Votes": "38",
-        "Percent": "31.1",
+        "Votes": "46",
+        "Percent": "31.7",
         "incumbent": false
       }
     ]
