@@ -22,21 +22,21 @@
   },
   {
     "raceTitle": "U.S. House of Representatives District 23 - Districtwide Results",
-    "Reporting": "99.6% (1,602 of 1,609) precincts reporting",
-    "ReportingTime": "March 6, 2024, 2:02 a.m.",
+    "Reporting": "100% (1,609 of 1,609) precincts reporting",
+    "ReportingTime": "March 6, 2024, 2:06 a.m.",
     "candidates": [
       {
         "Name": "Derek Marshall",
         "Party": "Dem",
-        "Votes": "21,550",
-        "Percent": "37.5",
+        "Votes": "21,624",
+        "Percent": "37.4",
         "incumbent": false
       },
       {
         "Name": "Jay Obernolte",
         "Party": "Rep",
-        "Votes": "35,955",
-        "Percent": "62.5",
+        "Votes": "36,242",
+        "Percent": "62.6",
         "incumbent": true
       }
     ]

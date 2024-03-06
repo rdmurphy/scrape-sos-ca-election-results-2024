@@ -1,19 +1,19 @@
 {
   "raceTitle": "State Assembly District 42 - Districtwide Results",
   "Reporting": "79.6% (449 of 564) precincts reporting",
-  "ReportingTime": "March 6, 2024, 2:02 a.m.",
+  "ReportingTime": "March 6, 2024, 2:06 a.m.",
   "candidates": [
     {
       "Name": "Jacqui Irwin",
       "Party": "Dem",
-      "Votes": "45,033",
+      "Votes": "45,035",
       "Percent": "54.7",
       "incumbent": true
     },
     {
       "Name": "Ted Nordblum",
       "Party": "Rep",
-      "Votes": "37,331",
+      "Votes": "37,334",
       "Percent": "45.3",
       "incumbent": false
     }

@@ -1,13 +1,13 @@
 [
   {
     "raceTitle": "President Libertarian - Statewide Results",
-    "Reporting": "96% (20,030 of 20,855) precincts reporting",
-    "ReportingTime": "March 6, 2024, 2:02 a.m.",
+    "Reporting": "96.8% (20,185 of 20,855) precincts reporting",
+    "ReportingTime": "March 6, 2024, 2:06 a.m.",
     "candidates": [
       {
         "Name": "Charles Ballay",
         "Party": "Lib",
-        "Votes": "11,599",
+        "Votes": "11,636",
         "Percent": "100.0",
         "incumbent": false
       }
@@ -211,13 +211,13 @@
   },
   {
     "raceTitle": "President Libertarian - Kern County Results",
-    "Reporting": "79.6% (605 of 760) precincts reporting",
-    "ReportingTime": "March 6, 2024, 12:44 a.m.",
+    "Reporting": "100% (760 of 760) precincts reporting",
+    "ReportingTime": "March 6, 2024, 2:03 a.m.",
     "candidates": [
       {
         "Name": "Charles Ballay",
         "Party": "Lib",
-        "Votes": "114",
+        "Votes": "142",
         "Percent": "100.0",
         "incumbent": false
       }
@@ -268,12 +268,12 @@
   {
     "raceTitle": "President Libertarian - Los Angeles County Results",
     "Reporting": "100% (2,391 of 2,391) precincts reporting",
-    "ReportingTime": "March 6, 2024, 1:50 a.m.",
+    "ReportingTime": "March 6, 2024, 2:06 a.m.",
     "candidates": [
       {
         "Name": "Charles Ballay",
         "Party": "Lib",
-        "Votes": "2,877",
+        "Votes": "2,886",
         "Percent": "100.0",
         "incumbent": false
       }

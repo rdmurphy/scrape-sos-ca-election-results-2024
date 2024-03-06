@@ -1,27 +1,27 @@
 [
   {
     "raceTitle": "President Peace and Freedom - Statewide Results",
-    "Reporting": "96% (20,030 of 20,855) precincts reporting",
-    "ReportingTime": "March 6, 2024, 2:02 a.m.",
+    "Reporting": "96.8% (20,185 of 20,855) precincts reporting",
+    "ReportingTime": "March 6, 2024, 2:06 a.m.",
     "candidates": [
       {
         "Name": "Claudia De la Cruz",
         "Party": "P&F",
-        "Votes": "2,882",
+        "Votes": "2,885",
         "Percent": "45.1",
         "incumbent": false
       },
       {
         "Name": "Jasmine Sherman",
         "Party": "P&F",
-        "Votes": "904",
-        "Percent": "14.1",
+        "Votes": "907",
+        "Percent": "14.2",
         "incumbent": false
       },
       {
         "Name": "Cornel West",
         "Party": "P&F",
-        "Votes": "2,607",
+        "Votes": "2,609",
         "Percent": "40.8",
         "incumbent": false
       }
@@ -421,28 +421,28 @@
   },
   {
     "raceTitle": "President Peace and Freedom - Kern County Results",
-    "Reporting": "79.6% (605 of 760) precincts reporting",
-    "ReportingTime": "March 6, 2024, 12:44 a.m.",
+    "Reporting": "100% (760 of 760) precincts reporting",
+    "ReportingTime": "March 6, 2024, 2:03 a.m.",
     "candidates": [
       {
         "Name": "Claudia De la Cruz",
         "Party": "P&F",
-        "Votes": "23",
-        "Percent": "54.8",
+        "Votes": "25",
+        "Percent": "53.2",
         "incumbent": false
       },
       {
         "Name": "Jasmine Sherman",
         "Party": "P&F",
-        "Votes": "10",
-        "Percent": "23.8",
+        "Votes": "13",
+        "Percent": "27.7",
         "incumbent": false
       },
       {
         "Name": "Cornel West",
         "Party": "P&F",
         "Votes": "9",
-        "Percent": "21.4",
+        "Percent": "19.1",
         "incumbent": false
       }
     ]
@@ -534,13 +534,13 @@
   {
     "raceTitle": "President Peace and Freedom - Los Angeles County Results",
     "Reporting": "100% (2,391 of 2,391) precincts reporting",
-    "ReportingTime": "March 6, 2024, 1:50 a.m.",
+    "ReportingTime": "March 6, 2024, 2:06 a.m.",
     "candidates": [
       {
         "Name": "Claudia De la Cruz",
         "Party": "P&F",
-        "Votes": "939",
-        "Percent": "44.8",
+        "Votes": "940",
+        "Percent": "44.7",
         "incumbent": false
       },
       {
@@ -553,7 +553,7 @@
       {
         "Name": "Cornel West",
         "Party": "P&F",
-        "Votes": "873",
+        "Votes": "875",
         "Percent": "41.6",
         "incumbent": false
       }

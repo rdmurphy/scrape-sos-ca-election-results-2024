@@ -1,19 +1,19 @@
 {
   "raceTitle": "State Senate District 35 - Districtwide Results",
   "Reporting": "100% (240 of 240) precincts reporting",
-  "ReportingTime": "March 6, 2024, 2:02 a.m.",
+  "ReportingTime": "March 6, 2024, 2:06 a.m.",
   "candidates": [
     {
       "Name": "Michelle Chambers",
       "Party": "Dem",
-      "Votes": "12,310",
+      "Votes": "12,335",
       "Percent": "22.7",
       "incumbent": false
     },
     {
       "Name": "Lamar Lyons",
       "Party": "Dem",
-      "Votes": "2,379",
+      "Votes": "2,393",
       "Percent": "4.4",
       "incumbent": false
     },
@@ -27,36 +27,36 @@
     {
       "Name": "Alex Monteiro",
       "Party": "Dem",
-      "Votes": "3,178",
-      "Percent": "5.9",
+      "Votes": "3,179",
+      "Percent": "5.8",
       "incumbent": false
     },
     {
       "Name": "Laura Richardson",
       "Party": "Dem",
-      "Votes": "14,372",
+      "Votes": "14,397",
       "Percent": "26.5",
       "incumbent": false
     },
     {
       "Name": "Albert Robles",
       "Party": "Dem",
-      "Votes": "5,154",
+      "Votes": "5,168",
       "Percent": "9.5",
       "incumbent": false
     },
     {
       "Name": "Jennifer Trichelle-Marie Williams",
       "Party": "Dem",
-      "Votes": "2,743",
-      "Percent": "5.0",
+      "Votes": "2,750",
+      "Percent": "5.1",
       "incumbent": false
     },
     {
       "Name": "James Arlandus Spencer",
       "Party": "Rep",
-      "Votes": "11,715",
-      "Percent": "21.6",
+      "Votes": "11,727",
+      "Percent": "21.5",
       "incumbent": false
     }
   ]
