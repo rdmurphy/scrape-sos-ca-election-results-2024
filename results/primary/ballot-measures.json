@@ -1,14 +1,14 @@
 {
   "raceTitle": "Ballot Measures - Statewide Results",
-  "Reporting": "96.8% (20,185 of 20,855) precincts reporting",
-  "ReportingTime": "March 6, 2024, 2:06 a.m.",
+  "Reporting": "99.9% (20,840 of 20,855) precincts reporting",
+  "ReportingTime": "March 6, 2024, 2:20 a.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "1865095",
+      "yesVotes": "1868903",
       "yesPercent": "50.3",
-      "noVotes": "1841342",
+      "noVotes": "1846256",
       "noPercent": "49.7"
     }
   ]

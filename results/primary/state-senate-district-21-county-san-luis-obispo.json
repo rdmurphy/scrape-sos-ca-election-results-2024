@@ -22,21 +22,21 @@
   },
   {
     "raceTitle": "State Senate District 21 - Districtwide Results",
-    "Reporting": "73.7% (913 of 1,239) precincts reporting",
-    "ReportingTime": "March 6, 2024, 2:06 a.m.",
+    "Reporting": "100% (1,239 of 1,239) precincts reporting",
+    "ReportingTime": "March 6, 2024, 2:20 a.m.",
     "candidates": [
       {
         "Name": "S. Monique Limón",
         "Party": "Dem",
-        "Votes": "72,087",
-        "Percent": "62.3",
+        "Votes": "72,267",
+        "Percent": "62.2",
         "incumbent": true
       },
       {
         "Name": "Elijah Mack",
         "Party": "Rep",
-        "Votes": "43,661",
-        "Percent": "37.7",
+        "Votes": "43,936",
+        "Percent": "37.8",
         "incumbent": false
       }
     ]

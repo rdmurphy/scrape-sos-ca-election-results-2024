@@ -1,55 +1,55 @@
 {
   "raceTitle": "U.S. Senate (Partial/Unexpired Term) - Statewide Results",
-  "Reporting": "96.8% (20,185 of 20,855) precincts reporting",
-  "ReportingTime": "March 6, 2024, 2:06 a.m.",
+  "Reporting": "99.9% (20,840 of 20,855) precincts reporting",
+  "ReportingTime": "March 6, 2024, 2:20 a.m.",
   "candidates": [
     {
       "Name": "Sepi Gilani",
       "Party": "Dem",
-      "Votes": "35,611",
+      "Votes": "35,706",
       "Percent": "0.9",
       "incumbent": false
     },
     {
       "Name": "Barbara Lee",
       "Party": "Dem",
-      "Votes": "353,321",
+      "Votes": "354,344",
       "Percent": "9.4",
       "incumbent": false
     },
     {
       "Name": "Christina Pascucci",
       "Party": "Dem",
-      "Votes": "57,819",
+      "Votes": "57,885",
       "Percent": "1.5",
       "incumbent": false
     },
     {
       "Name": "Katie Porter",
       "Party": "Dem",
-      "Votes": "606,078",
+      "Votes": "607,452",
       "Percent": "16.1",
       "incumbent": false
     },
     {
       "Name": "Adam B. Schiff",
       "Party": "Dem",
-      "Votes": "1,163,581",
+      "Votes": "1,165,804",
       "Percent": "30.9",
       "incumbent": false
     },
     {
       "Name": "Eric Early",
       "Party": "Rep",
-      "Votes": "254,569",
+      "Votes": "255,123",
       "Percent": "6.8",
       "incumbent": false
     },
     {
       "Name": "Steve Garvey",
       "Party": "Rep",
-      "Votes": "1,292,538",
-      "Percent": "34.3",
+      "Votes": "1,295,891",
+      "Percent": "34.4",
       "incumbent": false
     }
   ]

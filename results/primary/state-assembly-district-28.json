@@ -1,20 +1,20 @@
 {
   "raceTitle": "State Assembly District 28 - Districtwide Results",
-  "Reporting": "98.1% (206 of 210) precincts reporting",
-  "ReportingTime": "March 6, 2024, 2:06 a.m.",
+  "Reporting": "100% (210 of 210) precincts reporting",
+  "ReportingTime": "March 6, 2024, 2:20 a.m.",
   "candidates": [
     {
       "Name": "Gail Pellerin",
       "Party": "Dem",
-      "Votes": "41,726",
-      "Percent": "68.3",
+      "Votes": "43,699",
+      "Percent": "68.7",
       "incumbent": true
     },
     {
       "Name": "Liz Lawler",
       "Party": "Rep",
-      "Votes": "19,324",
-      "Percent": "31.7",
+      "Votes": "19,938",
+      "Percent": "31.3",
       "incumbent": false
     }
   ]

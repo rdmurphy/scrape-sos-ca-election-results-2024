@@ -1,33 +1,33 @@
 {
   "raceTitle": "State Senate District 11 - Districtwide Results",
-  "Reporting": "93.3% (512 of 549) precincts reporting",
-  "ReportingTime": "March 6, 2024, 2:06 a.m.",
+  "Reporting": "100% (549 of 549) precincts reporting",
+  "ReportingTime": "March 6, 2024, 2:20 a.m.",
   "candidates": [
     {
       "Name": "Cynthia Cravens",
       "Party": "Dem",
-      "Votes": "8,672",
+      "Votes": "8,737",
       "Percent": "8.1",
       "incumbent": false
     },
     {
       "Name": "Scott Wiener",
       "Party": "Dem",
-      "Votes": "75,375",
-      "Percent": "70.6",
+      "Votes": "75,581",
+      "Percent": "70.4",
       "incumbent": true
     },
     {
       "Name": "Yvette Corkrean",
       "Party": "Rep",
-      "Votes": "18,230",
-      "Percent": "17.1",
+      "Votes": "18,455",
+      "Percent": "17.2",
       "incumbent": false
     },
     {
       "Name": "Jing Chao Xiong",
       "Party": "NPP",
-      "Votes": "4,539",
+      "Votes": "4,552",
       "Percent": "4.2",
       "incumbent": false
     }

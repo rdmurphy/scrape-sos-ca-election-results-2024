@@ -1,15 +1,15 @@
 {
   "raceTitle": "Ballot Measures - Ventura Results",
-  "Reporting": "73.2% (1,024 of 1,399) precincts reporting",
-  "ReportingTime": "March 6, 2024, 1:28 a.m.",
+  "Reporting": "100.0% (1,399 of 1,399) precincts reporting",
+  "ReportingTime": "March 6, 2024, 2:13 a.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "53842",
-      "yesPercent": "50.7",
-      "noVotes": "52265",
-      "noPercent": "49.3"
+      "yesVotes": "54583",
+      "yesPercent": "50.2",
+      "noVotes": "54112",
+      "noPercent": "49.8"
     }
   ]
 }
