@@ -1,27 +1,27 @@
 {
   "raceTitle": "State Senate District 13 - Districtwide Results",
   "Reporting": "35.9% (128 of 357) precincts reporting",
-  "ReportingTime": "March 5, 2024, 11:46 p.m.",
+  "ReportingTime": "March 6, 2024, 12:02 a.m.",
   "candidates": [
     {
       "Name": "Josh Becker",
       "Party": "Dem",
-      "Votes": "78,344",
-      "Percent": "72.2",
+      "Votes": "78,776",
+      "Percent": "72.1",
       "incumbent": true
     },
     {
       "Name": "Alexander Glew",
       "Party": "Rep",
-      "Votes": "21,532",
-      "Percent": "19.8",
+      "Votes": "21,840",
+      "Percent": "20.0",
       "incumbent": false
     },
     {
       "Name": "Christina Laskowski",
       "Party": "Rep",
-      "Votes": "8,603",
-      "Percent": "7.9",
+      "Votes": "8,702",
+      "Percent": "8.0",
       "incumbent": false
     }
   ]

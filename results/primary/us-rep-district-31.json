@@ -1,75 +1,75 @@
 {
   "raceTitle": "U.S. House of Representatives District 31 - Districtwide Results",
   "Reporting": "100% (199 of 199) precincts reporting",
-  "ReportingTime": "March 5, 2024, 11:46 p.m.",
+  "ReportingTime": "March 6, 2024, 12:02 a.m.",
   "candidates": [
     {
       "Name": "Bob J. Archuleta",
       "Party": "Dem",
-      "Votes": "5,403",
+      "Votes": "5,479",
       "Percent": "11.1",
       "incumbent": false
     },
     {
       "Name": "Gil Cisneros",
       "Party": "Dem",
-      "Votes": "11,406",
-      "Percent": "23.5",
+      "Votes": "11,516",
+      "Percent": "23.3",
       "incumbent": false
     },
     {
       "Name": "Greg Hafif",
       "Party": "Dem",
-      "Votes": "2,139",
+      "Votes": "2,172",
       "Percent": "4.4",
       "incumbent": false
     },
     {
       "Name": "Kurt Jose",
       "Party": "Dem",
-      "Votes": "608",
+      "Votes": "619",
       "Percent": "1.3",
       "incumbent": false
     },
     {
       "Name": "Mary Ann Lutz",
       "Party": "Dem",
-      "Votes": "3,159",
+      "Votes": "3,193",
       "Percent": "6.5",
       "incumbent": false
     },
     {
       "Name": "Susan Rubio",
       "Party": "Dem",
-      "Votes": "8,070",
-      "Percent": "16.6",
+      "Votes": "8,162",
+      "Percent": "16.5",
       "incumbent": false
     },
     {
       "Name": "Pedro Antonio Casas",
       "Party": "Rep",
-      "Votes": "7,750",
-      "Percent": "15.9",
+      "Votes": "7,974",
+      "Percent": "16.1",
       "incumbent": false
     },
     {
       "Name": "Daniel Jose Bocic Martinez",
       "Party": "Rep",
-      "Votes": "9,246",
-      "Percent": "19.0",
+      "Votes": "9,456",
+      "Percent": "19.1",
       "incumbent": false
     },
     {
       "Name": "Erskine Levi",
       "Party": "NPP",
-      "Votes": "561",
-      "Percent": "1.2",
+      "Votes": "568",
+      "Percent": "1.1",
       "incumbent": false
     },
     {
       "Name": "Marie Manvel",
       "Party": "NPP",
-      "Votes": "284",
+      "Votes": "285",
       "Percent": "0.6",
       "incumbent": false
     }

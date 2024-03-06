@@ -1,15 +1,15 @@
 {
   "raceTitle": "Ballot Measures - Stanislaus Results",
   "Reporting": "100.0% (161 of 161) precincts reporting",
-  "ReportingTime": "March 5, 2024, 9:49 p.m.",
+  "ReportingTime": "March 6, 2024, 12:01 a.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "17046",
-      "yesPercent": "47.6",
-      "noVotes": "18744",
-      "noPercent": "52.4"
+      "yesVotes": "18796",
+      "yesPercent": "45.6",
+      "noVotes": "22406",
+      "noPercent": "54.4"
     }
   ]
 }

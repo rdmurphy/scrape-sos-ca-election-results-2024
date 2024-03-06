@@ -1,15 +1,15 @@
 {
   "raceTitle": "Ballot Measures - Sacramento Results",
   "Reporting": "100.0% (620 of 620) precincts reporting",
-  "ReportingTime": "March 5, 2024, 10:08 p.m.",
+  "ReportingTime": "March 5, 2024, 11:58 p.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "56422",
-      "yesPercent": "52.9",
-      "noVotes": "50332",
-      "noPercent": "47.1"
+      "yesVotes": "59165",
+      "yesPercent": "52.0",
+      "noVotes": "54529",
+      "noPercent": "48.0"
     }
   ]
 }

@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 46 - Los Angeles County Results",
     "Reporting": "100% (107 of 107) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:36 p.m.",
+    "ReportingTime": "March 5, 2024, 11:56 p.m.",
     "candidates": [
       {
         "Name": "Jesse Gabriel",
         "Party": "Dem",
-        "Votes": "21,824",
-        "Percent": "65.5",
+        "Votes": "22,033",
+        "Percent": "65.4",
         "incumbent": true
       },
       {
         "Name": "Tracey Schroeder",
         "Party": "Rep",
-        "Votes": "11,508",
-        "Percent": "34.5",
+        "Votes": "11,668",
+        "Percent": "34.6",
         "incumbent": false
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "State Assembly District 46 - Districtwide Results",
     "Reporting": "95.6% (109 of 114) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:46 p.m.",
+    "ReportingTime": "March 6, 2024, 12:02 a.m.",
     "candidates": [
       {
         "Name": "Jesse Gabriel",
         "Party": "Dem",
-        "Votes": "21,971",
-        "Percent": "65.4",
+        "Votes": "22,180",
+        "Percent": "65.3",
         "incumbent": true
       },
       {
         "Name": "Tracey Schroeder",
         "Party": "Rep",
-        "Votes": "11,640",
-        "Percent": "34.6",
+        "Votes": "11,800",
+        "Percent": "34.7",
         "incumbent": false
       }
     ]

@@ -1,34 +1,34 @@
 {
   "raceTitle": "State Assembly District 15 - Districtwide Results",
-  "Reporting": "0% (0 of 393) precincts reporting",
-  "ReportingTime": "March 5, 2024, 11:46 p.m.",
+  "Reporting": "100% (393 of 393) precincts reporting",
+  "ReportingTime": "March 6, 2024, 12:02 a.m.",
   "candidates": [
     {
       "Name": "Anamarie Avila Farias",
       "Party": "Dem",
-      "Votes": "15,138",
-      "Percent": "31.3",
+      "Votes": "15,877",
+      "Percent": "30.3",
       "incumbent": false
     },
     {
       "Name": "Karen Mitchoff",
       "Party": "Dem",
-      "Votes": "6,450",
-      "Percent": "13.3",
+      "Votes": "6,790",
+      "Percent": "12.9",
       "incumbent": false
     },
     {
       "Name": "Monica E. Wilson",
       "Party": "Dem",
-      "Votes": "11,722",
-      "Percent": "24.2",
+      "Votes": "12,501",
+      "Percent": "23.8",
       "incumbent": false
     },
     {
       "Name": "Sonia Ledo",
       "Party": "Rep",
-      "Votes": "15,039",
-      "Percent": "31.1",
+      "Votes": "17,303",
+      "Percent": "33.0",
       "incumbent": false
     }
   ]

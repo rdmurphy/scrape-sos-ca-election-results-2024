@@ -2,19 +2,19 @@
   {
     "raceTitle": "State Senate District 9 - Alameda County Results",
     "Reporting": "100% (116 of 116) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:02 p.m.",
+    "ReportingTime": "March 5, 2024, 11:54 p.m.",
     "candidates": [
       {
         "Name": "Tim Grayson",
         "Party": "Dem",
-        "Votes": "3,521",
+        "Votes": "3,634",
         "Percent": "53.5",
         "incumbent": false
       },
       {
         "Name": "Marisol Rubio",
         "Party": "Dem",
-        "Votes": "3,062",
+        "Votes": "3,163",
         "Percent": "46.5",
         "incumbent": false
       }
@@ -22,21 +22,21 @@
   },
   {
     "raceTitle": "State Senate District 9 - Districtwide Results",
-    "Reporting": "16.9% (116 of 686) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:46 p.m.",
+    "Reporting": "100% (686 of 686) precincts reporting",
+    "ReportingTime": "March 6, 2024, 12:02 a.m.",
     "candidates": [
       {
         "Name": "Tim Grayson",
         "Party": "Dem",
-        "Votes": "50,720",
-        "Percent": "64.2",
+        "Votes": "53,771",
+        "Percent": "63.9",
         "incumbent": false
       },
       {
         "Name": "Marisol Rubio",
         "Party": "Dem",
-        "Votes": "28,338",
-        "Percent": "35.8",
+        "Votes": "30,352",
+        "Percent": "36.1",
         "incumbent": false
       }
     ]

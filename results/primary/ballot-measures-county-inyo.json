@@ -1,15 +1,15 @@
 {
   "raceTitle": "Ballot Measures - Inyo Results",
-  "Reporting": "0.0% (0 of 13) precincts reporting",
-  "ReportingTime": "March 5, 2024, 10:31 p.m.",
+  "Reporting": "100.0% (13 of 13) precincts reporting",
+  "ReportingTime": "March 5, 2024, 11:56 p.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "1019",
-      "yesPercent": "44.9",
-      "noVotes": "1249",
-      "noPercent": "55.1"
+      "yesVotes": "1216",
+      "yesPercent": "41.6",
+      "noVotes": "1709",
+      "noPercent": "58.4"
     }
   ]
 }

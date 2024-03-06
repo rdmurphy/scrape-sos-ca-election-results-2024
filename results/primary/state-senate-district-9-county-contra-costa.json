@@ -1,42 +1,42 @@
 [
   {
     "raceTitle": "State Senate District 9 - Contra Costa County Results",
-    "Reporting": "0% (0 of 570) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:32 p.m.",
+    "Reporting": "100% (570 of 570) precincts reporting",
+    "ReportingTime": "March 5, 2024, 11:50 p.m.",
     "candidates": [
       {
         "Name": "Tim Grayson",
         "Party": "Dem",
-        "Votes": "47,199",
-        "Percent": "65.1",
+        "Votes": "50,137",
+        "Percent": "64.8",
         "incumbent": false
       },
       {
         "Name": "Marisol Rubio",
         "Party": "Dem",
-        "Votes": "25,276",
-        "Percent": "34.9",
+        "Votes": "27,189",
+        "Percent": "35.2",
         "incumbent": false
       }
     ]
   },
   {
     "raceTitle": "State Senate District 9 - Districtwide Results",
-    "Reporting": "16.9% (116 of 686) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:46 p.m.",
+    "Reporting": "100% (686 of 686) precincts reporting",
+    "ReportingTime": "March 6, 2024, 12:02 a.m.",
     "candidates": [
       {
         "Name": "Tim Grayson",
         "Party": "Dem",
-        "Votes": "50,720",
-        "Percent": "64.2",
+        "Votes": "53,771",
+        "Percent": "63.9",
         "incumbent": false
       },
       {
         "Name": "Marisol Rubio",
         "Party": "Dem",
-        "Votes": "28,338",
-        "Percent": "35.8",
+        "Votes": "30,352",
+        "Percent": "36.1",
         "incumbent": false
       }
     ]

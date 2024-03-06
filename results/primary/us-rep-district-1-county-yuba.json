@@ -1,56 +1,56 @@
 [
   {
     "raceTitle": "U.S. House of Representatives District 1 - Yuba County Results",
-    "Reporting": "43.5% (10 of 23) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:07 p.m.",
+    "Reporting": "100% (23 of 23) precincts reporting",
+    "ReportingTime": "March 5, 2024, 11:49 p.m.",
     "candidates": [
       {
         "Name": "Mike Doran",
         "Party": "Dem",
-        "Votes": "498",
-        "Percent": "13.4",
+        "Votes": "562",
+        "Percent": "12.6",
         "incumbent": false
       },
       {
         "Name": "Rose Penelope Yee",
         "Party": "Dem",
-        "Votes": "930",
-        "Percent": "25.0",
+        "Votes": "1,021",
+        "Percent": "22.9",
         "incumbent": false
       },
       {
         "Name": "Doug LaMalfa",
         "Party": "Rep",
-        "Votes": "2,292",
-        "Percent": "61.6",
+        "Votes": "2,873",
+        "Percent": "64.5",
         "incumbent": true
       }
     ]
   },
   {
     "raceTitle": "U.S. House of Representatives District 1 - Districtwide Results",
-    "Reporting": "86.3% (423 of 490) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:46 p.m.",
+    "Reporting": "89% (436 of 490) precincts reporting",
+    "ReportingTime": "March 6, 2024, 12:02 a.m.",
     "candidates": [
       {
         "Name": "Mike Doran",
         "Party": "Dem",
-        "Votes": "8,156",
-        "Percent": "11.5",
+        "Votes": "8,220",
+        "Percent": "11.4",
         "incumbent": false
       },
       {
         "Name": "Rose Penelope Yee",
         "Party": "Dem",
-        "Votes": "17,688",
-        "Percent": "24.9",
+        "Votes": "17,779",
+        "Percent": "24.8",
         "incumbent": false
       },
       {
         "Name": "Doug LaMalfa",
         "Party": "Rep",
-        "Votes": "45,244",
-        "Percent": "63.6",
+        "Votes": "45,825",
+        "Percent": "63.8",
         "incumbent": true
       }
     ]

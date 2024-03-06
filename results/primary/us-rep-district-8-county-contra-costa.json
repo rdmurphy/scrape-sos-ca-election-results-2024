@@ -1,42 +1,42 @@
 [
   {
     "raceTitle": "U.S. House of Representatives District 8 - Contra Costa County Results",
-    "Reporting": "0% (0 of 247) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:32 p.m.",
+    "Reporting": "100% (247 of 247) precincts reporting",
+    "ReportingTime": "March 5, 2024, 11:50 p.m.",
     "candidates": [
       {
         "Name": "John Garamendi",
         "Party": "Dem",
-        "Votes": "27,338",
-        "Percent": "80.3",
+        "Votes": "30,017",
+        "Percent": "79.1",
         "incumbent": true
       },
       {
         "Name": "Rudy Recile",
         "Party": "Rep",
-        "Votes": "6,714",
-        "Percent": "19.7",
+        "Votes": "7,916",
+        "Percent": "20.9",
         "incumbent": false
       }
     ]
   },
   {
     "raceTitle": "U.S. House of Representatives District 8 - Districtwide Results",
-    "Reporting": "31.6% (114 of 361) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:46 p.m.",
+    "Reporting": "100% (361 of 361) precincts reporting",
+    "ReportingTime": "March 6, 2024, 12:02 a.m.",
     "candidates": [
       {
         "Name": "John Garamendi",
         "Party": "Dem",
-        "Votes": "52,781",
-        "Percent": "75.3",
+        "Votes": "55,460",
+        "Percent": "74.9",
         "incumbent": true
       },
       {
         "Name": "Rudy Recile",
         "Party": "Rep",
-        "Votes": "17,358",
-        "Percent": "24.7",
+        "Votes": "18,560",
+        "Percent": "25.1",
         "incumbent": false
       }
     ]

@@ -2,26 +2,26 @@
   {
     "raceTitle": "U.S. House of Representatives District 3 - Sacramento County Results",
     "Reporting": "100% (58 of 58) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:08 p.m.",
+    "ReportingTime": "March 5, 2024, 11:58 p.m.",
     "candidates": [
       {
         "Name": "Jessica Morse",
         "Party": "Dem",
-        "Votes": "5,701",
-        "Percent": "44.9",
+        "Votes": "5,883",
+        "Percent": "43.6",
         "incumbent": false
       },
       {
         "Name": "Kevin Kiley",
         "Party": "Rep",
-        "Votes": "6,691",
-        "Percent": "52.7",
+        "Votes": "7,277",
+        "Percent": "54.0",
         "incumbent": true
       },
       {
         "Name": "Robert Smith",
         "Party": "NPP",
-        "Votes": "302",
+        "Votes": "325",
         "Percent": "2.4",
         "incumbent": false
       }
@@ -29,27 +29,27 @@
   },
   {
     "raceTitle": "U.S. House of Representatives District 3 - Districtwide Results",
-    "Reporting": "93.6% (425 of 454) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:46 p.m.",
+    "Reporting": "97.6% (443 of 454) precincts reporting",
+    "ReportingTime": "March 6, 2024, 12:02 a.m.",
     "candidates": [
       {
         "Name": "Jessica Morse",
         "Party": "Dem",
-        "Votes": "52,293",
-        "Percent": "43.3",
+        "Votes": "52,891",
+        "Percent": "42.9",
         "incumbent": false
       },
       {
         "Name": "Kevin Kiley",
         "Party": "Rep",
-        "Votes": "66,018",
-        "Percent": "54.7",
+        "Votes": "67,997",
+        "Percent": "55.1",
         "incumbent": true
       },
       {
         "Name": "Robert Smith",
         "Party": "NPP",
-        "Votes": "2,371",
+        "Votes": "2,430",
         "Percent": "2.0",
         "incumbent": false
       }

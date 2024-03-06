@@ -2,54 +2,54 @@
   {
     "raceTitle": "U.S. House of Representatives District 3 - El Dorado County Results",
     "Reporting": "100% (28 of 28) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:00 p.m.",
+    "ReportingTime": "March 5, 2024, 11:48 p.m.",
     "candidates": [
       {
         "Name": "Jessica Morse",
         "Party": "Dem",
-        "Votes": "4,703",
-        "Percent": "47.2",
+        "Votes": "4,877",
+        "Percent": "45.6",
         "incumbent": false
       },
       {
         "Name": "Kevin Kiley",
         "Party": "Rep",
-        "Votes": "5,080",
-        "Percent": "51.0",
+        "Votes": "5,633",
+        "Percent": "52.7",
         "incumbent": true
       },
       {
         "Name": "Robert Smith",
         "Party": "NPP",
-        "Votes": "175",
-        "Percent": "1.8",
+        "Votes": "187",
+        "Percent": "1.7",
         "incumbent": false
       }
     ]
   },
   {
     "raceTitle": "U.S. House of Representatives District 3 - Districtwide Results",
-    "Reporting": "93.6% (425 of 454) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:46 p.m.",
+    "Reporting": "97.6% (443 of 454) precincts reporting",
+    "ReportingTime": "March 6, 2024, 12:02 a.m.",
     "candidates": [
       {
         "Name": "Jessica Morse",
         "Party": "Dem",
-        "Votes": "52,293",
-        "Percent": "43.3",
+        "Votes": "52,891",
+        "Percent": "42.9",
         "incumbent": false
       },
       {
         "Name": "Kevin Kiley",
         "Party": "Rep",
-        "Votes": "66,018",
-        "Percent": "54.7",
+        "Votes": "67,997",
+        "Percent": "55.1",
         "incumbent": true
       },
       {
         "Name": "Robert Smith",
         "Party": "NPP",
-        "Votes": "2,371",
+        "Votes": "2,430",
         "Percent": "2.0",
         "incumbent": false
       }

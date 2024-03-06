@@ -1,83 +1,83 @@
 {
   "raceTitle": "U.S. House of Representatives District 16 - Districtwide Results",
   "Reporting": "72.6% (199 of 274) precincts reporting",
-  "ReportingTime": "March 5, 2024, 11:46 p.m.",
+  "ReportingTime": "March 6, 2024, 12:02 a.m.",
   "candidates": [
     {
       "Name": "Joby B Bernstein",
       "Party": "Dem",
-      "Votes": "741",
+      "Votes": "742",
       "Percent": "0.9",
       "incumbent": false
     },
     {
       "Name": "Peter Dixon",
       "Party": "Dem",
-      "Votes": "6,555",
+      "Votes": "6,576",
       "Percent": "7.6",
       "incumbent": false
     },
     {
       "Name": "Rishi Kumar",
       "Party": "Dem",
-      "Votes": "5,430",
+      "Votes": "5,436",
       "Percent": "6.3",
       "incumbent": false
     },
     {
       "Name": "Sam Liccardo",
       "Party": "Dem",
-      "Votes": "18,931",
+      "Votes": "18,939",
       "Percent": "22.0",
       "incumbent": false
     },
     {
       "Name": "Evan Low",
       "Party": "Dem",
-      "Votes": "13,578",
+      "Votes": "13,586",
       "Percent": "15.8",
       "incumbent": false
     },
     {
       "Name": "Julie Lythcott-Haims",
       "Party": "Dem",
-      "Votes": "4,451",
+      "Votes": "4,466",
       "Percent": "5.2",
       "incumbent": false
     },
     {
       "Name": "Ahmed Mostafa",
       "Party": "Dem",
-      "Votes": "1,996",
+      "Votes": "2,000",
       "Percent": "2.3",
       "incumbent": false
     },
     {
       "Name": "Joe Simitian",
       "Party": "Dem",
-      "Votes": "15,391",
+      "Votes": "15,406",
       "Percent": "17.9",
       "incumbent": false
     },
     {
       "Name": "Greg Lin Tanaka",
       "Party": "Dem",
-      "Votes": "1,177",
+      "Votes": "1,178",
       "Percent": "1.4",
       "incumbent": false
     },
     {
       "Name": "Peter Ohtaki",
       "Party": "Rep",
-      "Votes": "11,482",
-      "Percent": "13.3",
+      "Votes": "11,512",
+      "Percent": "13.4",
       "incumbent": false
     },
     {
       "Name": "Karl Ryan",
       "Party": "Rep",
-      "Votes": "6,315",
-      "Percent": "7.3",
+      "Votes": "6,335",
+      "Percent": "7.4",
       "incumbent": false
     }
   ]

@@ -2,20 +2,20 @@
   {
     "raceTitle": "U.S. House of Representatives District 15 - San Mateo County Results",
     "Reporting": "0% (0 of 191) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:06 p.m.",
+    "ReportingTime": "March 6, 2024, 12:02 a.m.",
     "candidates": [
       {
         "Name": "Kevin Mullin",
         "Party": "Dem",
-        "Votes": "47,042",
-        "Percent": "75.3",
+        "Votes": "47,436",
+        "Percent": "75.1",
         "incumbent": true
       },
       {
         "Name": "Anna Cheng Kramer",
         "Party": "Rep",
-        "Votes": "15,403",
-        "Percent": "24.7",
+        "Votes": "15,744",
+        "Percent": "24.9",
         "incumbent": false
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "U.S. House of Representatives District 15 - Districtwide Results",
     "Reporting": "24.2% (61 of 252) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:46 p.m.",
+    "ReportingTime": "March 6, 2024, 12:02 a.m.",
     "candidates": [
       {
         "Name": "Kevin Mullin",
         "Party": "Dem",
-        "Votes": "52,544",
-        "Percent": "74.4",
+        "Votes": "52,938",
+        "Percent": "74.2",
         "incumbent": true
       },
       {
         "Name": "Anna Cheng Kramer",
         "Party": "Rep",
-        "Votes": "18,113",
-        "Percent": "25.6",
+        "Votes": "18,454",
+        "Percent": "25.8",
         "incumbent": false
       }
     ]
