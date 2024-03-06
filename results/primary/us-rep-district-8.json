@@ -1,20 +1,20 @@
 {
   "raceTitle": "U.S. House of Representatives District 8 - Districtwide Results",
   "Reporting": "5.5% (20 of 361) precincts reporting",
-  "ReportingTime": "March 5, 2024, 9:28 p.m.",
+  "ReportingTime": "March 5, 2024, 9:34 p.m.",
   "candidates": [
     {
       "Name": "John Garamendi",
       "Party": "Dem",
-      "Votes": "48,304",
-      "Percent": "77.6",
+      "Votes": "48,693",
+      "Percent": "77.5",
       "incumbent": true
     },
     {
       "Name": "Rudy Recile",
       "Party": "Rep",
-      "Votes": "13,921",
-      "Percent": "22.4",
+      "Votes": "14,173",
+      "Percent": "22.5",
       "incumbent": false
     }
   ]
