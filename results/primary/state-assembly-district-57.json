@@ -1,41 +1,41 @@
 {
   "raceTitle": "State Assembly District 57 - Districtwide Results",
   "Reporting": "100% (108 of 108) precincts reporting",
-  "ReportingTime": "March 5, 2024, 10:12 p.m.",
+  "ReportingTime": "March 5, 2024, 10:26 p.m.",
   "candidates": [
     {
       "Name": "Greg Akili",
       "Party": "Dem",
-      "Votes": "982",
+      "Votes": "995",
       "Percent": "9.7",
       "incumbent": false
     },
     {
       "Name": "Sade Elhawary",
       "Party": "Dem",
-      "Votes": "2,976",
+      "Votes": "3,013",
       "Percent": "29.3",
       "incumbent": false
     },
     {
       "Name": "Efren Martinez",
       "Party": "Dem",
-      "Votes": "3,792",
-      "Percent": "37.4",
+      "Votes": "3,838",
+      "Percent": "37.3",
       "incumbent": false
     },
     {
       "Name": "Tara Perry",
       "Party": "Dem",
-      "Votes": "1,065",
+      "Votes": "1,084",
       "Percent": "10.5",
       "incumbent": false
     },
     {
       "Name": "Dulce Vasquez",
       "Party": "Dem",
-      "Votes": "1,327",
-      "Percent": "13.1",
+      "Votes": "1,354",
+      "Percent": "13.2",
       "incumbent": false
     }
   ]

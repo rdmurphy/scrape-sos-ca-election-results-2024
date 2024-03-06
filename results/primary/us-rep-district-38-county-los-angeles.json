@@ -2,33 +2,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 38 - Los Angeles County Results",
     "Reporting": "100% (175 of 175) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 10:24 p.m.",
     "candidates": [
       {
         "Name": "Linda T. Sánchez",
         "Party": "Dem",
-        "Votes": "23,849",
+        "Votes": "23,889",
         "Percent": "58.7",
         "incumbent": true
       },
       {
         "Name": "Eric J. Ching",
         "Party": "Rep",
-        "Votes": "9,822",
-        "Percent": "24.2",
+        "Votes": "9,832",
+        "Percent": "24.1",
         "incumbent": false
       },
       {
         "Name": "Robert Zhang Ochoa",
         "Party": "Rep",
-        "Votes": "2,550",
+        "Votes": "2,555",
         "Percent": "6.3",
         "incumbent": false
       },
       {
         "Name": "John Sarega",
         "Party": "Rep",
-        "Votes": "4,437",
+        "Votes": "4,441",
         "Percent": "10.9",
         "incumbent": false
       }
@@ -37,33 +37,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 38 - Districtwide Results",
     "Reporting": "100% (197 of 197) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:12 p.m.",
+    "ReportingTime": "March 5, 2024, 10:26 p.m.",
     "candidates": [
       {
         "Name": "Linda T. Sánchez",
         "Party": "Dem",
-        "Votes": "26,027",
+        "Votes": "26,067",
         "Percent": "58.4",
         "incumbent": true
       },
       {
         "Name": "Eric J. Ching",
         "Party": "Rep",
-        "Votes": "10,689",
+        "Votes": "10,699",
         "Percent": "24.0",
         "incumbent": false
       },
       {
         "Name": "Robert Zhang Ochoa",
         "Party": "Rep",
-        "Votes": "2,827",
+        "Votes": "2,832",
         "Percent": "6.3",
         "incumbent": false
       },
       {
         "Name": "John Sarega",
         "Party": "Rep",
-        "Votes": "5,033",
+        "Votes": "5,037",
         "Percent": "11.3",
         "incumbent": false
       }

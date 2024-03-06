@@ -2,40 +2,40 @@
   {
     "raceTitle": "State Senate District 25 - Los Angeles County Results",
     "Reporting": "100% (251 of 251) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 10:24 p.m.",
     "candidates": [
       {
         "Name": "Teddy Choi",
         "Party": "Dem",
-        "Votes": "4,183",
+        "Votes": "4,204",
         "Percent": "5.1",
         "incumbent": false
       },
       {
         "Name": "Sandra Armenta",
         "Party": "Dem",
-        "Votes": "8,193",
-        "Percent": "10.0",
+        "Votes": "8,267",
+        "Percent": "10.1",
         "incumbent": false
       },
       {
         "Name": "Sasha Renée Pérez",
         "Party": "Dem",
-        "Votes": "24,793",
-        "Percent": "30.4",
+        "Votes": "24,919",
+        "Percent": "30.3",
         "incumbent": false
       },
       {
         "Name": "Yvonne Yiu",
         "Party": "Dem",
-        "Votes": "17,278",
-        "Percent": "21.2",
+        "Votes": "17,365",
+        "Percent": "21.1",
         "incumbent": false
       },
       {
         "Name": "Elizabeth Wong Ahlers",
         "Party": "Rep",
-        "Votes": "27,143",
+        "Votes": "27,386",
         "Percent": "33.3",
         "incumbent": false
       }
@@ -44,41 +44,41 @@
   {
     "raceTitle": "State Senate District 25 - Districtwide Results",
     "Reporting": "76.6% (258 of 337) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:12 p.m.",
+    "ReportingTime": "March 5, 2024, 10:26 p.m.",
     "candidates": [
       {
         "Name": "Teddy Choi",
         "Party": "Dem",
-        "Votes": "4,324",
+        "Votes": "4,345",
         "Percent": "5.0",
         "incumbent": false
       },
       {
         "Name": "Sandra Armenta",
         "Party": "Dem",
-        "Votes": "8,726",
-        "Percent": "10.0",
+        "Votes": "8,800",
+        "Percent": "10.1",
         "incumbent": false
       },
       {
         "Name": "Sasha Renée Pérez",
         "Party": "Dem",
-        "Votes": "25,706",
-        "Percent": "29.6",
+        "Votes": "25,832",
+        "Percent": "29.5",
         "incumbent": false
       },
       {
         "Name": "Yvonne Yiu",
         "Party": "Dem",
-        "Votes": "18,071",
+        "Votes": "18,158",
         "Percent": "20.8",
         "incumbent": false
       },
       {
         "Name": "Elizabeth Wong Ahlers",
         "Party": "Rep",
-        "Votes": "30,076",
-        "Percent": "34.6",
+        "Votes": "30,319",
+        "Percent": "34.7",
         "incumbent": false
       }
     ]

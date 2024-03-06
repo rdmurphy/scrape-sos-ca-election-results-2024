@@ -2,41 +2,41 @@
   {
     "raceTitle": "State Assembly District 29 - Santa Clara County Results",
     "Reporting": "100% (26 of 26) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:52 p.m.",
+    "ReportingTime": "March 5, 2024, 10:26 p.m.",
     "candidates": [
       {
         "Name": "Robert Rivas",
         "Party": "Dem",
-        "Votes": "3,099",
-        "Percent": "66.3",
+        "Votes": "3,522",
+        "Percent": "61.4",
         "incumbent": true
       },
       {
         "Name": "J.W. Paine",
         "Party": "Rep",
-        "Votes": "1,578",
-        "Percent": "33.7",
+        "Votes": "2,210",
+        "Percent": "38.6",
         "incumbent": false
       }
     ]
   },
   {
     "raceTitle": "State Assembly District 29 - Districtwide Results",
-    "Reporting": "88.4% (176 of 199) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:12 p.m.",
+    "Reporting": "91.5% (182 of 199) precincts reporting",
+    "ReportingTime": "March 5, 2024, 10:26 p.m.",
     "candidates": [
       {
         "Name": "Robert Rivas",
         "Party": "Dem",
-        "Votes": "16,485",
-        "Percent": "67.5",
+        "Votes": "17,069",
+        "Percent": "66.1",
         "incumbent": true
       },
       {
         "Name": "J.W. Paine",
         "Party": "Rep",
-        "Votes": "7,922",
-        "Percent": "32.5",
+        "Votes": "8,743",
+        "Percent": "33.9",
         "incumbent": false
       }
     ]

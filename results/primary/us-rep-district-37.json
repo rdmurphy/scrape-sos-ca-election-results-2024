@@ -1,33 +1,33 @@
 {
   "raceTitle": "U.S. House of Representatives District 37 - Districtwide Results",
   "Reporting": "100% (171 of 171) precincts reporting",
-  "ReportingTime": "March 5, 2024, 10:12 p.m.",
+  "ReportingTime": "March 5, 2024, 10:26 p.m.",
   "candidates": [
     {
       "Name": "Adam J. Carmichael",
       "Party": "Dem",
-      "Votes": "3,050",
+      "Votes": "3,054",
       "Percent": "9.6",
       "incumbent": false
     },
     {
       "Name": "Sydney Kamlager-Dove",
       "Party": "Dem",
-      "Votes": "23,229",
+      "Votes": "23,244",
       "Percent": "73.3",
       "incumbent": true
     },
     {
       "Name": "John Thompson Parker",
       "Party": "P&F",
-      "Votes": "2,503",
+      "Votes": "2,511",
       "Percent": "7.9",
       "incumbent": false
     },
     {
       "Name": "Juan Rey",
       "Party": "NPP",
-      "Votes": "2,901",
+      "Votes": "2,909",
       "Percent": "9.2",
       "incumbent": false
     }

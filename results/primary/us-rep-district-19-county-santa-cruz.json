@@ -1,27 +1,27 @@
 [
   {
     "raceTitle": "U.S. House of Representatives District 19 - Santa Cruz County Results",
-    "Reporting": "26.1% (24 of 92) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:04 p.m.",
+    "Reporting": "56.5% (52 of 92) precincts reporting",
+    "ReportingTime": "March 5, 2024, 10:26 p.m.",
     "candidates": [
       {
         "Name": "Jimmy Panetta",
         "Party": "Dem",
-        "Votes": "24,447",
-        "Percent": "78.7",
+        "Votes": "25,197",
+        "Percent": "78.6",
         "incumbent": true
       },
       {
         "Name": "Jason Michael Anderson",
         "Party": "Rep",
-        "Votes": "4,826",
+        "Votes": "4,984",
         "Percent": "15.5",
         "incumbent": false
       },
       {
         "Name": "Sean Dougherty",
         "Party": "Grn",
-        "Votes": "1,802",
+        "Votes": "1,875",
         "Percent": "5.8",
         "incumbent": false
       }
@@ -29,28 +29,28 @@
   },
   {
     "raceTitle": "U.S. House of Representatives District 19 - Districtwide Results",
-    "Reporting": "66.2% (223 of 337) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:12 p.m.",
+    "Reporting": "74.5% (251 of 337) precincts reporting",
+    "ReportingTime": "March 5, 2024, 10:26 p.m.",
     "candidates": [
       {
         "Name": "Jimmy Panetta",
         "Party": "Dem",
-        "Votes": "63,801",
-        "Percent": "69.4",
+        "Votes": "66,486",
+        "Percent": "68.1",
         "incumbent": true
       },
       {
         "Name": "Jason Michael Anderson",
         "Party": "Rep",
-        "Votes": "23,837",
-        "Percent": "25.9",
+        "Votes": "26,412",
+        "Percent": "27.0",
         "incumbent": false
       },
       {
         "Name": "Sean Dougherty",
         "Party": "Grn",
-        "Votes": "4,331",
-        "Percent": "4.7",
+        "Votes": "4,756",
+        "Percent": "4.9",
         "incumbent": false
       }
     ]

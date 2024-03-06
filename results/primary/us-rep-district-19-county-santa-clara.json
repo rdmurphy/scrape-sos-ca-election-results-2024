@@ -2,55 +2,55 @@
   {
     "raceTitle": "U.S. House of Representatives District 19 - Santa Clara County Results",
     "Reporting": "100% (105 of 105) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:52 p.m.",
+    "ReportingTime": "March 5, 2024, 10:26 p.m.",
     "candidates": [
       {
         "Name": "Jimmy Panetta",
         "Party": "Dem",
-        "Votes": "15,779",
-        "Percent": "65.3",
+        "Votes": "17,714",
+        "Percent": "61.4",
         "incumbent": true
       },
       {
         "Name": "Jason Michael Anderson",
         "Party": "Rep",
-        "Votes": "6,997",
-        "Percent": "29.0",
+        "Votes": "9,414",
+        "Percent": "32.6",
         "incumbent": false
       },
       {
         "Name": "Sean Dougherty",
         "Party": "Grn",
-        "Votes": "1,379",
-        "Percent": "5.7",
+        "Votes": "1,731",
+        "Percent": "6.0",
         "incumbent": false
       }
     ]
   },
   {
     "raceTitle": "U.S. House of Representatives District 19 - Districtwide Results",
-    "Reporting": "66.2% (223 of 337) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:12 p.m.",
+    "Reporting": "74.5% (251 of 337) precincts reporting",
+    "ReportingTime": "March 5, 2024, 10:26 p.m.",
     "candidates": [
       {
         "Name": "Jimmy Panetta",
         "Party": "Dem",
-        "Votes": "63,801",
-        "Percent": "69.4",
+        "Votes": "66,486",
+        "Percent": "68.1",
         "incumbent": true
       },
       {
         "Name": "Jason Michael Anderson",
         "Party": "Rep",
-        "Votes": "23,837",
-        "Percent": "25.9",
+        "Votes": "26,412",
+        "Percent": "27.0",
         "incumbent": false
       },
       {
         "Name": "Sean Dougherty",
         "Party": "Grn",
-        "Votes": "4,331",
-        "Percent": "4.7",
+        "Votes": "4,756",
+        "Percent": "4.9",
         "incumbent": false
       }
     ]

@@ -2,68 +2,68 @@
   {
     "raceTitle": "State Senate District 17 - San Benito County Results",
     "Reporting": "100% (28 of 28) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:54 p.m.",
+    "ReportingTime": "March 5, 2024, 10:24 p.m.",
     "candidates": [
       {
         "Name": "John Laird",
         "Party": "Dem",
-        "Votes": "1,603",
-        "Percent": "52.3",
+        "Votes": "1,673",
+        "Percent": "50.5",
         "incumbent": true
       },
       {
         "Name": "Eric Tao",
         "Party": "Rep",
-        "Votes": "437",
-        "Percent": "14.2",
+        "Votes": "481",
+        "Percent": "14.5",
         "incumbent": false
       },
       {
         "Name": "Tony Virrueta",
         "Party": "Rep",
-        "Votes": "970",
-        "Percent": "31.6",
+        "Votes": "1,096",
+        "Percent": "33.1",
         "incumbent": false
       },
       {
         "Name": "Michael Oxford",
         "Party": "Lib",
-        "Votes": "57",
-        "Percent": "1.9",
+        "Votes": "65",
+        "Percent": "2.0",
         "incumbent": false
       }
     ]
   },
   {
     "raceTitle": "State Senate District 17 - Districtwide Results",
-    "Reporting": "60.2% (268 of 445) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:12 p.m.",
+    "Reporting": "66.5% (296 of 445) precincts reporting",
+    "ReportingTime": "March 5, 2024, 10:26 p.m.",
     "candidates": [
       {
         "Name": "John Laird",
         "Party": "Dem",
-        "Votes": "69,231",
+        "Votes": "70,130",
         "Percent": "67.6",
         "incumbent": true
       },
       {
         "Name": "Eric Tao",
         "Party": "Rep",
-        "Votes": "11,517",
-        "Percent": "11.3",
+        "Votes": "11,635",
+        "Percent": "11.2",
         "incumbent": false
       },
       {
         "Name": "Tony Virrueta",
         "Party": "Rep",
-        "Votes": "19,808",
+        "Votes": "20,075",
         "Percent": "19.4",
         "incumbent": false
       },
       {
         "Name": "Michael Oxford",
         "Party": "Lib",
-        "Votes": "1,807",
+        "Votes": "1,834",
         "Percent": "1.8",
         "incumbent": false
       }

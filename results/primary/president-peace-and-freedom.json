@@ -1,27 +1,27 @@
 {
   "raceTitle": "President Peace and Freedom - Statewide Results",
-  "Reporting": "59.1% (12,324 of 20,855) precincts reporting",
-  "ReportingTime": "March 5, 2024, 10:12 p.m.",
+  "Reporting": "60% (12,507 of 20,855) precincts reporting",
+  "ReportingTime": "March 5, 2024, 10:26 p.m.",
   "candidates": [
     {
       "Name": "Claudia De la Cruz",
       "Party": "P&F",
-      "Votes": "1,927",
+      "Votes": "1,989",
       "Percent": "46.2",
       "incumbent": false
     },
     {
       "Name": "Jasmine Sherman",
       "Party": "P&F",
-      "Votes": "679",
-      "Percent": "16.3",
+      "Votes": "694",
+      "Percent": "16.1",
       "incumbent": false
     },
     {
       "Name": "Cornel West",
       "Party": "P&F",
-      "Votes": "1,562",
-      "Percent": "37.5",
+      "Votes": "1,618",
+      "Percent": "37.6",
       "incumbent": false
     }
   ]

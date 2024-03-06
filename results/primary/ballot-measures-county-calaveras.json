@@ -1,15 +1,15 @@
 {
   "raceTitle": "Ballot Measures - Calaveras Results",
-  "Reporting": "0.0% (0 of 25) precincts reporting",
-  "ReportingTime": "March 5, 2024, 8:16 p.m.",
+  "Reporting": "100.0% (25 of 25) precincts reporting",
+  "ReportingTime": "March 5, 2024, 10:20 p.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "3648",
-      "yesPercent": "38.0",
-      "noVotes": "5941",
-      "noPercent": "62.0"
+      "yesVotes": "3975",
+      "yesPercent": "35.8",
+      "noVotes": "7128",
+      "noPercent": "64.2"
     }
   ]
 }

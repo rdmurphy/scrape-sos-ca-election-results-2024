@@ -2,33 +2,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 28 - Los Angeles County Results",
     "Reporting": "100% (192 of 192) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 10:24 p.m.",
     "candidates": [
       {
         "Name": "Judy Chu",
         "Party": "Dem",
-        "Votes": "40,121",
-        "Percent": "67.4",
+        "Votes": "40,343",
+        "Percent": "67.2",
         "incumbent": true
       },
       {
         "Name": "April A. Verlato",
         "Party": "Rep",
-        "Votes": "17,247",
-        "Percent": "29.0",
+        "Votes": "17,451",
+        "Percent": "29.1",
         "incumbent": false
       },
       {
         "Name": "Jose Castaneda",
         "Party": "Lib",
-        "Votes": "1,089",
-        "Percent": "1.8",
+        "Votes": "1,115",
+        "Percent": "1.9",
         "incumbent": false
       },
       {
         "Name": "William Patterson",
         "Party": "P&F",
-        "Votes": "1,103",
+        "Votes": "1,120",
         "Percent": "1.9",
         "incumbent": false
       }
@@ -37,33 +37,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 28 - Districtwide Results",
     "Reporting": "58.2% (202 of 347) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:12 p.m.",
+    "ReportingTime": "March 5, 2024, 10:26 p.m.",
     "candidates": [
       {
         "Name": "Judy Chu",
         "Party": "Dem",
-        "Votes": "43,256",
-        "Percent": "65.0",
+        "Votes": "43,478",
+        "Percent": "64.9",
         "incumbent": true
       },
       {
         "Name": "April A. Verlato",
         "Party": "Rep",
-        "Votes": "20,899",
-        "Percent": "31.4",
+        "Votes": "21,103",
+        "Percent": "31.5",
         "incumbent": false
       },
       {
         "Name": "Jose Castaneda",
         "Party": "Lib",
-        "Votes": "1,209",
+        "Votes": "1,235",
         "Percent": "1.8",
         "incumbent": false
       },
       {
         "Name": "William Patterson",
         "Party": "P&F",
-        "Votes": "1,207",
+        "Votes": "1,224",
         "Percent": "1.8",
         "incumbent": false
       }

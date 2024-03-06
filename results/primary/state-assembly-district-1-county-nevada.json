@@ -2,69 +2,69 @@
   {
     "raceTitle": "State Assembly District 1 - Nevada County Results",
     "Reporting": "100% (108 of 108) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:22 p.m.",
+    "ReportingTime": "March 5, 2024, 10:20 p.m.",
     "candidates": [
       {
         "Name": "Tenessa Audette",
         "Party": "Rep",
-        "Votes": "4,836",
-        "Percent": "42.6",
+        "Votes": "5,222",
+        "Percent": "42.7",
         "incumbent": false
       },
       {
         "Name": "Heather Hadwick",
         "Party": "Rep",
-        "Votes": "3,766",
-        "Percent": "33.2",
+        "Votes": "4,080",
+        "Percent": "33.4",
         "incumbent": false
       },
       {
         "Name": "Melissa Hunt",
         "Party": "Rep",
-        "Votes": "658",
-        "Percent": "5.8",
+        "Votes": "719",
+        "Percent": "5.9",
         "incumbent": false
       },
       {
         "Name": "Mark Mezzano",
         "Party": "Rep",
-        "Votes": "2,090",
-        "Percent": "18.4",
+        "Votes": "2,205",
+        "Percent": "18.0",
         "incumbent": false
       }
     ]
   },
   {
     "raceTitle": "State Assembly District 1 - Districtwide Results",
-    "Reporting": "72% (313 of 435) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:12 p.m.",
+    "Reporting": "74.7% (325 of 435) precincts reporting",
+    "ReportingTime": "March 5, 2024, 10:26 p.m.",
     "candidates": [
       {
         "Name": "Tenessa Audette",
         "Party": "Rep",
-        "Votes": "16,459",
-        "Percent": "31.0",
+        "Votes": "16,890",
+        "Percent": "31.1",
         "incumbent": false
       },
       {
         "Name": "Heather Hadwick",
         "Party": "Rep",
-        "Votes": "19,336",
-        "Percent": "36.4",
+        "Votes": "19,841",
+        "Percent": "36.5",
         "incumbent": false
       },
       {
         "Name": "Melissa Hunt",
         "Party": "Rep",
-        "Votes": "4,722",
+        "Votes": "4,817",
         "Percent": "8.9",
         "incumbent": false
       },
       {
         "Name": "Mark Mezzano",
         "Party": "Rep",
-        "Votes": "12,570",
-        "Percent": "23.7",
+        "Votes": "12,739",
+        "Percent": "23.5",
         "incumbent": false
       }
     ]
