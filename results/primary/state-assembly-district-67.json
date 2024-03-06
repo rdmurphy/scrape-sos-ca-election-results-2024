@@ -1,26 +1,26 @@
 {
   "raceTitle": "State Assembly District 67 - Districtwide Results",
-  "Reporting": "5.9% (16 of 269) precincts reporting",
-  "ReportingTime": "March 5, 2024, 9:34 p.m.",
+  "Reporting": "100% (269 of 269) precincts reporting",
+  "ReportingTime": "March 5, 2024, 9:46 p.m.",
   "candidates": [
     {
       "Name": "Sharon Quirk-Silva",
       "Party": "Dem",
-      "Votes": "16,637",
+      "Votes": "16,654",
       "Percent": "56.1",
       "incumbent": true
     },
     {
       "Name": "Elizabeth \"Beth\" Culver",
       "Party": "Rep",
-      "Votes": "10,767",
+      "Votes": "10,788",
       "Percent": "36.3",
       "incumbent": false
     },
     {
       "Name": "Jacob Woo Ho Lee",
       "Party": "NPP",
-      "Votes": "2,235",
+      "Votes": "2,237",
       "Percent": "7.5",
       "incumbent": false
     }

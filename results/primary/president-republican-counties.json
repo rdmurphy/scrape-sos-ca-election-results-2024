@@ -1,70 +1,70 @@
 [
   {
     "raceTitle": "President Republican - Statewide Results",
-    "Reporting": "41.6% (8,680 of 20,855) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:34 p.m.",
+    "Reporting": "55.8% (11,631 of 20,855) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:46 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
         "Party": "Rep",
-        "Votes": "1,985",
+        "Votes": "1,992",
         "Percent": "0.2",
         "incumbent": false
       },
       {
         "Name": "Chris Christie",
         "Party": "Rep",
-        "Votes": "11,310",
+        "Votes": "11,328",
         "Percent": "1.1",
         "incumbent": false
       },
       {
         "Name": "Ron DeSantis",
         "Party": "Rep",
-        "Votes": "16,655",
+        "Votes": "16,748",
         "Percent": "1.7",
         "incumbent": false
       },
       {
         "Name": "Nikki Haley",
         "Party": "Rep",
-        "Votes": "210,391",
-        "Percent": "21.2",
+        "Votes": "211,073",
+        "Percent": "21.1",
         "incumbent": false
       },
       {
         "Name": "Asa Hutchinson",
         "Party": "Rep",
-        "Votes": "1,759",
+        "Votes": "1,761",
         "Percent": "0.2",
         "incumbent": false
       },
       {
         "Name": "Vivek Ramaswamy",
         "Party": "Rep",
-        "Votes": "4,356",
+        "Votes": "4,379",
         "Percent": "0.4",
         "incumbent": false
       },
       {
         "Name": "David Stuckenberg",
         "Party": "Rep",
-        "Votes": "1,912",
+        "Votes": "1,920",
         "Percent": "0.2",
         "incumbent": false
       },
       {
         "Name": "Rachel Swift",
         "Party": "Rep",
-        "Votes": "2,122",
+        "Votes": "2,132",
         "Percent": "0.2",
         "incumbent": false
       },
       {
         "Name": "Donald J. Trump",
         "Party": "Rep",
-        "Votes": "742,801",
-        "Percent": "74.8",
+        "Votes": "751,042",
+        "Percent": "74.9",
         "incumbent": false
       }
     ]
@@ -211,8 +211,8 @@
   },
   {
     "raceTitle": "President Republican - Amador County Results",
-    "Reporting": "0% (0 of 47) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:02 p.m.",
+    "Reporting": "100% (47 of 47) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:44 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -224,22 +224,22 @@
       {
         "Name": "Chris Christie",
         "Party": "Rep",
-        "Votes": "34",
+        "Votes": "35",
         "Percent": "0.6",
         "incumbent": false
       },
       {
         "Name": "Ron DeSantis",
         "Party": "Rep",
-        "Votes": "79",
-        "Percent": "1.5",
+        "Votes": "84",
+        "Percent": "1.4",
         "incumbent": false
       },
       {
         "Name": "Nikki Haley",
         "Party": "Rep",
-        "Votes": "812",
-        "Percent": "15.0",
+        "Votes": "848",
+        "Percent": "14.2",
         "incumbent": false
       },
       {
@@ -252,7 +252,7 @@
       {
         "Name": "Vivek Ramaswamy",
         "Party": "Rep",
-        "Votes": "11",
+        "Votes": "14",
         "Percent": "0.2",
         "incumbent": false
       },
@@ -273,8 +273,8 @@
       {
         "Name": "Donald J. Trump",
         "Party": "Rep",
-        "Votes": "4,444",
-        "Percent": "82.4",
+        "Votes": "4,982",
+        "Percent": "83.3",
         "incumbent": false
       }
     ]
@@ -282,7 +282,7 @@
   {
     "raceTitle": "President Republican - Butte County Results",
     "Reporting": "100% (88 of 88) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:35 p.m.",
+    "ReportingTime": "March 5, 2024, 9:39 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -294,42 +294,42 @@
       {
         "Name": "Chris Christie",
         "Party": "Rep",
-        "Votes": "98",
+        "Votes": "101",
         "Percent": "0.7",
         "incumbent": false
       },
       {
         "Name": "Ron DeSantis",
         "Party": "Rep",
-        "Votes": "177",
+        "Votes": "181",
         "Percent": "1.3",
         "incumbent": false
       },
       {
         "Name": "Nikki Haley",
         "Party": "Rep",
-        "Votes": "2,245",
-        "Percent": "16.9",
+        "Votes": "2,287",
+        "Percent": "16.6",
         "incumbent": false
       },
       {
         "Name": "Asa Hutchinson",
         "Party": "Rep",
-        "Votes": "12",
+        "Votes": "13",
         "Percent": "0.1",
         "incumbent": false
       },
       {
         "Name": "Vivek Ramaswamy",
         "Party": "Rep",
-        "Votes": "42",
+        "Votes": "44",
         "Percent": "0.3",
         "incumbent": false
       },
       {
         "Name": "David Stuckenberg",
         "Party": "Rep",
-        "Votes": "22",
+        "Votes": "23",
         "Percent": "0.2",
         "incumbent": false
       },
@@ -343,8 +343,8 @@
       {
         "Name": "Donald J. Trump",
         "Party": "Rep",
-        "Votes": "10,671",
-        "Percent": "80.2",
+        "Votes": "11,121",
+        "Percent": "80.5",
         "incumbent": false
       }
     ]
@@ -702,34 +702,34 @@
   {
     "raceTitle": "President Republican - Fresno County Results",
     "Reporting": "0% (0 of 301) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:12 p.m.",
+    "ReportingTime": "March 5, 2024, 9:38 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
         "Party": "Rep",
-        "Votes": "55",
+        "Votes": "56",
         "Percent": "0.2",
         "incumbent": false
       },
       {
         "Name": "Chris Christie",
         "Party": "Rep",
-        "Votes": "291",
-        "Percent": "1.0",
+        "Votes": "294",
+        "Percent": "0.9",
         "incumbent": false
       },
       {
         "Name": "Ron DeSantis",
         "Party": "Rep",
-        "Votes": "523",
-        "Percent": "1.8",
+        "Votes": "568",
+        "Percent": "1.7",
         "incumbent": false
       },
       {
         "Name": "Nikki Haley",
         "Party": "Rep",
-        "Votes": "5,322",
-        "Percent": "18.2",
+        "Votes": "5,605",
+        "Percent": "16.7",
         "incumbent": false
       },
       {
@@ -742,29 +742,29 @@
       {
         "Name": "Vivek Ramaswamy",
         "Party": "Rep",
-        "Votes": "105",
-        "Percent": "0.4",
+        "Votes": "117",
+        "Percent": "0.3",
         "incumbent": false
       },
       {
         "Name": "David Stuckenberg",
         "Party": "Rep",
-        "Votes": "46",
-        "Percent": "0.2",
+        "Votes": "48",
+        "Percent": "0.1",
         "incumbent": false
       },
       {
         "Name": "Rachel Swift",
         "Party": "Rep",
-        "Votes": "57",
+        "Votes": "59",
         "Percent": "0.2",
         "incumbent": false
       },
       {
         "Name": "Donald J. Trump",
         "Party": "Rep",
-        "Votes": "22,858",
-        "Percent": "78.1",
+        "Votes": "26,813",
+        "Percent": "79.8",
         "incumbent": false
       }
     ]
@@ -1052,7 +1052,7 @@
   {
     "raceTitle": "President Republican - Kern County Results",
     "Reporting": "0% (0 of 760) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:34 p.m.",
+    "ReportingTime": "March 5, 2024, 9:46 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -1192,34 +1192,34 @@
   {
     "raceTitle": "President Republican - Lake County Results",
     "Reporting": "0% (0 of 48) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:15 p.m.",
+    "ReportingTime": "March 5, 2024, 9:44 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
         "Party": "Rep",
-        "Votes": "5",
-        "Percent": "0.4",
+        "Votes": "6",
+        "Percent": "0.3",
         "incumbent": false
       },
       {
         "Name": "Chris Christie",
         "Party": "Rep",
-        "Votes": "22",
-        "Percent": "1.6",
+        "Votes": "26",
+        "Percent": "1.4",
         "incumbent": false
       },
       {
         "Name": "Ron DeSantis",
         "Party": "Rep",
-        "Votes": "25",
-        "Percent": "1.8",
+        "Votes": "32",
+        "Percent": "1.7",
         "incumbent": false
       },
       {
         "Name": "Nikki Haley",
         "Party": "Rep",
-        "Votes": "208",
-        "Percent": "15.2",
+        "Votes": "264",
+        "Percent": "14.3",
         "incumbent": false
       },
       {
@@ -1233,28 +1233,28 @@
         "Name": "Vivek Ramaswamy",
         "Party": "Rep",
         "Votes": "5",
-        "Percent": "0.4",
+        "Percent": "0.3",
         "incumbent": false
       },
       {
         "Name": "David Stuckenberg",
         "Party": "Rep",
-        "Votes": "3",
+        "Votes": "4",
         "Percent": "0.2",
         "incumbent": false
       },
       {
         "Name": "Rachel Swift",
         "Party": "Rep",
-        "Votes": "10",
-        "Percent": "0.7",
+        "Votes": "11",
+        "Percent": "0.6",
         "incumbent": false
       },
       {
         "Name": "Donald J. Trump",
         "Party": "Rep",
-        "Votes": "1,084",
-        "Percent": "79.4",
+        "Votes": "1,500",
+        "Percent": "81.0",
         "incumbent": false
       }
     ]
@@ -1262,7 +1262,7 @@
   {
     "raceTitle": "President Republican - Lassen County Results",
     "Reporting": "100% (52 of 52) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:14 p.m.",
+    "ReportingTime": "March 5, 2024, 9:46 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -1289,14 +1289,14 @@
         "Name": "Nikki Haley",
         "Party": "Rep",
         "Votes": "244",
-        "Percent": "10.6",
+        "Percent": "10.4",
         "incumbent": false
       },
       {
         "Name": "Asa Hutchinson",
         "Party": "Rep",
-        "Votes": "5",
-        "Percent": "0.2",
+        "Votes": "6",
+        "Percent": "0.3",
         "incumbent": false
       },
       {
@@ -1323,8 +1323,8 @@
       {
         "Name": "Donald J. Trump",
         "Party": "Rep",
-        "Votes": "2,007",
-        "Percent": "86.8",
+        "Votes": "2,041",
+        "Percent": "87.0",
         "incumbent": false
       }
     ]
@@ -1402,7 +1402,7 @@
   {
     "raceTitle": "President Republican - Madera County Results",
     "Reporting": "100% (35 of 35) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:16 p.m.",
+    "ReportingTime": "March 5, 2024, 9:38 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -1422,14 +1422,14 @@
         "Name": "Ron DeSantis",
         "Party": "Rep",
         "Votes": "133",
-        "Percent": "1.8",
+        "Percent": "1.7",
         "incumbent": false
       },
       {
         "Name": "Nikki Haley",
         "Party": "Rep",
-        "Votes": "1,072",
-        "Percent": "14.3",
+        "Votes": "1,076",
+        "Percent": "14.0",
         "incumbent": false
       },
       {
@@ -1449,7 +1449,7 @@
       {
         "Name": "David Stuckenberg",
         "Party": "Rep",
-        "Votes": "7",
+        "Votes": "8",
         "Percent": "0.1",
         "incumbent": false
       },
@@ -1463,8 +1463,8 @@
       {
         "Name": "Donald J. Trump",
         "Party": "Rep",
-        "Votes": "6,205",
-        "Percent": "82.6",
+        "Votes": "6,395",
+        "Percent": "83.0",
         "incumbent": false
       }
     ]
@@ -2101,35 +2101,35 @@
   },
   {
     "raceTitle": "President Republican - Orange County Results",
-    "Reporting": "0% (0 of 2,239) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:28 p.m.",
+    "Reporting": "100% (2,239 of 2,239) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:42 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
         "Party": "Rep",
-        "Votes": "202",
+        "Votes": "204",
         "Percent": "0.2",
         "incumbent": false
       },
       {
         "Name": "Chris Christie",
         "Party": "Rep",
-        "Votes": "1,443",
+        "Votes": "1,448",
         "Percent": "1.2",
         "incumbent": false
       },
       {
         "Name": "Ron DeSantis",
         "Party": "Rep",
-        "Votes": "1,964",
+        "Votes": "1,994",
         "Percent": "1.6",
         "incumbent": false
       },
       {
         "Name": "Nikki Haley",
         "Party": "Rep",
-        "Votes": "27,835",
-        "Percent": "23.3",
+        "Votes": "28,068",
+        "Percent": "23.0",
         "incumbent": false
       },
       {
@@ -2142,29 +2142,29 @@
       {
         "Name": "Vivek Ramaswamy",
         "Party": "Rep",
-        "Votes": "538",
-        "Percent": "0.5",
+        "Votes": "543",
+        "Percent": "0.4",
         "incumbent": false
       },
       {
         "Name": "David Stuckenberg",
         "Party": "Rep",
-        "Votes": "166",
+        "Votes": "167",
         "Percent": "0.1",
         "incumbent": false
       },
       {
         "Name": "Rachel Swift",
         "Party": "Rep",
-        "Votes": "217",
+        "Votes": "224",
         "Percent": "0.2",
         "incumbent": false
       },
       {
         "Name": "Donald J. Trump",
         "Party": "Rep",
-        "Votes": "86,736",
-        "Percent": "72.7",
+        "Votes": "89,090",
+        "Percent": "73.1",
         "incumbent": false
       }
     ]
@@ -2311,34 +2311,34 @@
   },
   {
     "raceTitle": "President Republican - Riverside County Results",
-    "Reporting": "28.3% (263 of 928) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:30 p.m.",
+    "Reporting": "100% (928 of 928) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:44 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
         "Party": "Rep",
-        "Votes": "122",
+        "Votes": "125",
         "Percent": "0.2",
         "incumbent": false
       },
       {
         "Name": "Chris Christie",
         "Party": "Rep",
-        "Votes": "754",
+        "Votes": "756",
         "Percent": "1.1",
         "incumbent": false
       },
       {
         "Name": "Ron DeSantis",
         "Party": "Rep",
-        "Votes": "1,091",
+        "Votes": "1,093",
         "Percent": "1.6",
         "incumbent": false
       },
       {
         "Name": "Nikki Haley",
         "Party": "Rep",
-        "Votes": "11,269",
+        "Votes": "11,297",
         "Percent": "16.2",
         "incumbent": false
       },
@@ -2352,14 +2352,14 @@
       {
         "Name": "Vivek Ramaswamy",
         "Party": "Rep",
-        "Votes": "234",
+        "Votes": "235",
         "Percent": "0.3",
         "incumbent": false
       },
       {
         "Name": "David Stuckenberg",
         "Party": "Rep",
-        "Votes": "100",
+        "Votes": "102",
         "Percent": "0.1",
         "incumbent": false
       },
@@ -2373,8 +2373,8 @@
       {
         "Name": "Donald J. Trump",
         "Party": "Rep",
-        "Votes": "55,756",
-        "Percent": "80.1",
+        "Votes": "56,060",
+        "Percent": "80.2",
         "incumbent": false
       }
     ]
@@ -2452,7 +2452,7 @@
   {
     "raceTitle": "President Republican - San Benito County Results",
     "Reporting": "0% (0 of 28) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:34 p.m.",
+    "ReportingTime": "March 5, 2024, 9:46 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -3712,7 +3712,7 @@
   {
     "raceTitle": "President Republican - Trinity County Results",
     "Reporting": "0% (0 of 8) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:34 p.m.",
+    "ReportingTime": "March 5, 2024, 9:46 p.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",

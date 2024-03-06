@@ -1,14 +1,14 @@
 {
   "raceTitle": "Ballot Measures - Riverside Results",
-  "Reporting": "28.3% (263 of 928) precincts reporting",
-  "ReportingTime": "March 5, 2024, 8:30 p.m.",
+  "Reporting": "100.0% (928 of 928) precincts reporting",
+  "ReportingTime": "March 5, 2024, 9:44 p.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "85009",
+      "yesVotes": "85355",
       "yesPercent": "51.8",
-      "noVotes": "79088",
+      "noVotes": "79507",
       "noPercent": "48.2"
     }
   ]

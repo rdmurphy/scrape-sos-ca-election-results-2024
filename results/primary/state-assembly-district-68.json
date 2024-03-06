@@ -1,20 +1,20 @@
 {
   "raceTitle": "State Assembly District 68 - Districtwide Results",
-  "Reporting": "0% (0 of 206) precincts reporting",
-  "ReportingTime": "March 5, 2024, 9:34 p.m.",
+  "Reporting": "100% (206 of 206) precincts reporting",
+  "ReportingTime": "March 5, 2024, 9:46 p.m.",
   "candidates": [
     {
       "Name": "Avelino Valencia",
       "Party": "Dem",
-      "Votes": "12,848",
-      "Percent": "61.4",
+      "Votes": "13,615",
+      "Percent": "60.0",
       "incumbent": true
     },
     {
       "Name": "Mike Tardif",
       "Party": "Rep",
-      "Votes": "8,079",
-      "Percent": "38.6",
+      "Votes": "9,067",
+      "Percent": "40.0",
       "incumbent": false
     }
   ]

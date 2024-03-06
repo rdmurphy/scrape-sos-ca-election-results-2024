@@ -1,62 +1,62 @@
 [
   {
     "raceTitle": "President Democratic - Statewide Results",
-    "Reporting": "41.6% (8,680 of 20,855) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:34 p.m.",
+    "Reporting": "55.8% (11,631 of 20,855) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:46 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
         "Party": "Dem",
-        "Votes": "1,422,782",
+        "Votes": "1,426,392",
         "Percent": "90.4",
         "incumbent": true
       },
       {
         "Name": "President R Boddie",
         "Party": "Dem",
-        "Votes": "11,722",
+        "Votes": "11,786",
         "Percent": "0.7",
         "incumbent": false
       },
       {
         "Name": "Eban Cambridge",
         "Party": "Dem",
-        "Votes": "4,877",
+        "Votes": "4,898",
         "Percent": "0.3",
         "incumbent": false
       },
       {
         "Name": "Gabriel Cornejo",
         "Party": "Dem",
-        "Votes": "17,222",
+        "Votes": "17,276",
         "Percent": "1.1",
         "incumbent": false
       },
       {
         "Name": "Stephen P Lyons",
         "Party": "Dem",
-        "Votes": "10,085",
+        "Votes": "10,111",
         "Percent": "0.6",
         "incumbent": false
       },
       {
         "Name": "Armando \"Mando\" Perez-Serrato",
         "Party": "Dem",
-        "Votes": "17,502",
+        "Votes": "17,596",
         "Percent": "1.1",
         "incumbent": false
       },
       {
         "Name": "Dean Phillips",
         "Party": "Dem",
-        "Votes": "44,067",
+        "Votes": "44,199",
         "Percent": "2.8",
         "incumbent": false
       },
       {
         "Name": "Marianne Williamson",
         "Party": "Dem",
-        "Votes": "45,000",
+        "Votes": "45,233",
         "Percent": "2.9",
         "incumbent": false
       }
@@ -190,27 +190,27 @@
   },
   {
     "raceTitle": "President Democratic - Amador County Results",
-    "Reporting": "0% (0 of 47) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:02 p.m.",
+    "Reporting": "100% (47 of 47) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:44 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
         "Party": "Dem",
-        "Votes": "3,080",
-        "Percent": "92.0",
+        "Votes": "3,143",
+        "Percent": "91.8",
         "incumbent": true
       },
       {
         "Name": "President R Boddie",
         "Party": "Dem",
-        "Votes": "36",
+        "Votes": "37",
         "Percent": "1.1",
         "incumbent": false
       },
       {
         "Name": "Eban Cambridge",
         "Party": "Dem",
-        "Votes": "9",
+        "Votes": "10",
         "Percent": "0.3",
         "incumbent": false
       },
@@ -224,29 +224,29 @@
       {
         "Name": "Stephen P Lyons",
         "Party": "Dem",
-        "Votes": "28",
-        "Percent": "0.8",
+        "Votes": "30",
+        "Percent": "0.9",
         "incumbent": false
       },
       {
         "Name": "Armando \"Mando\" Perez-Serrato",
         "Party": "Dem",
-        "Votes": "17",
+        "Votes": "18",
         "Percent": "0.5",
         "incumbent": false
       },
       {
         "Name": "Dean Phillips",
         "Party": "Dem",
-        "Votes": "74",
+        "Votes": "76",
         "Percent": "2.2",
         "incumbent": false
       },
       {
         "Name": "Marianne Williamson",
         "Party": "Dem",
-        "Votes": "91",
-        "Percent": "2.7",
+        "Votes": "96",
+        "Percent": "2.8",
         "incumbent": false
       }
     ]
@@ -254,13 +254,13 @@
   {
     "raceTitle": "President Democratic - Butte County Results",
     "Reporting": "100% (88 of 88) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:35 p.m.",
+    "ReportingTime": "March 5, 2024, 9:39 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
         "Party": "Dem",
-        "Votes": "10,550",
-        "Percent": "91.3",
+        "Votes": "10,712",
+        "Percent": "91.2",
         "incumbent": true
       },
       {
@@ -273,42 +273,42 @@
       {
         "Name": "Eban Cambridge",
         "Party": "Dem",
-        "Votes": "49",
+        "Votes": "50",
         "Percent": "0.4",
         "incumbent": false
       },
       {
         "Name": "Gabriel Cornejo",
         "Party": "Dem",
-        "Votes": "88",
+        "Votes": "91",
         "Percent": "0.8",
         "incumbent": false
       },
       {
         "Name": "Stephen P Lyons",
         "Party": "Dem",
-        "Votes": "38",
+        "Votes": "39",
         "Percent": "0.3",
         "incumbent": false
       },
       {
         "Name": "Armando \"Mando\" Perez-Serrato",
         "Party": "Dem",
-        "Votes": "69",
+        "Votes": "72",
         "Percent": "0.6",
         "incumbent": false
       },
       {
         "Name": "Dean Phillips",
         "Party": "Dem",
-        "Votes": "315",
+        "Votes": "321",
         "Percent": "2.7",
         "incumbent": false
       },
       {
         "Name": "Marianne Williamson",
         "Party": "Dem",
-        "Votes": "378",
+        "Votes": "389",
         "Percent": "3.3",
         "incumbent": false
       }
@@ -632,62 +632,62 @@
   {
     "raceTitle": "President Democratic - Fresno County Results",
     "Reporting": "0% (0 of 301) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:12 p.m.",
+    "ReportingTime": "March 5, 2024, 9:38 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
         "Party": "Dem",
-        "Votes": "22,799",
-        "Percent": "89.2",
+        "Votes": "23,972",
+        "Percent": "88.8",
         "incumbent": true
       },
       {
         "Name": "President R Boddie",
         "Party": "Dem",
-        "Votes": "252",
+        "Votes": "274",
         "Percent": "1.0",
         "incumbent": false
       },
       {
         "Name": "Eban Cambridge",
         "Party": "Dem",
-        "Votes": "68",
+        "Votes": "78",
         "Percent": "0.3",
         "incumbent": false
       },
       {
         "Name": "Gabriel Cornejo",
         "Party": "Dem",
-        "Votes": "320",
-        "Percent": "1.3",
+        "Votes": "337",
+        "Percent": "1.2",
         "incumbent": false
       },
       {
         "Name": "Stephen P Lyons",
         "Party": "Dem",
-        "Votes": "199",
+        "Votes": "214",
         "Percent": "0.8",
         "incumbent": false
       },
       {
         "Name": "Armando \"Mando\" Perez-Serrato",
         "Party": "Dem",
-        "Votes": "436",
-        "Percent": "1.7",
+        "Votes": "473",
+        "Percent": "1.8",
         "incumbent": false
       },
       {
         "Name": "Dean Phillips",
         "Party": "Dem",
-        "Votes": "805",
+        "Votes": "861",
         "Percent": "3.2",
         "incumbent": false
       },
       {
         "Name": "Marianne Williamson",
         "Party": "Dem",
-        "Votes": "673",
-        "Percent": "2.6",
+        "Votes": "776",
+        "Percent": "2.9",
         "incumbent": false
       }
     ]
@@ -947,7 +947,7 @@
   {
     "raceTitle": "President Democratic - Kern County Results",
     "Reporting": "0% (0 of 760) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:34 p.m.",
+    "ReportingTime": "March 5, 2024, 9:46 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -1073,33 +1073,33 @@
   {
     "raceTitle": "President Democratic - Lake County Results",
     "Reporting": "0% (0 of 48) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:15 p.m.",
+    "ReportingTime": "March 5, 2024, 9:44 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
         "Party": "Dem",
-        "Votes": "1,742",
+        "Votes": "2,410",
         "Percent": "93.1",
         "incumbent": true
       },
       {
         "Name": "President R Boddie",
         "Party": "Dem",
-        "Votes": "15",
-        "Percent": "0.8",
+        "Votes": "24",
+        "Percent": "0.9",
         "incumbent": false
       },
       {
         "Name": "Eban Cambridge",
         "Party": "Dem",
-        "Votes": "2",
+        "Votes": "3",
         "Percent": "0.1",
         "incumbent": false
       },
       {
         "Name": "Gabriel Cornejo",
         "Party": "Dem",
-        "Votes": "5",
+        "Votes": "8",
         "Percent": "0.3",
         "incumbent": false
       },
@@ -1107,28 +1107,28 @@
         "Name": "Stephen P Lyons",
         "Party": "Dem",
         "Votes": "12",
-        "Percent": "0.6",
+        "Percent": "0.5",
         "incumbent": false
       },
       {
         "Name": "Armando \"Mando\" Perez-Serrato",
         "Party": "Dem",
-        "Votes": "14",
+        "Votes": "19",
         "Percent": "0.7",
         "incumbent": false
       },
       {
         "Name": "Dean Phillips",
         "Party": "Dem",
-        "Votes": "45",
-        "Percent": "2.4",
+        "Votes": "60",
+        "Percent": "2.3",
         "incumbent": false
       },
       {
         "Name": "Marianne Williamson",
         "Party": "Dem",
-        "Votes": "37",
-        "Percent": "2.0",
+        "Votes": "54",
+        "Percent": "2.1",
         "incumbent": false
       }
     ]
@@ -1136,12 +1136,12 @@
   {
     "raceTitle": "President Democratic - Lassen County Results",
     "Reporting": "100% (52 of 52) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:14 p.m.",
+    "ReportingTime": "March 5, 2024, 9:46 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
         "Party": "Dem",
-        "Votes": "563",
+        "Votes": "564",
         "Percent": "89.4",
         "incumbent": true
       },
@@ -1262,13 +1262,13 @@
   {
     "raceTitle": "President Democratic - Madera County Results",
     "Reporting": "100% (35 of 35) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:16 p.m.",
+    "ReportingTime": "March 5, 2024, 9:38 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
         "Party": "Dem",
-        "Votes": "4,246",
-        "Percent": "90.2",
+        "Votes": "4,313",
+        "Percent": "90.0",
         "incumbent": true
       },
       {
@@ -1288,8 +1288,8 @@
       {
         "Name": "Gabriel Cornejo",
         "Party": "Dem",
-        "Votes": "67",
-        "Percent": "1.4",
+        "Votes": "73",
+        "Percent": "1.5",
         "incumbent": false
       },
       {
@@ -1302,22 +1302,22 @@
       {
         "Name": "Armando \"Mando\" Perez-Serrato",
         "Party": "Dem",
-        "Votes": "66",
+        "Votes": "68",
         "Percent": "1.4",
         "incumbent": false
       },
       {
         "Name": "Dean Phillips",
         "Party": "Dem",
-        "Votes": "117",
+        "Votes": "119",
         "Percent": "2.5",
         "incumbent": false
       },
       {
         "Name": "Marianne Williamson",
         "Party": "Dem",
-        "Votes": "123",
-        "Percent": "2.6",
+        "Votes": "132",
+        "Percent": "2.8",
         "incumbent": false
       }
     ]
@@ -1891,62 +1891,62 @@
   },
   {
     "raceTitle": "President Democratic - Orange County Results",
-    "Reporting": "0% (0 of 2,239) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:28 p.m.",
+    "Reporting": "100% (2,239 of 2,239) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:42 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
         "Party": "Dem",
-        "Votes": "111,344",
-        "Percent": "91.8",
+        "Votes": "112,515",
+        "Percent": "91.7",
         "incumbent": true
       },
       {
         "Name": "President R Boddie",
         "Party": "Dem",
-        "Votes": "1,245",
+        "Votes": "1,273",
         "Percent": "1.0",
         "incumbent": false
       },
       {
         "Name": "Eban Cambridge",
         "Party": "Dem",
-        "Votes": "293",
+        "Votes": "300",
         "Percent": "0.2",
         "incumbent": false
       },
       {
         "Name": "Gabriel Cornejo",
         "Party": "Dem",
-        "Votes": "737",
+        "Votes": "759",
         "Percent": "0.6",
         "incumbent": false
       },
       {
         "Name": "Stephen P Lyons",
         "Party": "Dem",
-        "Votes": "577",
+        "Votes": "583",
         "Percent": "0.5",
         "incumbent": false
       },
       {
         "Name": "Armando \"Mando\" Perez-Serrato",
         "Party": "Dem",
-        "Votes": "799",
+        "Votes": "841",
         "Percent": "0.7",
         "incumbent": false
       },
       {
         "Name": "Dean Phillips",
         "Party": "Dem",
-        "Votes": "3,455",
-        "Percent": "2.8",
+        "Votes": "3,500",
+        "Percent": "2.9",
         "incumbent": false
       },
       {
         "Name": "Marianne Williamson",
         "Party": "Dem",
-        "Votes": "2,854",
+        "Votes": "2,938",
         "Percent": "2.4",
         "incumbent": false
       }
@@ -2080,62 +2080,62 @@
   },
   {
     "raceTitle": "President Democratic - Riverside County Results",
-    "Reporting": "28.3% (263 of 928) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:30 p.m.",
+    "Reporting": "100% (928 of 928) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:44 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
         "Party": "Dem",
-        "Votes": "71,615",
+        "Votes": "71,920",
         "Percent": "91.0",
         "incumbent": true
       },
       {
         "Name": "President R Boddie",
         "Party": "Dem",
-        "Votes": "809",
+        "Votes": "813",
         "Percent": "1.0",
         "incumbent": false
       },
       {
         "Name": "Eban Cambridge",
         "Party": "Dem",
-        "Votes": "203",
+        "Votes": "204",
         "Percent": "0.3",
         "incumbent": false
       },
       {
         "Name": "Gabriel Cornejo",
         "Party": "Dem",
-        "Votes": "769",
+        "Votes": "772",
         "Percent": "1.0",
         "incumbent": false
       },
       {
         "Name": "Stephen P Lyons",
         "Party": "Dem",
-        "Votes": "372",
+        "Votes": "374",
         "Percent": "0.5",
         "incumbent": false
       },
       {
         "Name": "Armando \"Mando\" Perez-Serrato",
         "Party": "Dem",
-        "Votes": "912",
+        "Votes": "916",
         "Percent": "1.2",
         "incumbent": false
       },
       {
         "Name": "Dean Phillips",
         "Party": "Dem",
-        "Votes": "2,188",
+        "Votes": "2,194",
         "Percent": "2.8",
         "incumbent": false
       },
       {
         "Name": "Marianne Williamson",
         "Party": "Dem",
-        "Votes": "1,848",
+        "Votes": "1,852",
         "Percent": "2.3",
         "incumbent": false
       }
@@ -2207,7 +2207,7 @@
   {
     "raceTitle": "President Democratic - San Benito County Results",
     "Reporting": "0% (0 of 28) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:34 p.m.",
+    "ReportingTime": "March 5, 2024, 9:46 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -3341,7 +3341,7 @@
   {
     "raceTitle": "President Democratic - Trinity County Results",
     "Reporting": "0% (0 of 8) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:34 p.m.",
+    "ReportingTime": "March 5, 2024, 9:46 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",

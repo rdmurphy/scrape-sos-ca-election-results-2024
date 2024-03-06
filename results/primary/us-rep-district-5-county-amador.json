@@ -1,55 +1,55 @@
 [
   {
     "raceTitle": "U.S. House of Representatives District 5 - Amador County Results",
-    "Reporting": "0% (0 of 47) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:02 p.m.",
+    "Reporting": "100% (47 of 47) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:44 p.m.",
     "candidates": [
       {
         "Name": "Michael J. \"Mike\" Barkley",
         "Party": "Dem",
-        "Votes": "3,308",
-        "Percent": "32.9",
+        "Votes": "3,384",
+        "Percent": "31.5",
         "incumbent": false
       },
       {
         "Name": "Tom McClintock",
         "Party": "Rep",
-        "Votes": "5,673",
-        "Percent": "56.5",
+        "Votes": "6,196",
+        "Percent": "57.7",
         "incumbent": true
       },
       {
         "Name": "Steve Wozniak",
         "Party": "NPP",
-        "Votes": "1,059",
-        "Percent": "10.5",
+        "Votes": "1,162",
+        "Percent": "10.8",
         "incumbent": false
       }
     ]
   },
   {
     "raceTitle": "U.S. House of Representatives District 5 - Districtwide Results",
-    "Reporting": "66.4% (229 of 345) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:34 p.m.",
+    "Reporting": "80% (276 of 345) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:46 p.m.",
     "candidates": [
       {
         "Name": "Michael J. \"Mike\" Barkley",
         "Party": "Dem",
-        "Votes": "37,297",
-        "Percent": "36.1",
+        "Votes": "37,508",
+        "Percent": "35.9",
         "incumbent": false
       },
       {
         "Name": "Tom McClintock",
         "Party": "Rep",
-        "Votes": "56,836",
-        "Percent": "55.0",
+        "Votes": "57,720",
+        "Percent": "55.2",
         "incumbent": true
       },
       {
         "Name": "Steve Wozniak",
         "Party": "NPP",
-        "Votes": "9,188",
+        "Votes": "9,342",
         "Percent": "8.9",
         "incumbent": false
       }

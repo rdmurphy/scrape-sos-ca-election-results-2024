@@ -1,19 +1,19 @@
 {
   "raceTitle": "State Senate District 19 - Districtwide Results",
-  "Reporting": "11.1% (171 of 1,544) precincts reporting",
-  "ReportingTime": "March 5, 2024, 9:34 p.m.",
+  "Reporting": "21.8% (337 of 1,544) precincts reporting",
+  "ReportingTime": "March 5, 2024, 9:46 p.m.",
   "candidates": [
     {
       "Name": "Lisa Middleton",
       "Party": "Dem",
-      "Votes": "47,560",
+      "Votes": "47,690",
       "Percent": "53.6",
       "incumbent": false
     },
     {
       "Name": "Rosilicie Ochoa Bogh",
       "Party": "Rep",
-      "Votes": "41,135",
+      "Votes": "41,242",
       "Percent": "46.4",
       "incumbent": true
     }

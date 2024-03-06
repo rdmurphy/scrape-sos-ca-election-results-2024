@@ -2,20 +2,20 @@
   {
     "raceTitle": "U.S. House of Representatives District 21 - Fresno County Results",
     "Reporting": "0% (0 of 167) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:12 p.m.",
+    "ReportingTime": "March 5, 2024, 9:38 p.m.",
     "candidates": [
       {
         "Name": "Jim Costa",
         "Party": "Dem",
-        "Votes": "16,097",
-        "Percent": "60.9",
+        "Votes": "17,050",
+        "Percent": "59.4",
         "incumbent": true
       },
       {
         "Name": "Michael Maher",
         "Party": "Rep",
-        "Votes": "10,340",
-        "Percent": "39.1",
+        "Votes": "11,631",
+        "Percent": "40.6",
         "incumbent": false
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "U.S. House of Representatives District 21 - Districtwide Results",
     "Reporting": "17.8% (37 of 208) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:34 p.m.",
+    "ReportingTime": "March 5, 2024, 9:46 p.m.",
     "candidates": [
       {
         "Name": "Jim Costa",
         "Party": "Dem",
-        "Votes": "18,479",
-        "Percent": "58.1",
+        "Votes": "19,432",
+        "Percent": "57.1",
         "incumbent": true
       },
       {
         "Name": "Michael Maher",
         "Party": "Rep",
-        "Votes": "13,326",
-        "Percent": "41.9",
+        "Votes": "14,617",
+        "Percent": "42.9",
         "incumbent": false
       }
     ]

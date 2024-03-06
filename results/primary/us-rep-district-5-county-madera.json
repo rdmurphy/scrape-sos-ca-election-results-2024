@@ -2,26 +2,26 @@
   {
     "raceTitle": "U.S. House of Representatives District 5 - Madera County Results",
     "Reporting": "100% (5 of 5) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:16 p.m.",
+    "ReportingTime": "March 5, 2024, 9:38 p.m.",
     "candidates": [
       {
         "Name": "Michael J. \"Mike\" Barkley",
         "Party": "Dem",
-        "Votes": "2,048",
+        "Votes": "2,052",
         "Percent": "33.4",
         "incumbent": false
       },
       {
         "Name": "Tom McClintock",
         "Party": "Rep",
-        "Votes": "3,728",
+        "Votes": "3,736",
         "Percent": "60.8",
         "incumbent": true
       },
       {
         "Name": "Steve Wozniak",
         "Party": "NPP",
-        "Votes": "355",
+        "Votes": "358",
         "Percent": "5.8",
         "incumbent": false
       }
@@ -29,27 +29,27 @@
   },
   {
     "raceTitle": "U.S. House of Representatives District 5 - Districtwide Results",
-    "Reporting": "66.4% (229 of 345) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:34 p.m.",
+    "Reporting": "80% (276 of 345) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:46 p.m.",
     "candidates": [
       {
         "Name": "Michael J. \"Mike\" Barkley",
         "Party": "Dem",
-        "Votes": "37,297",
-        "Percent": "36.1",
+        "Votes": "37,508",
+        "Percent": "35.9",
         "incumbent": false
       },
       {
         "Name": "Tom McClintock",
         "Party": "Rep",
-        "Votes": "56,836",
-        "Percent": "55.0",
+        "Votes": "57,720",
+        "Percent": "55.2",
         "incumbent": true
       },
       {
         "Name": "Steve Wozniak",
         "Party": "NPP",
-        "Votes": "9,188",
+        "Votes": "9,342",
         "Percent": "8.9",
         "incumbent": false
       }
