@@ -1,15 +1,15 @@
 {
   "raceTitle": "Ballot Measures - Santa Cruz Results",
-  "Reporting": "47.7% (52 of 109) precincts reporting",
-  "ReportingTime": "March 5, 2024, 10:26 p.m.",
+  "Reporting": "67.0% (73 of 109) precincts reporting",
+  "ReportingTime": "March 5, 2024, 11:41 p.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "19523",
-      "yesPercent": "54.7",
-      "noVotes": "16178",
-      "noPercent": "45.3"
+      "yesVotes": "21097",
+      "yesPercent": "54.6",
+      "noVotes": "17571",
+      "noPercent": "45.4"
     }
   ]
 }

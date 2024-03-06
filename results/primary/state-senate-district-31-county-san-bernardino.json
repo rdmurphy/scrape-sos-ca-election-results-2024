@@ -1,55 +1,55 @@
 [
   {
     "raceTitle": "State Senate District 31 - San Bernardino County Results",
-    "Reporting": "0% (0 of 5) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:48 p.m.",
+    "Reporting": "80% (4 of 5) precincts reporting",
+    "ReportingTime": "March 5, 2024, 11:46 p.m.",
     "candidates": [
       {
         "Name": "Sabrina Cervantes",
         "Party": "Dem",
-        "Votes": "259",
-        "Percent": "53.3",
+        "Votes": "282",
+        "Percent": "50.4",
         "incumbent": false
       },
       {
         "Name": "Angelo Farooq",
         "Party": "Dem",
-        "Votes": "79",
-        "Percent": "16.3",
-        "incumbent": false
-      },
-      {
-        "Name": "Cynthia Navarro",
-        "Party": "Rep",
-        "Votes": "148",
-        "Percent": "30.5",
-        "incumbent": false
-      }
-    ]
-  },
-  {
-    "raceTitle": "State Senate District 31 - Districtwide Results",
-    "Reporting": "98% (244 of 249) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:36 p.m.",
-    "candidates": [
-      {
-        "Name": "Sabrina Cervantes",
-        "Party": "Dem",
-        "Votes": "17,519",
-        "Percent": "42.0",
-        "incumbent": false
-      },
-      {
-        "Name": "Angelo Farooq",
-        "Party": "Dem",
-        "Votes": "6,545",
+        "Votes": "88",
         "Percent": "15.7",
         "incumbent": false
       },
       {
         "Name": "Cynthia Navarro",
         "Party": "Rep",
-        "Votes": "17,646",
+        "Votes": "189",
+        "Percent": "33.8",
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "raceTitle": "State Senate District 31 - Districtwide Results",
+    "Reporting": "99.6% (248 of 249) precincts reporting",
+    "ReportingTime": "March 5, 2024, 11:46 p.m.",
+    "candidates": [
+      {
+        "Name": "Sabrina Cervantes",
+        "Party": "Dem",
+        "Votes": "17,542",
+        "Percent": "42.0",
+        "incumbent": false
+      },
+      {
+        "Name": "Angelo Farooq",
+        "Party": "Dem",
+        "Votes": "6,554",
+        "Percent": "15.7",
+        "incumbent": false
+      },
+      {
+        "Name": "Cynthia Navarro",
+        "Party": "Rep",
+        "Votes": "17,687",
         "Percent": "42.3",
         "incumbent": false
       }

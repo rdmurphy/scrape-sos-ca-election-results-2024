@@ -2,26 +2,26 @@
   {
     "raceTitle": "State Assembly District 67 - Orange County Results",
     "Reporting": "100% (253 of 253) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:10 p.m.",
+    "ReportingTime": "March 5, 2024, 11:42 p.m.",
     "candidates": [
       {
         "Name": "Sharon Quirk-Silva",
         "Party": "Dem",
-        "Votes": "15,768",
-        "Percent": "50.4",
+        "Votes": "15,912",
+        "Percent": "50.1",
         "incumbent": true
       },
       {
         "Name": "Elizabeth \"Beth\" Culver",
         "Party": "Rep",
-        "Votes": "13,458",
-        "Percent": "43.0",
+        "Votes": "13,736",
+        "Percent": "43.2",
         "incumbent": false
       },
       {
         "Name": "Jacob Woo Ho Lee",
         "Party": "NPP",
-        "Votes": "2,089",
+        "Votes": "2,118",
         "Percent": "6.7",
         "incumbent": false
       }
@@ -30,26 +30,26 @@
   {
     "raceTitle": "State Assembly District 67 - Districtwide Results",
     "Reporting": "100% (269 of 269) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:36 p.m.",
+    "ReportingTime": "March 5, 2024, 11:46 p.m.",
     "candidates": [
       {
         "Name": "Sharon Quirk-Silva",
         "Party": "Dem",
-        "Votes": "19,348",
-        "Percent": "50.6",
+        "Votes": "19,492",
+        "Percent": "50.4",
         "incumbent": true
       },
       {
         "Name": "Elizabeth \"Beth\" Culver",
         "Party": "Rep",
-        "Votes": "16,132",
-        "Percent": "42.2",
+        "Votes": "16,410",
+        "Percent": "42.4",
         "incumbent": false
       },
       {
         "Name": "Jacob Woo Ho Lee",
         "Party": "NPP",
-        "Votes": "2,765",
+        "Votes": "2,794",
         "Percent": "7.2",
         "incumbent": false
       }

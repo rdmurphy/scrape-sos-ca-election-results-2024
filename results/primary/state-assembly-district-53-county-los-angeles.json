@@ -43,42 +43,42 @@
   },
   {
     "raceTitle": "State Assembly District 53 - Districtwide Results",
-    "Reporting": "15.5% (36 of 233) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:36 p.m.",
+    "Reporting": "65.2% (152 of 233) precincts reporting",
+    "ReportingTime": "March 5, 2024, 11:46 p.m.",
     "candidates": [
       {
         "Name": "Carlos Goytia",
         "Party": "Dem",
-        "Votes": "821",
-        "Percent": "4.4",
+        "Votes": "868",
+        "Percent": "4.2",
         "incumbent": false
       },
       {
         "Name": "Javier Hernandez",
         "Party": "Dem",
-        "Votes": "2,579",
-        "Percent": "13.9",
+        "Votes": "2,819",
+        "Percent": "13.6",
         "incumbent": false
       },
       {
         "Name": "Michelle Rodriguez",
         "Party": "Dem",
-        "Votes": "4,241",
-        "Percent": "22.8",
+        "Votes": "4,512",
+        "Percent": "21.8",
         "incumbent": false
       },
       {
         "Name": "Robert S. Torres",
         "Party": "Dem",
-        "Votes": "3,679",
-        "Percent": "19.8",
+        "Votes": "3,932",
+        "Percent": "19.0",
         "incumbent": false
       },
       {
         "Name": "Nick Wilson",
         "Party": "Rep",
-        "Votes": "7,246",
-        "Percent": "39.0",
+        "Votes": "8,608",
+        "Percent": "41.5",
         "incumbent": false
       }
     ]

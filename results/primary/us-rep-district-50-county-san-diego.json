@@ -2,34 +2,34 @@
   {
     "raceTitle": "U.S. House of Representatives District 50 - San Diego County Results",
     "Reporting": "0% (0 of 437) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:00 p.m.",
+    "ReportingTime": "March 5, 2024, 11:44 p.m.",
     "candidates": [
       {
         "Name": "Timothy Daniel Bilash",
         "Party": "Dem",
-        "Votes": "6,143",
-        "Percent": "6.6",
+        "Votes": "6,770",
+        "Percent": "6.8",
         "incumbent": false
       },
       {
         "Name": "Scott Peters",
         "Party": "Dem",
-        "Votes": "54,935",
-        "Percent": "58.7",
+        "Votes": "57,330",
+        "Percent": "57.2",
         "incumbent": true
       },
       {
         "Name": "Peter J. Bono",
         "Party": "Rep",
-        "Votes": "21,655",
-        "Percent": "23.1",
+        "Votes": "23,946",
+        "Percent": "23.9",
         "incumbent": false
       },
       {
         "Name": "Solomon David Moss",
         "Party": "Rep",
-        "Votes": "10,870",
-        "Percent": "11.6",
+        "Votes": "12,103",
+        "Percent": "12.1",
         "incumbent": false
       }
     ]
@@ -37,34 +37,34 @@
   {
     "raceTitle": "U.S. House of Representatives District 50 - Districtwide Results",
     "Reporting": "0% (0 of 437) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:36 p.m.",
+    "ReportingTime": "March 5, 2024, 11:46 p.m.",
     "candidates": [
       {
         "Name": "Timothy Daniel Bilash",
         "Party": "Dem",
-        "Votes": "6,143",
-        "Percent": "6.6",
+        "Votes": "6,770",
+        "Percent": "6.8",
         "incumbent": false
       },
       {
         "Name": "Scott Peters",
         "Party": "Dem",
-        "Votes": "54,935",
-        "Percent": "58.7",
+        "Votes": "57,330",
+        "Percent": "57.2",
         "incumbent": true
       },
       {
         "Name": "Peter J. Bono",
         "Party": "Rep",
-        "Votes": "21,655",
-        "Percent": "23.1",
+        "Votes": "23,946",
+        "Percent": "23.9",
         "incumbent": false
       },
       {
         "Name": "Solomon David Moss",
         "Party": "Rep",
-        "Votes": "10,870",
-        "Percent": "11.6",
+        "Votes": "12,103",
+        "Percent": "12.1",
         "incumbent": false
       }
     ]

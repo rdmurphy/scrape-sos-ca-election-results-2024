@@ -1,42 +1,42 @@
 [
   {
     "raceTitle": "State Senate District 19 - San Bernardino County Results",
-    "Reporting": "14.6% (190 of 1,298) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:48 p.m.",
+    "Reporting": "25% (325 of 1,298) precincts reporting",
+    "ReportingTime": "March 5, 2024, 11:46 p.m.",
     "candidates": [
       {
         "Name": "Lisa Middleton",
         "Party": "Dem",
-        "Votes": "14,818",
-        "Percent": "43.7",
+        "Votes": "15,409",
+        "Percent": "41.8",
         "incumbent": false
       },
       {
         "Name": "Rosilicie Ochoa Bogh",
         "Party": "Rep",
-        "Votes": "19,102",
-        "Percent": "56.3",
+        "Votes": "21,478",
+        "Percent": "58.2",
         "incumbent": true
       }
     ]
   },
   {
     "raceTitle": "State Senate District 19 - Districtwide Results",
-    "Reporting": "28.2% (436 of 1,544) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:36 p.m.",
+    "Reporting": "37% (571 of 1,544) precincts reporting",
+    "ReportingTime": "March 5, 2024, 11:46 p.m.",
     "candidates": [
       {
         "Name": "Lisa Middleton",
         "Party": "Dem",
-        "Votes": "48,439",
-        "Percent": "53.1",
+        "Votes": "49,030",
+        "Percent": "52.0",
         "incumbent": false
       },
       {
         "Name": "Rosilicie Ochoa Bogh",
         "Party": "Rep",
-        "Votes": "42,810",
-        "Percent": "46.9",
+        "Votes": "45,186",
+        "Percent": "48.0",
         "incumbent": true
       }
     ]

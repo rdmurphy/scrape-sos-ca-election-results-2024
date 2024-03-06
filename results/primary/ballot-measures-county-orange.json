@@ -1,15 +1,15 @@
 {
   "raceTitle": "Ballot Measures - Orange Results",
   "Reporting": "100.0% (2,239 of 2,239) precincts reporting",
-  "ReportingTime": "March 5, 2024, 11:10 p.m.",
+  "ReportingTime": "March 5, 2024, 11:42 p.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "154754",
-      "yesPercent": "43.1",
-      "noVotes": "204464",
-      "noPercent": "56.9"
+      "yesVotes": "158459",
+      "yesPercent": "42.5",
+      "noVotes": "214762",
+      "noPercent": "57.5"
     }
   ]
 }

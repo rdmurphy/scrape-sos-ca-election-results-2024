@@ -1,20 +1,20 @@
 {
   "raceTitle": "State Assembly District 74 - Districtwide Results",
   "Reporting": "53.8% (162 of 301) precincts reporting",
-  "ReportingTime": "March 5, 2024, 11:36 p.m.",
+  "ReportingTime": "March 5, 2024, 11:46 p.m.",
   "candidates": [
     {
       "Name": "Chris Duncan",
       "Party": "Dem",
-      "Votes": "30,542",
-      "Percent": "45.2",
+      "Votes": "31,430",
+      "Percent": "44.5",
       "incumbent": false
     },
     {
       "Name": "Laurie Davies",
       "Party": "Rep",
-      "Votes": "37,004",
-      "Percent": "54.8",
+      "Votes": "39,241",
+      "Percent": "55.5",
       "incumbent": true
     }
   ]
