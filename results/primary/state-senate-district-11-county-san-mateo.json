@@ -2,33 +2,33 @@
   {
     "raceTitle": "State Senate District 11 - San Mateo County Results",
     "Reporting": "0% (0 of 37) precincts reporting",
-    "ReportingTime": "March 6, 2024, 1:02 a.m.",
+    "ReportingTime": "March 6, 2024, 2:02 a.m.",
     "candidates": [
       {
         "Name": "Cynthia Cravens",
         "Party": "Dem",
-        "Votes": "1,270",
-        "Percent": "10.7",
+        "Votes": "1,341",
+        "Percent": "10.8",
         "incumbent": false
       },
       {
         "Name": "Scott Wiener",
         "Party": "Dem",
-        "Votes": "7,418",
-        "Percent": "62.8",
+        "Votes": "7,647",
+        "Percent": "61.8",
         "incumbent": true
       },
       {
         "Name": "Yvette Corkrean",
         "Party": "Rep",
-        "Votes": "2,652",
-        "Percent": "22.4",
+        "Votes": "2,900",
+        "Percent": "23.4",
         "incumbent": false
       },
       {
         "Name": "Jing Chao Xiong",
         "Party": "NPP",
-        "Votes": "474",
+        "Votes": "492",
         "Percent": "4.0",
         "incumbent": false
       }
@@ -37,34 +37,34 @@
   {
     "raceTitle": "State Senate District 11 - Districtwide Results",
     "Reporting": "93.3% (512 of 549) precincts reporting",
-    "ReportingTime": "March 6, 2024, 1:50 a.m.",
+    "ReportingTime": "March 6, 2024, 2:02 a.m.",
     "candidates": [
       {
         "Name": "Cynthia Cravens",
         "Party": "Dem",
-        "Votes": "8,601",
+        "Votes": "8,672",
         "Percent": "8.1",
         "incumbent": false
       },
       {
         "Name": "Scott Wiener",
         "Party": "Dem",
-        "Votes": "75,146",
-        "Percent": "70.7",
+        "Votes": "75,375",
+        "Percent": "70.6",
         "incumbent": true
       },
       {
         "Name": "Yvette Corkrean",
         "Party": "Rep",
-        "Votes": "17,982",
-        "Percent": "16.9",
+        "Votes": "18,230",
+        "Percent": "17.1",
         "incumbent": false
       },
       {
         "Name": "Jing Chao Xiong",
         "Party": "NPP",
-        "Votes": "4,521",
-        "Percent": "4.3",
+        "Votes": "4,539",
+        "Percent": "4.2",
         "incumbent": false
       }
     ]

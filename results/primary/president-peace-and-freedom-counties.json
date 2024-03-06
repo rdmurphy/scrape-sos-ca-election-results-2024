@@ -2,12 +2,12 @@
   {
     "raceTitle": "President Peace and Freedom - Statewide Results",
     "Reporting": "96% (20,030 of 20,855) precincts reporting",
-    "ReportingTime": "March 6, 2024, 1:50 a.m.",
+    "ReportingTime": "March 6, 2024, 2:02 a.m.",
     "candidates": [
       {
         "Name": "Claudia De la Cruz",
         "Party": "P&F",
-        "Votes": "2,871",
+        "Votes": "2,882",
         "Percent": "45.1",
         "incumbent": false
       },
@@ -15,13 +15,13 @@
         "Name": "Jasmine Sherman",
         "Party": "P&F",
         "Votes": "904",
-        "Percent": "14.2",
+        "Percent": "14.1",
         "incumbent": false
       },
       {
         "Name": "Cornel West",
         "Party": "P&F",
-        "Votes": "2,597",
+        "Votes": "2,607",
         "Percent": "40.8",
         "incumbent": false
       }
@@ -478,7 +478,7 @@
   {
     "raceTitle": "President Peace and Freedom - Lake County Results",
     "Reporting": "100% (48 of 48) precincts reporting",
-    "ReportingTime": "March 6, 2024, 1:36 a.m.",
+    "ReportingTime": "March 6, 2024, 2:01 a.m.",
     "candidates": [
       {
         "Name": "Claudia De la Cruz",
@@ -730,7 +730,7 @@
   {
     "raceTitle": "President Peace and Freedom - Mono County Results",
     "Reporting": "100% (12 of 12) precincts reporting",
-    "ReportingTime": "March 6, 2024, 12:20 a.m.",
+    "ReportingTime": "March 6, 2024, 1:58 a.m.",
     "candidates": [
       {
         "Name": "Claudia De la Cruz",
@@ -1150,27 +1150,27 @@
   {
     "raceTitle": "President Peace and Freedom - San Mateo County Results",
     "Reporting": "0% (0 of 266) precincts reporting",
-    "ReportingTime": "March 6, 2024, 1:02 a.m.",
+    "ReportingTime": "March 6, 2024, 2:02 a.m.",
     "candidates": [
       {
         "Name": "Claudia De la Cruz",
         "Party": "P&F",
-        "Votes": "42",
-        "Percent": "50.0",
+        "Votes": "53",
+        "Percent": "50.5",
         "incumbent": false
       },
       {
         "Name": "Jasmine Sherman",
         "Party": "P&F",
         "Votes": "6",
-        "Percent": "7.1",
+        "Percent": "5.7",
         "incumbent": false
       },
       {
         "Name": "Cornel West",
         "Party": "P&F",
-        "Votes": "36",
-        "Percent": "42.9",
+        "Votes": "46",
+        "Percent": "43.8",
         "incumbent": false
       }
     ]
