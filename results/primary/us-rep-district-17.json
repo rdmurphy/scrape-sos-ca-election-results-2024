@@ -1,40 +1,40 @@
 {
   "raceTitle": "U.S. House of Representatives District 17 - Districtwide Results",
   "Reporting": "100% (186 of 186) precincts reporting",
-  "ReportingTime": "March 5, 2024, 10:45 p.m.",
+  "ReportingTime": "March 5, 2024, 11:02 p.m.",
   "candidates": [
     {
       "Name": "Ro Khanna",
       "Party": "Dem",
-      "Votes": "31,861",
-      "Percent": "60.8",
+      "Votes": "31,993",
+      "Percent": "60.7",
       "incumbent": true
     },
     {
       "Name": "Mario Art Ramirez",
       "Party": "Dem",
-      "Votes": "2,099",
+      "Votes": "2,113",
       "Percent": "4.0",
       "incumbent": false
     },
     {
       "Name": "Ritesh Tandon",
       "Party": "Dem",
-      "Votes": "2,284",
+      "Votes": "2,318",
       "Percent": "4.4",
       "incumbent": false
     },
     {
       "Name": "Anita Chen",
       "Party": "Rep",
-      "Votes": "15,227",
-      "Percent": "29.1",
+      "Votes": "15,392",
+      "Percent": "29.2",
       "incumbent": false
     },
     {
       "Name": "Joe Dehn",
       "Party": "Lib",
-      "Votes": "892",
+      "Votes": "897",
       "Percent": "1.7",
       "incumbent": false
     }

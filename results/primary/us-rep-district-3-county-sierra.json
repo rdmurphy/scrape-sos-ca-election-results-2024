@@ -1,55 +1,55 @@
 [
   {
     "raceTitle": "U.S. House of Representatives District 3 - Sierra County Results",
-    "Reporting": "89.5% (17 of 19) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:25 p.m.",
+    "Reporting": "100% (19 of 19) precincts reporting",
+    "ReportingTime": "March 5, 2024, 10:56 p.m.",
     "candidates": [
       {
         "Name": "Jessica Morse",
         "Party": "Dem",
-        "Votes": "306",
-        "Percent": "32.7",
+        "Votes": "325",
+        "Percent": "31.6",
         "incumbent": false
       },
       {
         "Name": "Kevin Kiley",
         "Party": "Rep",
-        "Votes": "611",
-        "Percent": "65.2",
+        "Votes": "681",
+        "Percent": "66.3",
         "incumbent": true
       },
       {
         "Name": "Robert Smith",
         "Party": "NPP",
-        "Votes": "20",
-        "Percent": "2.1",
+        "Votes": "21",
+        "Percent": "2.0",
         "incumbent": false
       }
     ]
   },
   {
     "raceTitle": "U.S. House of Representatives District 3 - Districtwide Results",
-    "Reporting": "55.5% (252 of 454) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:45 p.m.",
+    "Reporting": "55.9% (254 of 454) precincts reporting",
+    "ReportingTime": "March 5, 2024, 11:02 p.m.",
     "candidates": [
       {
         "Name": "Jessica Morse",
         "Party": "Dem",
-        "Votes": "47,764",
+        "Votes": "47,783",
         "Percent": "46.0",
         "incumbent": false
       },
       {
         "Name": "Kevin Kiley",
         "Party": "Rep",
-        "Votes": "54,022",
+        "Votes": "54,092",
         "Percent": "52.0",
         "incumbent": true
       },
       {
         "Name": "Robert Smith",
         "Party": "NPP",
-        "Votes": "2,099",
+        "Votes": "2,100",
         "Percent": "2.0",
         "incumbent": false
       }

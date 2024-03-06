@@ -2,26 +2,26 @@
   {
     "raceTitle": "State Assembly District 14 - Alameda County Results",
     "Reporting": "100% (48 of 48) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:18 p.m.",
+    "ReportingTime": "March 5, 2024, 11:02 p.m.",
     "candidates": [
       {
         "Name": "Margot Smith",
         "Party": "Dem",
-        "Votes": "1,859",
-        "Percent": "15.6",
+        "Votes": "2,014",
+        "Percent": "16.2",
         "incumbent": false
       },
       {
         "Name": "Buffy Wicks",
         "Party": "Dem",
-        "Votes": "8,996",
-        "Percent": "75.6",
+        "Votes": "9,348",
+        "Percent": "75.1",
         "incumbent": true
       },
       {
         "Name": "Utkarsh Jain",
         "Party": "Rep",
-        "Votes": "1,037",
+        "Votes": "1,089",
         "Percent": "8.7",
         "incumbent": false
       }
@@ -30,27 +30,27 @@
   {
     "raceTitle": "State Assembly District 14 - Districtwide Results",
     "Reporting": "22.5% (48 of 213) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:45 p.m.",
+    "ReportingTime": "March 5, 2024, 11:02 p.m.",
     "candidates": [
       {
         "Name": "Margot Smith",
         "Party": "Dem",
-        "Votes": "5,158",
-        "Percent": "15.1",
+        "Votes": "5,313",
+        "Percent": "15.3",
         "incumbent": false
       },
       {
         "Name": "Buffy Wicks",
         "Party": "Dem",
-        "Votes": "24,635",
-        "Percent": "72.1",
+        "Votes": "24,987",
+        "Percent": "72.0",
         "incumbent": true
       },
       {
         "Name": "Utkarsh Jain",
         "Party": "Rep",
-        "Votes": "4,357",
-        "Percent": "12.8",
+        "Votes": "4,409",
+        "Percent": "12.7",
         "incumbent": false
       }
     ]

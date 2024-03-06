@@ -2,26 +2,26 @@
   {
     "raceTitle": "U.S. House of Representatives District 5 - Calaveras County Results",
     "Reporting": "100% (25 of 25) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:20 p.m.",
+    "ReportingTime": "March 5, 2024, 10:50 p.m.",
     "candidates": [
       {
         "Name": "Michael J. \"Mike\" Barkley",
         "Party": "Dem",
-        "Votes": "3,471",
+        "Votes": "3,540",
         "Percent": "31.7",
         "incumbent": false
       },
       {
         "Name": "Tom McClintock",
         "Party": "Rep",
-        "Votes": "6,339",
+        "Votes": "6,470",
         "Percent": "57.9",
         "incumbent": true
       },
       {
         "Name": "Steve Wozniak",
         "Party": "NPP",
-        "Votes": "1,146",
+        "Votes": "1,171",
         "Percent": "10.5",
         "incumbent": false
       }
@@ -30,26 +30,26 @@
   {
     "raceTitle": "U.S. House of Representatives District 5 - Districtwide Results",
     "Reporting": "87.2% (301 of 345) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:45 p.m.",
+    "ReportingTime": "March 5, 2024, 11:02 p.m.",
     "candidates": [
       {
         "Name": "Michael J. \"Mike\" Barkley",
         "Party": "Dem",
-        "Votes": "40,273",
-        "Percent": "35.4",
+        "Votes": "40,342",
+        "Percent": "35.3",
         "incumbent": false
       },
       {
         "Name": "Tom McClintock",
         "Party": "Rep",
-        "Votes": "63,540",
+        "Votes": "63,671",
         "Percent": "55.8",
         "incumbent": true
       },
       {
         "Name": "Steve Wozniak",
         "Party": "NPP",
-        "Votes": "10,100",
+        "Votes": "10,125",
         "Percent": "8.9",
         "incumbent": false
       }

@@ -2,33 +2,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 28 - Los Angeles County Results",
     "Reporting": "100% (192 of 192) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:38 p.m.",
+    "ReportingTime": "March 5, 2024, 10:56 p.m.",
     "candidates": [
       {
         "Name": "Judy Chu",
         "Party": "Dem",
-        "Votes": "40,355",
-        "Percent": "67.2",
+        "Votes": "40,406",
+        "Percent": "67.1",
         "incumbent": true
       },
       {
         "Name": "April A. Verlato",
         "Party": "Rep",
-        "Votes": "17,463",
-        "Percent": "29.1",
+        "Votes": "17,554",
+        "Percent": "29.2",
         "incumbent": false
       },
       {
         "Name": "Jose Castaneda",
         "Party": "Lib",
-        "Votes": "1,117",
+        "Votes": "1,122",
         "Percent": "1.9",
         "incumbent": false
       },
       {
         "Name": "William Patterson",
         "Party": "P&F",
-        "Votes": "1,120",
+        "Votes": "1,123",
         "Percent": "1.9",
         "incumbent": false
       }
@@ -37,33 +37,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 28 - Districtwide Results",
     "Reporting": "58.2% (202 of 347) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:45 p.m.",
+    "ReportingTime": "March 5, 2024, 11:02 p.m.",
     "candidates": [
       {
         "Name": "Judy Chu",
         "Party": "Dem",
-        "Votes": "43,490",
+        "Votes": "43,541",
         "Percent": "64.8",
         "incumbent": true
       },
       {
         "Name": "April A. Verlato",
         "Party": "Rep",
-        "Votes": "21,115",
+        "Votes": "21,206",
         "Percent": "31.5",
         "incumbent": false
       },
       {
         "Name": "Jose Castaneda",
         "Party": "Lib",
-        "Votes": "1,237",
+        "Votes": "1,242",
         "Percent": "1.8",
         "incumbent": false
       },
       {
         "Name": "William Patterson",
         "Party": "P&F",
-        "Votes": "1,224",
+        "Votes": "1,227",
         "Percent": "1.8",
         "incumbent": false
       }

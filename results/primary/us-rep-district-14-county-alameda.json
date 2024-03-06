@@ -2,34 +2,34 @@
   {
     "raceTitle": "U.S. House of Representatives District 14 - Alameda County Results",
     "Reporting": "100% (348 of 348) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:18 p.m.",
+    "ReportingTime": "March 5, 2024, 11:02 p.m.",
     "candidates": [
       {
         "Name": "Eric Swalwell",
         "Party": "Dem",
-        "Votes": "19,053",
-        "Percent": "64.5",
+        "Votes": "19,868",
+        "Percent": "63.4",
         "incumbent": true
       },
       {
         "Name": "Alison Hayden",
         "Party": "Rep",
-        "Votes": "3,106",
-        "Percent": "10.5",
+        "Votes": "3,369",
+        "Percent": "10.8",
         "incumbent": false
       },
       {
         "Name": "Vin Kruttiventi",
         "Party": "Rep",
-        "Votes": "5,246",
-        "Percent": "17.8",
+        "Votes": "5,741",
+        "Percent": "18.3",
         "incumbent": false
       },
       {
         "Name": "Luis Reynoso",
         "Party": "Rep",
-        "Votes": "2,142",
-        "Percent": "7.2",
+        "Votes": "2,340",
+        "Percent": "7.5",
         "incumbent": false
       }
     ]
@@ -37,34 +37,34 @@
   {
     "raceTitle": "U.S. House of Representatives District 14 - Districtwide Results",
     "Reporting": "100% (348 of 348) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:45 p.m.",
+    "ReportingTime": "March 5, 2024, 11:02 p.m.",
     "candidates": [
       {
         "Name": "Eric Swalwell",
         "Party": "Dem",
-        "Votes": "19,053",
-        "Percent": "64.5",
+        "Votes": "19,868",
+        "Percent": "63.4",
         "incumbent": true
       },
       {
         "Name": "Alison Hayden",
         "Party": "Rep",
-        "Votes": "3,106",
-        "Percent": "10.5",
+        "Votes": "3,369",
+        "Percent": "10.8",
         "incumbent": false
       },
       {
         "Name": "Vin Kruttiventi",
         "Party": "Rep",
-        "Votes": "5,246",
-        "Percent": "17.8",
+        "Votes": "5,741",
+        "Percent": "18.3",
         "incumbent": false
       },
       {
         "Name": "Luis Reynoso",
         "Party": "Rep",
-        "Votes": "2,142",
-        "Percent": "7.2",
+        "Votes": "2,340",
+        "Percent": "7.5",
         "incumbent": false
       }
     ]

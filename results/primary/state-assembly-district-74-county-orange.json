@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 74 - Orange County Results",
     "Reporting": "100% (162 of 162) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:34 p.m.",
+    "ReportingTime": "March 5, 2024, 10:52 p.m.",
     "candidates": [
       {
         "Name": "Chris Duncan",
         "Party": "Dem",
-        "Votes": "12,669",
-        "Percent": "46.5",
+        "Votes": "13,927",
+        "Percent": "40.1",
         "incumbent": false
       },
       {
         "Name": "Laurie Davies",
         "Party": "Rep",
-        "Votes": "14,599",
-        "Percent": "53.5",
+        "Votes": "20,799",
+        "Percent": "59.9",
         "incumbent": true
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "State Assembly District 74 - Districtwide Results",
     "Reporting": "53.8% (162 of 301) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:45 p.m.",
+    "ReportingTime": "March 5, 2024, 11:02 p.m.",
     "candidates": [
       {
         "Name": "Chris Duncan",
         "Party": "Dem",
-        "Votes": "29,050",
-        "Percent": "49.2",
+        "Votes": "30,308",
+        "Percent": "45.6",
         "incumbent": false
       },
       {
         "Name": "Laurie Davies",
         "Party": "Rep",
-        "Votes": "29,974",
-        "Percent": "50.8",
+        "Votes": "36,174",
+        "Percent": "54.4",
         "incumbent": true
       }
     ]

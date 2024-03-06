@@ -1,41 +1,41 @@
 [
   {
     "raceTitle": "State Assembly District 34 - Kern County Results",
-    "Reporting": "0% (0 of 44) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:45 p.m.",
+    "Reporting": "77.3% (34 of 44) precincts reporting",
+    "ReportingTime": "March 5, 2024, 10:59 p.m.",
     "candidates": [
       {
         "Name": "Ricardo Ortega",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "677",
+        "Percent": "40.2",
         "incumbent": false
       },
       {
         "Name": "Tom Lackey",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "1,007",
+        "Percent": "59.8",
         "incumbent": true
       }
     ]
   },
   {
     "raceTitle": "State Assembly District 34 - Districtwide Results",
-    "Reporting": "13.9% (162 of 1,169) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:45 p.m.",
+    "Reporting": "16.8% (196 of 1,169) precincts reporting",
+    "ReportingTime": "March 5, 2024, 11:02 p.m.",
     "candidates": [
       {
         "Name": "Ricardo Ortega",
         "Party": "Dem",
-        "Votes": "13,503",
+        "Votes": "14,181",
         "Percent": "39.1",
         "incumbent": false
       },
       {
         "Name": "Tom Lackey",
         "Party": "Rep",
-        "Votes": "21,053",
+        "Votes": "22,062",
         "Percent": "60.9",
         "incumbent": true
       }
