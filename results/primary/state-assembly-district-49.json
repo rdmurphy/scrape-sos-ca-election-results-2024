@@ -1,19 +1,19 @@
 {
   "raceTitle": "State Assembly District 49 - Districtwide Results",
   "Reporting": "100% (96 of 96) precincts reporting",
-  "ReportingTime": "March 6, 2024, 12:20 a.m.",
+  "ReportingTime": "March 6, 2024, 12:36 a.m.",
   "candidates": [
     {
       "Name": "Mike Fong",
       "Party": "Dem",
-      "Votes": "22,933",
+      "Votes": "22,943",
       "Percent": "60.3",
       "incumbent": true
     },
     {
       "Name": "Long \"David\" Liu",
       "Party": "Rep",
-      "Votes": "15,113",
+      "Votes": "15,125",
       "Percent": "39.7",
       "incumbent": false
     }

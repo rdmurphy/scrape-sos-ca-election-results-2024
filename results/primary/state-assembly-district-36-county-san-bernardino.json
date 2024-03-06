@@ -58,55 +58,55 @@
   {
     "raceTitle": "State Assembly District 36 - Districtwide Results",
     "Reporting": "98% (483 of 493) precincts reporting",
-    "ReportingTime": "March 6, 2024, 12:20 a.m.",
+    "ReportingTime": "March 6, 2024, 12:36 a.m.",
     "candidates": [
       {
         "Name": "Jose \"Joey\" Acuña Jr.",
         "Party": "Dem",
-        "Votes": "5,179",
-        "Percent": "18.5",
+        "Votes": "5,226",
+        "Percent": "18.4",
         "incumbent": false
       },
       {
         "Name": "Waymond Fermon",
         "Party": "Dem",
-        "Votes": "2,384",
-        "Percent": "8.5",
+        "Votes": "2,398",
+        "Percent": "8.4",
         "incumbent": false
       },
       {
         "Name": "Edgard Garcia",
         "Party": "Dem",
-        "Votes": "4,615",
-        "Percent": "16.5",
+        "Votes": "4,643",
+        "Percent": "16.3",
         "incumbent": false
       },
       {
         "Name": "Tomas Oliva",
         "Party": "Dem",
-        "Votes": "2,170",
+        "Votes": "2,190",
         "Percent": "7.7",
         "incumbent": false
       },
       {
         "Name": "Eric L. Rodriguez",
         "Party": "Dem",
-        "Votes": "1,575",
+        "Votes": "1,583",
         "Percent": "5.6",
         "incumbent": false
       },
       {
         "Name": "Jeff Gonzalez",
         "Party": "Rep",
-        "Votes": "9,244",
-        "Percent": "33.0",
+        "Votes": "9,435",
+        "Percent": "33.2",
         "incumbent": false
       },
       {
         "Name": "Kalin Morse",
         "Party": "Rep",
-        "Votes": "2,875",
-        "Percent": "10.3",
+        "Votes": "2,954",
+        "Percent": "10.4",
         "incumbent": false
       }
     ]

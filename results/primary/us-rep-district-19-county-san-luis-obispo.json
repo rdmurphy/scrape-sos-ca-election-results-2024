@@ -1,27 +1,27 @@
 [
   {
     "raceTitle": "U.S. House of Representatives District 19 - San Luis Obispo County Results",
-    "Reporting": "81.4% (35 of 43) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:56 p.m.",
+    "Reporting": "100% (43 of 43) precincts reporting",
+    "ReportingTime": "March 6, 2024, 12:30 a.m.",
     "candidates": [
       {
         "Name": "Jimmy Panetta",
         "Party": "Dem",
-        "Votes": "8,098",
-        "Percent": "47.6",
+        "Votes": "8,174",
+        "Percent": "47.0",
         "incumbent": true
       },
       {
         "Name": "Jason Michael Anderson",
         "Party": "Rep",
-        "Votes": "8,435",
-        "Percent": "49.6",
+        "Votes": "8,721",
+        "Percent": "50.1",
         "incumbent": false
       },
       {
         "Name": "Sean Dougherty",
         "Party": "Grn",
-        "Votes": "489",
+        "Votes": "500",
         "Percent": "2.9",
         "incumbent": false
       }
@@ -29,28 +29,28 @@
   },
   {
     "raceTitle": "U.S. House of Representatives District 19 - Districtwide Results",
-    "Reporting": "90.5% (305 of 337) precincts reporting",
-    "ReportingTime": "March 6, 2024, 12:20 a.m.",
+    "Reporting": "97% (327 of 337) precincts reporting",
+    "ReportingTime": "March 6, 2024, 12:36 a.m.",
     "candidates": [
       {
         "Name": "Jimmy Panetta",
         "Party": "Dem",
-        "Votes": "69,085",
-        "Percent": "67.2",
+        "Votes": "70,173",
+        "Percent": "66.9",
         "incumbent": true
       },
       {
         "Name": "Jason Michael Anderson",
         "Party": "Rep",
-        "Votes": "28,720",
-        "Percent": "27.9",
+        "Votes": "29,406",
+        "Percent": "28.0",
         "incumbent": false
       },
       {
         "Name": "Sean Dougherty",
         "Party": "Grn",
-        "Votes": "5,058",
-        "Percent": "4.9",
+        "Votes": "5,294",
+        "Percent": "5.0",
         "incumbent": false
       }
     ]

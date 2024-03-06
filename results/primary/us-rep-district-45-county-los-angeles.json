@@ -2,7 +2,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 45 - Los Angeles County Results",
     "Reporting": "100% (19 of 19) precincts reporting",
-    "ReportingTime": "March 6, 2024, 12:18 a.m.",
+    "ReportingTime": "March 6, 2024, 12:34 a.m.",
     "candidates": [
       {
         "Name": "Cheyenne Hunt",
@@ -14,7 +14,7 @@
       {
         "Name": "Kim Bernice Nguyen-Penaloza",
         "Party": "Dem",
-        "Votes": "1,095",
+        "Votes": "1,096",
         "Percent": "14.0",
         "incumbent": false
       },
@@ -22,7 +22,7 @@
         "Name": "Aditya Pai",
         "Party": "Dem",
         "Votes": "753",
-        "Percent": "9.7",
+        "Percent": "9.6",
         "incumbent": false
       },
       {
@@ -35,7 +35,7 @@
       {
         "Name": "Michelle Steel",
         "Party": "Rep",
-        "Votes": "3,834",
+        "Votes": "3,835",
         "Percent": "49.1",
         "incumbent": true
       }
@@ -44,7 +44,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 45 - Districtwide Results",
     "Reporting": "100% (456 of 456) precincts reporting",
-    "ReportingTime": "March 6, 2024, 12:20 a.m.",
+    "ReportingTime": "March 6, 2024, 12:36 a.m.",
     "candidates": [
       {
         "Name": "Cheyenne Hunt",
@@ -56,7 +56,7 @@
       {
         "Name": "Kim Bernice Nguyen-Penaloza",
         "Party": "Dem",
-        "Votes": "11,380",
+        "Votes": "11,381",
         "Percent": "14.1",
         "incumbent": false
       },
@@ -77,7 +77,7 @@
       {
         "Name": "Michelle Steel",
         "Party": "Rep",
-        "Votes": "46,084",
+        "Votes": "46,085",
         "Percent": "57.1",
         "incumbent": true
       }

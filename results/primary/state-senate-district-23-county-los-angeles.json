@@ -2,12 +2,12 @@
   {
     "raceTitle": "State Senate District 23 - Los Angeles County Results",
     "Reporting": "100% (201 of 201) precincts reporting",
-    "ReportingTime": "March 6, 2024, 12:18 a.m.",
+    "ReportingTime": "March 6, 2024, 12:34 a.m.",
     "candidates": [
       {
         "Name": "Blanca Azucena Gomez",
         "Party": "Dem",
-        "Votes": "5,285",
+        "Votes": "5,286",
         "Percent": "10.0",
         "incumbent": false
       },
@@ -21,7 +21,7 @@
       {
         "Name": "Kipp Mueller",
         "Party": "Dem",
-        "Votes": "16,341",
+        "Votes": "16,343",
         "Percent": "31.0",
         "incumbent": false
       },
@@ -35,7 +35,7 @@
       {
         "Name": "Suzette Martinez Valladares",
         "Party": "Rep",
-        "Votes": "17,411",
+        "Votes": "17,413",
         "Percent": "33.1",
         "incumbent": false
       }
@@ -44,12 +44,12 @@
   {
     "raceTitle": "State Senate District 23 - Districtwide Results",
     "Reporting": "67.7% (352 of 520) precincts reporting",
-    "ReportingTime": "March 6, 2024, 12:20 a.m.",
+    "ReportingTime": "March 6, 2024, 12:36 a.m.",
     "candidates": [
       {
         "Name": "Blanca Azucena Gomez",
         "Party": "Dem",
-        "Votes": "7,317",
+        "Votes": "7,318",
         "Percent": "10.5",
         "incumbent": false
       },
@@ -63,7 +63,7 @@
       {
         "Name": "Kipp Mueller",
         "Party": "Dem",
-        "Votes": "20,589",
+        "Votes": "20,591",
         "Percent": "29.7",
         "incumbent": false
       },
@@ -77,8 +77,8 @@
       {
         "Name": "Suzette Martinez Valladares",
         "Party": "Rep",
-        "Votes": "21,678",
-        "Percent": "31.2",
+        "Votes": "21,680",
+        "Percent": "31.3",
         "incumbent": false
       }
     ]

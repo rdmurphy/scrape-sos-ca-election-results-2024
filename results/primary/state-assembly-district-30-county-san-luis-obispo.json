@@ -1,42 +1,42 @@
 [
   {
     "raceTitle": "State Assembly District 30 - San Luis Obispo County Results",
-    "Reporting": "78.8% (93 of 118) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:56 p.m.",
+    "Reporting": "100% (118 of 118) precincts reporting",
+    "ReportingTime": "March 6, 2024, 12:30 a.m.",
     "candidates": [
       {
         "Name": "Dawn Addis",
         "Party": "Dem",
-        "Votes": "23,639",
-        "Percent": "57.3",
+        "Votes": "23,807",
+        "Percent": "56.8",
         "incumbent": true
       },
       {
         "Name": "Dalila Epperson",
         "Party": "Rep",
-        "Votes": "17,632",
-        "Percent": "42.7",
+        "Votes": "18,085",
+        "Percent": "43.2",
         "incumbent": false
       }
     ]
   },
   {
     "raceTitle": "State Assembly District 30 - Districtwide Results",
-    "Reporting": "86.7% (189 of 218) precincts reporting",
-    "ReportingTime": "March 6, 2024, 12:20 a.m.",
+    "Reporting": "99.1% (216 of 218) precincts reporting",
+    "ReportingTime": "March 6, 2024, 12:36 a.m.",
     "candidates": [
       {
         "Name": "Dawn Addis",
         "Party": "Dem",
-        "Votes": "47,631",
-        "Percent": "64.8",
+        "Votes": "48,010",
+        "Percent": "64.5",
         "incumbent": true
       },
       {
         "Name": "Dalila Epperson",
         "Party": "Rep",
-        "Votes": "25,835",
-        "Percent": "35.2",
+        "Votes": "26,370",
+        "Percent": "35.5",
         "incumbent": false
       }
     ]

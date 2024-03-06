@@ -2,27 +2,27 @@
   {
     "raceTitle": "State Assembly District 12 - Sonoma County Results",
     "Reporting": "100% (183 of 183) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:58 p.m.",
+    "ReportingTime": "March 6, 2024, 12:36 a.m.",
     "candidates": [
       {
         "Name": "Damon Connolly",
         "Party": "Dem",
-        "Votes": "21,018",
-        "Percent": "72.4",
+        "Votes": "21,663",
+        "Percent": "71.5",
         "incumbent": true
       },
       {
         "Name": "Eryn Cervantes",
         "Party": "Rep",
-        "Votes": "4,117",
-        "Percent": "14.2",
+        "Votes": "4,441",
+        "Percent": "14.7",
         "incumbent": false
       },
       {
         "Name": "Andy Podshadley",
         "Party": "Rep",
-        "Votes": "3,888",
-        "Percent": "13.4",
+        "Votes": "4,199",
+        "Percent": "13.9",
         "incumbent": false
       }
     ]
@@ -30,27 +30,27 @@
   {
     "raceTitle": "State Assembly District 12 - Districtwide Results",
     "Reporting": "100% (247 of 247) precincts reporting",
-    "ReportingTime": "March 6, 2024, 12:20 a.m.",
+    "ReportingTime": "March 6, 2024, 12:36 a.m.",
     "candidates": [
       {
         "Name": "Damon Connolly",
         "Party": "Dem",
-        "Votes": "48,181",
-        "Percent": "76.1",
+        "Votes": "48,826",
+        "Percent": "75.6",
         "incumbent": true
       },
       {
         "Name": "Eryn Cervantes",
         "Party": "Rep",
-        "Votes": "6,933",
-        "Percent": "11.0",
+        "Votes": "7,257",
+        "Percent": "11.2",
         "incumbent": false
       },
       {
         "Name": "Andy Podshadley",
         "Party": "Rep",
-        "Votes": "8,167",
-        "Percent": "12.9",
+        "Votes": "8,478",
+        "Percent": "13.1",
         "incumbent": false
       }
     ]

@@ -1,41 +1,41 @@
 [
   {
     "raceTitle": "State Assembly District 28 - Santa Cruz County Results",
-    "Reporting": "73.2% (52 of 71) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:41 p.m.",
+    "Reporting": "94.4% (67 of 71) precincts reporting",
+    "ReportingTime": "March 6, 2024, 12:29 a.m.",
     "candidates": [
       {
         "Name": "Gail Pellerin",
         "Party": "Dem",
-        "Votes": "15,529",
-        "Percent": "80.5",
+        "Votes": "16,411",
+        "Percent": "79.9",
         "incumbent": true
       },
       {
         "Name": "Liz Lawler",
         "Party": "Rep",
-        "Votes": "3,757",
-        "Percent": "19.5",
+        "Votes": "4,138",
+        "Percent": "20.1",
         "incumbent": false
       }
     ]
   },
   {
     "raceTitle": "State Assembly District 28 - Districtwide Results",
-    "Reporting": "91% (191 of 210) precincts reporting",
-    "ReportingTime": "March 6, 2024, 12:20 a.m.",
+    "Reporting": "98.1% (206 of 210) precincts reporting",
+    "ReportingTime": "March 6, 2024, 12:36 a.m.",
     "candidates": [
       {
         "Name": "Gail Pellerin",
         "Party": "Dem",
-        "Votes": "40,844",
+        "Votes": "41,726",
         "Percent": "68.3",
         "incumbent": true
       },
       {
         "Name": "Liz Lawler",
         "Party": "Rep",
-        "Votes": "18,943",
+        "Votes": "19,324",
         "Percent": "31.7",
         "incumbent": false
       }

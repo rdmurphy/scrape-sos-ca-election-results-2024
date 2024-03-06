@@ -1,34 +1,34 @@
 {
   "raceTitle": "State Assembly District 41 - Districtwide Results",
   "Reporting": "70.6% (216 of 306) precincts reporting",
-  "ReportingTime": "March 6, 2024, 12:20 a.m.",
+  "ReportingTime": "March 6, 2024, 12:36 a.m.",
   "candidates": [
     {
       "Name": "John Harabedian",
       "Party": "Dem",
-      "Votes": "19,245",
-      "Percent": "31.4",
+      "Votes": "19,339",
+      "Percent": "31.2",
       "incumbent": false
     },
     {
       "Name": "Jed Leano",
       "Party": "Dem",
-      "Votes": "8,335",
-      "Percent": "13.6",
+      "Votes": "8,495",
+      "Percent": "13.7",
       "incumbent": false
     },
     {
       "Name": "Phlunté Riddle",
       "Party": "Dem",
-      "Votes": "9,444",
-      "Percent": "15.4",
+      "Votes": "9,503",
+      "Percent": "15.3",
       "incumbent": false
     },
     {
       "Name": "Michelle Del Rosario Martinez",
       "Party": "Rep",
-      "Votes": "24,273",
-      "Percent": "39.6",
+      "Votes": "24,682",
+      "Percent": "39.8",
       "incumbent": false
     }
   ]

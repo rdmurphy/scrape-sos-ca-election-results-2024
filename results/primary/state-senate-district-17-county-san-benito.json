@@ -36,35 +36,35 @@
   },
   {
     "raceTitle": "State Senate District 17 - Districtwide Results",
-    "Reporting": "87% (387 of 445) precincts reporting",
-    "ReportingTime": "March 6, 2024, 12:20 a.m.",
+    "Reporting": "95.5% (425 of 445) precincts reporting",
+    "ReportingTime": "March 6, 2024, 12:36 a.m.",
     "candidates": [
       {
         "Name": "John Laird",
         "Party": "Dem",
-        "Votes": "73,647",
-        "Percent": "66.2",
+        "Votes": "74,900",
+        "Percent": "66.0",
         "incumbent": true
       },
       {
         "Name": "Eric Tao",
         "Party": "Rep",
-        "Votes": "12,709",
+        "Votes": "12,967",
         "Percent": "11.4",
         "incumbent": false
       },
       {
         "Name": "Tony Virrueta",
         "Party": "Rep",
-        "Votes": "22,855",
-        "Percent": "20.5",
+        "Votes": "23,455",
+        "Percent": "20.7",
         "incumbent": false
       },
       {
         "Name": "Michael Oxford",
         "Party": "Lib",
-        "Votes": "2,042",
-        "Percent": "1.8",
+        "Votes": "2,127",
+        "Percent": "1.9",
         "incumbent": false
       }
     ]
