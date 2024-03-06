@@ -1,194 +1,194 @@
 {
   "raceTitle": "U.S. Senate (Full Term) - Statewide Results",
-  "Reporting": "16.3% (3,393 of 20,855) precincts reporting",
-  "ReportingTime": "March 5, 2024, 8:30 p.m.",
+  "Reporting": "19.1% (3,979 of 20,855) precincts reporting",
+  "ReportingTime": "March 5, 2024, 8:37 p.m.",
   "candidates": [
     {
       "Name": "Sepi Gilani",
       "Party": "Dem",
-      "Votes": "6,494",
-      "Percent": "0.4",
+      "Votes": "9,260",
+      "Percent": "0.5",
       "incumbent": false
     },
     {
       "Name": "Harmesh Kumar",
       "Party": "Dem",
-      "Votes": "3,685",
-      "Percent": "0.2",
+      "Votes": "5,340",
+      "Percent": "0.3",
       "incumbent": false
     },
     {
       "Name": "Barbara Lee",
       "Party": "Dem",
-      "Votes": "105,867",
+      "Votes": "138,075",
       "Percent": "6.8",
       "incumbent": false
     },
     {
       "Name": "Christina Pascucci",
       "Party": "Dem",
-      "Votes": "11,955",
-      "Percent": "0.8",
+      "Votes": "14,239",
+      "Percent": "0.7",
       "incumbent": false
     },
     {
       "Name": "David Peterson",
       "Party": "Dem",
-      "Votes": "5,218",
+      "Votes": "6,292",
       "Percent": "0.3",
       "incumbent": false
     },
     {
       "Name": "Douglas H. Pierce",
       "Party": "Dem",
-      "Votes": "3,719",
-      "Percent": "0.2",
+      "Votes": "5,300",
+      "Percent": "0.3",
       "incumbent": false
     },
     {
       "Name": "Katie Porter",
       "Party": "Dem",
-      "Votes": "233,438",
-      "Percent": "15.1",
+      "Votes": "299,119",
+      "Percent": "14.8",
       "incumbent": false
     },
     {
       "Name": "Perry Pound",
       "Party": "Dem",
-      "Votes": "3,054",
+      "Votes": "3,929",
       "Percent": "0.2",
       "incumbent": false
     },
     {
       "Name": "Raji Rab",
       "Party": "Dem",
-      "Votes": "2,092",
+      "Votes": "2,915",
       "Percent": "0.1",
       "incumbent": false
     },
     {
       "Name": "John Rose",
       "Party": "Dem",
-      "Votes": "2,565",
+      "Votes": "3,808",
       "Percent": "0.2",
       "incumbent": false
     },
     {
       "Name": "Adam B. Schiff",
       "Party": "Dem",
-      "Votes": "553,153",
-      "Percent": "35.7",
+      "Votes": "718,202",
+      "Percent": "35.4",
       "incumbent": false
     },
     {
       "Name": "Sharleta Bassett",
       "Party": "Rep",
-      "Votes": "12,746",
+      "Votes": "16,381",
       "Percent": "0.8",
       "incumbent": false
     },
     {
       "Name": "James Bradley",
       "Party": "Rep",
-      "Votes": "27,455",
-      "Percent": "1.8",
+      "Votes": "33,976",
+      "Percent": "1.7",
       "incumbent": false
     },
     {
       "Name": "Eric Early",
       "Party": "Rep",
-      "Votes": "53,806",
-      "Percent": "3.5",
+      "Votes": "67,644",
+      "Percent": "3.3",
       "incumbent": false
     },
     {
       "Name": "Steve Garvey",
       "Party": "Rep",
-      "Votes": "464,597",
-      "Percent": "30.0",
+      "Votes": "627,244",
+      "Percent": "31.0",
       "incumbent": false
     },
     {
       "Name": "Denice Gary-Pandol",
       "Party": "Rep",
-      "Votes": "5,350",
-      "Percent": "0.3",
+      "Votes": "7,463",
+      "Percent": "0.4",
       "incumbent": false
     },
     {
       "Name": "Sarah Sun Liew",
       "Party": "Rep",
-      "Votes": "9,872",
+      "Votes": "11,899",
       "Percent": "0.6",
       "incumbent": false
     },
     {
       "Name": "James \"Jim\" Macauley",
       "Party": "Rep",
-      "Votes": "5,993",
+      "Votes": "7,493",
       "Percent": "0.4",
       "incumbent": false
     },
     {
       "Name": "Jonathan Reiss",
       "Party": "Rep",
-      "Votes": "6,626",
+      "Votes": "8,664",
       "Percent": "0.4",
       "incumbent": false
     },
     {
       "Name": "Stefan Simchowitz",
       "Party": "Rep",
-      "Votes": "2,648",
-      "Percent": "0.2",
+      "Votes": "2,988",
+      "Percent": "0.1",
       "incumbent": false
     },
     {
       "Name": "Martin Veprauskas",
       "Party": "Rep",
-      "Votes": "2,002",
+      "Votes": "2,757",
       "Percent": "0.1",
       "incumbent": false
     },
     {
       "Name": "Forrest Jones",
       "Party": "AI",
-      "Votes": "3,108",
+      "Votes": "3,754",
       "Percent": "0.2",
       "incumbent": false
     },
     {
       "Name": "Gail Lightfoot",
       "Party": "Lib",
-      "Votes": "7,565",
+      "Votes": "10,201",
       "Percent": "0.5",
       "incumbent": false
     },
     {
       "Name": "Laura Garza",
       "Party": "NPP",
-      "Votes": "6,693",
-      "Percent": "0.4",
+      "Votes": "9,155",
+      "Percent": "0.5",
       "incumbent": false
     },
     {
       "Name": "Don J. Grundmann",
       "Party": "NPP",
-      "Votes": "1,338",
+      "Votes": "1,842",
       "Percent": "0.1",
       "incumbent": false
     },
     {
       "Name": "Mark Ruzon",
       "Party": "NPP",
-      "Votes": "2,598",
+      "Votes": "3,624",
       "Percent": "0.2",
       "incumbent": false
     },
     {
       "Name": "Major Singh",
       "Party": "NPP",
-      "Votes": "3,748",
+      "Votes": "4,419",
       "Percent": "0.2",
       "incumbent": false
     }

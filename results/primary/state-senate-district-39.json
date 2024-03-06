@@ -1,20 +1,20 @@
 {
   "raceTitle": "State Senate District 39 - Districtwide Results",
   "Reporting": "0% (0 of 587) precincts reporting",
-  "ReportingTime": "March 5, 2024, 8:30 p.m.",
+  "ReportingTime": "March 5, 2024, 8:37 p.m.",
   "candidates": [
     {
       "Name": "Akilah Weber",
       "Party": "Dem",
-      "Votes": "0",
-      "Percent": "0.0",
+      "Votes": "66,399",
+      "Percent": "60.5",
       "incumbent": false
     },
     {
       "Name": "Bob Divine",
       "Party": "Rep",
-      "Votes": "0",
-      "Percent": "0.0",
+      "Votes": "43,270",
+      "Percent": "39.5",
       "incumbent": false
     }
   ]

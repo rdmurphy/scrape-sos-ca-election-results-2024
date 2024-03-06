@@ -1,15 +1,15 @@
 {
   "raceTitle": "Ballot Measures - Sonoma Results",
-  "Reporting": "0.0% (0 of 439) precincts reporting",
-  "ReportingTime": "March 5, 2024, 8:30 p.m.",
+  "Reporting": "100.0% (439 of 439) precincts reporting",
+  "ReportingTime": "March 5, 2024, 8:34 p.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "0",
-      "yesPercent": "0.0",
-      "noVotes": "0",
-      "noPercent": "0.0"
+      "yesVotes": "39309",
+      "yesPercent": "57.7",
+      "noVotes": "28780",
+      "noPercent": "42.3"
     }
   ]
 }
