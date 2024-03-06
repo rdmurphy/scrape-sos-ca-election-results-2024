@@ -1,20 +1,20 @@
 {
   "raceTitle": "U.S. House of Representatives District 46 - Districtwide Results",
   "Reporting": "100% (367 of 367) precincts reporting",
-  "ReportingTime": "March 5, 2024, 10:26 p.m.",
+  "ReportingTime": "March 5, 2024, 10:36 p.m.",
   "candidates": [
     {
       "Name": "Lou Correa",
       "Party": "Dem",
-      "Votes": "22,070",
-      "Percent": "63.6",
+      "Votes": "22,999",
+      "Percent": "61.7",
       "incumbent": true
     },
     {
       "Name": "David Pan",
       "Party": "Rep",
-      "Votes": "12,615",
-      "Percent": "36.4",
+      "Votes": "14,288",
+      "Percent": "38.3",
       "incumbent": false
     }
   ]

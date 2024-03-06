@@ -1,19 +1,19 @@
 {
   "raceTitle": "U.S. House of Representatives District 38 - Districtwide Results",
   "Reporting": "100% (197 of 197) precincts reporting",
-  "ReportingTime": "March 5, 2024, 10:26 p.m.",
+  "ReportingTime": "March 5, 2024, 10:36 p.m.",
   "candidates": [
     {
       "Name": "Linda T. Sánchez",
       "Party": "Dem",
-      "Votes": "26,067",
+      "Votes": "26,068",
       "Percent": "58.4",
       "incumbent": true
     },
     {
       "Name": "Eric J. Ching",
       "Party": "Rep",
-      "Votes": "10,699",
+      "Votes": "10,700",
       "Percent": "24.0",
       "incumbent": false
     },
@@ -27,7 +27,7 @@
     {
       "Name": "John Sarega",
       "Party": "Rep",
-      "Votes": "5,037",
+      "Votes": "5,039",
       "Percent": "11.3",
       "incumbent": false
     }

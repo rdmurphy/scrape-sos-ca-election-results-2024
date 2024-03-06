@@ -2,27 +2,27 @@
   {
     "raceTitle": "State Assembly District 14 - Contra Costa County Results",
     "Reporting": "0% (0 of 165) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:32 p.m.",
+    "ReportingTime": "March 5, 2024, 10:32 p.m.",
     "candidates": [
       {
         "Name": "Margot Smith",
         "Party": "Dem",
-        "Votes": "3,207",
-        "Percent": "14.7",
+        "Votes": "3,299",
+        "Percent": "14.8",
         "incumbent": false
       },
       {
         "Name": "Buffy Wicks",
         "Party": "Dem",
-        "Votes": "15,355",
-        "Percent": "70.6",
+        "Votes": "15,639",
+        "Percent": "70.3",
         "incumbent": true
       },
       {
         "Name": "Utkarsh Jain",
         "Party": "Rep",
-        "Votes": "3,184",
-        "Percent": "14.6",
+        "Votes": "3,320",
+        "Percent": "14.9",
         "incumbent": false
       }
     ]
@@ -30,27 +30,27 @@
   {
     "raceTitle": "State Assembly District 14 - Districtwide Results",
     "Reporting": "22.5% (48 of 213) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:26 p.m.",
+    "ReportingTime": "March 5, 2024, 10:36 p.m.",
     "candidates": [
       {
         "Name": "Margot Smith",
         "Party": "Dem",
-        "Votes": "5,066",
+        "Votes": "5,158",
         "Percent": "15.1",
         "incumbent": false
       },
       {
         "Name": "Buffy Wicks",
         "Party": "Dem",
-        "Votes": "24,351",
-        "Percent": "72.4",
+        "Votes": "24,635",
+        "Percent": "72.1",
         "incumbent": true
       },
       {
         "Name": "Utkarsh Jain",
         "Party": "Rep",
-        "Votes": "4,221",
-        "Percent": "12.5",
+        "Votes": "4,357",
+        "Percent": "12.8",
         "incumbent": false
       }
     ]

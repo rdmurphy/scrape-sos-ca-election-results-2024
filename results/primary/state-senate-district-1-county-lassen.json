@@ -2,19 +2,19 @@
   {
     "raceTitle": "State Senate District 1 - Lassen County Results",
     "Reporting": "100% (52 of 52) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:58 p.m.",
+    "ReportingTime": "March 5, 2024, 10:32 p.m.",
     "candidates": [
       {
         "Name": "Megan Dahle",
         "Party": "Rep",
-        "Votes": "2,728",
+        "Votes": "2,752",
         "Percent": "84.3",
         "incumbent": false
       },
       {
         "Name": "David Fennell",
         "Party": "Rep",
-        "Votes": "508",
+        "Votes": "513",
         "Percent": "15.7",
         "incumbent": false
       }
@@ -22,21 +22,21 @@
   },
   {
     "raceTitle": "State Senate District 1 - Districtwide Results",
-    "Reporting": "71.1% (479 of 674) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:26 p.m.",
+    "Reporting": "74.5% (502 of 674) precincts reporting",
+    "ReportingTime": "March 5, 2024, 10:36 p.m.",
     "candidates": [
       {
         "Name": "Megan Dahle",
         "Party": "Rep",
-        "Votes": "69,351",
-        "Percent": "77.4",
+        "Votes": "69,858",
+        "Percent": "77.3",
         "incumbent": false
       },
       {
         "Name": "David Fennell",
         "Party": "Rep",
-        "Votes": "20,213",
-        "Percent": "22.6",
+        "Votes": "20,471",
+        "Percent": "22.7",
         "incumbent": false
       }
     ]
