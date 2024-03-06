@@ -1,42 +1,42 @@
 [
   {
     "raceTitle": "U.S. House of Representatives District 44 - Los Angeles County Results",
-    "Reporting": "0% (0 of 174) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:37 p.m.",
+    "Reporting": "100% (174 of 174) precincts reporting",
+    "ReportingTime": "March 5, 2024, 8:44 p.m.",
     "candidates": [
       {
         "Name": "Nanette Diaz Barragán",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "26,158",
+        "Percent": "72.1",
         "incumbent": true
       },
       {
         "Name": "Roger Groh",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "10,133",
+        "Percent": "27.9",
         "incumbent": false
       }
     ]
   },
   {
     "raceTitle": "U.S. House of Representatives District 44 - Districtwide Results",
-    "Reporting": "0% (0 of 174) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:37 p.m.",
+    "Reporting": "100% (174 of 174) precincts reporting",
+    "ReportingTime": "March 5, 2024, 8:44 p.m.",
     "candidates": [
       {
         "Name": "Nanette Diaz Barragán",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "26,158",
+        "Percent": "72.1",
         "incumbent": true
       },
       {
         "Name": "Roger Groh",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "10,133",
+        "Percent": "27.9",
         "incumbent": false
       }
     ]

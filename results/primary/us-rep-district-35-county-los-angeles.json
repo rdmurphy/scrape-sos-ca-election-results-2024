@@ -1,70 +1,70 @@
 [
   {
     "raceTitle": "U.S. House of Representatives District 35 - Los Angeles County Results",
-    "Reporting": "0% (0 of 28) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:37 p.m.",
+    "Reporting": "100% (28 of 28) precincts reporting",
+    "ReportingTime": "March 5, 2024, 8:44 p.m.",
     "candidates": [
       {
         "Name": "Melissa May",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "649",
+        "Percent": "11.7",
         "incumbent": false
       },
       {
         "Name": "Norma J. Torres",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "3,218",
+        "Percent": "58.3",
         "incumbent": true
       },
       {
         "Name": "Mike Cargile",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "1,391",
+        "Percent": "25.2",
         "incumbent": false
       },
       {
         "Name": "Vijal Suthar",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "266",
+        "Percent": "4.8",
         "incumbent": false
       }
     ]
   },
   {
     "raceTitle": "U.S. House of Representatives District 35 - Districtwide Results",
-    "Reporting": "0.2% (1 of 431) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:37 p.m.",
+    "Reporting": "6.7% (29 of 431) precincts reporting",
+    "ReportingTime": "March 5, 2024, 8:44 p.m.",
     "candidates": [
       {
         "Name": "Melissa May",
         "Party": "Dem",
-        "Votes": "1,461",
-        "Percent": "6.5",
+        "Votes": "2,110",
+        "Percent": "7.5",
         "incumbent": false
       },
       {
         "Name": "Norma J. Torres",
         "Party": "Dem",
-        "Votes": "11,850",
-        "Percent": "52.4",
+        "Votes": "15,068",
+        "Percent": "53.5",
         "incumbent": true
       },
       {
         "Name": "Mike Cargile",
         "Party": "Rep",
-        "Votes": "8,371",
-        "Percent": "37.0",
+        "Votes": "9,762",
+        "Percent": "34.7",
         "incumbent": false
       },
       {
         "Name": "Vijal Suthar",
         "Party": "Rep",
-        "Votes": "942",
-        "Percent": "4.2",
+        "Votes": "1,208",
+        "Percent": "4.3",
         "incumbent": false
       }
     ]

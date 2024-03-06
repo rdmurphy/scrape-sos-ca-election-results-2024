@@ -1,70 +1,70 @@
 [
   {
     "raceTitle": "U.S. House of Representatives District 42 - Los Angeles County Results",
-    "Reporting": "0% (0 of 172) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:37 p.m.",
+    "Reporting": "100% (172 of 172) precincts reporting",
+    "ReportingTime": "March 5, 2024, 8:44 p.m.",
     "candidates": [
       {
         "Name": "Joaquín Beltrán",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "2,261",
+        "Percent": "5.9",
         "incumbent": false
       },
       {
         "Name": "Robert Garcia",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "21,377",
+        "Percent": "55.7",
         "incumbent": true
       },
       {
         "Name": "J. Nicole Lopez",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "2,753",
+        "Percent": "7.2",
         "incumbent": false
       },
       {
         "Name": "John Briscoe",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "12,019",
+        "Percent": "31.3",
         "incumbent": false
       }
     ]
   },
   {
     "raceTitle": "U.S. House of Representatives District 42 - Districtwide Results",
-    "Reporting": "0% (0 of 172) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:37 p.m.",
+    "Reporting": "100% (172 of 172) precincts reporting",
+    "ReportingTime": "March 5, 2024, 8:44 p.m.",
     "candidates": [
       {
         "Name": "Joaquín Beltrán",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "2,261",
+        "Percent": "5.9",
         "incumbent": false
       },
       {
         "Name": "Robert Garcia",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "21,377",
+        "Percent": "55.7",
         "incumbent": true
       },
       {
         "Name": "J. Nicole Lopez",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "2,753",
+        "Percent": "7.2",
         "incumbent": false
       },
       {
         "Name": "John Briscoe",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "12,019",
+        "Percent": "31.3",
         "incumbent": false
       }
     ]

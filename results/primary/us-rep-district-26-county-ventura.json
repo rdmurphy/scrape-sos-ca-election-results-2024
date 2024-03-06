@@ -2,7 +2,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 26 - Ventura County Results",
     "Reporting": "0% (0 of 1,059) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:37 p.m.",
+    "ReportingTime": "March 5, 2024, 8:44 p.m.",
     "candidates": [
       {
         "Name": "Chris Anstead",
@@ -36,35 +36,35 @@
   },
   {
     "raceTitle": "U.S. House of Representatives District 26 - Districtwide Results",
-    "Reporting": "0% (0 of 1,076) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:37 p.m.",
+    "Reporting": "1.6% (17 of 1,076) precincts reporting",
+    "ReportingTime": "March 5, 2024, 8:44 p.m.",
     "candidates": [
       {
         "Name": "Chris Anstead",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "539",
+        "Percent": "7.7",
         "incumbent": false
       },
       {
         "Name": "Julia Brownley",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "3,791",
+        "Percent": "54.4",
         "incumbent": true
       },
       {
         "Name": "Bruce Boyer",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "475",
+        "Percent": "6.8",
         "incumbent": false
       },
       {
         "Name": "Michael Koslow",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "2,158",
+        "Percent": "31.0",
         "incumbent": false
       }
     ]
