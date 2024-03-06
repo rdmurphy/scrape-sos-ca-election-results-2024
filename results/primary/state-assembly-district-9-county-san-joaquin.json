@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 9 - San Joaquin County Results",
     "Reporting": "100% (96 of 96) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:29 p.m.",
+    "ReportingTime": "March 6, 2024, 12:42 a.m.",
     "candidates": [
       {
         "Name": "Heath Flora",
         "Party": "Rep",
-        "Votes": "15,124",
-        "Percent": "70.3",
+        "Votes": "17,685",
+        "Percent": "71.8",
         "incumbent": true
       },
       {
         "Name": "Tami Nobriga",
         "Party": "AI",
-        "Votes": "6,392",
-        "Percent": "29.7",
+        "Votes": "6,952",
+        "Percent": "28.2",
         "incumbent": false
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "State Assembly District 9 - Districtwide Results",
     "Reporting": "100% (186 of 186) precincts reporting",
-    "ReportingTime": "March 6, 2024, 12:36 a.m.",
+    "ReportingTime": "March 6, 2024, 12:44 a.m.",
     "candidates": [
       {
         "Name": "Heath Flora",
         "Party": "Rep",
-        "Votes": "28,721",
-        "Percent": "72.6",
+        "Votes": "31,282",
+        "Percent": "73.3",
         "incumbent": true
       },
       {
         "Name": "Tami Nobriga",
         "Party": "AI",
-        "Votes": "10,838",
-        "Percent": "27.4",
+        "Votes": "11,398",
+        "Percent": "26.7",
         "incumbent": false
       }
     ]

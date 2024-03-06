@@ -1,20 +1,20 @@
 {
   "raceTitle": "State Assembly District 35 - Districtwide Results",
   "Reporting": "83.7% (278 of 332) precincts reporting",
-  "ReportingTime": "March 6, 2024, 12:36 a.m.",
+  "ReportingTime": "March 6, 2024, 12:44 a.m.",
   "candidates": [
     {
       "Name": "Jasmeet Bains",
       "Party": "Dem",
-      "Votes": "5,866",
-      "Percent": "59.4",
+      "Votes": "6,611",
+      "Percent": "57.6",
       "incumbent": true
     },
     {
       "Name": "Robert Rosas",
       "Party": "Rep",
-      "Votes": "4,011",
-      "Percent": "40.6",
+      "Votes": "4,868",
+      "Percent": "42.4",
       "incumbent": false
     }
   ]

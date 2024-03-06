@@ -1,15 +1,15 @@
 {
   "raceTitle": "Ballot Measures - Kern Results",
   "Reporting": "79.6% (605 of 760) precincts reporting",
-  "ReportingTime": "March 5, 2024, 10:59 p.m.",
+  "ReportingTime": "March 6, 2024, 12:44 a.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "14503",
-      "yesPercent": "43.8",
-      "noVotes": "18610",
-      "noPercent": "56.2"
+      "yesVotes": "16142",
+      "yesPercent": "41.9",
+      "noVotes": "22342",
+      "noPercent": "58.1"
     }
   ]
 }

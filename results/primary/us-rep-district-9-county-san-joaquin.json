@@ -2,34 +2,34 @@
   {
     "raceTitle": "U.S. House of Representatives District 9 - San Joaquin County Results",
     "Reporting": "100% (201 of 201) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:29 p.m.",
+    "ReportingTime": "March 6, 2024, 12:42 a.m.",
     "candidates": [
       {
         "Name": "Josh Harder",
         "Party": "Dem",
-        "Votes": "26,516",
-        "Percent": "55.6",
+        "Votes": "28,553",
+        "Percent": "52.9",
         "incumbent": true
       },
       {
         "Name": "Khalid Jeffrey Jafri",
         "Party": "Rep",
-        "Votes": "3,449",
-        "Percent": "7.2",
+        "Votes": "4,051",
+        "Percent": "7.5",
         "incumbent": false
       },
       {
         "Name": "Kevin Lincoln",
         "Party": "Rep",
-        "Votes": "12,843",
-        "Percent": "26.9",
+        "Votes": "15,235",
+        "Percent": "28.2",
         "incumbent": false
       },
       {
         "Name": "John McBride",
         "Party": "Rep",
-        "Votes": "4,897",
-        "Percent": "10.3",
+        "Votes": "6,143",
+        "Percent": "11.4",
         "incumbent": false
       }
     ]
@@ -37,34 +37,34 @@
   {
     "raceTitle": "U.S. House of Representatives District 9 - Districtwide Results",
     "Reporting": "100% (240 of 240) precincts reporting",
-    "ReportingTime": "March 6, 2024, 12:36 a.m.",
+    "ReportingTime": "March 6, 2024, 12:44 a.m.",
     "candidates": [
       {
         "Name": "Josh Harder",
         "Party": "Dem",
-        "Votes": "27,564",
-        "Percent": "54.8",
+        "Votes": "29,601",
+        "Percent": "52.3",
         "incumbent": true
       },
       {
         "Name": "Khalid Jeffrey Jafri",
         "Party": "Rep",
-        "Votes": "3,760",
-        "Percent": "7.5",
+        "Votes": "4,362",
+        "Percent": "7.7",
         "incumbent": false
       },
       {
         "Name": "Kevin Lincoln",
         "Party": "Rep",
-        "Votes": "13,601",
-        "Percent": "27.0",
+        "Votes": "15,993",
+        "Percent": "28.3",
         "incumbent": false
       },
       {
         "Name": "John McBride",
         "Party": "Rep",
-        "Votes": "5,372",
-        "Percent": "10.7",
+        "Votes": "6,618",
+        "Percent": "11.7",
         "incumbent": false
       }
     ]
