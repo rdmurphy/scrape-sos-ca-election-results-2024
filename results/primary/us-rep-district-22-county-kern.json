@@ -2,7 +2,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 22 - Kern County Results",
     "Reporting": "0% (0 of 363) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:46 p.m.",
+    "ReportingTime": "March 5, 2024, 10:02 p.m.",
     "candidates": [
       {
         "Name": "Melissa Hurtado",
@@ -37,33 +37,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 22 - Districtwide Results",
     "Reporting": "11.1% (46 of 414) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:46 p.m.",
+    "ReportingTime": "March 5, 2024, 10:02 p.m.",
     "candidates": [
       {
         "Name": "Melissa Hurtado",
         "Party": "Dem",
-        "Votes": "1,840",
-        "Percent": "17.9",
+        "Votes": "1,896",
+        "Percent": "17.5",
         "incumbent": false
       },
       {
         "Name": "Rudy Salas",
         "Party": "Dem",
-        "Votes": "2,346",
-        "Percent": "22.8",
+        "Votes": "2,437",
+        "Percent": "22.5",
         "incumbent": false
       },
       {
         "Name": "Chris Mathys",
         "Party": "Rep",
-        "Votes": "2,433",
-        "Percent": "23.6",
+        "Votes": "2,627",
+        "Percent": "24.3",
         "incumbent": false
       },
       {
         "Name": "David G. Valadao",
         "Party": "Rep",
-        "Votes": "3,678",
+        "Votes": "3,862",
         "Percent": "35.7",
         "incumbent": true
       }

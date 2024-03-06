@@ -1,40 +1,40 @@
 {
   "raceTitle": "U.S. House of Representatives District 49 - Districtwide Results",
   "Reporting": "41.1% (194 of 472) precincts reporting",
-  "ReportingTime": "March 5, 2024, 9:46 p.m.",
+  "ReportingTime": "March 5, 2024, 10:02 p.m.",
   "candidates": [
     {
       "Name": "Mike Levin",
       "Party": "Dem",
-      "Votes": "54,937",
-      "Percent": "55.2",
+      "Votes": "55,177",
+      "Percent": "55.1",
       "incumbent": true
     },
     {
       "Name": "Sheryl Adams",
       "Party": "Rep",
-      "Votes": "2,479",
+      "Votes": "2,492",
       "Percent": "2.5",
       "incumbent": false
     },
     {
       "Name": "Matt Gunderson",
       "Party": "Rep",
-      "Votes": "23,424",
+      "Votes": "23,619",
       "Percent": "23.6",
       "incumbent": false
     },
     {
       "Name": "Kate Monroe",
       "Party": "Rep",
-      "Votes": "7,906",
-      "Percent": "7.9",
+      "Votes": "7,976",
+      "Percent": "8.0",
       "incumbent": false
     },
     {
       "Name": "Margarita Wilkinson",
       "Party": "Rep",
-      "Votes": "10,718",
+      "Votes": "10,807",
       "Percent": "10.8",
       "incumbent": false
     }

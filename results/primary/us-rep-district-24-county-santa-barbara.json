@@ -1,56 +1,56 @@
 [
   {
     "raceTitle": "U.S. House of Representatives District 24 - Santa Barbara County Results",
-    "Reporting": "4.6% (9 of 194) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:20 p.m.",
+    "Reporting": "35.6% (69 of 194) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:58 p.m.",
     "candidates": [
       {
         "Name": "Salud Carbajal",
         "Party": "Dem",
-        "Votes": "27,698",
-        "Percent": "58.8",
+        "Votes": "28,201",
+        "Percent": "58.6",
         "incumbent": true
       },
       {
         "Name": "Helena Pasquarella",
         "Party": "Dem",
-        "Votes": "3,419",
-        "Percent": "7.3",
+        "Votes": "3,558",
+        "Percent": "7.4",
         "incumbent": false
       },
       {
         "Name": "Thomas Cole",
         "Party": "Rep",
-        "Votes": "15,977",
-        "Percent": "33.9",
+        "Votes": "16,396",
+        "Percent": "34.0",
         "incumbent": false
       }
     ]
   },
   {
     "raceTitle": "U.S. House of Representatives District 24 - Districtwide Results",
-    "Reporting": "40.2% (248 of 617) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:46 p.m.",
+    "Reporting": "52.4% (323 of 617) precincts reporting",
+    "ReportingTime": "March 5, 2024, 10:02 p.m.",
     "candidates": [
       {
         "Name": "Salud Carbajal",
         "Party": "Dem",
-        "Votes": "54,488",
-        "Percent": "58.4",
+        "Votes": "55,127",
+        "Percent": "58.3",
         "incumbent": true
       },
       {
         "Name": "Helena Pasquarella",
         "Party": "Dem",
-        "Votes": "7,084",
-        "Percent": "7.6",
+        "Votes": "7,266",
+        "Percent": "7.7",
         "incumbent": false
       },
       {
         "Name": "Thomas Cole",
         "Party": "Rep",
-        "Votes": "31,675",
-        "Percent": "34.0",
+        "Votes": "32,240",
+        "Percent": "34.1",
         "incumbent": false
       }
     ]

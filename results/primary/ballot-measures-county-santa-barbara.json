@@ -1,15 +1,15 @@
 {
   "raceTitle": "Ballot Measures - Santa Barbara Results",
-  "Reporting": "4.6% (9 of 194) precincts reporting",
-  "ReportingTime": "March 5, 2024, 9:20 p.m.",
+  "Reporting": "35.6% (69 of 194) precincts reporting",
+  "ReportingTime": "March 5, 2024, 9:58 p.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "23739",
-      "yesPercent": "51.3",
-      "noVotes": "22554",
-      "noPercent": "48.7"
+      "yesVotes": "24219",
+      "yesPercent": "51.2",
+      "noVotes": "23122",
+      "noPercent": "48.8"
     }
   ]
 }

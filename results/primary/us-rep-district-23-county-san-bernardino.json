@@ -1,42 +1,42 @@
 [
   {
     "raceTitle": "U.S. House of Representatives District 23 - San Bernardino County Results",
-    "Reporting": "6.1% (96 of 1,577) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:20 p.m.",
+    "Reporting": "11.9% (187 of 1,577) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:48 p.m.",
     "candidates": [
       {
         "Name": "Derek Marshall",
         "Party": "Dem",
-        "Votes": "17,947",
-        "Percent": "43.2",
+        "Votes": "18,264",
+        "Percent": "42.9",
         "incumbent": false
       },
       {
         "Name": "Jay Obernolte",
         "Party": "Rep",
-        "Votes": "23,571",
-        "Percent": "56.8",
+        "Votes": "24,329",
+        "Percent": "57.1",
         "incumbent": true
       }
     ]
   },
   {
     "raceTitle": "U.S. House of Representatives District 23 - Districtwide Results",
-    "Reporting": "6.5% (105 of 1,609) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:46 p.m.",
+    "Reporting": "12.2% (196 of 1,609) precincts reporting",
+    "ReportingTime": "March 5, 2024, 10:02 p.m.",
     "candidates": [
       {
         "Name": "Derek Marshall",
         "Party": "Dem",
-        "Votes": "18,394",
-        "Percent": "43.4",
+        "Votes": "18,711",
+        "Percent": "43.0",
         "incumbent": false
       },
       {
         "Name": "Jay Obernolte",
         "Party": "Rep",
-        "Votes": "24,029",
-        "Percent": "56.6",
+        "Votes": "24,787",
+        "Percent": "57.0",
         "incumbent": true
       }
     ]

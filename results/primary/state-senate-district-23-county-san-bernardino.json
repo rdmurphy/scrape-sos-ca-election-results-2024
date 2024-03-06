@@ -1,8 +1,8 @@
 [
   {
     "raceTitle": "State Senate District 23 - San Bernardino County Results",
-    "Reporting": "1.6% (5 of 319) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:20 p.m.",
+    "Reporting": "4.1% (13 of 319) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:48 p.m.",
     "candidates": [
       {
         "Name": "Blanca Azucena Gomez",
@@ -21,21 +21,21 @@
       {
         "Name": "Kipp Mueller",
         "Party": "Dem",
-        "Votes": "3,981",
+        "Votes": "3,983",
         "Percent": "28.5",
         "incumbent": false
       },
       {
         "Name": "James \"DJ\" Hamburger",
         "Party": "Rep",
-        "Votes": "4,056",
+        "Votes": "4,060",
         "Percent": "29.0",
         "incumbent": false
       },
       {
         "Name": "Suzette Martinez Valladares",
         "Party": "Rep",
-        "Votes": "3,244",
+        "Votes": "3,245",
         "Percent": "23.2",
         "incumbent": false
       }
@@ -43,8 +43,8 @@
   },
   {
     "raceTitle": "State Senate District 23 - Districtwide Results",
-    "Reporting": "39.6% (206 of 520) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:46 p.m.",
+    "Reporting": "41.2% (214 of 520) precincts reporting",
+    "ReportingTime": "March 5, 2024, 10:02 p.m.",
     "candidates": [
       {
         "Name": "Blanca Azucena Gomez",
@@ -63,21 +63,21 @@
       {
         "Name": "Kipp Mueller",
         "Party": "Dem",
-        "Votes": "20,256",
+        "Votes": "20,258",
         "Percent": "30.5",
         "incumbent": false
       },
       {
         "Name": "James \"DJ\" Hamburger",
         "Party": "Rep",
-        "Votes": "14,954",
+        "Votes": "14,958",
         "Percent": "22.5",
         "incumbent": false
       },
       {
         "Name": "Suzette Martinez Valladares",
         "Party": "Rep",
-        "Votes": "20,592",
+        "Votes": "20,593",
         "Percent": "31.0",
         "incumbent": false
       }

@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 22 - Stanislaus County Results",
     "Reporting": "100% (128 of 128) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:08 p.m.",
+    "ReportingTime": "March 5, 2024, 9:49 p.m.",
     "candidates": [
       {
         "Name": "Jessica Self",
         "Party": "Dem",
-        "Votes": "9,434",
-        "Percent": "48.1",
+        "Votes": "12,189",
+        "Percent": "47.7",
         "incumbent": false
       },
       {
         "Name": "Juan Alanis",
         "Party": "Rep",
-        "Votes": "10,182",
-        "Percent": "51.9",
+        "Votes": "13,371",
+        "Percent": "52.3",
         "incumbent": true
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "State Assembly District 22 - Districtwide Results",
     "Reporting": "100% (227 of 227) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:46 p.m.",
+    "ReportingTime": "March 5, 2024, 10:02 p.m.",
     "candidates": [
       {
         "Name": "Jessica Self",
         "Party": "Dem",
-        "Votes": "9,944",
-        "Percent": "47.0",
+        "Votes": "12,699",
+        "Percent": "46.9",
         "incumbent": false
       },
       {
         "Name": "Juan Alanis",
         "Party": "Rep",
-        "Votes": "11,204",
-        "Percent": "53.0",
+        "Votes": "14,393",
+        "Percent": "53.1",
         "incumbent": true
       }
     ]

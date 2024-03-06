@@ -1,42 +1,42 @@
 [
   {
     "raceTitle": "U.S. House of Representatives District 33 - San Bernardino County Results",
-    "Reporting": "0.9% (6 of 655) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:20 p.m.",
+    "Reporting": "36.3% (238 of 655) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:48 p.m.",
     "candidates": [
       {
         "Name": "Pete Aguilar",
         "Party": "Dem",
-        "Votes": "17,430",
-        "Percent": "62.5",
+        "Votes": "18,572",
+        "Percent": "60.7",
         "incumbent": true
       },
       {
         "Name": "Tom Herman",
         "Party": "Rep",
-        "Votes": "10,471",
-        "Percent": "37.5",
+        "Votes": "12,040",
+        "Percent": "39.3",
         "incumbent": false
       }
     ]
   },
   {
     "raceTitle": "U.S. House of Representatives District 33 - Districtwide Results",
-    "Reporting": "0.9% (6 of 655) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:46 p.m.",
+    "Reporting": "36.3% (238 of 655) precincts reporting",
+    "ReportingTime": "March 5, 2024, 10:02 p.m.",
     "candidates": [
       {
         "Name": "Pete Aguilar",
         "Party": "Dem",
-        "Votes": "17,430",
-        "Percent": "62.5",
+        "Votes": "18,572",
+        "Percent": "60.7",
         "incumbent": true
       },
       {
         "Name": "Tom Herman",
         "Party": "Rep",
-        "Votes": "10,471",
-        "Percent": "37.5",
+        "Votes": "12,040",
+        "Percent": "39.3",
         "incumbent": false
       }
     ]
