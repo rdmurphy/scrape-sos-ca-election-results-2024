@@ -23,19 +23,19 @@
   {
     "raceTitle": "State Assembly District 39 - Districtwide Results",
     "Reporting": "65% (132 of 203) precincts reporting",
-    "ReportingTime": "March 6, 2024, 1:12 a.m.",
+    "ReportingTime": "March 6, 2024, 1:20 a.m.",
     "candidates": [
       {
         "Name": "Juan Carrillo Ventura",
         "Party": "Dem",
-        "Votes": "10,454",
+        "Votes": "10,483",
         "Percent": "55.6",
         "incumbent": true
       },
       {
         "Name": "Paul Andre Marsh",
         "Party": "Rep",
-        "Votes": "8,332",
+        "Votes": "8,360",
         "Percent": "44.4",
         "incumbent": false
       }

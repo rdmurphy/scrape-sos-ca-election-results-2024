@@ -2,27 +2,27 @@
   {
     "raceTitle": "U.S. House of Representatives District 28 - Los Angeles County Results",
     "Reporting": "100% (192 of 192) precincts reporting",
-    "ReportingTime": "March 6, 2024, 12:56 a.m.",
+    "ReportingTime": "March 6, 2024, 1:20 a.m.",
     "candidates": [
       {
         "Name": "Judy Chu",
         "Party": "Dem",
-        "Votes": "48,574",
+        "Votes": "48,607",
         "Percent": "63.4",
         "incumbent": true
       },
       {
         "Name": "April A. Verlato",
         "Party": "Rep",
-        "Votes": "24,758",
+        "Votes": "24,776",
         "Percent": "32.3",
         "incumbent": false
       },
       {
         "Name": "Jose Castaneda",
         "Party": "Lib",
-        "Votes": "1,646",
-        "Percent": "2.1",
+        "Votes": "1,650",
+        "Percent": "2.2",
         "incumbent": false
       },
       {
@@ -37,26 +37,26 @@
   {
     "raceTitle": "U.S. House of Representatives District 28 - Districtwide Results",
     "Reporting": "70.9% (246 of 347) precincts reporting",
-    "ReportingTime": "March 6, 2024, 1:12 a.m.",
+    "ReportingTime": "March 6, 2024, 1:20 a.m.",
     "candidates": [
       {
         "Name": "Judy Chu",
         "Party": "Dem",
-        "Votes": "52,000",
+        "Votes": "52,033",
         "Percent": "61.1",
         "incumbent": true
       },
       {
         "Name": "April A. Verlato",
         "Party": "Rep",
-        "Votes": "29,566",
+        "Votes": "29,584",
         "Percent": "34.7",
         "incumbent": false
       },
       {
         "Name": "Jose Castaneda",
         "Party": "Lib",
-        "Votes": "1,804",
+        "Votes": "1,808",
         "Percent": "2.1",
         "incumbent": false
       },

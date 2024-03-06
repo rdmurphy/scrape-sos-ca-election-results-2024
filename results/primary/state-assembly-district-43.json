@@ -1,48 +1,48 @@
 {
   "raceTitle": "State Assembly District 43 - Districtwide Results",
   "Reporting": "100% (99 of 99) precincts reporting",
-  "ReportingTime": "March 6, 2024, 1:12 a.m.",
+  "ReportingTime": "March 6, 2024, 1:20 a.m.",
   "candidates": [
     {
       "Name": "Walter Garcia",
       "Party": "Dem",
-      "Votes": "3,679",
-      "Percent": "16.8",
+      "Votes": "4,191",
+      "Percent": "16.1",
       "incumbent": false
     },
     {
       "Name": "Saul Hurtado",
       "Party": "Dem",
-      "Votes": "868",
-      "Percent": "4.0",
+      "Votes": "1,086",
+      "Percent": "4.2",
       "incumbent": false
     },
     {
       "Name": "Celeste Rodriguez",
       "Party": "Dem",
-      "Votes": "8,900",
-      "Percent": "40.6",
+      "Votes": "10,233",
+      "Percent": "39.3",
       "incumbent": false
     },
     {
       "Name": "Victoria Garcia",
       "Party": "Rep",
-      "Votes": "5,847",
-      "Percent": "26.7",
+      "Votes": "7,178",
+      "Percent": "27.6",
       "incumbent": false
     },
     {
       "Name": "Felicia L. Novick",
       "Party": "Rep",
-      "Votes": "1,599",
-      "Percent": "7.3",
+      "Votes": "2,146",
+      "Percent": "8.2",
       "incumbent": false
     },
     {
       "Name": "Carmenlina Minasova",
       "Party": "NPP",
-      "Votes": "1,029",
-      "Percent": "4.7",
+      "Votes": "1,181",
+      "Percent": "4.5",
       "incumbent": false
     }
   ]

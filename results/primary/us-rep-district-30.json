@@ -1,111 +1,111 @@
 {
   "raceTitle": "U.S. House of Representatives District 30 - Districtwide Results",
   "Reporting": "100% (194 of 194) precincts reporting",
-  "ReportingTime": "March 6, 2024, 1:12 a.m.",
+  "ReportingTime": "March 6, 2024, 1:20 a.m.",
   "candidates": [
     {
       "Name": "Francesco Arreaga",
       "Party": "Dem",
-      "Votes": "253",
+      "Votes": "260",
       "Percent": "0.3",
       "incumbent": false
     },
     {
       "Name": "Steve Andraé Dunwoody",
       "Party": "Dem",
-      "Votes": "359",
+      "Votes": "369",
       "Percent": "0.5",
       "incumbent": false
     },
     {
       "Name": "Mike Feuer",
       "Party": "Dem",
-      "Votes": "9,720",
-      "Percent": "13.3",
+      "Votes": "9,965",
+      "Percent": "13.0",
       "incumbent": false
     },
     {
       "Name": "Laura Friedman",
       "Party": "Dem",
-      "Votes": "20,412",
-      "Percent": "28.0",
+      "Votes": "21,078",
+      "Percent": "27.6",
       "incumbent": false
     },
     {
       "Name": "Sal Genovese",
       "Party": "Dem",
-      "Votes": "216",
+      "Votes": "226",
       "Percent": "0.3",
       "incumbent": false
     },
     {
       "Name": "Nick Melvoin",
       "Party": "Dem",
-      "Votes": "1,612",
+      "Votes": "1,653",
       "Percent": "2.2",
       "incumbent": false
     },
     {
       "Name": "Courtney Simone Najera",
       "Party": "Dem",
-      "Votes": "606",
+      "Votes": "645",
       "Percent": "0.8",
       "incumbent": false
     },
     {
       "Name": "Anthony Portantino",
       "Party": "Dem",
-      "Votes": "10,590",
-      "Percent": "14.5",
+      "Votes": "10,987",
+      "Percent": "14.4",
       "incumbent": false
     },
     {
       "Name": "G \"Maebe\" Pudlo",
       "Party": "Dem",
-      "Votes": "5,011",
-      "Percent": "6.9",
+      "Votes": "5,167",
+      "Percent": "6.8",
       "incumbent": false
     },
     {
       "Name": "Jirair Ratevosian",
       "Party": "Dem",
-      "Votes": "1,754",
+      "Votes": "1,804",
       "Percent": "2.4",
       "incumbent": false
     },
     {
       "Name": "Ben Savage",
       "Party": "Dem",
-      "Votes": "2,849",
+      "Votes": "3,007",
       "Percent": "3.9",
       "incumbent": false
     },
     {
       "Name": "Sepi Shyne",
       "Party": "Dem",
-      "Votes": "922",
-      "Percent": "1.3",
+      "Votes": "951",
+      "Percent": "1.2",
       "incumbent": false
     },
     {
       "Name": "Alex Balekian",
       "Party": "Rep",
-      "Votes": "14,633",
-      "Percent": "20.1",
+      "Votes": "15,921",
+      "Percent": "20.8",
       "incumbent": false
     },
     {
       "Name": "Emilio Martinez",
       "Party": "Rep",
-      "Votes": "3,621",
-      "Percent": "5.0",
+      "Votes": "4,041",
+      "Percent": "5.3",
       "incumbent": false
     },
     {
       "Name": "Josh Bocanegra",
       "Party": "NPP",
-      "Votes": "399",
-      "Percent": "0.5",
+      "Votes": "425",
+      "Percent": "0.6",
       "incumbent": false
     }
   ]
