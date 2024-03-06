@@ -1,41 +1,41 @@
 [
   {
     "raceTitle": "State Senate District 1 - Shasta County Results",
-    "Reporting": "44.1% (30 of 68) precincts reporting",
-    "ReportingTime": "March 6, 2024, 12:08 a.m.",
+    "Reporting": "100% (68 of 68) precincts reporting",
+    "ReportingTime": "March 6, 2024, 1:50 a.m.",
     "candidates": [
       {
         "Name": "Megan Dahle",
         "Party": "Rep",
-        "Votes": "1,452",
-        "Percent": "75.3",
+        "Votes": "3,690",
+        "Percent": "76.4",
         "incumbent": false
       },
       {
         "Name": "David Fennell",
         "Party": "Rep",
-        "Votes": "477",
-        "Percent": "24.7",
+        "Votes": "1,138",
+        "Percent": "23.6",
         "incumbent": false
       }
     ]
   },
   {
     "raceTitle": "State Senate District 1 - Districtwide Results",
-    "Reporting": "94.4% (636 of 674) precincts reporting",
-    "ReportingTime": "March 6, 2024, 1:36 a.m.",
+    "Reporting": "100% (674 of 674) precincts reporting",
+    "ReportingTime": "March 6, 2024, 1:50 a.m.",
     "candidates": [
       {
         "Name": "Megan Dahle",
         "Party": "Rep",
-        "Votes": "66,022",
+        "Votes": "68,260",
         "Percent": "77.3",
         "incumbent": false
       },
       {
         "Name": "David Fennell",
         "Party": "Rep",
-        "Votes": "19,339",
+        "Votes": "20,000",
         "Percent": "22.7",
         "incumbent": false
       }

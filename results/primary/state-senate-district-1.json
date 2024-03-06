@@ -1,19 +1,19 @@
 {
   "raceTitle": "State Senate District 1 - Districtwide Results",
-  "Reporting": "94.4% (636 of 674) precincts reporting",
-  "ReportingTime": "March 6, 2024, 1:36 a.m.",
+  "Reporting": "100% (674 of 674) precincts reporting",
+  "ReportingTime": "March 6, 2024, 1:50 a.m.",
   "candidates": [
     {
       "Name": "Megan Dahle",
       "Party": "Rep",
-      "Votes": "66,022",
+      "Votes": "68,260",
       "Percent": "77.3",
       "incumbent": false
     },
     {
       "Name": "David Fennell",
       "Party": "Rep",
-      "Votes": "19,339",
+      "Votes": "20,000",
       "Percent": "22.7",
       "incumbent": false
     }
