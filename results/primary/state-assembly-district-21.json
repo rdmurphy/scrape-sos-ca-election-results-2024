@@ -1,20 +1,20 @@
 {
   "raceTitle": "State Assembly District 21 - Districtwide Results",
   "Reporting": "0% (0 of 150) precincts reporting",
-  "ReportingTime": "March 6, 2024, 12:56 a.m.",
+  "ReportingTime": "March 6, 2024, 1:12 a.m.",
   "candidates": [
     {
       "Name": "Diane Papan",
       "Party": "Dem",
-      "Votes": "37,022",
-      "Percent": "73.9",
+      "Votes": "37,825",
+      "Percent": "73.3",
       "incumbent": true
     },
     {
       "Name": "Mark Gilham",
       "Party": "Rep",
-      "Votes": "13,067",
-      "Percent": "26.1",
+      "Votes": "13,794",
+      "Percent": "26.7",
       "incumbent": false
     }
   ]

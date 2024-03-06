@@ -2,27 +2,27 @@
   {
     "raceTitle": "State Assembly District 47 - Riverside County Results",
     "Reporting": "100% (207 of 207) precincts reporting",
-    "ReportingTime": "March 6, 2024, 12:30 a.m.",
+    "ReportingTime": "March 6, 2024, 1:12 a.m.",
     "candidates": [
       {
         "Name": "Christy Holstege",
         "Party": "Dem",
-        "Votes": "28,244",
-        "Percent": "54.2",
+        "Votes": "28,363",
+        "Percent": "53.9",
         "incumbent": false
       },
       {
         "Name": "Jamie Swain",
         "Party": "Dem",
-        "Votes": "2,915",
+        "Votes": "2,941",
         "Percent": "5.6",
         "incumbent": false
       },
       {
         "Name": "Greg Wallis",
         "Party": "Rep",
-        "Votes": "20,929",
-        "Percent": "40.2",
+        "Votes": "21,366",
+        "Percent": "40.6",
         "incumbent": true
       }
     ]
@@ -30,27 +30,27 @@
   {
     "raceTitle": "State Assembly District 47 - Districtwide Results",
     "Reporting": "59.6% (295 of 495) precincts reporting",
-    "ReportingTime": "March 6, 2024, 12:56 a.m.",
+    "ReportingTime": "March 6, 2024, 1:12 a.m.",
     "candidates": [
       {
         "Name": "Christy Holstege",
         "Party": "Dem",
-        "Votes": "32,745",
-        "Percent": "50.9",
+        "Votes": "32,864",
+        "Percent": "50.6",
         "incumbent": false
       },
       {
         "Name": "Jamie Swain",
         "Party": "Dem",
-        "Votes": "3,413",
+        "Votes": "3,439",
         "Percent": "5.3",
         "incumbent": false
       },
       {
         "Name": "Greg Wallis",
         "Party": "Rep",
-        "Votes": "28,167",
-        "Percent": "43.8",
+        "Votes": "28,604",
+        "Percent": "44.1",
         "incumbent": true
       }
     ]

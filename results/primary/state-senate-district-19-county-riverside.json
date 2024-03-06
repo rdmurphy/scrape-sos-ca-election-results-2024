@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Senate District 19 - Riverside County Results",
     "Reporting": "100% (246 of 246) precincts reporting",
-    "ReportingTime": "March 6, 2024, 12:30 a.m.",
+    "ReportingTime": "March 6, 2024, 1:12 a.m.",
     "candidates": [
       {
         "Name": "Lisa Middleton",
         "Party": "Dem",
-        "Votes": "33,853",
-        "Percent": "58.1",
+        "Votes": "34,024",
+        "Percent": "57.6",
         "incumbent": false
       },
       {
         "Name": "Rosilicie Ochoa Bogh",
         "Party": "Rep",
-        "Votes": "24,413",
-        "Percent": "41.9",
+        "Votes": "25,000",
+        "Percent": "42.4",
         "incumbent": true
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "State Senate District 19 - Districtwide Results",
     "Reporting": "37% (571 of 1,544) precincts reporting",
-    "ReportingTime": "March 6, 2024, 12:56 a.m.",
+    "ReportingTime": "March 6, 2024, 1:12 a.m.",
     "candidates": [
       {
         "Name": "Lisa Middleton",
         "Party": "Dem",
-        "Votes": "49,262",
-        "Percent": "51.8",
+        "Votes": "49,433",
+        "Percent": "51.5",
         "incumbent": false
       },
       {
         "Name": "Rosilicie Ochoa Bogh",
         "Party": "Rep",
-        "Votes": "45,891",
-        "Percent": "48.2",
+        "Votes": "46,478",
+        "Percent": "48.5",
         "incumbent": true
       }
     ]

@@ -2,48 +2,48 @@
   {
     "raceTitle": "U.S. House of Representatives District 25 - Riverside County Results",
     "Reporting": "100% (266 of 266) precincts reporting",
-    "ReportingTime": "March 6, 2024, 12:30 a.m.",
+    "ReportingTime": "March 6, 2024, 1:12 a.m.",
     "candidates": [
       {
         "Name": "Oscar Ortiz",
         "Party": "Dem",
-        "Votes": "2,996",
+        "Votes": "3,070",
         "Percent": "7.0",
         "incumbent": false
       },
       {
         "Name": "Raul Ruiz",
         "Party": "Dem",
-        "Votes": "22,521",
-        "Percent": "52.3",
+        "Votes": "22,734",
+        "Percent": "51.6",
         "incumbent": true
       },
       {
         "Name": "Miguel Chapa",
         "Party": "Rep",
-        "Votes": "2,105",
-        "Percent": "4.9",
+        "Votes": "2,200",
+        "Percent": "5.0",
         "incumbent": false
       },
       {
         "Name": "Ceci \"Cecilia\" Truman",
         "Party": "Rep",
-        "Votes": "6,709",
-        "Percent": "15.6",
+        "Votes": "7,025",
+        "Percent": "16.0",
         "incumbent": false
       },
       {
         "Name": "Ian M. Weeks",
         "Party": "Rep",
-        "Votes": "8,201",
-        "Percent": "19.1",
+        "Votes": "8,504",
+        "Percent": "19.3",
         "incumbent": false
       },
       {
         "Name": "Ryan Dean Burkett",
         "Party": "NPP",
-        "Votes": "498",
-        "Percent": "1.2",
+        "Votes": "506",
+        "Percent": "1.1",
         "incumbent": false
       }
     ]
@@ -51,47 +51,47 @@
   {
     "raceTitle": "U.S. House of Representatives District 25 - Districtwide Results",
     "Reporting": "98.3% (572 of 582) precincts reporting",
-    "ReportingTime": "March 6, 2024, 12:56 a.m.",
+    "ReportingTime": "March 6, 2024, 1:12 a.m.",
     "candidates": [
       {
         "Name": "Oscar Ortiz",
         "Party": "Dem",
-        "Votes": "4,386",
+        "Votes": "4,460",
         "Percent": "8.7",
         "incumbent": false
       },
       {
         "Name": "Raul Ruiz",
         "Party": "Dem",
-        "Votes": "25,443",
-        "Percent": "50.3",
+        "Votes": "25,656",
+        "Percent": "49.8",
         "incumbent": true
       },
       {
         "Name": "Miguel Chapa",
         "Party": "Rep",
-        "Votes": "2,692",
-        "Percent": "5.3",
+        "Votes": "2,787",
+        "Percent": "5.4",
         "incumbent": false
       },
       {
         "Name": "Ceci \"Cecilia\" Truman",
         "Party": "Rep",
-        "Votes": "7,949",
-        "Percent": "15.7",
+        "Votes": "8,265",
+        "Percent": "16.0",
         "incumbent": false
       },
       {
         "Name": "Ian M. Weeks",
         "Party": "Rep",
-        "Votes": "9,445",
-        "Percent": "18.7",
+        "Votes": "9,748",
+        "Percent": "18.9",
         "incumbent": false
       },
       {
         "Name": "Ryan Dean Burkett",
         "Party": "NPP",
-        "Votes": "624",
+        "Votes": "632",
         "Percent": "1.2",
         "incumbent": false
       }

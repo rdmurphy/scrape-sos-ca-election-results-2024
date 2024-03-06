@@ -1,27 +1,27 @@
 {
   "raceTitle": "State Assembly District 58 - Districtwide Results",
   "Reporting": "98.5% (128 of 130) precincts reporting",
-  "ReportingTime": "March 6, 2024, 12:56 a.m.",
+  "ReportingTime": "March 6, 2024, 1:12 a.m.",
   "candidates": [
     {
       "Name": "Clarissa Cervantes",
       "Party": "Dem",
-      "Votes": "6,988",
-      "Percent": "27.4",
+      "Votes": "7,128",
+      "Percent": "27.1",
       "incumbent": false
     },
     {
       "Name": "Ronaldo Fierro",
       "Party": "Dem",
-      "Votes": "6,998",
-      "Percent": "27.5",
+      "Votes": "7,133",
+      "Percent": "27.1",
       "incumbent": false
     },
     {
       "Name": "Leticia Castillo",
       "Party": "Rep",
-      "Votes": "11,486",
-      "Percent": "45.1",
+      "Votes": "12,075",
+      "Percent": "45.8",
       "incumbent": false
     }
   ]
