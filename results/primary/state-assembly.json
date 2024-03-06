@@ -1,35 +1,35 @@
 [
   {
     "raceTitle": "State Assembly District 1 - Districtwide Results",
-    "Reporting": "53.6% (233 of 435) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "Reporting": "60.2% (262 of 435) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Tenessa Audette",
         "Party": "Rep",
-        "Votes": "11,063",
-        "Percent": "31.9",
+        "Votes": "11,949",
+        "Percent": "31.1",
         "incumbent": false
       },
       {
         "Name": "Heather Hadwick",
         "Party": "Rep",
-        "Votes": "14,448",
+        "Votes": "16,008",
         "Percent": "41.6",
         "incumbent": false
       },
       {
         "Name": "Melissa Hunt",
         "Party": "Rep",
-        "Votes": "2,461",
-        "Percent": "7.1",
+        "Votes": "2,839",
+        "Percent": "7.4",
         "incumbent": false
       },
       {
         "Name": "Mark Mezzano",
         "Party": "Rep",
-        "Votes": "6,725",
-        "Percent": "19.4",
+        "Votes": "7,661",
+        "Percent": "19.9",
         "incumbent": false
       }
     ]
@@ -37,7 +37,7 @@
   {
     "raceTitle": "State Assembly District 2 - Districtwide Results",
     "Reporting": "66.4% (386 of 581) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Cynthia A. Click",
@@ -92,34 +92,34 @@
   },
   {
     "raceTitle": "State Assembly District 3 - Districtwide Results",
-    "Reporting": "30.3% (88 of 290) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "Reporting": "33.1% (96 of 290) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Aaron Draper",
         "Party": "Dem",
-        "Votes": "14,430",
-        "Percent": "36.9",
+        "Votes": "18,625",
+        "Percent": "35.0",
         "incumbent": false
       },
       {
         "Name": "Jamie \"James\" Gallagher",
         "Party": "Rep",
-        "Votes": "24,668",
-        "Percent": "63.1",
+        "Votes": "34,527",
+        "Percent": "65.0",
         "incumbent": true
       }
     ]
   },
   {
     "raceTitle": "State Assembly District 4 - Districtwide Results",
-    "Reporting": "77.1% (256 of 332) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "Reporting": "82.8% (275 of 332) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Cecilia M. Aguiar-Curry",
         "Party": "Dem",
-        "Votes": "30,614",
+        "Votes": "31,439",
         "Percent": "100.0",
         "incumbent": true
       }
@@ -128,7 +128,7 @@
   {
     "raceTitle": "State Assembly District 5 - Districtwide Results",
     "Reporting": "29.6% (64 of 216) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Neva Parker",
@@ -163,7 +163,7 @@
   {
     "raceTitle": "State Assembly District 6 - Districtwide Results",
     "Reporting": "96.9% (189 of 195) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Emmanuel Amanfor",
@@ -240,7 +240,7 @@
   {
     "raceTitle": "State Assembly District 7 - Districtwide Results",
     "Reporting": "98.5% (193 of 196) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "YK Chalamcherla",
@@ -268,7 +268,7 @@
   {
     "raceTitle": "State Assembly District 8 - Districtwide Results",
     "Reporting": "30.8% (64 of 208) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Caleb Helsel",
@@ -302,21 +302,21 @@
   },
   {
     "raceTitle": "State Assembly District 9 - Districtwide Results",
-    "Reporting": "22% (41 of 186) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "Reporting": "73.7% (137 of 186) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Heath Flora",
         "Party": "Rep",
-        "Votes": "6,148",
-        "Percent": "72.2",
+        "Votes": "20,869",
+        "Percent": "70.7",
         "incumbent": true
       },
       {
         "Name": "Tami Nobriga",
         "Party": "AI",
-        "Votes": "2,367",
-        "Percent": "27.8",
+        "Votes": "8,663",
+        "Percent": "29.3",
         "incumbent": false
       }
     ]
@@ -324,7 +324,7 @@
   {
     "raceTitle": "State Assembly District 10 - Districtwide Results",
     "Reporting": "98.9% (183 of 185) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Stephanie Nguyen",
@@ -345,7 +345,7 @@
   {
     "raceTitle": "State Assembly District 11 - Districtwide Results",
     "Reporting": "0.3% (1 of 301) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Jeffrey Flack",
@@ -380,7 +380,7 @@
   {
     "raceTitle": "State Assembly District 12 - Districtwide Results",
     "Reporting": "94.7% (234 of 247) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Damon Connolly",
@@ -407,28 +407,28 @@
   },
   {
     "raceTitle": "State Assembly District 13 - Districtwide Results",
-    "Reporting": "0% (0 of 118) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "Reporting": "100% (118 of 118) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Rhodesia Ransom",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "10,586",
+        "Percent": "41.7",
         "incumbent": false
       },
       {
         "Name": "Edith Villapudua",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "6,059",
+        "Percent": "23.8",
         "incumbent": false
       },
       {
         "Name": "Denise Aguilar Mendez",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "8,770",
+        "Percent": "34.5",
         "incumbent": false
       }
     ]
@@ -436,7 +436,7 @@
   {
     "raceTitle": "State Assembly District 14 - Districtwide Results",
     "Reporting": "0% (0 of 213) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Margot Smith",
@@ -464,7 +464,7 @@
   {
     "raceTitle": "State Assembly District 15 - Districtwide Results",
     "Reporting": "0% (0 of 393) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Anamarie Avila Farias",
@@ -499,7 +499,7 @@
   {
     "raceTitle": "State Assembly District 16 - Districtwide Results",
     "Reporting": "0% (0 of 319) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Rebecca Bauer-Kahan",
@@ -520,7 +520,7 @@
   {
     "raceTitle": "State Assembly District 17 - Districtwide Results",
     "Reporting": "0% (0 of 298) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Otto Duke",
@@ -548,7 +548,7 @@
   {
     "raceTitle": "State Assembly District 18 - Districtwide Results",
     "Reporting": "0% (0 of 111) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Mia Bonta",
@@ -583,7 +583,7 @@
   {
     "raceTitle": "State Assembly District 19 - Districtwide Results",
     "Reporting": "0% (0 of 251) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "David E. Lee",
@@ -618,7 +618,7 @@
   {
     "raceTitle": "State Assembly District 20 - Districtwide Results",
     "Reporting": "0% (0 of 255) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Liz Ortega",
@@ -632,7 +632,7 @@
   {
     "raceTitle": "State Assembly District 21 - Districtwide Results",
     "Reporting": "0% (0 of 150) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Diane Papan",
@@ -653,7 +653,7 @@
   {
     "raceTitle": "State Assembly District 22 - Districtwide Results",
     "Reporting": "43.6% (99 of 227) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Jessica Self",
@@ -674,33 +674,33 @@
   {
     "raceTitle": "State Assembly District 23 - Districtwide Results",
     "Reporting": "57.1% (105 of 184) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Marc Berman",
         "Party": "Dem",
-        "Votes": "28,530",
-        "Percent": "58.7",
+        "Votes": "28,896",
+        "Percent": "58.6",
         "incumbent": true
       },
       {
         "Name": "Lydia Kou",
         "Party": "Dem",
-        "Votes": "9,437",
+        "Votes": "9,576",
         "Percent": "19.4",
         "incumbent": false
       },
       {
         "Name": "Allan K. Marson",
         "Party": "Rep",
-        "Votes": "5,462",
-        "Percent": "11.2",
+        "Votes": "5,570",
+        "Percent": "11.3",
         "incumbent": false
       },
       {
         "Name": "Gus Mattammal",
         "Party": "Rep",
-        "Votes": "5,151",
+        "Votes": "5,242",
         "Percent": "10.6",
         "incumbent": false
       }
@@ -709,27 +709,27 @@
   {
     "raceTitle": "State Assembly District 24 - Districtwide Results",
     "Reporting": "47.6% (59 of 124) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Alex Lee",
         "Party": "Dem",
-        "Votes": "13,616",
-        "Percent": "70.7",
+        "Votes": "13,735",
+        "Percent": "70.8",
         "incumbent": true
       },
       {
         "Name": "Bob Brunton",
         "Party": "Rep",
-        "Votes": "3,912",
+        "Votes": "3,930",
         "Percent": "20.3",
         "incumbent": false
       },
       {
         "Name": "Marti Souza",
         "Party": "Rep",
-        "Votes": "1,719",
-        "Percent": "8.9",
+        "Votes": "1,739",
+        "Percent": "9.0",
         "incumbent": false
       }
     ]
@@ -737,27 +737,27 @@
   {
     "raceTitle": "State Assembly District 25 - Districtwide Results",
     "Reporting": "100% (145 of 145) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Ash Kalra",
         "Party": "Dem",
-        "Votes": "13,711",
-        "Percent": "50.3",
+        "Votes": "13,983",
+        "Percent": "50.2",
         "incumbent": true
       },
       {
         "Name": "Lan Ngo",
         "Party": "Dem",
-        "Votes": "6,681",
+        "Votes": "6,828",
         "Percent": "24.5",
         "incumbent": false
       },
       {
         "Name": "Ted Stroll",
         "Party": "Rep",
-        "Votes": "6,883",
-        "Percent": "25.2",
+        "Votes": "7,039",
+        "Percent": "25.3",
         "incumbent": false
       }
     ]
@@ -765,47 +765,47 @@
   {
     "raceTitle": "State Assembly District 26 - Districtwide Results",
     "Reporting": "100% (123 of 123) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Patrick Ahrens",
         "Party": "Dem",
-        "Votes": "10,265",
+        "Votes": "10,474",
         "Percent": "37.4",
         "incumbent": false
       },
       {
         "Name": "Omar Din",
         "Party": "Dem",
-        "Votes": "2,818",
-        "Percent": "10.3",
+        "Votes": "2,861",
+        "Percent": "10.2",
         "incumbent": false
       },
       {
         "Name": "Tara Sreekrishnan",
         "Party": "Dem",
-        "Votes": "6,823",
+        "Votes": "6,969",
         "Percent": "24.9",
         "incumbent": false
       },
       {
         "Name": "Sophie Yan Song",
         "Party": "Rep",
-        "Votes": "6,269",
-        "Percent": "22.8",
+        "Votes": "6,395",
+        "Percent": "22.9",
         "incumbent": false
       },
       {
         "Name": "Bob Goodwyn",
         "Party": "Lib",
-        "Votes": "889",
+        "Votes": "906",
         "Percent": "3.2",
         "incumbent": false
       },
       {
         "Name": "Ashish Garg",
         "Party": "NPP",
-        "Votes": "373",
+        "Votes": "380",
         "Percent": "1.4",
         "incumbent": false
       }
@@ -814,7 +814,7 @@
   {
     "raceTitle": "State Assembly District 27 - Districtwide Results",
     "Reporting": "89.5% (630 of 704) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Esmeralda Soria",
@@ -835,19 +835,19 @@
   {
     "raceTitle": "State Assembly District 28 - Districtwide Results",
     "Reporting": "66.2% (139 of 210) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Gail Pellerin",
         "Party": "Dem",
-        "Votes": "21,837",
+        "Votes": "22,337",
         "Percent": "66.1",
         "incumbent": true
       },
       {
         "Name": "Liz Lawler",
         "Party": "Rep",
-        "Votes": "11,193",
+        "Votes": "11,459",
         "Percent": "33.9",
         "incumbent": false
       }
@@ -856,19 +856,19 @@
   {
     "raceTitle": "State Assembly District 29 - Districtwide Results",
     "Reporting": "71.4% (142 of 199) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Robert Rivas",
         "Party": "Dem",
-        "Votes": "10,818",
+        "Votes": "10,856",
         "Percent": "66.3",
         "incumbent": true
       },
       {
         "Name": "J.W. Paine",
         "Party": "Rep",
-        "Votes": "5,496",
+        "Votes": "5,522",
         "Percent": "33.7",
         "incumbent": false
       }
@@ -877,7 +877,7 @@
   {
     "raceTitle": "State Assembly District 30 - Districtwide Results",
     "Reporting": "39% (85 of 218) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Dawn Addis",
@@ -898,7 +898,7 @@
   {
     "raceTitle": "State Assembly District 31 - Districtwide Results",
     "Reporting": "0% (0 of 148) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Joaquin Arambula",
@@ -918,56 +918,56 @@
   },
   {
     "raceTitle": "State Assembly District 32 - Districtwide Results",
-    "Reporting": "0% (0 of 432) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "Reporting": "10% (43 of 432) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Vince Fong",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "5,400",
+        "Percent": "100.0",
         "incumbent": true
       }
     ]
   },
   {
     "raceTitle": "State Assembly District 33 - Districtwide Results",
-    "Reporting": "15.1% (16 of 106) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "Reporting": "73.6% (78 of 106) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Hipolito A. Cerros",
         "Party": "Dem",
-        "Votes": "509",
-        "Percent": "4.0",
+        "Votes": "1,082",
+        "Percent": "5.1",
         "incumbent": false
       },
       {
         "Name": "Ruben Macareno",
         "Party": "Dem",
-        "Votes": "1,895",
-        "Percent": "15.0",
+        "Votes": "3,504",
+        "Percent": "16.6",
         "incumbent": false
       },
       {
         "Name": "Angel Ruiz",
         "Party": "Dem",
-        "Votes": "1,707",
-        "Percent": "13.5",
+        "Votes": "2,798",
+        "Percent": "13.3",
         "incumbent": false
       },
       {
         "Name": "Xavier Avila",
         "Party": "Rep",
-        "Votes": "3,315",
-        "Percent": "26.2",
+        "Votes": "5,082",
+        "Percent": "24.1",
         "incumbent": false
       },
       {
         "Name": "Alexandra Macedo",
         "Party": "Rep",
-        "Votes": "5,208",
-        "Percent": "41.2",
+        "Votes": "8,615",
+        "Percent": "40.9",
         "incumbent": false
       }
     ]
@@ -975,7 +975,7 @@
   {
     "raceTitle": "State Assembly District 34 - Districtwide Results",
     "Reporting": "11.5% (135 of 1,169) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Ricardo Ortega",
@@ -996,7 +996,7 @@
   {
     "raceTitle": "State Assembly District 35 - Districtwide Results",
     "Reporting": "0% (0 of 332) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Jasmeet Bains",
@@ -1017,7 +1017,7 @@
   {
     "raceTitle": "State Assembly District 36 - Districtwide Results",
     "Reporting": "49.3% (243 of 493) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Jose \"Joey\" Acuña Jr.",
@@ -1073,7 +1073,7 @@
   {
     "raceTitle": "State Assembly District 37 - Districtwide Results",
     "Reporting": "0% (0 of 207) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Gregg Hart",
@@ -1093,21 +1093,21 @@
   },
   {
     "raceTitle": "State Assembly District 38 - Districtwide Results",
-    "Reporting": "0% (0 of 877) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "Reporting": "70.5% (618 of 877) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Steve Bennett",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "26,361",
+        "Percent": "64.4",
         "incumbent": true
       },
       {
         "Name": "Deborah \"Deb\" Baber",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "14,542",
+        "Percent": "35.6",
         "incumbent": false
       }
     ]
@@ -1115,7 +1115,7 @@
   {
     "raceTitle": "State Assembly District 39 - Districtwide Results",
     "Reporting": "31% (63 of 203) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Juan Carrillo Ventura",
@@ -1136,7 +1136,7 @@
   {
     "raceTitle": "State Assembly District 40 - Districtwide Results",
     "Reporting": "100% (136 of 136) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Pilar Schiavo",
@@ -1157,7 +1157,7 @@
   {
     "raceTitle": "State Assembly District 41 - Districtwide Results",
     "Reporting": "44.8% (137 of 306) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "John Harabedian",
@@ -1191,21 +1191,21 @@
   },
   {
     "raceTitle": "State Assembly District 42 - Districtwide Results",
-    "Reporting": "8.7% (49 of 564) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "Reporting": "78.9% (445 of 564) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Jacqui Irwin",
         "Party": "Dem",
-        "Votes": "13,073",
-        "Percent": "64.2",
+        "Votes": "40,483",
+        "Percent": "58.2",
         "incumbent": true
       },
       {
         "Name": "Ted Nordblum",
         "Party": "Rep",
-        "Votes": "7,292",
-        "Percent": "35.8",
+        "Votes": "29,056",
+        "Percent": "41.8",
         "incumbent": false
       }
     ]
@@ -1213,7 +1213,7 @@
   {
     "raceTitle": "State Assembly District 43 - Districtwide Results",
     "Reporting": "100% (99 of 99) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Walter Garcia",
@@ -1262,7 +1262,7 @@
   {
     "raceTitle": "State Assembly District 44 - Districtwide Results",
     "Reporting": "100% (106 of 106) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Elen Asatryan",
@@ -1325,7 +1325,7 @@
   {
     "raceTitle": "State Assembly District 45 - Districtwide Results",
     "Reporting": "1.9% (10 of 514) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "James C. Ramos",
@@ -1338,21 +1338,21 @@
   },
   {
     "raceTitle": "State Assembly District 46 - Districtwide Results",
-    "Reporting": "93.9% (107 of 114) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "Reporting": "95.6% (109 of 114) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Jesse Gabriel",
         "Party": "Dem",
-        "Votes": "21,393",
-        "Percent": "66.0",
+        "Votes": "21,540",
+        "Percent": "65.9",
         "incumbent": true
       },
       {
         "Name": "Tracey Schroeder",
         "Party": "Rep",
-        "Votes": "11,006",
-        "Percent": "34.0",
+        "Votes": "11,135",
+        "Percent": "34.1",
         "incumbent": false
       }
     ]
@@ -1360,7 +1360,7 @@
   {
     "raceTitle": "State Assembly District 47 - Districtwide Results",
     "Reporting": "19.6% (97 of 495) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Christy Holstege",
@@ -1388,7 +1388,7 @@
   {
     "raceTitle": "State Assembly District 48 - Districtwide Results",
     "Reporting": "100% (131 of 131) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Blanca Rubio",
@@ -1416,7 +1416,7 @@
   {
     "raceTitle": "State Assembly District 49 - Districtwide Results",
     "Reporting": "100% (96 of 96) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Mike Fong",
@@ -1437,7 +1437,7 @@
   {
     "raceTitle": "State Assembly District 50 - Districtwide Results",
     "Reporting": "0.3% (1 of 358) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Robert Garcia",
@@ -1465,7 +1465,7 @@
   {
     "raceTitle": "State Assembly District 51 - Districtwide Results",
     "Reporting": "100% (125 of 125) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Rick Chavez Zbur",
@@ -1493,7 +1493,7 @@
   {
     "raceTitle": "State Assembly District 52 - Districtwide Results",
     "Reporting": "100% (118 of 118) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Jessica Caloza",
@@ -1570,7 +1570,7 @@
   {
     "raceTitle": "State Assembly District 53 - Districtwide Results",
     "Reporting": "12.9% (30 of 233) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Carlos Goytia",
@@ -1612,7 +1612,7 @@
   {
     "raceTitle": "State Assembly District 54 - Districtwide Results",
     "Reporting": "100% (97 of 97) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Mark Gonzalez",
@@ -1640,7 +1640,7 @@
   {
     "raceTitle": "State Assembly District 55 - Districtwide Results",
     "Reporting": "100% (119 of 119) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Isaac G. Bryan",
@@ -1661,7 +1661,7 @@
   {
     "raceTitle": "State Assembly District 56 - Districtwide Results",
     "Reporting": "100% (135 of 135) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Lisa Calderon",
@@ -1689,7 +1689,7 @@
   {
     "raceTitle": "State Assembly District 57 - Districtwide Results",
     "Reporting": "100% (108 of 108) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Greg Akili",
@@ -1731,7 +1731,7 @@
   {
     "raceTitle": "State Assembly District 58 - Districtwide Results",
     "Reporting": "11.5% (15 of 130) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Clarissa Cervantes",
@@ -1759,7 +1759,7 @@
   {
     "raceTitle": "State Assembly District 59 - Districtwide Results",
     "Reporting": "0% (0 of 525) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Dave Obrand",
@@ -1780,7 +1780,7 @@
   {
     "raceTitle": "State Assembly District 60 - Districtwide Results",
     "Reporting": "24.5% (34 of 139) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Corey A Jackson",
@@ -1808,7 +1808,7 @@
   {
     "raceTitle": "State Assembly District 61 - Districtwide Results",
     "Reporting": "100% (109 of 109) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Tina Simone McKinnor",
@@ -1829,7 +1829,7 @@
   {
     "raceTitle": "State Assembly District 62 - Districtwide Results",
     "Reporting": "100% (98 of 98) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Maria Estrada",
@@ -1857,7 +1857,7 @@
   {
     "raceTitle": "State Assembly District 63 - Districtwide Results",
     "Reporting": "16% (27 of 169) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Chris Shoults",
@@ -1885,7 +1885,7 @@
   {
     "raceTitle": "State Assembly District 64 - Districtwide Results",
     "Reporting": "80.7% (92 of 114) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Blanca Pacheco",
@@ -1906,7 +1906,7 @@
   {
     "raceTitle": "State Assembly District 65 - Districtwide Results",
     "Reporting": "100% (134 of 134) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Mike Gipson",
@@ -1920,7 +1920,7 @@
   {
     "raceTitle": "State Assembly District 66 - Districtwide Results",
     "Reporting": "100% (103 of 103) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Al Muratsuchi",
@@ -1941,7 +1941,7 @@
   {
     "raceTitle": "State Assembly District 67 - Districtwide Results",
     "Reporting": "5.9% (16 of 269) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Sharon Quirk-Silva",
@@ -1969,7 +1969,7 @@
   {
     "raceTitle": "State Assembly District 68 - Districtwide Results",
     "Reporting": "0% (0 of 206) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Avelino Valencia",
@@ -1990,7 +1990,7 @@
   {
     "raceTitle": "State Assembly District 69 - Districtwide Results",
     "Reporting": "100% (119 of 119) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Josh Lowenthal",
@@ -2011,7 +2011,7 @@
   {
     "raceTitle": "State Assembly District 70 - Districtwide Results",
     "Reporting": "0% (0 of 268) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Jimmy D. Pham",
@@ -2032,7 +2032,7 @@
   {
     "raceTitle": "State Assembly District 71 - Districtwide Results",
     "Reporting": "7.6% (22 of 290) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Gary Kephart",
@@ -2060,7 +2060,7 @@
   {
     "raceTitle": "State Assembly District 72 - Districtwide Results",
     "Reporting": "0% (0 of 369) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Dom Jones",
@@ -2081,7 +2081,7 @@
   {
     "raceTitle": "State Assembly District 73 - Districtwide Results",
     "Reporting": "0% (0 of 330) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Cottie Petrie-Norris",
@@ -2109,7 +2109,7 @@
   {
     "raceTitle": "State Assembly District 74 - Districtwide Results",
     "Reporting": "0% (0 of 301) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Chris Duncan",
@@ -2130,7 +2130,7 @@
   {
     "raceTitle": "State Assembly District 75 - Districtwide Results",
     "Reporting": "0% (0 of 313) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Christie Dougherty",
@@ -2179,7 +2179,7 @@
   {
     "raceTitle": "State Assembly District 76 - Districtwide Results",
     "Reporting": "0% (0 of 290) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Darshana Patel",
@@ -2207,7 +2207,7 @@
   {
     "raceTitle": "State Assembly District 77 - Districtwide Results",
     "Reporting": "0% (0 of 292) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Tasha Boerner",
@@ -2235,7 +2235,7 @@
   {
     "raceTitle": "State Assembly District 78 - Districtwide Results",
     "Reporting": "0% (0 of 316) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Chris Ward",
@@ -2249,7 +2249,7 @@
   {
     "raceTitle": "State Assembly District 79 - Districtwide Results",
     "Reporting": "0% (0 of 273) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Colin Parent",
@@ -2277,7 +2277,7 @@
   {
     "raceTitle": "State Assembly District 80 - Districtwide Results",
     "Reporting": "0% (0 of 263) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "David A. Alvarez",

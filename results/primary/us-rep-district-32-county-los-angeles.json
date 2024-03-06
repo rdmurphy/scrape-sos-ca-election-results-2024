@@ -57,55 +57,55 @@
   },
   {
     "raceTitle": "U.S. House of Representatives District 32 - Districtwide Results",
-    "Reporting": "97.3% (180 of 185) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "Reporting": "98.4% (182 of 185) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Dave Abbitt",
         "Party": "Dem",
-        "Votes": "726",
+        "Votes": "729",
         "Percent": "1.1",
         "incumbent": false
       },
       {
         "Name": "Christopher A. Ahuja",
         "Party": "Dem",
-        "Votes": "3,437",
+        "Votes": "3,448",
         "Percent": "5.1",
         "incumbent": false
       },
       {
         "Name": "Brad Sherman",
         "Party": "Dem",
-        "Votes": "41,899",
-        "Percent": "62.4",
+        "Votes": "42,045",
+        "Percent": "62.3",
         "incumbent": true
       },
       {
         "Name": "Douglas Smith",
         "Party": "Dem",
-        "Votes": "927",
+        "Votes": "928",
         "Percent": "1.4",
         "incumbent": false
       },
       {
         "Name": "Trevor Lucas Witt",
         "Party": "Dem",
-        "Votes": "647",
+        "Votes": "649",
         "Percent": "1.0",
         "incumbent": false
       },
       {
         "Name": "James Shuster",
         "Party": "Rep",
-        "Votes": "6,818",
+        "Votes": "6,884",
         "Percent": "10.2",
         "incumbent": false
       },
       {
         "Name": "Larry Thompson",
         "Party": "Rep",
-        "Votes": "12,713",
+        "Votes": "12,778",
         "Percent": "18.9",
         "incumbent": false
       }

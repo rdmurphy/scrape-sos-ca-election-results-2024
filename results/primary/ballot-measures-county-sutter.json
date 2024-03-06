@@ -1,15 +1,15 @@
 {
   "raceTitle": "Ballot Measures - Sutter Results",
-  "Reporting": "0.0% (0 of 24) precincts reporting",
-  "ReportingTime": "March 5, 2024, 8:44 p.m.",
+  "Reporting": "4.2% (1 of 24) precincts reporting",
+  "ReportingTime": "March 5, 2024, 9:02 p.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "0",
-      "yesPercent": "0.0",
-      "noVotes": "0",
-      "noPercent": "0.0"
+      "yesVotes": "3315",
+      "yesPercent": "36.0",
+      "noVotes": "5906",
+      "noPercent": "64.0"
     }
   ]
 }

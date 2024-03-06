@@ -2,40 +2,40 @@
   {
     "raceTitle": "U.S. House of Representatives District 18 - Santa Clara County Results",
     "Reporting": "100% (126 of 126) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:22 p.m.",
+    "ReportingTime": "March 5, 2024, 8:52 p.m.",
     "candidates": [
       {
         "Name": "Luele N Kifle",
         "Party": "Dem",
-        "Votes": "406",
-        "Percent": "2.0",
+        "Votes": "415",
+        "Percent": "2.1",
         "incumbent": false
       },
       {
         "Name": "Zoe Lofgren",
         "Party": "Dem",
-        "Votes": "11,963",
-        "Percent": "60.2",
+        "Votes": "12,159",
+        "Percent": "60.1",
         "incumbent": true
       },
       {
         "Name": "Lawrence Milan",
         "Party": "Dem",
-        "Votes": "455",
+        "Votes": "467",
         "Percent": "2.3",
         "incumbent": false
       },
       {
         "Name": "Charlene Concepción Nijmeh",
         "Party": "Dem",
-        "Votes": "1,642",
-        "Percent": "8.3",
+        "Votes": "1,668",
+        "Percent": "8.2",
         "incumbent": false
       },
       {
         "Name": "Peter D. Hernandez",
         "Party": "Rep",
-        "Votes": "5,419",
+        "Votes": "5,521",
         "Percent": "27.3",
         "incumbent": false
       }
@@ -44,40 +44,40 @@
   {
     "raceTitle": "U.S. House of Representatives District 18 - Districtwide Results",
     "Reporting": "82.9% (233 of 281) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:44 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Luele N Kifle",
         "Party": "Dem",
-        "Votes": "644",
+        "Votes": "653",
         "Percent": "2.2",
         "incumbent": false
       },
       {
         "Name": "Zoe Lofgren",
         "Party": "Dem",
-        "Votes": "16,740",
+        "Votes": "16,936",
         "Percent": "56.5",
         "incumbent": true
       },
       {
         "Name": "Lawrence Milan",
         "Party": "Dem",
-        "Votes": "933",
-        "Percent": "3.1",
+        "Votes": "945",
+        "Percent": "3.2",
         "incumbent": false
       },
       {
         "Name": "Charlene Concepción Nijmeh",
         "Party": "Dem",
-        "Votes": "2,511",
+        "Votes": "2,537",
         "Percent": "8.5",
         "incumbent": false
       },
       {
         "Name": "Peter D. Hernandez",
         "Party": "Rep",
-        "Votes": "8,799",
+        "Votes": "8,901",
         "Percent": "29.7",
         "incumbent": false
       }
