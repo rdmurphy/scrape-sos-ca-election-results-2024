@@ -1,75 +1,75 @@
 {
   "raceTitle": "U.S. House of Representatives District 31 - Districtwide Results",
   "Reporting": "100% (199 of 199) precincts reporting",
-  "ReportingTime": "March 6, 2024, 12:08 a.m.",
+  "ReportingTime": "March 6, 2024, 12:20 a.m.",
   "candidates": [
     {
       "Name": "Bob J. Archuleta",
       "Party": "Dem",
-      "Votes": "5,479",
-      "Percent": "11.1",
+      "Votes": "5,763",
+      "Percent": "10.9",
       "incumbent": false
     },
     {
       "Name": "Gil Cisneros",
       "Party": "Dem",
-      "Votes": "11,516",
-      "Percent": "23.3",
+      "Votes": "12,016",
+      "Percent": "22.7",
       "incumbent": false
     },
     {
       "Name": "Greg Hafif",
       "Party": "Dem",
-      "Votes": "2,172",
+      "Votes": "2,312",
       "Percent": "4.4",
       "incumbent": false
     },
     {
       "Name": "Kurt Jose",
       "Party": "Dem",
-      "Votes": "619",
+      "Votes": "682",
       "Percent": "1.3",
       "incumbent": false
     },
     {
       "Name": "Mary Ann Lutz",
       "Party": "Dem",
-      "Votes": "3,193",
-      "Percent": "6.5",
+      "Votes": "3,336",
+      "Percent": "6.3",
       "incumbent": false
     },
     {
       "Name": "Susan Rubio",
       "Party": "Dem",
-      "Votes": "8,162",
-      "Percent": "16.5",
+      "Votes": "8,499",
+      "Percent": "16.1",
       "incumbent": false
     },
     {
       "Name": "Pedro Antonio Casas",
       "Party": "Rep",
-      "Votes": "7,974",
-      "Percent": "16.1",
+      "Votes": "9,031",
+      "Percent": "17.1",
       "incumbent": false
     },
     {
       "Name": "Daniel Jose Bocic Martinez",
       "Party": "Rep",
-      "Votes": "9,456",
-      "Percent": "19.1",
+      "Votes": "10,358",
+      "Percent": "19.6",
       "incumbent": false
     },
     {
       "Name": "Erskine Levi",
       "Party": "NPP",
-      "Votes": "568",
-      "Percent": "1.1",
+      "Votes": "615",
+      "Percent": "1.2",
       "incumbent": false
     },
     {
       "Name": "Marie Manvel",
       "Party": "NPP",
-      "Votes": "285",
+      "Votes": "310",
       "Percent": "0.6",
       "incumbent": false
     }

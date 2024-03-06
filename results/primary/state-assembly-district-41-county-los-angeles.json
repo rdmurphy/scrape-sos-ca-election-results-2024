@@ -2,34 +2,34 @@
   {
     "raceTitle": "State Assembly District 41 - Los Angeles County Results",
     "Reporting": "100% (133 of 133) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:56 p.m.",
+    "ReportingTime": "March 6, 2024, 12:18 a.m.",
     "candidates": [
       {
         "Name": "John Harabedian",
         "Party": "Dem",
-        "Votes": "15,598",
-        "Percent": "33.4",
+        "Votes": "15,954",
+        "Percent": "33.0",
         "incumbent": false
       },
       {
         "Name": "Jed Leano",
         "Party": "Dem",
-        "Votes": "6,945",
-        "Percent": "14.9",
+        "Votes": "7,242",
+        "Percent": "15.0",
         "incumbent": false
       },
       {
         "Name": "Phlunté Riddle",
         "Party": "Dem",
-        "Votes": "8,542",
-        "Percent": "18.3",
+        "Votes": "8,742",
+        "Percent": "18.1",
         "incumbent": false
       },
       {
         "Name": "Michelle Del Rosario Martinez",
         "Party": "Rep",
-        "Votes": "15,594",
-        "Percent": "33.4",
+        "Votes": "16,442",
+        "Percent": "34.0",
         "incumbent": false
       }
     ]
@@ -37,34 +37,34 @@
   {
     "raceTitle": "State Assembly District 41 - Districtwide Results",
     "Reporting": "70.6% (216 of 306) precincts reporting",
-    "ReportingTime": "March 6, 2024, 12:08 a.m.",
+    "ReportingTime": "March 6, 2024, 12:20 a.m.",
     "candidates": [
       {
         "Name": "John Harabedian",
         "Party": "Dem",
-        "Votes": "18,889",
-        "Percent": "31.7",
+        "Votes": "19,245",
+        "Percent": "31.4",
         "incumbent": false
       },
       {
         "Name": "Jed Leano",
         "Party": "Dem",
-        "Votes": "8,038",
-        "Percent": "13.5",
+        "Votes": "8,335",
+        "Percent": "13.6",
         "incumbent": false
       },
       {
         "Name": "Phlunté Riddle",
         "Party": "Dem",
-        "Votes": "9,244",
-        "Percent": "15.5",
+        "Votes": "9,444",
+        "Percent": "15.4",
         "incumbent": false
       },
       {
         "Name": "Michelle Del Rosario Martinez",
         "Party": "Rep",
-        "Votes": "23,425",
-        "Percent": "39.3",
+        "Votes": "24,273",
+        "Percent": "39.6",
         "incumbent": false
       }
     ]

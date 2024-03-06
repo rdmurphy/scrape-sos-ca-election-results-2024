@@ -1,27 +1,27 @@
 {
   "raceTitle": "State Assembly District 54 - Districtwide Results",
   "Reporting": "100% (97 of 97) precincts reporting",
-  "ReportingTime": "March 6, 2024, 12:08 a.m.",
+  "ReportingTime": "March 6, 2024, 12:20 a.m.",
   "candidates": [
     {
       "Name": "Mark Gonzalez",
       "Party": "Dem",
-      "Votes": "9,997",
-      "Percent": "45.6",
+      "Votes": "10,843",
+      "Percent": "45.3",
       "incumbent": false
     },
     {
       "Name": "John K. Yi",
       "Party": "Dem",
-      "Votes": "6,872",
-      "Percent": "31.3",
+      "Votes": "7,520",
+      "Percent": "31.4",
       "incumbent": false
     },
     {
       "Name": "Elaine Alaniz",
       "Party": "Rep",
-      "Votes": "5,058",
-      "Percent": "23.1",
+      "Votes": "5,566",
+      "Percent": "23.3",
       "incumbent": false
     }
   ]

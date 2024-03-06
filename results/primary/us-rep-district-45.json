@@ -1,7 +1,7 @@
 {
   "raceTitle": "U.S. House of Representatives District 45 - Districtwide Results",
   "Reporting": "100% (456 of 456) precincts reporting",
-  "ReportingTime": "March 6, 2024, 12:08 a.m.",
+  "ReportingTime": "March 6, 2024, 12:20 a.m.",
   "candidates": [
     {
       "Name": "Cheyenne Hunt",
@@ -20,7 +20,7 @@
     {
       "Name": "Aditya Pai",
       "Party": "Dem",
-      "Votes": "4,010",
+      "Votes": "4,012",
       "Percent": "5.0",
       "incumbent": false
     },
@@ -34,7 +34,7 @@
     {
       "Name": "Michelle Steel",
       "Party": "Rep",
-      "Votes": "46,075",
+      "Votes": "46,084",
       "Percent": "57.1",
       "incumbent": true
     }
