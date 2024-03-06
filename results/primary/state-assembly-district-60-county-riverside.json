@@ -1,56 +1,56 @@
 [
   {
     "raceTitle": "State Assembly District 60 - Riverside County Results",
-    "Reporting": "0% (0 of 139) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:21 p.m.",
+    "Reporting": "24.5% (34 of 139) precincts reporting",
+    "ReportingTime": "March 5, 2024, 8:30 p.m.",
     "candidates": [
       {
         "Name": "Corey A Jackson",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "10,105",
+        "Percent": "56.3",
         "incumbent": true
       },
       {
         "Name": "Hector Diaz Nava",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "3,056",
+        "Percent": "17.0",
         "incumbent": false
       },
       {
         "Name": "Ron Edwards",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "4,781",
+        "Percent": "26.6",
         "incumbent": false
       }
     ]
   },
   {
     "raceTitle": "State Assembly District 60 - Districtwide Results",
-    "Reporting": "0% (0 of 139) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:21 p.m.",
+    "Reporting": "24.5% (34 of 139) precincts reporting",
+    "ReportingTime": "March 5, 2024, 8:30 p.m.",
     "candidates": [
       {
         "Name": "Corey A Jackson",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "10,105",
+        "Percent": "56.3",
         "incumbent": true
       },
       {
         "Name": "Hector Diaz Nava",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "3,056",
+        "Percent": "17.0",
         "incumbent": false
       },
       {
         "Name": "Ron Edwards",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "4,781",
+        "Percent": "26.6",
         "incumbent": false
       }
     ]

@@ -1,56 +1,56 @@
 [
   {
     "raceTitle": "State Assembly District 58 - Riverside County Results",
-    "Reporting": "0% (0 of 123) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:21 p.m.",
+    "Reporting": "12.2% (15 of 123) precincts reporting",
+    "ReportingTime": "March 5, 2024, 8:30 p.m.",
     "candidates": [
       {
         "Name": "Clarissa Cervantes",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "6,110",
+        "Percent": "27.9",
         "incumbent": false
       },
       {
         "Name": "Ronaldo Fierro",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "6,260",
+        "Percent": "28.6",
         "incumbent": false
       },
       {
         "Name": "Leticia Castillo",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "9,526",
+        "Percent": "43.5",
         "incumbent": false
       }
     ]
   },
   {
     "raceTitle": "State Assembly District 58 - Districtwide Results",
-    "Reporting": "0% (0 of 130) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:21 p.m.",
+    "Reporting": "11.5% (15 of 130) precincts reporting",
+    "ReportingTime": "March 5, 2024, 8:30 p.m.",
     "candidates": [
       {
         "Name": "Clarissa Cervantes",
         "Party": "Dem",
-        "Votes": "255",
-        "Percent": "29.7",
+        "Votes": "6,365",
+        "Percent": "28.0",
         "incumbent": false
       },
       {
         "Name": "Ronaldo Fierro",
         "Party": "Dem",
-        "Votes": "209",
-        "Percent": "24.4",
+        "Votes": "6,469",
+        "Percent": "28.4",
         "incumbent": false
       },
       {
         "Name": "Leticia Castillo",
         "Party": "Rep",
-        "Votes": "394",
-        "Percent": "45.9",
+        "Votes": "9,920",
+        "Percent": "43.6",
         "incumbent": false
       }
     ]

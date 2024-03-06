@@ -1,55 +1,55 @@
 [
   {
     "raceTitle": "U.S. House of Representatives District 5 - Mariposa County Results",
-    "Reporting": "0% (0 of 27) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:21 p.m.",
+    "Reporting": "96.3% (26 of 27) precincts reporting",
+    "ReportingTime": "March 5, 2024, 8:26 p.m.",
     "candidates": [
       {
         "Name": "Michael J. \"Mike\" Barkley",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "1,414",
+        "Percent": "35.2",
         "incumbent": false
       },
       {
         "Name": "Tom McClintock",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "2,226",
+        "Percent": "55.4",
         "incumbent": true
       },
       {
         "Name": "Steve Wozniak",
         "Party": "NPP",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "377",
+        "Percent": "9.4",
         "incumbent": false
       }
     ]
   },
   {
     "raceTitle": "U.S. House of Representatives District 5 - Districtwide Results",
-    "Reporting": "17.4% (60 of 345) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:21 p.m.",
+    "Reporting": "24.9% (86 of 345) precincts reporting",
+    "ReportingTime": "March 5, 2024, 8:30 p.m.",
     "candidates": [
       {
         "Name": "Michael J. \"Mike\" Barkley",
         "Party": "Dem",
-        "Votes": "23,573",
+        "Votes": "24,987",
         "Percent": "35.1",
         "incumbent": false
       },
       {
         "Name": "Tom McClintock",
         "Party": "Rep",
-        "Votes": "37,667",
+        "Votes": "39,893",
         "Percent": "56.0",
         "incumbent": true
       },
       {
         "Name": "Steve Wozniak",
         "Party": "NPP",
-        "Votes": "5,975",
+        "Votes": "6,352",
         "Percent": "8.9",
         "incumbent": false
       }

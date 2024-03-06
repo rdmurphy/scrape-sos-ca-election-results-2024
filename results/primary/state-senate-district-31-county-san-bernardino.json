@@ -29,28 +29,28 @@
   },
   {
     "raceTitle": "State Senate District 31 - Districtwide Results",
-    "Reporting": "0% (0 of 249) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:21 p.m.",
+    "Reporting": "13.7% (34 of 249) precincts reporting",
+    "ReportingTime": "March 5, 2024, 8:30 p.m.",
     "candidates": [
       {
         "Name": "Sabrina Cervantes",
         "Party": "Dem",
-        "Votes": "259",
-        "Percent": "53.3",
+        "Votes": "16,510",
+        "Percent": "43.0",
         "incumbent": false
       },
       {
         "Name": "Angelo Farooq",
         "Party": "Dem",
-        "Votes": "79",
-        "Percent": "16.3",
+        "Votes": "6,117",
+        "Percent": "15.9",
         "incumbent": false
       },
       {
         "Name": "Cynthia Navarro",
         "Party": "Rep",
-        "Votes": "148",
-        "Percent": "30.5",
+        "Votes": "15,780",
+        "Percent": "41.1",
         "incumbent": false
       }
     ]

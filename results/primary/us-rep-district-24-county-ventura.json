@@ -2,7 +2,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 24 - Ventura County Results",
     "Reporting": "0% (0 of 335) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:21 p.m.",
+    "ReportingTime": "March 5, 2024, 8:30 p.m.",
     "candidates": [
       {
         "Name": "Salud Carbajal",
@@ -30,27 +30,27 @@
   {
     "raceTitle": "U.S. House of Representatives District 24 - Districtwide Results",
     "Reporting": "0% (0 of 617) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:21 p.m.",
+    "ReportingTime": "March 5, 2024, 8:30 p.m.",
     "candidates": [
       {
         "Name": "Salud Carbajal",
         "Party": "Dem",
-        "Votes": "16,927",
-        "Percent": "60.4",
+        "Votes": "44,608",
+        "Percent": "59.4",
         "incumbent": true
       },
       {
         "Name": "Helena Pasquarella",
         "Party": "Dem",
-        "Votes": "1,434",
-        "Percent": "5.1",
+        "Votes": "4,849",
+        "Percent": "6.5",
         "incumbent": false
       },
       {
         "Name": "Thomas Cole",
         "Party": "Rep",
-        "Votes": "9,662",
-        "Percent": "34.5",
+        "Votes": "25,581",
+        "Percent": "34.1",
         "incumbent": false
       }
     ]

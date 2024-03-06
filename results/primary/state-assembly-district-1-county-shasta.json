@@ -2,7 +2,7 @@
   {
     "raceTitle": "State Assembly District 1 - Shasta County Results",
     "Reporting": "0% (0 of 68) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:21 p.m.",
+    "ReportingTime": "March 5, 2024, 8:30 p.m.",
     "candidates": [
       {
         "Name": "Tenessa Audette",
@@ -36,35 +36,35 @@
   },
   {
     "raceTitle": "State Assembly District 1 - Districtwide Results",
-    "Reporting": "20.2% (88 of 435) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:21 p.m.",
+    "Reporting": "45.1% (196 of 435) precincts reporting",
+    "ReportingTime": "March 5, 2024, 8:30 p.m.",
     "candidates": [
       {
         "Name": "Tenessa Audette",
         "Party": "Rep",
-        "Votes": "5,061",
-        "Percent": "27.9",
+        "Votes": "9,897",
+        "Percent": "33.6",
         "incumbent": false
       },
       {
         "Name": "Heather Hadwick",
         "Party": "Rep",
-        "Votes": "7,934",
-        "Percent": "43.8",
+        "Votes": "11,700",
+        "Percent": "39.7",
         "incumbent": false
       },
       {
         "Name": "Melissa Hunt",
         "Party": "Rep",
-        "Votes": "1,447",
-        "Percent": "8.0",
+        "Votes": "2,105",
+        "Percent": "7.1",
         "incumbent": false
       },
       {
         "Name": "Mark Mezzano",
         "Party": "Rep",
-        "Votes": "3,675",
-        "Percent": "20.3",
+        "Votes": "5,765",
+        "Percent": "19.6",
         "incumbent": false
       }
     ]

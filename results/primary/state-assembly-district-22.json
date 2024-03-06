@@ -1,20 +1,20 @@
 {
   "raceTitle": "State Assembly District 22 - Districtwide Results",
-  "Reporting": "0% (0 of 227) precincts reporting",
-  "ReportingTime": "March 5, 2024, 8:21 p.m.",
+  "Reporting": "43.6% (99 of 227) precincts reporting",
+  "ReportingTime": "March 5, 2024, 8:30 p.m.",
   "candidates": [
     {
       "Name": "Jessica Self",
       "Party": "Dem",
-      "Votes": "0",
-      "Percent": "0.0",
+      "Votes": "503",
+      "Percent": "34.1",
       "incumbent": false
     },
     {
       "Name": "Juan Alanis",
       "Party": "Rep",
-      "Votes": "0",
-      "Percent": "0.0",
+      "Votes": "974",
+      "Percent": "65.9",
       "incumbent": true
     }
   ]

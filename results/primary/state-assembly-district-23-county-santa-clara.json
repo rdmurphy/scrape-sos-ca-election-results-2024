@@ -1,70 +1,70 @@
 [
   {
     "raceTitle": "State Assembly District 23 - Santa Clara County Results",
-    "Reporting": "0% (0 of 105) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:21 p.m.",
+    "Reporting": "100% (105 of 105) precincts reporting",
+    "ReportingTime": "March 5, 2024, 8:22 p.m.",
     "candidates": [
       {
         "Name": "Marc Berman",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "17,313",
+        "Percent": "56.2",
         "incumbent": true
       },
       {
         "Name": "Lydia Kou",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "6,900",
+        "Percent": "22.4",
         "incumbent": false
       },
       {
         "Name": "Allan K. Marson",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "3,593",
+        "Percent": "11.7",
         "incumbent": false
       },
       {
         "Name": "Gus Mattammal",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "3,010",
+        "Percent": "9.8",
         "incumbent": false
       }
     ]
   },
   {
     "raceTitle": "State Assembly District 23 - Districtwide Results",
-    "Reporting": "0% (0 of 184) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:21 p.m.",
+    "Reporting": "57.1% (105 of 184) precincts reporting",
+    "ReportingTime": "March 5, 2024, 8:30 p.m.",
     "candidates": [
       {
         "Name": "Marc Berman",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "28,530",
+        "Percent": "58.7",
         "incumbent": true
       },
       {
         "Name": "Lydia Kou",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "9,437",
+        "Percent": "19.4",
         "incumbent": false
       },
       {
         "Name": "Allan K. Marson",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "5,462",
+        "Percent": "11.2",
         "incumbent": false
       },
       {
         "Name": "Gus Mattammal",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "5,151",
+        "Percent": "10.6",
         "incumbent": false
       }
     ]

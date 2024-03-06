@@ -1,48 +1,48 @@
 {
   "raceTitle": "U.S. House of Representatives District 48 - Districtwide Results",
-  "Reporting": "0% (0 of 420) precincts reporting",
-  "ReportingTime": "March 5, 2024, 8:21 p.m.",
+  "Reporting": "6.7% (28 of 420) precincts reporting",
+  "ReportingTime": "March 5, 2024, 8:30 p.m.",
   "candidates": [
     {
       "Name": "Stephen Houlahan",
       "Party": "Dem",
-      "Votes": "0",
-      "Percent": "0.0",
+      "Votes": "3,138",
+      "Percent": "14.5",
       "incumbent": false
     },
     {
       "Name": "Matthew G. Rascon",
       "Party": "Dem",
-      "Votes": "0",
-      "Percent": "0.0",
+      "Votes": "638",
+      "Percent": "3.0",
       "incumbent": false
     },
     {
       "Name": "Whitney Shanahan",
       "Party": "Dem",
-      "Votes": "0",
-      "Percent": "0.0",
+      "Votes": "3,613",
+      "Percent": "16.7",
       "incumbent": false
     },
     {
       "Name": "Mike Simon",
       "Party": "Dem",
-      "Votes": "0",
-      "Percent": "0.0",
+      "Votes": "1,634",
+      "Percent": "7.6",
       "incumbent": false
     },
     {
       "Name": "Darrell E. Issa",
       "Party": "Rep",
-      "Votes": "0",
-      "Percent": "0.0",
+      "Votes": "12,273",
+      "Percent": "56.8",
       "incumbent": true
     },
     {
       "Name": "Lucinda KWH Jahn",
       "Party": "NPP",
-      "Votes": "0",
-      "Percent": "0.0",
+      "Votes": "293",
+      "Percent": "1.4",
       "incumbent": false
     }
   ]
