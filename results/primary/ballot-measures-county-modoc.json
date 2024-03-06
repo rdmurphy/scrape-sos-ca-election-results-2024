@@ -1,15 +1,15 @@
 {
   "raceTitle": "Ballot Measures - Modoc Results",
-  "Reporting": "57.1% (12 of 21) precincts reporting",
-  "ReportingTime": "March 5, 2024, 8:21 p.m.",
+  "Reporting": "85.7% (18 of 21) precincts reporting",
+  "ReportingTime": "March 5, 2024, 10:06 p.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "499",
-      "yesPercent": "27.4",
-      "noVotes": "1319",
-      "noPercent": "72.6"
+      "yesVotes": "522",
+      "yesPercent": "26.7",
+      "noVotes": "1435",
+      "noPercent": "73.3"
     }
   ]
 }

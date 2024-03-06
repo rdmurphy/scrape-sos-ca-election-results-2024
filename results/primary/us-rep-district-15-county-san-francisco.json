@@ -1,42 +1,42 @@
 [
   {
     "raceTitle": "U.S. House of Representatives District 15 - San Francisco County Results",
-    "Reporting": "0% (0 of 61) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:42 p.m.",
+    "Reporting": "44.3% (27 of 61) precincts reporting",
+    "ReportingTime": "March 5, 2024, 10:06 p.m.",
     "candidates": [
       {
         "Name": "Kevin Mullin",
         "Party": "Dem",
-        "Votes": "4,603",
-        "Percent": "67.4",
+        "Votes": "5,004",
+        "Percent": "67.2",
         "incumbent": true
       },
       {
         "Name": "Anna Cheng Kramer",
         "Party": "Rep",
-        "Votes": "2,228",
-        "Percent": "32.6",
+        "Votes": "2,446",
+        "Percent": "32.8",
         "incumbent": false
       }
     ]
   },
   {
     "raceTitle": "U.S. House of Representatives District 15 - Districtwide Results",
-    "Reporting": "0% (0 of 252) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:02 p.m.",
+    "Reporting": "10.7% (27 of 252) precincts reporting",
+    "ReportingTime": "March 5, 2024, 10:12 p.m.",
     "candidates": [
       {
         "Name": "Kevin Mullin",
         "Party": "Dem",
-        "Votes": "50,992",
-        "Percent": "74.9",
+        "Votes": "51,453",
+        "Percent": "74.8",
         "incumbent": true
       },
       {
         "Name": "Anna Cheng Kramer",
         "Party": "Rep",
-        "Votes": "17,097",
-        "Percent": "25.1",
+        "Votes": "17,365",
+        "Percent": "25.2",
         "incumbent": false
       }
     ]

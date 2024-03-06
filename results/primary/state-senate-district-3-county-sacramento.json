@@ -1,8 +1,8 @@
 [
   {
     "raceTitle": "State Senate District 3 - Sacramento County Results",
-    "Reporting": "90.9% (10 of 11) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:12 p.m.",
+    "Reporting": "100% (11 of 11) precincts reporting",
+    "ReportingTime": "March 5, 2024, 10:08 p.m.",
     "candidates": [
       {
         "Name": "Christopher Cabaldon",
@@ -14,8 +14,8 @@
       {
         "Name": "Jackie Elward",
         "Party": "Dem",
-        "Votes": "56",
-        "Percent": "12.8",
+        "Votes": "57",
+        "Percent": "13.0",
         "incumbent": false
       },
       {
@@ -29,7 +29,7 @@
         "Name": "Thom Bogue",
         "Party": "Rep",
         "Votes": "173",
-        "Percent": "39.6",
+        "Percent": "39.5",
         "incumbent": false
       },
       {
@@ -43,41 +43,41 @@
   },
   {
     "raceTitle": "State Senate District 3 - Districtwide Results",
-    "Reporting": "49.1% (340 of 693) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:02 p.m.",
+    "Reporting": "49.2% (341 of 693) precincts reporting",
+    "ReportingTime": "March 5, 2024, 10:12 p.m.",
     "candidates": [
       {
         "Name": "Christopher Cabaldon",
         "Party": "Dem",
-        "Votes": "30,076",
+        "Votes": "30,079",
         "Percent": "28.3",
         "incumbent": false
       },
       {
         "Name": "Jackie Elward",
         "Party": "Dem",
-        "Votes": "18,703",
+        "Votes": "18,708",
         "Percent": "17.6",
         "incumbent": false
       },
       {
         "Name": "Rozzana Verder-Aliga",
         "Party": "Dem",
-        "Votes": "22,801",
+        "Votes": "22,804",
         "Percent": "21.5",
         "incumbent": false
       },
       {
         "Name": "Thom Bogue",
         "Party": "Rep",
-        "Votes": "28,456",
+        "Votes": "28,460",
         "Percent": "26.8",
         "incumbent": false
       },
       {
         "Name": "Jimih Jones",
         "Party": "Rep",
-        "Votes": "6,090",
+        "Votes": "6,091",
         "Percent": "5.7",
         "incumbent": false
       }

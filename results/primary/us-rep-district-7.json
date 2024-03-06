@@ -1,27 +1,27 @@
 {
   "raceTitle": "U.S. House of Representatives District 7 - Districtwide Results",
-  "Reporting": "97.3% (283 of 291) precincts reporting",
-  "ReportingTime": "March 5, 2024, 10:02 p.m.",
+  "Reporting": "99% (288 of 291) precincts reporting",
+  "ReportingTime": "March 5, 2024, 10:12 p.m.",
   "candidates": [
     {
       "Name": "David Lee Mandel",
       "Party": "Dem",
-      "Votes": "4,730",
-      "Percent": "9.1",
+      "Votes": "5,017",
+      "Percent": "9.4",
       "incumbent": false
     },
     {
       "Name": "Doris Matsui",
       "Party": "Dem",
-      "Votes": "30,999",
-      "Percent": "59.9",
+      "Votes": "31,721",
+      "Percent": "59.1",
       "incumbent": true
     },
     {
       "Name": "Tom Silva",
       "Party": "Rep",
-      "Votes": "16,009",
-      "Percent": "30.9",
+      "Votes": "16,901",
+      "Percent": "31.5",
       "incumbent": false
     }
   ]

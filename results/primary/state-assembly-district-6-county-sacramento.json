@@ -1,76 +1,76 @@
 [
   {
     "raceTitle": "State Assembly District 6 - Sacramento County Results",
-    "Reporting": "96.9% (189 of 195) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:12 p.m.",
+    "Reporting": "100% (195 of 195) precincts reporting",
+    "ReportingTime": "March 5, 2024, 10:08 p.m.",
     "candidates": [
       {
         "Name": "Emmanuel Amanfor",
         "Party": "Dem",
-        "Votes": "1,045",
+        "Votes": "1,104",
         "Percent": "3.5",
         "incumbent": false
       },
       {
         "Name": "Sean Frame",
         "Party": "Dem",
-        "Votes": "1,552",
+        "Votes": "1,621",
         "Percent": "5.1",
         "incumbent": false
       },
       {
         "Name": "Rosanna Herber",
         "Party": "Dem",
-        "Votes": "2,849",
-        "Percent": "9.5",
+        "Votes": "2,949",
+        "Percent": "9.3",
         "incumbent": false
       },
       {
         "Name": "Maggy Krell",
         "Party": "Dem",
-        "Votes": "8,579",
-        "Percent": "28.5",
+        "Votes": "8,795",
+        "Percent": "27.9",
         "incumbent": false
       },
       {
         "Name": "Carlos Marquez III",
         "Party": "Dem",
-        "Votes": "2,920",
-        "Percent": "9.7",
+        "Votes": "3,002",
+        "Percent": "9.5",
         "incumbent": false
       },
       {
         "Name": "Evan Minton",
         "Party": "Dem",
-        "Votes": "566",
+        "Votes": "601",
         "Percent": "1.9",
         "incumbent": false
       },
       {
         "Name": "Paula Villescaz",
         "Party": "Dem",
-        "Votes": "3,416",
-        "Percent": "11.3",
+        "Votes": "3,534",
+        "Percent": "11.2",
         "incumbent": false
       },
       {
         "Name": "Nikki Ellis",
         "Party": "Rep",
-        "Votes": "4,919",
-        "Percent": "16.3",
+        "Votes": "5,258",
+        "Percent": "16.7",
         "incumbent": false
       },
       {
         "Name": "Preston Romero",
         "Party": "Rep",
-        "Votes": "3,792",
-        "Percent": "12.6",
+        "Votes": "4,167",
+        "Percent": "13.2",
         "incumbent": false
       },
       {
         "Name": "Kevin Olmar Martinez",
         "Party": "P&F",
-        "Votes": "508",
+        "Votes": "544",
         "Percent": "1.7",
         "incumbent": false
       }
@@ -78,76 +78,76 @@
   },
   {
     "raceTitle": "State Assembly District 6 - Districtwide Results",
-    "Reporting": "96.9% (189 of 195) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:02 p.m.",
+    "Reporting": "100% (195 of 195) precincts reporting",
+    "ReportingTime": "March 5, 2024, 10:12 p.m.",
     "candidates": [
       {
         "Name": "Emmanuel Amanfor",
         "Party": "Dem",
-        "Votes": "1,045",
+        "Votes": "1,104",
         "Percent": "3.5",
         "incumbent": false
       },
       {
         "Name": "Sean Frame",
         "Party": "Dem",
-        "Votes": "1,552",
+        "Votes": "1,621",
         "Percent": "5.1",
         "incumbent": false
       },
       {
         "Name": "Rosanna Herber",
         "Party": "Dem",
-        "Votes": "2,849",
-        "Percent": "9.5",
+        "Votes": "2,949",
+        "Percent": "9.3",
         "incumbent": false
       },
       {
         "Name": "Maggy Krell",
         "Party": "Dem",
-        "Votes": "8,579",
-        "Percent": "28.5",
+        "Votes": "8,795",
+        "Percent": "27.9",
         "incumbent": false
       },
       {
         "Name": "Carlos Marquez III",
         "Party": "Dem",
-        "Votes": "2,920",
-        "Percent": "9.7",
+        "Votes": "3,002",
+        "Percent": "9.5",
         "incumbent": false
       },
       {
         "Name": "Evan Minton",
         "Party": "Dem",
-        "Votes": "566",
+        "Votes": "601",
         "Percent": "1.9",
         "incumbent": false
       },
       {
         "Name": "Paula Villescaz",
         "Party": "Dem",
-        "Votes": "3,416",
-        "Percent": "11.3",
+        "Votes": "3,534",
+        "Percent": "11.2",
         "incumbent": false
       },
       {
         "Name": "Nikki Ellis",
         "Party": "Rep",
-        "Votes": "4,919",
-        "Percent": "16.3",
+        "Votes": "5,258",
+        "Percent": "16.7",
         "incumbent": false
       },
       {
         "Name": "Preston Romero",
         "Party": "Rep",
-        "Votes": "3,792",
-        "Percent": "12.6",
+        "Votes": "4,167",
+        "Percent": "13.2",
         "incumbent": false
       },
       {
         "Name": "Kevin Olmar Martinez",
         "Party": "P&F",
-        "Votes": "508",
+        "Votes": "544",
         "Percent": "1.7",
         "incumbent": false
       }

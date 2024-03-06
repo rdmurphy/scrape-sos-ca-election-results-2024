@@ -1,20 +1,20 @@
 [
   {
     "raceTitle": "State Assembly District 9 - Sacramento County Results",
-    "Reporting": "95.3% (41 of 43) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:12 p.m.",
+    "Reporting": "100% (43 of 43) precincts reporting",
+    "ReportingTime": "March 5, 2024, 10:08 p.m.",
     "candidates": [
       {
         "Name": "Heath Flora",
         "Party": "Rep",
-        "Votes": "2,978",
+        "Votes": "2,990",
         "Percent": "70.0",
         "incumbent": true
       },
       {
         "Name": "Tami Nobriga",
         "Party": "AI",
-        "Votes": "1,279",
+        "Votes": "1,281",
         "Percent": "30.0",
         "incumbent": false
       }
@@ -22,20 +22,20 @@
   },
   {
     "raceTitle": "State Assembly District 9 - Districtwide Results",
-    "Reporting": "95.7% (178 of 186) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:02 p.m.",
+    "Reporting": "96.8% (180 of 186) precincts reporting",
+    "ReportingTime": "March 5, 2024, 10:12 p.m.",
     "candidates": [
       {
         "Name": "Heath Flora",
         "Party": "Rep",
-        "Votes": "25,919",
+        "Votes": "25,931",
         "Percent": "71.3",
         "incumbent": true
       },
       {
         "Name": "Tami Nobriga",
         "Party": "AI",
-        "Votes": "10,418",
+        "Votes": "10,420",
         "Percent": "28.7",
         "incumbent": false
       }

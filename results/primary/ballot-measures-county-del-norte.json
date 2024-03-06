@@ -1,15 +1,15 @@
 {
   "raceTitle": "Ballot Measures - Del Norte Results",
-  "Reporting": "0.0% (0 of 19) precincts reporting",
-  "ReportingTime": "March 5, 2024, 8:28 p.m.",
+  "Reporting": "68.4% (13 of 19) precincts reporting",
+  "ReportingTime": "March 5, 2024, 10:11 p.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "1099",
-      "yesPercent": "45.5",
-      "noVotes": "1315",
-      "noPercent": "54.5"
+      "yesVotes": "1266",
+      "yesPercent": "42.8",
+      "noVotes": "1692",
+      "noPercent": "57.2"
     }
   ]
 }

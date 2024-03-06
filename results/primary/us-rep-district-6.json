@@ -1,47 +1,47 @@
 {
   "raceTitle": "U.S. House of Representatives District 6 - Districtwide Results",
-  "Reporting": "97.1% (272 of 280) precincts reporting",
-  "ReportingTime": "March 5, 2024, 10:02 p.m.",
+  "Reporting": "100% (280 of 280) precincts reporting",
+  "ReportingTime": "March 5, 2024, 10:12 p.m.",
   "candidates": [
     {
       "Name": "Adam Barajas",
       "Party": "Dem",
-      "Votes": "2,275",
+      "Votes": "2,383",
       "Percent": "4.9",
       "incumbent": false
     },
     {
       "Name": "Ami Bera",
       "Party": "Dem",
-      "Votes": "25,960",
-      "Percent": "56.2",
+      "Votes": "26,521",
+      "Percent": "55.1",
       "incumbent": true
     },
     {
       "Name": "Christine Bish",
       "Party": "Rep",
-      "Votes": "8,724",
-      "Percent": "18.9",
+      "Votes": "9,398",
+      "Percent": "19.5",
       "incumbent": false
     },
     {
       "Name": "Craig J. DeLuz",
       "Party": "Rep",
-      "Votes": "3,673",
-      "Percent": "8.0",
+      "Votes": "3,963",
+      "Percent": "8.2",
       "incumbent": false
     },
     {
       "Name": "Raymond Riehle",
       "Party": "Rep",
-      "Votes": "4,705",
-      "Percent": "10.2",
+      "Votes": "5,049",
+      "Percent": "10.5",
       "incumbent": false
     },
     {
       "Name": "Chris Richardson",
       "Party": "Grn",
-      "Votes": "820",
+      "Votes": "857",
       "Percent": "1.8",
       "incumbent": false
     }

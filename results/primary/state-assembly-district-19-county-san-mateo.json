@@ -2,33 +2,33 @@
   {
     "raceTitle": "State Assembly District 19 - San Mateo County Results",
     "Reporting": "0% (0 of 37) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 10:02 p.m.",
     "candidates": [
       {
         "Name": "David E. Lee",
         "Party": "Dem",
-        "Votes": "3,554",
+        "Votes": "3,562",
         "Percent": "31.0",
         "incumbent": false
       },
       {
         "Name": "Catherine Stefani",
         "Party": "Dem",
-        "Votes": "5,528",
+        "Votes": "5,544",
         "Percent": "48.2",
         "incumbent": false
       },
       {
         "Name": "Nadia Flamenco",
         "Party": "Rep",
-        "Votes": "1,152",
-        "Percent": "10.0",
+        "Votes": "1,165",
+        "Percent": "10.1",
         "incumbent": false
       },
       {
         "Name": "Arjun Gustav Sodhani",
         "Party": "Rep",
-        "Votes": "1,230",
+        "Votes": "1,237",
         "Percent": "10.7",
         "incumbent": false
       }
@@ -36,35 +36,35 @@
   },
   {
     "raceTitle": "State Assembly District 19 - Districtwide Results",
-    "Reporting": "0% (0 of 251) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:02 p.m.",
+    "Reporting": "27.5% (69 of 251) precincts reporting",
+    "ReportingTime": "March 5, 2024, 10:12 p.m.",
     "candidates": [
       {
         "Name": "David E. Lee",
         "Party": "Dem",
-        "Votes": "12,179",
-        "Percent": "27.4",
+        "Votes": "12,907",
+        "Percent": "27.3",
         "incumbent": false
       },
       {
         "Name": "Catherine Stefani",
         "Party": "Dem",
-        "Votes": "25,286",
-        "Percent": "57.0",
+        "Votes": "26,871",
+        "Percent": "56.9",
         "incumbent": false
       },
       {
         "Name": "Nadia Flamenco",
         "Party": "Rep",
-        "Votes": "3,698",
-        "Percent": "8.3",
+        "Votes": "3,966",
+        "Percent": "8.4",
         "incumbent": false
       },
       {
         "Name": "Arjun Gustav Sodhani",
         "Party": "Rep",
-        "Votes": "3,212",
-        "Percent": "7.2",
+        "Votes": "3,481",
+        "Percent": "7.4",
         "incumbent": false
       }
     ]

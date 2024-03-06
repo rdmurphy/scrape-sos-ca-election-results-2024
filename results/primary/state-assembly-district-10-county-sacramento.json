@@ -1,42 +1,42 @@
 [
   {
     "raceTitle": "State Assembly District 10 - Sacramento County Results",
-    "Reporting": "98.9% (183 of 185) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:12 p.m.",
+    "Reporting": "100% (185 of 185) precincts reporting",
+    "ReportingTime": "March 5, 2024, 10:08 p.m.",
     "candidates": [
       {
         "Name": "Stephanie Nguyen",
         "Party": "Dem",
-        "Votes": "19,612",
-        "Percent": "68.0",
+        "Votes": "20,205",
+        "Percent": "67.1",
         "incumbent": true
       },
       {
         "Name": "Vinaya Singh",
         "Party": "Rep",
-        "Votes": "9,247",
-        "Percent": "32.0",
+        "Votes": "9,917",
+        "Percent": "32.9",
         "incumbent": false
       }
     ]
   },
   {
     "raceTitle": "State Assembly District 10 - Districtwide Results",
-    "Reporting": "98.9% (183 of 185) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:02 p.m.",
+    "Reporting": "100% (185 of 185) precincts reporting",
+    "ReportingTime": "March 5, 2024, 10:12 p.m.",
     "candidates": [
       {
         "Name": "Stephanie Nguyen",
         "Party": "Dem",
-        "Votes": "19,612",
-        "Percent": "68.0",
+        "Votes": "20,205",
+        "Percent": "67.1",
         "incumbent": true
       },
       {
         "Name": "Vinaya Singh",
         "Party": "Rep",
-        "Votes": "9,247",
-        "Percent": "32.0",
+        "Votes": "9,917",
+        "Percent": "32.9",
         "incumbent": false
       }
     ]
