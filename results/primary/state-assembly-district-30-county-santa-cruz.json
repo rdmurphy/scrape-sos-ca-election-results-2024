@@ -1,42 +1,42 @@
 [
   {
     "raceTitle": "State Assembly District 30 - Santa Cruz County Results",
-    "Reporting": "0% (0 of 14) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "Reporting": "21.4% (3 of 14) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:04 p.m.",
     "candidates": [
       {
         "Name": "Dawn Addis",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "10,010",
+        "Percent": "80.4",
         "incumbent": true
       },
       {
         "Name": "Dalila Epperson",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "2,439",
+        "Percent": "19.6",
         "incumbent": false
       }
     ]
   },
   {
     "raceTitle": "State Assembly District 30 - Districtwide Results",
-    "Reporting": "39% (85 of 218) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "Reporting": "40.4% (88 of 218) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Dawn Addis",
         "Party": "Dem",
-        "Votes": "35,556",
-        "Percent": "63.6",
+        "Votes": "45,566",
+        "Percent": "66.7",
         "incumbent": true
       },
       {
         "Name": "Dalila Epperson",
         "Party": "Rep",
-        "Votes": "20,351",
-        "Percent": "36.4",
+        "Votes": "22,790",
+        "Percent": "33.3",
         "incumbent": false
       }
     ]

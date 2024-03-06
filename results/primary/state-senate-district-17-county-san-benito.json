@@ -2,7 +2,7 @@
   {
     "raceTitle": "State Senate District 17 - San Benito County Results",
     "Reporting": "0% (0 of 28) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "John Laird",
@@ -36,34 +36,34 @@
   },
   {
     "raceTitle": "State Senate District 17 - Districtwide Results",
-    "Reporting": "45.2% (201 of 445) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "Reporting": "50.6% (225 of 445) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "John Laird",
         "Party": "Dem",
-        "Votes": "40,215",
-        "Percent": "62.5",
+        "Votes": "67,355",
+        "Percent": "68.3",
         "incumbent": true
       },
       {
         "Name": "Eric Tao",
         "Party": "Rep",
-        "Votes": "8,675",
-        "Percent": "13.5",
+        "Votes": "10,969",
+        "Percent": "11.1",
         "incumbent": false
       },
       {
         "Name": "Tony Virrueta",
         "Party": "Rep",
-        "Votes": "14,327",
-        "Percent": "22.3",
+        "Votes": "18,614",
+        "Percent": "18.9",
         "incumbent": false
       },
       {
         "Name": "Michael Oxford",
         "Party": "Lib",
-        "Votes": "1,139",
+        "Votes": "1,728",
         "Percent": "1.8",
         "incumbent": false
       }

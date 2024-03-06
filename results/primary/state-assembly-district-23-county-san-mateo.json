@@ -2,34 +2,34 @@
   {
     "raceTitle": "State Assembly District 23 - San Mateo County Results",
     "Reporting": "0% (0 of 79) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:24 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Marc Berman",
         "Party": "Dem",
-        "Votes": "11,217",
-        "Percent": "63.1",
+        "Votes": "11,298",
+        "Percent": "62.9",
         "incumbent": true
       },
       {
         "Name": "Lydia Kou",
         "Party": "Dem",
-        "Votes": "2,537",
-        "Percent": "14.3",
+        "Votes": "2,556",
+        "Percent": "14.2",
         "incumbent": false
       },
       {
         "Name": "Allan K. Marson",
         "Party": "Rep",
-        "Votes": "1,869",
-        "Percent": "10.5",
+        "Votes": "1,899",
+        "Percent": "10.6",
         "incumbent": false
       },
       {
         "Name": "Gus Mattammal",
         "Party": "Rep",
-        "Votes": "2,141",
-        "Percent": "12.1",
+        "Votes": "2,199",
+        "Percent": "12.2",
         "incumbent": false
       }
     ]
@@ -37,34 +37,34 @@
   {
     "raceTitle": "State Assembly District 23 - Districtwide Results",
     "Reporting": "57.1% (105 of 184) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Marc Berman",
         "Party": "Dem",
-        "Votes": "28,896",
+        "Votes": "28,977",
         "Percent": "58.6",
         "incumbent": true
       },
       {
         "Name": "Lydia Kou",
         "Party": "Dem",
-        "Votes": "9,576",
+        "Votes": "9,595",
         "Percent": "19.4",
         "incumbent": false
       },
       {
         "Name": "Allan K. Marson",
         "Party": "Rep",
-        "Votes": "5,570",
+        "Votes": "5,600",
         "Percent": "11.3",
         "incumbent": false
       },
       {
         "Name": "Gus Mattammal",
         "Party": "Rep",
-        "Votes": "5,242",
-        "Percent": "10.6",
+        "Votes": "5,300",
+        "Percent": "10.7",
         "incumbent": false
       }
     ]

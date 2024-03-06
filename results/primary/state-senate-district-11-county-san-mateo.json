@@ -2,33 +2,33 @@
   {
     "raceTitle": "State Senate District 11 - San Mateo County Results",
     "Reporting": "0% (0 of 37) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:24 p.m.",
+    "ReportingTime": "March 5, 2024, 9:02 p.m.",
     "candidates": [
       {
         "Name": "Cynthia Cravens",
         "Party": "Dem",
-        "Votes": "1,235",
+        "Votes": "1,246",
         "Percent": "10.7",
         "incumbent": false
       },
       {
         "Name": "Scott Wiener",
         "Party": "Dem",
-        "Votes": "7,303",
-        "Percent": "63.3",
+        "Votes": "7,357",
+        "Percent": "63.1",
         "incumbent": true
       },
       {
         "Name": "Yvette Corkrean",
         "Party": "Rep",
-        "Votes": "2,537",
-        "Percent": "22.0",
+        "Votes": "2,590",
+        "Percent": "22.2",
         "incumbent": false
       },
       {
         "Name": "Jing Chao Xiong",
         "Party": "NPP",
-        "Votes": "465",
+        "Votes": "470",
         "Percent": "4.0",
         "incumbent": false
       }
@@ -37,33 +37,33 @@
   {
     "raceTitle": "State Senate District 11 - Districtwide Results",
     "Reporting": "0% (0 of 549) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Cynthia Cravens",
         "Party": "Dem",
-        "Votes": "6,573",
+        "Votes": "6,584",
         "Percent": "7.6",
         "incumbent": false
       },
       {
         "Name": "Scott Wiener",
         "Party": "Dem",
-        "Votes": "62,551",
-        "Percent": "71.9",
+        "Votes": "62,605",
+        "Percent": "71.8",
         "incumbent": true
       },
       {
         "Name": "Yvette Corkrean",
         "Party": "Rep",
-        "Votes": "14,055",
-        "Percent": "16.1",
+        "Votes": "14,108",
+        "Percent": "16.2",
         "incumbent": false
       },
       {
         "Name": "Jing Chao Xiong",
         "Party": "NPP",
-        "Votes": "3,872",
+        "Votes": "3,877",
         "Percent": "4.4",
         "incumbent": false
       }

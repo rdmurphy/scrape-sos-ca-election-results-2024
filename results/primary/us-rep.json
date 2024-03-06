@@ -2,7 +2,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 1 - Districtwide Results",
     "Reporting": "39.6% (194 of 490) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Mike Doran",
@@ -30,7 +30,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 2 - Districtwide Results",
     "Reporting": "66.9% (421 of 629) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Jared Huffman",
@@ -71,27 +71,27 @@
   },
   {
     "raceTitle": "U.S. House of Representatives District 3 - Districtwide Results",
-    "Reporting": "54% (245 of 454) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "Reporting": "55.1% (250 of 454) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Jessica Morse",
         "Party": "Dem",
-        "Votes": "45,404",
+        "Votes": "45,606",
         "Percent": "46.8",
         "incumbent": false
       },
       {
         "Name": "Kevin Kiley",
         "Party": "Rep",
-        "Votes": "49,688",
+        "Votes": "49,821",
         "Percent": "51.2",
         "incumbent": true
       },
       {
         "Name": "Robert Smith",
         "Party": "NPP",
-        "Votes": "1,949",
+        "Votes": "1,958",
         "Percent": "2.0",
         "incumbent": false
       }
@@ -100,7 +100,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 4 - Districtwide Results",
     "Reporting": "78.8% (449 of 570) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Andrew David Engdahl",
@@ -134,27 +134,27 @@
   },
   {
     "raceTitle": "U.S. House of Representatives District 5 - Districtwide Results",
-    "Reporting": "35.9% (124 of 345) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "Reporting": "64.6% (223 of 345) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Michael J. \"Mike\" Barkley",
         "Party": "Dem",
-        "Votes": "29,412",
-        "Percent": "35.3",
+        "Votes": "37,073",
+        "Percent": "36.2",
         "incumbent": false
       },
       {
         "Name": "Tom McClintock",
         "Party": "Rep",
-        "Votes": "46,499",
-        "Percent": "55.8",
+        "Votes": "56,332",
+        "Percent": "55.0",
         "incumbent": true
       },
       {
         "Name": "Steve Wozniak",
         "Party": "NPP",
-        "Votes": "7,424",
+        "Votes": "9,101",
         "Percent": "8.9",
         "incumbent": false
       }
@@ -163,7 +163,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 6 - Districtwide Results",
     "Reporting": "97.1% (272 of 280) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Adam Barajas",
@@ -212,7 +212,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 7 - Districtwide Results",
     "Reporting": "97.3% (283 of 291) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "David Lee Mandel",
@@ -240,7 +240,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 8 - Districtwide Results",
     "Reporting": "0% (0 of 361) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "John Garamendi",
@@ -260,35 +260,35 @@
   },
   {
     "raceTitle": "U.S. House of Representatives District 9 - Districtwide Results",
-    "Reporting": "83.8% (201 of 240) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "Reporting": "84.6% (203 of 240) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Josh Harder",
         "Party": "Dem",
-        "Votes": "27,287",
-        "Percent": "55.4",
+        "Votes": "27,329",
+        "Percent": "55.3",
         "incumbent": true
       },
       {
         "Name": "Khalid Jeffrey Jafri",
         "Party": "Rep",
-        "Votes": "3,599",
+        "Votes": "3,626",
         "Percent": "7.3",
         "incumbent": false
       },
       {
         "Name": "Kevin Lincoln",
         "Party": "Rep",
-        "Votes": "13,229",
+        "Votes": "13,268",
         "Percent": "26.9",
         "incumbent": false
       },
       {
         "Name": "John McBride",
         "Party": "Rep",
-        "Votes": "5,146",
-        "Percent": "10.4",
+        "Votes": "5,172",
+        "Percent": "10.5",
         "incumbent": false
       }
     ]
@@ -296,7 +296,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 10 - Districtwide Results",
     "Reporting": "0% (0 of 645) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Mark DeSaulnier",
@@ -338,7 +338,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 11 - Districtwide Results",
     "Reporting": "0% (0 of 451) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Jason Boyce",
@@ -401,7 +401,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 12 - Districtwide Results",
     "Reporting": "0% (0 of 179) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Tony Daysog",
@@ -470,21 +470,21 @@
   },
   {
     "raceTitle": "U.S. House of Representatives District 13 - Districtwide Results",
-    "Reporting": "85.8% (742 of 865) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "Reporting": "92.7% (802 of 865) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Adam Gray",
         "Party": "Dem",
-        "Votes": "13,631",
-        "Percent": "47.5",
+        "Votes": "17,210",
+        "Percent": "48.3",
         "incumbent": false
       },
       {
         "Name": "John Duarte",
         "Party": "Rep",
-        "Votes": "15,041",
-        "Percent": "52.5",
+        "Votes": "18,415",
+        "Percent": "51.7",
         "incumbent": true
       }
     ]
@@ -492,7 +492,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 14 - Districtwide Results",
     "Reporting": "0% (0 of 348) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Eric Swalwell",
@@ -527,20 +527,20 @@
   {
     "raceTitle": "U.S. House of Representatives District 15 - Districtwide Results",
     "Reporting": "0% (0 of 252) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Kevin Mullin",
         "Party": "Dem",
-        "Votes": "50,760",
-        "Percent": "75.1",
+        "Votes": "50,992",
+        "Percent": "74.9",
         "incumbent": true
       },
       {
         "Name": "Anna Cheng Kramer",
         "Party": "Rep",
-        "Votes": "16,865",
-        "Percent": "24.9",
+        "Votes": "17,097",
+        "Percent": "25.1",
         "incumbent": false
       }
     ]
@@ -548,47 +548,47 @@
   {
     "raceTitle": "U.S. House of Representatives District 16 - Districtwide Results",
     "Reporting": "72.6% (199 of 274) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Joby B Bernstein",
         "Party": "Dem",
-        "Votes": "592",
+        "Votes": "593",
         "Percent": "0.8",
         "incumbent": false
       },
       {
         "Name": "Peter Dixon",
         "Party": "Dem",
-        "Votes": "5,830",
+        "Votes": "5,850",
         "Percent": "7.8",
         "incumbent": false
       },
       {
         "Name": "Rishi Kumar",
         "Party": "Dem",
-        "Votes": "4,705",
+        "Votes": "4,719",
         "Percent": "6.3",
         "incumbent": false
       },
       {
         "Name": "Sam Liccardo",
         "Party": "Dem",
-        "Votes": "17,161",
+        "Votes": "17,197",
         "Percent": "22.9",
         "incumbent": false
       },
       {
         "Name": "Evan Low",
         "Party": "Dem",
-        "Votes": "12,252",
+        "Votes": "12,269",
         "Percent": "16.3",
         "incumbent": false
       },
       {
         "Name": "Julie Lythcott-Haims",
         "Party": "Dem",
-        "Votes": "3,953",
+        "Votes": "3,961",
         "Percent": "5.3",
         "incumbent": false
       },
@@ -602,29 +602,29 @@
       {
         "Name": "Joe Simitian",
         "Party": "Dem",
-        "Votes": "14,041",
+        "Votes": "14,053",
         "Percent": "18.7",
         "incumbent": false
       },
       {
         "Name": "Greg Lin Tanaka",
         "Party": "Dem",
-        "Votes": "1,020",
+        "Votes": "1,021",
         "Percent": "1.4",
         "incumbent": false
       },
       {
         "Name": "Peter Ohtaki",
         "Party": "Rep",
-        "Votes": "9,117",
+        "Votes": "9,171",
         "Percent": "12.2",
         "incumbent": false
       },
       {
         "Name": "Karl Ryan",
         "Party": "Rep",
-        "Votes": "4,748",
-        "Percent": "6.3",
+        "Votes": "4,776",
+        "Percent": "6.4",
         "incumbent": false
       }
     ]
@@ -632,7 +632,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 17 - Districtwide Results",
     "Reporting": "89.8% (167 of 186) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Ro Khanna",
@@ -673,70 +673,70 @@
   },
   {
     "raceTitle": "U.S. House of Representatives District 18 - Districtwide Results",
-    "Reporting": "82.9% (233 of 281) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "Reporting": "84.3% (237 of 281) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Luele N Kifle",
         "Party": "Dem",
-        "Votes": "653",
+        "Votes": "752",
         "Percent": "2.2",
         "incumbent": false
       },
       {
         "Name": "Zoe Lofgren",
         "Party": "Dem",
-        "Votes": "16,936",
+        "Votes": "19,008",
         "Percent": "56.5",
         "incumbent": true
       },
       {
         "Name": "Lawrence Milan",
         "Party": "Dem",
-        "Votes": "945",
+        "Votes": "1,067",
         "Percent": "3.2",
         "incumbent": false
       },
       {
         "Name": "Charlene Concepción Nijmeh",
         "Party": "Dem",
-        "Votes": "2,537",
-        "Percent": "8.5",
+        "Votes": "2,991",
+        "Percent": "8.9",
         "incumbent": false
       },
       {
         "Name": "Peter D. Hernandez",
         "Party": "Rep",
-        "Votes": "8,901",
-        "Percent": "29.7",
+        "Votes": "9,824",
+        "Percent": "29.2",
         "incumbent": false
       }
     ]
   },
   {
     "raceTitle": "U.S. House of Representatives District 19 - Districtwide Results",
-    "Reporting": "59.1% (199 of 337) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "Reporting": "66.2% (223 of 337) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Jimmy Panetta",
         "Party": "Dem",
-        "Votes": "39,321",
-        "Percent": "64.7",
+        "Votes": "63,768",
+        "Percent": "69.4",
         "incumbent": true
       },
       {
         "Name": "Jason Michael Anderson",
         "Party": "Rep",
-        "Votes": "18,970",
-        "Percent": "31.2",
+        "Votes": "23,796",
+        "Percent": "25.9",
         "incumbent": false
       },
       {
         "Name": "Sean Dougherty",
         "Party": "Grn",
-        "Votes": "2,527",
-        "Percent": "4.2",
+        "Votes": "4,329",
+        "Percent": "4.7",
         "incumbent": false
       }
     ]
@@ -744,7 +744,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 20 - Districtwide Results",
     "Reporting": "7.9% (38 of 478) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Andy Morales",
@@ -828,7 +828,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 21 - Districtwide Results",
     "Reporting": "17.8% (37 of 208) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Jim Costa",
@@ -849,7 +849,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 22 - Districtwide Results",
     "Reporting": "11.1% (46 of 414) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Melissa Hurtado",
@@ -884,7 +884,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 23 - Districtwide Results",
     "Reporting": "6.5% (105 of 1,609) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Derek Marshall",
@@ -905,7 +905,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 24 - Districtwide Results",
     "Reporting": "38.7% (239 of 617) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Salud Carbajal",
@@ -933,7 +933,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 25 - Districtwide Results",
     "Reporting": "43.3% (252 of 582) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Oscar Ortiz",
@@ -982,7 +982,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 26 - Districtwide Results",
     "Reporting": "73.6% (792 of 1,076) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Chris Anstead",
@@ -1017,7 +1017,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 27 - Districtwide Results",
     "Reporting": "100% (205 of 205) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Steve Hill",
@@ -1045,7 +1045,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 28 - Districtwide Results",
     "Reporting": "56.8% (197 of 347) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Judy Chu",
@@ -1080,7 +1080,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 29 - Districtwide Results",
     "Reporting": "100% (153 of 153) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Angélica María Dueñas",
@@ -1108,7 +1108,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 30 - Districtwide Results",
     "Reporting": "100% (194 of 194) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Francesco Arreaga",
@@ -1220,7 +1220,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 31 - Districtwide Results",
     "Reporting": "100% (199 of 199) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Bob J. Archuleta",
@@ -1297,7 +1297,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 32 - Districtwide Results",
     "Reporting": "98.4% (182 of 185) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Dave Abbitt",
@@ -1353,7 +1353,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 33 - Districtwide Results",
     "Reporting": "0.9% (6 of 655) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Pete Aguilar",
@@ -1374,7 +1374,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 34 - Districtwide Results",
     "Reporting": "100% (153 of 153) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "David M. Ferrell",
@@ -1416,7 +1416,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 35 - Districtwide Results",
     "Reporting": "6.7% (29 of 431) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Melissa May",
@@ -1451,7 +1451,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 36 - Districtwide Results",
     "Reporting": "100% (163 of 163) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Ted W. Lieu",
@@ -1486,7 +1486,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 37 - Districtwide Results",
     "Reporting": "100% (171 of 171) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Adam J. Carmichael",
@@ -1521,7 +1521,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 38 - Districtwide Results",
     "Reporting": "88.8% (175 of 197) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Linda T. Sánchez",
@@ -1556,7 +1556,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 39 - Districtwide Results",
     "Reporting": "15.3% (30 of 196) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Mark Takano",
@@ -1577,7 +1577,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 40 - Districtwide Results",
     "Reporting": "0.1% (1 of 718) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Allyson Muñiz Damikolas",
@@ -1605,7 +1605,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 41 - Districtwide Results",
     "Reporting": "29.9% (101 of 338) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Anna Nevenic",
@@ -1633,7 +1633,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 42 - Districtwide Results",
     "Reporting": "100% (172 of 172) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Joaquín Beltrán",
@@ -1668,7 +1668,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 43 - Districtwide Results",
     "Reporting": "100% (187 of 187) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Gregory Edward Jackson Cheadle",
@@ -1710,7 +1710,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 44 - Districtwide Results",
     "Reporting": "100% (174 of 174) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Nanette Diaz Barragán",
@@ -1731,7 +1731,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 45 - Districtwide Results",
     "Reporting": "4.2% (19 of 456) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Cheyenne Hunt",
@@ -1773,7 +1773,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 46 - Districtwide Results",
     "Reporting": "0% (0 of 367) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Lou Correa",
@@ -1794,7 +1794,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 47 - Districtwide Results",
     "Reporting": "0% (0 of 542) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Dave Min",
@@ -1871,7 +1871,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 48 - Districtwide Results",
     "Reporting": "6.7% (28 of 420) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Stephen Houlahan",
@@ -1920,7 +1920,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 49 - Districtwide Results",
     "Reporting": "0% (0 of 472) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Mike Levin",
@@ -1962,7 +1962,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 50 - Districtwide Results",
     "Reporting": "0% (0 of 437) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Timothy Daniel Bilash",
@@ -1997,7 +1997,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 51 - Districtwide Results",
     "Reporting": "0% (0 of 462) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Sara Jacobs",
@@ -2032,7 +2032,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 52 - Districtwide Results",
     "Reporting": "0% (0 of 399) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:02 p.m.",
+    "ReportingTime": "March 5, 2024, 9:09 p.m.",
     "candidates": [
       {
         "Name": "Juan Vargas",
