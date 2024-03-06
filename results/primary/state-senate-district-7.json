@@ -1,48 +1,48 @@
 {
   "raceTitle": "State Senate District 7 - Districtwide Results",
-  "Reporting": "0% (0 of 313) precincts reporting",
-  "ReportingTime": "March 5, 2024, 9:09 p.m.",
+  "Reporting": "49.2% (154 of 313) precincts reporting",
+  "ReportingTime": "March 5, 2024, 9:20 p.m.",
   "candidates": [
     {
       "Name": "Jesse Arreguín",
       "Party": "Dem",
-      "Votes": "15,168",
-      "Percent": "33.1",
+      "Votes": "16,095",
+      "Percent": "32.6",
       "incumbent": false
     },
     {
       "Name": "Jovanka Beckles",
       "Party": "Dem",
-      "Votes": "5,705",
-      "Percent": "12.5",
+      "Votes": "6,390",
+      "Percent": "12.9",
       "incumbent": false
     },
     {
       "Name": "Dan Kalb",
       "Party": "Dem",
-      "Votes": "8,130",
-      "Percent": "17.8",
+      "Votes": "8,642",
+      "Percent": "17.5",
       "incumbent": false
     },
     {
       "Name": "Kathryn Lybarger",
       "Party": "Dem",
-      "Votes": "6,005",
+      "Votes": "6,481",
       "Percent": "13.1",
       "incumbent": false
     },
     {
       "Name": "Sandré R Swanson",
       "Party": "Dem",
-      "Votes": "5,020",
-      "Percent": "11.0",
+      "Votes": "5,488",
+      "Percent": "11.1",
       "incumbent": false
     },
     {
       "Name": "Jeanne Solnordal",
       "Party": "Rep",
-      "Votes": "5,741",
-      "Percent": "12.5",
+      "Votes": "6,322",
+      "Percent": "12.8",
       "incumbent": false
     }
   ]

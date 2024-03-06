@@ -1,8 +1,8 @@
 [
   {
     "raceTitle": "U.S. House of Representatives District 5 - Madera County Results",
-    "Reporting": "0% (0 of 5) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:02 p.m.",
+    "Reporting": "100% (5 of 5) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:16 p.m.",
     "candidates": [
       {
         "Name": "Michael J. \"Mike\" Barkley",
@@ -14,7 +14,7 @@
       {
         "Name": "Tom McClintock",
         "Party": "Rep",
-        "Votes": "3,726",
+        "Votes": "3,728",
         "Percent": "60.8",
         "incumbent": true
       },
@@ -29,8 +29,8 @@
   },
   {
     "raceTitle": "U.S. House of Representatives District 5 - Districtwide Results",
-    "Reporting": "64.6% (223 of 345) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:09 p.m.",
+    "Reporting": "66.1% (228 of 345) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:20 p.m.",
     "candidates": [
       {
         "Name": "Michael J. \"Mike\" Barkley",
@@ -42,7 +42,7 @@
       {
         "Name": "Tom McClintock",
         "Party": "Rep",
-        "Votes": "56,332",
+        "Votes": "56,334",
         "Percent": "55.0",
         "incumbent": true
       },

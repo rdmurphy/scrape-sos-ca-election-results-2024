@@ -1,40 +1,40 @@
 {
   "raceTitle": "U.S. House of Representatives District 10 - Districtwide Results",
-  "Reporting": "0% (0 of 645) precincts reporting",
-  "ReportingTime": "March 5, 2024, 9:09 p.m.",
+  "Reporting": "2.6% (17 of 645) precincts reporting",
+  "ReportingTime": "March 5, 2024, 9:20 p.m.",
   "candidates": [
     {
       "Name": "Mark DeSaulnier",
       "Party": "Dem",
-      "Votes": "58,612",
-      "Percent": "68.5",
+      "Votes": "58,713",
+      "Percent": "68.4",
       "incumbent": true
     },
     {
       "Name": "Nolan Lee Chen",
       "Party": "Rep",
-      "Votes": "8,500",
-      "Percent": "9.9",
+      "Votes": "8,555",
+      "Percent": "10.0",
       "incumbent": false
     },
     {
       "Name": "Katherine Piccinini",
       "Party": "Rep",
-      "Votes": "14,931",
-      "Percent": "17.4",
+      "Votes": "14,988",
+      "Percent": "17.5",
       "incumbent": false
     },
     {
       "Name": "Mohamed Elsherbini",
       "Party": "NPP",
-      "Votes": "628",
+      "Votes": "629",
       "Percent": "0.7",
       "incumbent": false
     },
     {
       "Name": "Joe Sweeney",
       "Party": "NPP",
-      "Votes": "2,903",
+      "Votes": "2,920",
       "Percent": "3.4",
       "incumbent": false
     }

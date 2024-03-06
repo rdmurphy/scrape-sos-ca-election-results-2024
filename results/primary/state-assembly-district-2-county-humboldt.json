@@ -1,112 +1,112 @@
 [
   {
     "raceTitle": "State Assembly District 2 - Humboldt County Results",
-    "Reporting": "0% (0 of 78) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:09 p.m.",
+    "Reporting": "100% (78 of 78) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:14 p.m.",
     "candidates": [
       {
         "Name": "Cynthia A. Click",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "109",
+        "Percent": "0.7",
         "incumbent": false
       },
       {
         "Name": "Rusty Hicks",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "5,109",
+        "Percent": "31.4",
         "incumbent": false
       },
       {
         "Name": "Ariel Kelley",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "1,880",
+        "Percent": "11.5",
         "incumbent": false
       },
       {
         "Name": "Frankie Myers",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "3,081",
+        "Percent": "18.9",
         "incumbent": false
       },
       {
         "Name": "Chris Rogers",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "860",
+        "Percent": "5.3",
         "incumbent": false
       },
       {
         "Name": "Ted Williams",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "465",
+        "Percent": "2.9",
         "incumbent": false
       },
       {
         "Name": "Michael Greer",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "4,785",
+        "Percent": "29.4",
         "incumbent": false
       }
     ]
   },
   {
     "raceTitle": "State Assembly District 2 - Districtwide Results",
-    "Reporting": "66.4% (386 of 581) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:09 p.m.",
+    "Reporting": "79.9% (464 of 581) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:20 p.m.",
     "candidates": [
       {
         "Name": "Cynthia A. Click",
         "Party": "Dem",
-        "Votes": "649",
-        "Percent": "1.5",
+        "Votes": "758",
+        "Percent": "1.3",
         "incumbent": false
       },
       {
         "Name": "Rusty Hicks",
         "Party": "Dem",
-        "Votes": "6,405",
-        "Percent": "14.8",
+        "Votes": "11,514",
+        "Percent": "19.3",
         "incumbent": false
       },
       {
         "Name": "Ariel Kelley",
         "Party": "Dem",
-        "Votes": "7,040",
-        "Percent": "16.3",
+        "Votes": "8,920",
+        "Percent": "15.0",
         "incumbent": false
       },
       {
         "Name": "Frankie Myers",
         "Party": "Dem",
-        "Votes": "2,947",
-        "Percent": "6.8",
+        "Votes": "6,028",
+        "Percent": "10.1",
         "incumbent": false
       },
       {
         "Name": "Chris Rogers",
         "Party": "Dem",
-        "Votes": "11,666",
-        "Percent": "27.0",
+        "Votes": "12,526",
+        "Percent": "21.0",
         "incumbent": false
       },
       {
         "Name": "Ted Williams",
         "Party": "Dem",
-        "Votes": "4,004",
-        "Percent": "9.3",
+        "Votes": "4,469",
+        "Percent": "7.5",
         "incumbent": false
       },
       {
         "Name": "Michael Greer",
         "Party": "Rep",
-        "Votes": "10,532",
-        "Percent": "24.4",
+        "Votes": "15,317",
+        "Percent": "25.7",
         "incumbent": false
       }
     ]

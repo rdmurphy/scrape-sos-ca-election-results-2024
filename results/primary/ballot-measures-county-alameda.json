@@ -1,15 +1,15 @@
 {
   "raceTitle": "Ballot Measures - Alameda Results",
-  "Reporting": "0.0% (0 of 562) precincts reporting",
-  "ReportingTime": "March 5, 2024, 8:18 p.m.",
+  "Reporting": "100.0% (562 of 562) precincts reporting",
+  "ReportingTime": "March 5, 2024, 9:18 p.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "34421",
-      "yesPercent": "63.0",
-      "noVotes": "20180",
-      "noPercent": "37.0"
+      "yesVotes": "38911",
+      "yesPercent": "61.0",
+      "noVotes": "24832",
+      "noPercent": "39.0"
     }
   ]
 }

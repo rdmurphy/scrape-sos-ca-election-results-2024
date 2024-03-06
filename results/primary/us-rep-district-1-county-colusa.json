@@ -2,27 +2,27 @@
   {
     "raceTitle": "U.S. House of Representatives District 1 - Colusa County Results",
     "Reporting": "100% (19 of 19) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:52 p.m.",
+    "ReportingTime": "March 5, 2024, 9:14 p.m.",
     "candidates": [
       {
         "Name": "Mike Doran",
         "Party": "Dem",
-        "Votes": "202",
-        "Percent": "12.0",
+        "Votes": "205",
+        "Percent": "11.5",
         "incumbent": false
       },
       {
         "Name": "Rose Penelope Yee",
         "Party": "Dem",
-        "Votes": "263",
-        "Percent": "15.6",
+        "Votes": "266",
+        "Percent": "14.9",
         "incumbent": false
       },
       {
         "Name": "Doug LaMalfa",
         "Party": "Rep",
-        "Votes": "1,223",
-        "Percent": "72.5",
+        "Votes": "1,309",
+        "Percent": "73.5",
         "incumbent": true
       }
     ]
@@ -30,26 +30,26 @@
   {
     "raceTitle": "U.S. House of Representatives District 1 - Districtwide Results",
     "Reporting": "39.6% (194 of 490) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:09 p.m.",
+    "ReportingTime": "March 5, 2024, 9:20 p.m.",
     "candidates": [
       {
         "Name": "Mike Doran",
         "Party": "Dem",
-        "Votes": "7,772",
+        "Votes": "7,775",
         "Percent": "12.0",
         "incumbent": false
       },
       {
         "Name": "Rose Penelope Yee",
         "Party": "Dem",
-        "Votes": "16,973",
-        "Percent": "26.3",
+        "Votes": "16,976",
+        "Percent": "26.2",
         "incumbent": false
       },
       {
         "Name": "Doug LaMalfa",
         "Party": "Rep",
-        "Votes": "39,868",
+        "Votes": "39,954",
         "Percent": "61.7",
         "incumbent": true
       }

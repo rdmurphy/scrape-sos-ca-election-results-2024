@@ -1,27 +1,27 @@
 [
   {
     "raceTitle": "State Assembly District 8 - Madera County Results",
-    "Reporting": "0% (0 of 12) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:02 p.m.",
+    "Reporting": "100% (12 of 12) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:16 p.m.",
     "candidates": [
       {
         "Name": "Caleb Helsel",
         "Party": "Dem",
-        "Votes": "2,266",
+        "Votes": "2,271",
         "Percent": "29.6",
         "incumbent": false
       },
       {
         "Name": "George Radanovich",
         "Party": "Rep",
-        "Votes": "2,879",
+        "Votes": "2,883",
         "Percent": "37.5",
         "incumbent": false
       },
       {
         "Name": "David J. Tangipa",
         "Party": "Rep",
-        "Votes": "2,386",
+        "Votes": "2,389",
         "Percent": "31.1",
         "incumbent": false
       },
@@ -36,27 +36,27 @@
   },
   {
     "raceTitle": "State Assembly District 8 - Districtwide Results",
-    "Reporting": "30.8% (64 of 208) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:09 p.m.",
+    "Reporting": "36.5% (76 of 208) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:20 p.m.",
     "candidates": [
       {
         "Name": "Caleb Helsel",
         "Party": "Dem",
-        "Votes": "21,238",
+        "Votes": "21,243",
         "Percent": "32.2",
         "incumbent": false
       },
       {
         "Name": "George Radanovich",
         "Party": "Rep",
-        "Votes": "23,310",
+        "Votes": "23,314",
         "Percent": "35.3",
         "incumbent": false
       },
       {
         "Name": "David J. Tangipa",
         "Party": "Rep",
-        "Votes": "19,396",
+        "Votes": "19,399",
         "Percent": "29.4",
         "incumbent": false
       },

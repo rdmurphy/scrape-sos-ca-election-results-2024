@@ -1,20 +1,20 @@
 {
   "raceTitle": "State Assembly District 27 - Districtwide Results",
-  "Reporting": "89.5% (630 of 704) precincts reporting",
-  "ReportingTime": "March 5, 2024, 9:09 p.m.",
+  "Reporting": "92.8% (653 of 704) precincts reporting",
+  "ReportingTime": "March 5, 2024, 9:20 p.m.",
   "candidates": [
     {
       "Name": "Esmeralda Soria",
       "Party": "Dem",
-      "Votes": "13,276",
-      "Percent": "52.0",
+      "Votes": "13,306",
+      "Percent": "51.9",
       "incumbent": true
     },
     {
       "Name": "Joanna Garcia Rose",
       "Party": "Rep",
-      "Votes": "12,244",
-      "Percent": "48.0",
+      "Votes": "12,308",
+      "Percent": "48.1",
       "incumbent": false
     }
   ]
