@@ -1,68 +1,68 @@
 {
   "raceTitle": "President Republican - Statewide Results",
-  "Reporting": "66.9% (13,953 of 20,855) precincts reporting",
-  "ReportingTime": "March 5, 2024, 11:11 p.m.",
+  "Reporting": "66.9% (13,954 of 20,855) precincts reporting",
+  "ReportingTime": "March 5, 2024, 11:20 p.m.",
   "candidates": [
     {
       "Name": "Ryan L Binkley",
       "Party": "Rep",
-      "Votes": "2,111",
+      "Votes": "2,118",
       "Percent": "0.2",
       "incumbent": false
     },
     {
       "Name": "Chris Christie",
       "Party": "Rep",
-      "Votes": "11,893",
+      "Votes": "11,935",
       "Percent": "1.0",
       "incumbent": false
     },
     {
       "Name": "Ron DeSantis",
       "Party": "Rep",
-      "Votes": "18,303",
+      "Votes": "18,376",
       "Percent": "1.6",
       "incumbent": false
     },
     {
       "Name": "Nikki Haley",
       "Party": "Rep",
-      "Votes": "225,946",
+      "Votes": "226,566",
       "Percent": "19.8",
       "incumbent": false
     },
     {
       "Name": "Asa Hutchinson",
       "Party": "Rep",
-      "Votes": "1,884",
+      "Votes": "1,891",
       "Percent": "0.2",
       "incumbent": false
     },
     {
       "Name": "Vivek Ramaswamy",
       "Party": "Rep",
-      "Votes": "4,911",
+      "Votes": "4,943",
       "Percent": "0.4",
       "incumbent": false
     },
     {
       "Name": "David Stuckenberg",
       "Party": "Rep",
-      "Votes": "2,046",
+      "Votes": "2,062",
       "Percent": "0.2",
       "incumbent": false
     },
     {
       "Name": "Rachel Swift",
       "Party": "Rep",
-      "Votes": "2,290",
+      "Votes": "2,307",
       "Percent": "0.2",
       "incumbent": false
     },
     {
       "Name": "Donald J. Trump",
       "Party": "Rep",
-      "Votes": "871,042",
+      "Votes": "876,438",
       "Percent": "76.4",
       "incumbent": false
     }

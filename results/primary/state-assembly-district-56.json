@@ -1,27 +1,27 @@
 {
   "raceTitle": "State Assembly District 56 - Districtwide Results",
   "Reporting": "100% (135 of 135) precincts reporting",
-  "ReportingTime": "March 5, 2024, 11:11 p.m.",
+  "ReportingTime": "March 5, 2024, 11:20 p.m.",
   "candidates": [
     {
       "Name": "Lisa Calderon",
       "Party": "Dem",
-      "Votes": "16,183",
-      "Percent": "58.1",
+      "Votes": "16,492",
+      "Percent": "57.8",
       "incumbent": true
     },
     {
       "Name": "Jessica Martinez",
       "Party": "Rep",
-      "Votes": "8,426",
-      "Percent": "30.2",
+      "Votes": "8,649",
+      "Percent": "30.3",
       "incumbent": false
     },
     {
       "Name": "Natasha Serrano",
       "Party": "Rep",
-      "Votes": "3,263",
-      "Percent": "11.7",
+      "Votes": "3,384",
+      "Percent": "11.9",
       "incumbent": false
     }
   ]

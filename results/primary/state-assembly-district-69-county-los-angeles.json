@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 69 - Los Angeles County Results",
     "Reporting": "100% (119 of 119) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:56 p.m.",
+    "ReportingTime": "March 5, 2024, 11:16 p.m.",
     "candidates": [
       {
         "Name": "Josh Lowenthal",
         "Party": "Dem",
-        "Votes": "22,854",
-        "Percent": "68.7",
+        "Votes": "23,756",
+        "Percent": "68.3",
         "incumbent": true
       },
       {
         "Name": "Joshua Rodriguez",
         "Party": "Rep",
-        "Votes": "10,414",
-        "Percent": "31.3",
+        "Votes": "11,036",
+        "Percent": "31.7",
         "incumbent": false
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "State Assembly District 69 - Districtwide Results",
     "Reporting": "100% (119 of 119) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:11 p.m.",
+    "ReportingTime": "March 5, 2024, 11:20 p.m.",
     "candidates": [
       {
         "Name": "Josh Lowenthal",
         "Party": "Dem",
-        "Votes": "22,854",
-        "Percent": "68.7",
+        "Votes": "23,756",
+        "Percent": "68.3",
         "incumbent": true
       },
       {
         "Name": "Joshua Rodriguez",
         "Party": "Rep",
-        "Votes": "10,414",
-        "Percent": "31.3",
+        "Votes": "11,036",
+        "Percent": "31.7",
         "incumbent": false
       }
     ]

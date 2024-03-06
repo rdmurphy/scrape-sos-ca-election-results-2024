@@ -44,12 +44,12 @@
   {
     "raceTitle": "State Senate District 23 - Districtwide Results",
     "Reporting": "41.2% (214 of 520) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:11 p.m.",
+    "ReportingTime": "March 5, 2024, 11:20 p.m.",
     "candidates": [
       {
         "Name": "Blanca Azucena Gomez",
         "Party": "Dem",
-        "Votes": "7,145",
+        "Votes": "7,151",
         "Percent": "10.8",
         "incumbent": false
       },
@@ -63,21 +63,21 @@
       {
         "Name": "Kipp Mueller",
         "Party": "Dem",
-        "Votes": "20,263",
+        "Votes": "20,269",
         "Percent": "30.5",
         "incumbent": false
       },
       {
         "Name": "James \"DJ\" Hamburger",
         "Party": "Rep",
-        "Votes": "14,963",
+        "Votes": "14,972",
         "Percent": "22.5",
         "incumbent": false
       },
       {
         "Name": "Suzette Martinez Valladares",
         "Party": "Rep",
-        "Votes": "20,597",
+        "Votes": "20,603",
         "Percent": "31.0",
         "incumbent": false
       }
