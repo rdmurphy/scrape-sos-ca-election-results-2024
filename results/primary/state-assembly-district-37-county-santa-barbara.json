@@ -2,7 +2,7 @@
   {
     "raceTitle": "State Assembly District 37 - Santa Barbara County Results",
     "Reporting": "0% (0 of 194) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:04 p.m.",
+    "ReportingTime": "March 5, 2024, 8:10 p.m.",
     "candidates": [
       {
         "Name": "Gregg Hart",
@@ -23,20 +23,20 @@
   {
     "raceTitle": "State Assembly District 37 - Districtwide Results",
     "Reporting": "0% (0 of 207) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:04 p.m.",
+    "ReportingTime": "March 5, 2024, 8:10 p.m.",
     "candidates": [
       {
         "Name": "Gregg Hart",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "2,491",
+        "Percent": "53.9",
         "incumbent": true
       },
       {
         "Name": "Sari M. Domingues",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "2,134",
+        "Percent": "46.1",
         "incumbent": false
       }
     ]

@@ -2,7 +2,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 4 - Solano County Results",
     "Reporting": "0% (0 of 66) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:04 p.m.",
+    "ReportingTime": "March 5, 2024, 8:10 p.m.",
     "candidates": [
       {
         "Name": "Andrew David Engdahl",
@@ -36,35 +36,35 @@
   },
   {
     "raceTitle": "U.S. House of Representatives District 4 - Districtwide Results",
-    "Reporting": "0% (0 of 570) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:04 p.m.",
+    "Reporting": "35.1% (200 of 570) precincts reporting",
+    "ReportingTime": "March 5, 2024, 8:10 p.m.",
     "candidates": [
       {
         "Name": "Andrew David Engdahl",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "492",
+        "Percent": "3.5",
         "incumbent": false
       },
       {
         "Name": "Mike Thompson",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "9,708",
+        "Percent": "69.4",
         "incumbent": true
       },
       {
         "Name": "John Munn",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "3,728",
+        "Percent": "26.6",
         "incumbent": false
       },
       {
         "Name": "Niket Patwardhan",
         "Party": "NPP",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "70",
+        "Percent": "0.5",
         "incumbent": false
       }
     ]

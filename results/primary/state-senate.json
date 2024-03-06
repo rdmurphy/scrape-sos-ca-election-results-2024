@@ -2,62 +2,62 @@
   {
     "raceTitle": "State Senate District 1 - Districtwide Results",
     "Reporting": "0% (0 of 674) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:04 p.m.",
+    "ReportingTime": "March 5, 2024, 8:10 p.m.",
     "candidates": [
       {
         "Name": "Megan Dahle",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "5,534",
+        "Percent": "76.0",
         "incumbent": false
       },
       {
         "Name": "David Fennell",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "1,746",
+        "Percent": "24.0",
         "incumbent": false
       }
     ]
   },
   {
     "raceTitle": "State Senate District 3 - Districtwide Results",
-    "Reporting": "0% (0 of 693) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:04 p.m.",
+    "Reporting": "28.9% (200 of 693) precincts reporting",
+    "ReportingTime": "March 5, 2024, 8:10 p.m.",
     "candidates": [
       {
         "Name": "Christopher Cabaldon",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "3,296",
+        "Percent": "25.4",
         "incumbent": false
       },
       {
         "Name": "Jackie Elward",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "1,774",
+        "Percent": "13.7",
         "incumbent": false
       },
       {
         "Name": "Rozzana Verder-Aliga",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "3,726",
+        "Percent": "28.7",
         "incumbent": false
       },
       {
         "Name": "Thom Bogue",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "3,566",
+        "Percent": "27.5",
         "incumbent": false
       },
       {
         "Name": "Jimih Jones",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "609",
+        "Percent": "4.7",
         "incumbent": false
       }
     ]
@@ -65,7 +65,7 @@
   {
     "raceTitle": "State Senate District 5 - Districtwide Results",
     "Reporting": "0% (0 of 330) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:04 p.m.",
+    "ReportingTime": "March 5, 2024, 8:10 p.m.",
     "candidates": [
       {
         "Name": "Jerry McNerney",
@@ -93,7 +93,7 @@
   {
     "raceTitle": "State Senate District 7 - Districtwide Results",
     "Reporting": "0% (0 of 313) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:04 p.m.",
+    "ReportingTime": "March 5, 2024, 8:10 p.m.",
     "candidates": [
       {
         "Name": "Jesse Arreguín",
@@ -142,7 +142,7 @@
   {
     "raceTitle": "State Senate District 9 - Districtwide Results",
     "Reporting": "0% (0 of 686) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:04 p.m.",
+    "ReportingTime": "March 5, 2024, 8:10 p.m.",
     "candidates": [
       {
         "Name": "Tim Grayson",
@@ -163,7 +163,7 @@
   {
     "raceTitle": "State Senate District 11 - Districtwide Results",
     "Reporting": "0% (0 of 549) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:04 p.m.",
+    "ReportingTime": "March 5, 2024, 8:10 p.m.",
     "candidates": [
       {
         "Name": "Cynthia Cravens",
@@ -198,7 +198,7 @@
   {
     "raceTitle": "State Senate District 13 - Districtwide Results",
     "Reporting": "0% (0 of 357) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:04 p.m.",
+    "ReportingTime": "March 5, 2024, 8:10 p.m.",
     "candidates": [
       {
         "Name": "Josh Becker",
@@ -226,7 +226,7 @@
   {
     "raceTitle": "State Senate District 15 - Districtwide Results",
     "Reporting": "0% (0 of 337) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:04 p.m.",
+    "ReportingTime": "March 5, 2024, 8:10 p.m.",
     "candidates": [
       {
         "Name": "Dave Cortese",
@@ -254,34 +254,34 @@
   {
     "raceTitle": "State Senate District 17 - Districtwide Results",
     "Reporting": "0% (0 of 445) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:04 p.m.",
+    "ReportingTime": "March 5, 2024, 8:10 p.m.",
     "candidates": [
       {
         "Name": "John Laird",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "19,991",
+        "Percent": "58.7",
         "incumbent": true
       },
       {
         "Name": "Eric Tao",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "5,100",
+        "Percent": "15.0",
         "incumbent": false
       },
       {
         "Name": "Tony Virrueta",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "8,362",
+        "Percent": "24.6",
         "incumbent": false
       },
       {
         "Name": "Michael Oxford",
         "Party": "Lib",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "579",
+        "Percent": "1.7",
         "incumbent": false
       }
     ]
@@ -289,7 +289,7 @@
   {
     "raceTitle": "State Senate District 19 - Districtwide Results",
     "Reporting": "0% (0 of 1,544) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:04 p.m.",
+    "ReportingTime": "March 5, 2024, 8:10 p.m.",
     "candidates": [
       {
         "Name": "Lisa Middleton",
@@ -310,20 +310,20 @@
   {
     "raceTitle": "State Senate District 21 - Districtwide Results",
     "Reporting": "0% (0 of 1,239) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:04 p.m.",
+    "ReportingTime": "March 5, 2024, 8:10 p.m.",
     "candidates": [
       {
         "Name": "S. Monique Limón",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "4,472",
+        "Percent": "55.7",
         "incumbent": true
       },
       {
         "Name": "Elijah Mack",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "3,556",
+        "Percent": "44.3",
         "incumbent": false
       }
     ]
@@ -331,7 +331,7 @@
   {
     "raceTitle": "State Senate District 23 - Districtwide Results",
     "Reporting": "0% (0 of 520) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:04 p.m.",
+    "ReportingTime": "March 5, 2024, 8:10 p.m.",
     "candidates": [
       {
         "Name": "Blanca Azucena Gomez",
@@ -373,7 +373,7 @@
   {
     "raceTitle": "State Senate District 25 - Districtwide Results",
     "Reporting": "0% (0 of 337) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:04 p.m.",
+    "ReportingTime": "March 5, 2024, 8:10 p.m.",
     "candidates": [
       {
         "Name": "Teddy Choi",
@@ -415,7 +415,7 @@
   {
     "raceTitle": "State Senate District 27 - Districtwide Results",
     "Reporting": "0% (0 of 531) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:04 p.m.",
+    "ReportingTime": "March 5, 2024, 8:10 p.m.",
     "candidates": [
       {
         "Name": "Susan A. Collins",
@@ -443,7 +443,7 @@
   {
     "raceTitle": "State Senate District 29 - Districtwide Results",
     "Reporting": "0% (0 of 825) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:04 p.m.",
+    "ReportingTime": "March 5, 2024, 8:10 p.m.",
     "candidates": [
       {
         "Name": "Jason O'Brien",
@@ -478,7 +478,7 @@
   {
     "raceTitle": "State Senate District 31 - Districtwide Results",
     "Reporting": "0% (0 of 249) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:04 p.m.",
+    "ReportingTime": "March 5, 2024, 8:10 p.m.",
     "candidates": [
       {
         "Name": "Sabrina Cervantes",
@@ -506,7 +506,7 @@
   {
     "raceTitle": "State Senate District 33 - Districtwide Results",
     "Reporting": "0% (0 of 242) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:04 p.m.",
+    "ReportingTime": "March 5, 2024, 8:10 p.m.",
     "candidates": [
       {
         "Name": "Lena A. Gonzalez",
@@ -534,7 +534,7 @@
   {
     "raceTitle": "State Senate District 35 - Districtwide Results",
     "Reporting": "0% (0 of 240) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:04 p.m.",
+    "ReportingTime": "March 5, 2024, 8:10 p.m.",
     "candidates": [
       {
         "Name": "Michelle Chambers",
@@ -597,7 +597,7 @@
   {
     "raceTitle": "State Senate District 37 - Districtwide Results",
     "Reporting": "0% (0 of 872) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:04 p.m.",
+    "ReportingTime": "March 5, 2024, 8:10 p.m.",
     "candidates": [
       {
         "Name": "Gabrielle Ashbaugh",
@@ -681,7 +681,7 @@
   {
     "raceTitle": "State Senate District 39 - Districtwide Results",
     "Reporting": "0% (0 of 587) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:04 p.m.",
+    "ReportingTime": "March 5, 2024, 8:10 p.m.",
     "candidates": [
       {
         "Name": "Akilah Weber",

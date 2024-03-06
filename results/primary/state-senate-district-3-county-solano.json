@@ -2,7 +2,7 @@
   {
     "raceTitle": "State Senate District 3 - Solano County Results",
     "Reporting": "0% (0 of 181) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:04 p.m.",
+    "ReportingTime": "March 5, 2024, 8:10 p.m.",
     "candidates": [
       {
         "Name": "Christopher Cabaldon",
@@ -43,42 +43,42 @@
   },
   {
     "raceTitle": "State Senate District 3 - Districtwide Results",
-    "Reporting": "0% (0 of 693) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:04 p.m.",
+    "Reporting": "28.9% (200 of 693) precincts reporting",
+    "ReportingTime": "March 5, 2024, 8:10 p.m.",
     "candidates": [
       {
         "Name": "Christopher Cabaldon",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "3,296",
+        "Percent": "25.4",
         "incumbent": false
       },
       {
         "Name": "Jackie Elward",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "1,774",
+        "Percent": "13.7",
         "incumbent": false
       },
       {
         "Name": "Rozzana Verder-Aliga",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "3,726",
+        "Percent": "28.7",
         "incumbent": false
       },
       {
         "Name": "Thom Bogue",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "3,566",
+        "Percent": "27.5",
         "incumbent": false
       },
       {
         "Name": "Jimih Jones",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "609",
+        "Percent": "4.7",
         "incumbent": false
       }
     ]

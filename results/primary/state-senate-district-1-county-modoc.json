@@ -2,7 +2,7 @@
   {
     "raceTitle": "State Senate District 1 - Modoc County Results",
     "Reporting": "0% (0 of 21) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:04 p.m.",
+    "ReportingTime": "March 5, 2024, 8:10 p.m.",
     "candidates": [
       {
         "Name": "Megan Dahle",
@@ -23,20 +23,20 @@
   {
     "raceTitle": "State Senate District 1 - Districtwide Results",
     "Reporting": "0% (0 of 674) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:04 p.m.",
+    "ReportingTime": "March 5, 2024, 8:10 p.m.",
     "candidates": [
       {
         "Name": "Megan Dahle",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "5,534",
+        "Percent": "76.0",
         "incumbent": false
       },
       {
         "Name": "David Fennell",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "1,746",
+        "Percent": "24.0",
         "incumbent": false
       }
     ]

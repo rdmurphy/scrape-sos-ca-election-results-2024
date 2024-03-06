@@ -1,34 +1,34 @@
 {
   "raceTitle": "U.S. House of Representatives District 22 - Districtwide Results",
-  "Reporting": "0% (0 of 414) precincts reporting",
-  "ReportingTime": "March 5, 2024, 8:04 p.m.",
+  "Reporting": "2.2% (9 of 414) precincts reporting",
+  "ReportingTime": "March 5, 2024, 8:10 p.m.",
   "candidates": [
     {
       "Name": "Melissa Hurtado",
       "Party": "Dem",
-      "Votes": "0",
-      "Percent": "0.0",
+      "Votes": "608",
+      "Percent": "12.7",
       "incumbent": false
     },
     {
       "Name": "Rudy Salas",
       "Party": "Dem",
-      "Votes": "0",
-      "Percent": "0.0",
+      "Votes": "1,243",
+      "Percent": "25.9",
       "incumbent": false
     },
     {
       "Name": "Chris Mathys",
       "Party": "Rep",
-      "Votes": "0",
-      "Percent": "0.0",
+      "Votes": "1,149",
+      "Percent": "23.9",
       "incumbent": false
     },
     {
       "Name": "David G. Valadao",
       "Party": "Rep",
-      "Votes": "0",
-      "Percent": "0.0",
+      "Votes": "1,804",
+      "Percent": "37.6",
       "incumbent": true
     }
   ]

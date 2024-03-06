@@ -2,7 +2,7 @@
   {
     "raceTitle": "State Assembly District 4 - Lake County Results",
     "Reporting": "0% (0 of 48) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:04 p.m.",
+    "ReportingTime": "March 5, 2024, 8:10 p.m.",
     "candidates": [
       {
         "Name": "Cecilia M. Aguiar-Curry",
@@ -15,14 +15,14 @@
   },
   {
     "raceTitle": "State Assembly District 4 - Districtwide Results",
-    "Reporting": "0% (0 of 332) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:04 p.m.",
+    "Reporting": "60.2% (200 of 332) precincts reporting",
+    "ReportingTime": "March 5, 2024, 8:10 p.m.",
     "candidates": [
       {
         "Name": "Cecilia M. Aguiar-Curry",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "9,361",
+        "Percent": "100.0",
         "incumbent": true
       }
     ]

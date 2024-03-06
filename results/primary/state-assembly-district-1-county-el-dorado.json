@@ -2,7 +2,7 @@
   {
     "raceTitle": "State Assembly District 1 - El Dorado County Results",
     "Reporting": "0% (0 of 24) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:04 p.m.",
+    "ReportingTime": "March 5, 2024, 8:10 p.m.",
     "candidates": [
       {
         "Name": "Tenessa Audette",
@@ -37,34 +37,34 @@
   {
     "raceTitle": "State Assembly District 1 - Districtwide Results",
     "Reporting": "0% (0 of 435) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:04 p.m.",
+    "ReportingTime": "March 5, 2024, 8:10 p.m.",
     "candidates": [
       {
         "Name": "Tenessa Audette",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "2,595",
+        "Percent": "32.9",
         "incumbent": false
       },
       {
         "Name": "Heather Hadwick",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "3,158",
+        "Percent": "40.0",
         "incumbent": false
       },
       {
         "Name": "Melissa Hunt",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "551",
+        "Percent": "7.0",
         "incumbent": false
       },
       {
         "Name": "Mark Mezzano",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "1,584",
+        "Percent": "20.1",
         "incumbent": false
       }
     ]

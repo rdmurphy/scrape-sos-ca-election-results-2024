@@ -1,15 +1,15 @@
 {
   "raceTitle": "Ballot Measures - Placer Results",
   "Reporting": "0.0% (0 of 170) precincts reporting",
-  "ReportingTime": "March 5, 2024, 8:04 p.m.",
+  "ReportingTime": "March 5, 2024, 8:02 p.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "0",
-      "yesPercent": "0.0",
-      "noVotes": "0",
-      "noPercent": "0.0"
+      "yesVotes": "20469",
+      "yesPercent": "43.6",
+      "noVotes": "26516",
+      "noPercent": "56.4"
     }
   ]
 }
