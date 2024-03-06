@@ -2,7 +2,7 @@
   {
     "raceTitle": "State Assembly District 12 - San Francisco County Results",
     "Reporting": "0% (0 of 1) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:10 p.m.",
+    "ReportingTime": "March 5, 2024, 8:21 p.m.",
     "candidates": [
       {
         "Name": "Damon Connolly",
@@ -29,28 +29,28 @@
   },
   {
     "raceTitle": "State Assembly District 12 - Districtwide Results",
-    "Reporting": "0% (0 of 247) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:10 p.m.",
+    "Reporting": "20.6% (51 of 247) precincts reporting",
+    "ReportingTime": "March 5, 2024, 8:21 p.m.",
     "candidates": [
       {
         "Name": "Damon Connolly",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "24,230",
+        "Percent": "80.9",
         "incumbent": true
       },
       {
         "Name": "Eryn Cervantes",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "2,244",
+        "Percent": "7.5",
         "incumbent": false
       },
       {
         "Name": "Andy Podshadley",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "3,466",
+        "Percent": "11.6",
         "incumbent": false
       }
     ]

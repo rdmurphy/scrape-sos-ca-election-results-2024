@@ -1,20 +1,20 @@
 {
   "raceTitle": "State Assembly District 30 - Districtwide Results",
-  "Reporting": "0% (0 of 218) precincts reporting",
-  "ReportingTime": "March 5, 2024, 8:10 p.m.",
+  "Reporting": "39% (85 of 218) precincts reporting",
+  "ReportingTime": "March 5, 2024, 8:21 p.m.",
   "candidates": [
     {
       "Name": "Dawn Addis",
       "Party": "Dem",
-      "Votes": "22,760",
-      "Percent": "59.9",
+      "Votes": "35,556",
+      "Percent": "63.6",
       "incumbent": true
     },
     {
       "Name": "Dalila Epperson",
       "Party": "Rep",
-      "Votes": "15,243",
-      "Percent": "40.1",
+      "Votes": "20,351",
+      "Percent": "36.4",
       "incumbent": false
     }
   ]

@@ -2,7 +2,7 @@
   {
     "raceTitle": "State Assembly District 33 - Tulare County Results",
     "Reporting": "0% (0 of 72) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:10 p.m.",
+    "ReportingTime": "March 5, 2024, 8:21 p.m.",
     "candidates": [
       {
         "Name": "Hipolito A. Cerros",
@@ -44,41 +44,41 @@
   {
     "raceTitle": "State Assembly District 33 - Districtwide Results",
     "Reporting": "15.1% (16 of 106) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:10 p.m.",
+    "ReportingTime": "March 5, 2024, 8:21 p.m.",
     "candidates": [
       {
         "Name": "Hipolito A. Cerros",
         "Party": "Dem",
-        "Votes": "426",
-        "Percent": "4.2",
+        "Votes": "509",
+        "Percent": "4.0",
         "incumbent": false
       },
       {
         "Name": "Ruben Macareno",
         "Party": "Dem",
-        "Votes": "1,559",
-        "Percent": "15.3",
+        "Votes": "1,895",
+        "Percent": "15.0",
         "incumbent": false
       },
       {
         "Name": "Angel Ruiz",
         "Party": "Dem",
-        "Votes": "1,259",
-        "Percent": "12.3",
+        "Votes": "1,707",
+        "Percent": "13.5",
         "incumbent": false
       },
       {
         "Name": "Xavier Avila",
         "Party": "Rep",
-        "Votes": "2,816",
-        "Percent": "27.6",
+        "Votes": "3,315",
+        "Percent": "26.2",
         "incumbent": false
       },
       {
         "Name": "Alexandra Macedo",
         "Party": "Rep",
-        "Votes": "4,148",
-        "Percent": "40.6",
+        "Votes": "5,208",
+        "Percent": "41.2",
         "incumbent": false
       }
     ]

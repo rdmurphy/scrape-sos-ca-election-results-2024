@@ -1,56 +1,56 @@
 [
   {
     "raceTitle": "State Assembly District 7 - Sacramento County Results",
-    "Reporting": "0% (0 of 196) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:10 p.m.",
+    "Reporting": "98.5% (193 of 196) precincts reporting",
+    "ReportingTime": "March 5, 2024, 8:12 p.m.",
     "candidates": [
       {
         "Name": "YK Chalamcherla",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "6,738",
+        "Percent": "18.6",
         "incumbent": false
       },
       {
         "Name": "Porsche Middleton",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "11,521",
+        "Percent": "31.8",
         "incumbent": false
       },
       {
         "Name": "Josh Hoover",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "17,995",
+        "Percent": "49.6",
         "incumbent": true
       }
     ]
   },
   {
     "raceTitle": "State Assembly District 7 - Districtwide Results",
-    "Reporting": "0% (0 of 196) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:10 p.m.",
+    "Reporting": "98.5% (193 of 196) precincts reporting",
+    "ReportingTime": "March 5, 2024, 8:21 p.m.",
     "candidates": [
       {
         "Name": "YK Chalamcherla",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "6,738",
+        "Percent": "18.6",
         "incumbent": false
       },
       {
         "Name": "Porsche Middleton",
         "Party": "Dem",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "11,521",
+        "Percent": "31.8",
         "incumbent": false
       },
       {
         "Name": "Josh Hoover",
         "Party": "Rep",
-        "Votes": "0",
-        "Percent": "0.0",
+        "Votes": "17,995",
+        "Percent": "49.6",
         "incumbent": true
       }
     ]

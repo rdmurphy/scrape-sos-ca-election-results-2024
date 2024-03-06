@@ -22,21 +22,21 @@
   },
   {
     "raceTitle": "State Assembly District 9 - Districtwide Results",
-    "Reporting": "0% (0 of 186) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:10 p.m.",
+    "Reporting": "22% (41 of 186) precincts reporting",
+    "ReportingTime": "March 5, 2024, 8:21 p.m.",
     "candidates": [
       {
         "Name": "Heath Flora",
         "Party": "Rep",
-        "Votes": "1,440",
-        "Percent": "74.8",
+        "Votes": "6,148",
+        "Percent": "72.2",
         "incumbent": true
       },
       {
         "Name": "Tami Nobriga",
         "Party": "AI",
-        "Votes": "484",
-        "Percent": "25.2",
+        "Votes": "2,367",
+        "Percent": "27.8",
         "incumbent": false
       }
     ]

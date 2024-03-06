@@ -2,7 +2,7 @@
   {
     "raceTitle": "State Assembly District 1 - Siskiyou County Results",
     "Reporting": "0% (0 of 56) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:10 p.m.",
+    "ReportingTime": "March 5, 2024, 8:21 p.m.",
     "candidates": [
       {
         "Name": "Tenessa Audette",
@@ -36,35 +36,35 @@
   },
   {
     "raceTitle": "State Assembly District 1 - Districtwide Results",
-    "Reporting": "0% (0 of 435) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:10 p.m.",
+    "Reporting": "20.2% (88 of 435) precincts reporting",
+    "ReportingTime": "March 5, 2024, 8:21 p.m.",
     "candidates": [
       {
         "Name": "Tenessa Audette",
         "Party": "Rep",
-        "Votes": "2,595",
-        "Percent": "32.9",
+        "Votes": "5,061",
+        "Percent": "27.9",
         "incumbent": false
       },
       {
         "Name": "Heather Hadwick",
         "Party": "Rep",
-        "Votes": "3,158",
-        "Percent": "40.0",
+        "Votes": "7,934",
+        "Percent": "43.8",
         "incumbent": false
       },
       {
         "Name": "Melissa Hunt",
         "Party": "Rep",
-        "Votes": "551",
-        "Percent": "7.0",
+        "Votes": "1,447",
+        "Percent": "8.0",
         "incumbent": false
       },
       {
         "Name": "Mark Mezzano",
         "Party": "Rep",
-        "Votes": "1,584",
-        "Percent": "20.1",
+        "Votes": "3,675",
+        "Percent": "20.3",
         "incumbent": false
       }
     ]

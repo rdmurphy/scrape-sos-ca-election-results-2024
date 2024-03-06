@@ -1,15 +1,15 @@
 {
   "raceTitle": "Ballot Measures - Solano Results",
   "Reporting": "0.0% (0 of 181) precincts reporting",
-  "ReportingTime": "March 5, 2024, 8:10 p.m.",
+  "ReportingTime": "March 5, 2024, 8:14 p.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "0",
-      "yesPercent": "0.0",
-      "noVotes": "0",
-      "noPercent": "0.0"
+      "yesVotes": "24228",
+      "yesPercent": "53.5",
+      "noVotes": "21022",
+      "noPercent": "46.5"
     }
   ]
 }
