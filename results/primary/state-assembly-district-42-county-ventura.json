@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 42 - Ventura County Results",
     "Reporting": "76.9% (396 of 515) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:57 p.m.",
+    "ReportingTime": "March 5, 2024, 10:39 p.m.",
     "candidates": [
       {
         "Name": "Jacqui Irwin",
         "Party": "Dem",
-        "Votes": "27,410",
-        "Percent": "55.7",
+        "Votes": "27,821",
+        "Percent": "55.5",
         "incumbent": true
       },
       {
         "Name": "Ted Nordblum",
         "Party": "Rep",
-        "Votes": "21,764",
-        "Percent": "44.3",
+        "Votes": "22,325",
+        "Percent": "44.5",
         "incumbent": false
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "State Assembly District 42 - Districtwide Results",
     "Reporting": "78.9% (445 of 564) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:36 p.m.",
+    "ReportingTime": "March 5, 2024, 10:45 p.m.",
     "candidates": [
       {
         "Name": "Jacqui Irwin",
         "Party": "Dem",
-        "Votes": "40,483",
-        "Percent": "58.2",
+        "Votes": "40,894",
+        "Percent": "58.0",
         "incumbent": true
       },
       {
         "Name": "Ted Nordblum",
         "Party": "Rep",
-        "Votes": "29,056",
-        "Percent": "41.8",
+        "Votes": "29,620",
+        "Percent": "42.0",
         "incumbent": false
       }
     ]

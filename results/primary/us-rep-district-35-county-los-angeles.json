@@ -2,7 +2,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 35 - Los Angeles County Results",
     "Reporting": "100% (28 of 28) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:24 p.m.",
+    "ReportingTime": "March 5, 2024, 10:38 p.m.",
     "candidates": [
       {
         "Name": "Melissa May",
@@ -15,20 +15,20 @@
         "Name": "Norma J. Torres",
         "Party": "Dem",
         "Votes": "3,221",
-        "Percent": "58.3",
+        "Percent": "58.2",
         "incumbent": true
       },
       {
         "Name": "Mike Cargile",
         "Party": "Rep",
-        "Votes": "1,393",
-        "Percent": "25.2",
+        "Votes": "1,398",
+        "Percent": "25.3",
         "incumbent": false
       },
       {
         "Name": "Vijal Suthar",
         "Party": "Rep",
-        "Votes": "266",
+        "Votes": "267",
         "Percent": "4.8",
         "incumbent": false
       }
@@ -37,7 +37,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 35 - Districtwide Results",
     "Reporting": "12.8% (55 of 431) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:36 p.m.",
+    "ReportingTime": "March 5, 2024, 10:45 p.m.",
     "candidates": [
       {
         "Name": "Melissa May",
@@ -56,14 +56,14 @@
       {
         "Name": "Mike Cargile",
         "Party": "Rep",
-        "Votes": "9,768",
+        "Votes": "9,773",
         "Percent": "34.7",
         "incumbent": false
       },
       {
         "Name": "Vijal Suthar",
         "Party": "Rep",
-        "Votes": "1,209",
+        "Votes": "1,210",
         "Percent": "4.3",
         "incumbent": false
       }

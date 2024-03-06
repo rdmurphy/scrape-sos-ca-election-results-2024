@@ -1,15 +1,15 @@
 {
   "raceTitle": "Ballot Measures - Mendocino Results",
-  "Reporting": "62.7% (151 of 241) precincts reporting",
-  "ReportingTime": "March 5, 2024, 8:30 p.m.",
+  "Reporting": "100.0% (241 of 241) precincts reporting",
+  "ReportingTime": "March 5, 2024, 10:45 p.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "3983",
-      "yesPercent": "57.7",
-      "noVotes": "2914",
-      "noPercent": "42.3"
+      "yesVotes": "4081",
+      "yesPercent": "57.3",
+      "noVotes": "3035",
+      "noPercent": "42.7"
     }
   ]
 }

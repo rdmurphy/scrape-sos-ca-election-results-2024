@@ -1,15 +1,15 @@
 {
   "raceTitle": "Ballot Measures - Tulare Results",
   "Reporting": "87.5% (105 of 120) precincts reporting",
-  "ReportingTime": "March 5, 2024, 8:51 p.m.",
+  "ReportingTime": "March 5, 2024, 10:41 p.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "7103",
-      "yesPercent": "40.3",
-      "noVotes": "10539",
-      "noPercent": "59.7"
+      "yesVotes": "8058",
+      "yesPercent": "40.0",
+      "noVotes": "12082",
+      "noPercent": "60.0"
     }
   ]
 }

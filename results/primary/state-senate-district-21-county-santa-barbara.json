@@ -1,42 +1,42 @@
 [
   {
     "raceTitle": "State Senate District 21 - Santa Barbara County Results",
-    "Reporting": "35.6% (69 of 194) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:58 p.m.",
+    "Reporting": "50% (97 of 194) precincts reporting",
+    "ReportingTime": "March 5, 2024, 10:42 p.m.",
     "candidates": [
       {
         "Name": "S. Monique Limón",
         "Party": "Dem",
-        "Votes": "31,291",
-        "Percent": "66.0",
+        "Votes": "32,334",
+        "Percent": "65.9",
         "incumbent": true
       },
       {
         "Name": "Elijah Mack",
         "Party": "Rep",
-        "Votes": "16,085",
-        "Percent": "34.0",
+        "Votes": "16,731",
+        "Percent": "34.1",
         "incumbent": false
       }
     ]
   },
   {
     "raceTitle": "State Senate District 21 - Districtwide Results",
-    "Reporting": "60.6% (751 of 1,239) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:36 p.m.",
+    "Reporting": "63% (780 of 1,239) precincts reporting",
+    "ReportingTime": "March 5, 2024, 10:45 p.m.",
     "candidates": [
       {
         "Name": "S. Monique Limón",
         "Party": "Dem",
-        "Votes": "66,245",
-        "Percent": "65.2",
+        "Votes": "68,286",
+        "Percent": "65.0",
         "incumbent": true
       },
       {
         "Name": "Elijah Mack",
         "Party": "Rep",
-        "Votes": "35,413",
-        "Percent": "34.8",
+        "Votes": "36,831",
+        "Percent": "35.0",
         "incumbent": false
       }
     ]

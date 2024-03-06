@@ -1,15 +1,15 @@
 {
   "raceTitle": "Ballot Measures - Marin Results",
-  "Reporting": "87.3% (55 of 63) precincts reporting",
-  "ReportingTime": "March 5, 2024, 9:34 p.m.",
+  "Reporting": "100.0% (63 of 63) precincts reporting",
+  "ReportingTime": "March 5, 2024, 10:44 p.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "20058",
-      "yesPercent": "63.9",
-      "noVotes": "11340",
-      "noPercent": "36.1"
+      "yesVotes": "22346",
+      "yesPercent": "63.0",
+      "noVotes": "13107",
+      "noPercent": "37.0"
     }
   ]
 }

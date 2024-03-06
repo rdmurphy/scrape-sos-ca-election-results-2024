@@ -1,33 +1,33 @@
 {
   "raceTitle": "U.S. House of Representatives District 42 - Districtwide Results",
   "Reporting": "100% (172 of 172) precincts reporting",
-  "ReportingTime": "March 5, 2024, 10:36 p.m.",
+  "ReportingTime": "March 5, 2024, 10:45 p.m.",
   "candidates": [
     {
       "Name": "Joaquín Beltrán",
       "Party": "Dem",
-      "Votes": "2,266",
-      "Percent": "5.9",
+      "Votes": "2,327",
+      "Percent": "6.0",
       "incumbent": false
     },
     {
       "Name": "Robert Garcia",
       "Party": "Dem",
-      "Votes": "21,389",
-      "Percent": "55.6",
+      "Votes": "21,497",
+      "Percent": "55.4",
       "incumbent": true
     },
     {
       "Name": "J. Nicole Lopez",
       "Party": "Dem",
-      "Votes": "2,767",
-      "Percent": "7.2",
+      "Votes": "2,823",
+      "Percent": "7.3",
       "incumbent": false
     },
     {
       "Name": "John Briscoe",
       "Party": "Rep",
-      "Votes": "12,033",
+      "Votes": "12,124",
       "Percent": "31.3",
       "incumbent": false
     }

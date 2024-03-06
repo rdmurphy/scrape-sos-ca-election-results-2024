@@ -1,56 +1,56 @@
 [
   {
     "raceTitle": "State Assembly District 12 - Marin County Results",
-    "Reporting": "87.3% (55 of 63) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:34 p.m.",
+    "Reporting": "100% (63 of 63) precincts reporting",
+    "ReportingTime": "March 5, 2024, 10:44 p.m.",
     "candidates": [
       {
         "Name": "Damon Connolly",
         "Party": "Dem",
-        "Votes": "24,559",
-        "Percent": "80.8",
+        "Votes": "27,163",
+        "Percent": "79.3",
         "incumbent": true
       },
       {
         "Name": "Eryn Cervantes",
         "Party": "Rep",
-        "Votes": "2,308",
-        "Percent": "7.6",
+        "Votes": "2,816",
+        "Percent": "8.2",
         "incumbent": false
       },
       {
         "Name": "Andy Podshadley",
         "Party": "Rep",
-        "Votes": "3,546",
-        "Percent": "11.7",
+        "Votes": "4,279",
+        "Percent": "12.5",
         "incumbent": false
       }
     ]
   },
   {
     "raceTitle": "State Assembly District 12 - Districtwide Results",
-    "Reporting": "96.8% (239 of 247) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:36 p.m.",
+    "Reporting": "100% (247 of 247) precincts reporting",
+    "ReportingTime": "March 5, 2024, 10:45 p.m.",
     "candidates": [
       {
         "Name": "Damon Connolly",
         "Party": "Dem",
-        "Votes": "45,160",
-        "Percent": "76.9",
+        "Votes": "47,764",
+        "Percent": "76.3",
         "incumbent": true
       },
       {
         "Name": "Eryn Cervantes",
         "Party": "Rep",
-        "Votes": "6,295",
-        "Percent": "10.7",
+        "Votes": "6,803",
+        "Percent": "10.9",
         "incumbent": false
       },
       {
         "Name": "Andy Podshadley",
         "Party": "Rep",
-        "Votes": "7,304",
-        "Percent": "12.4",
+        "Votes": "8,037",
+        "Percent": "12.8",
         "incumbent": false
       }
     ]

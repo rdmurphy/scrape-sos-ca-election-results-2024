@@ -2,27 +2,27 @@
   {
     "raceTitle": "State Assembly District 48 - Los Angeles County Results",
     "Reporting": "100% (131 of 131) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:24 p.m.",
+    "ReportingTime": "March 5, 2024, 10:38 p.m.",
     "candidates": [
       {
         "Name": "Blanca Rubio",
         "Party": "Dem",
-        "Votes": "12,453",
+        "Votes": "12,543",
         "Percent": "45.3",
         "incumbent": true
       },
       {
         "Name": "Brian Calderón Tabatabai",
         "Party": "Dem",
-        "Votes": "4,826",
+        "Votes": "4,874",
         "Percent": "17.6",
         "incumbent": false
       },
       {
         "Name": "Dan T. Tran",
         "Party": "Rep",
-        "Votes": "10,198",
-        "Percent": "37.1",
+        "Votes": "10,302",
+        "Percent": "37.2",
         "incumbent": false
       }
     ]
@@ -30,27 +30,27 @@
   {
     "raceTitle": "State Assembly District 48 - Districtwide Results",
     "Reporting": "100% (131 of 131) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:36 p.m.",
+    "ReportingTime": "March 5, 2024, 10:45 p.m.",
     "candidates": [
       {
         "Name": "Blanca Rubio",
         "Party": "Dem",
-        "Votes": "12,453",
+        "Votes": "12,543",
         "Percent": "45.3",
         "incumbent": true
       },
       {
         "Name": "Brian Calderón Tabatabai",
         "Party": "Dem",
-        "Votes": "4,826",
+        "Votes": "4,874",
         "Percent": "17.6",
         "incumbent": false
       },
       {
         "Name": "Dan T. Tran",
         "Party": "Rep",
-        "Votes": "10,198",
-        "Percent": "37.1",
+        "Votes": "10,302",
+        "Percent": "37.2",
         "incumbent": false
       }
     ]

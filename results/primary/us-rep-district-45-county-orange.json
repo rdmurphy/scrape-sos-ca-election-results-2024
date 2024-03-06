@@ -44,12 +44,12 @@
   {
     "raceTitle": "U.S. House of Representatives District 45 - Districtwide Results",
     "Reporting": "100% (456 of 456) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:36 p.m.",
+    "ReportingTime": "March 5, 2024, 10:45 p.m.",
     "candidates": [
       {
         "Name": "Cheyenne Hunt",
         "Party": "Dem",
-        "Votes": "5,169",
+        "Votes": "5,170",
         "Percent": "8.3",
         "incumbent": false
       },
@@ -70,14 +70,14 @@
       {
         "Name": "Derek Tran",
         "Party": "Dem",
-        "Votes": "11,570",
+        "Votes": "11,572",
         "Percent": "18.5",
         "incumbent": false
       },
       {
         "Name": "Michelle Steel",
         "Party": "Rep",
-        "Votes": "32,521",
+        "Votes": "32,522",
         "Percent": "52.1",
         "incumbent": true
       }

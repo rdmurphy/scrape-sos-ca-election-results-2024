@@ -22,21 +22,21 @@
   },
   {
     "raceTitle": "State Assembly District 37 - Districtwide Results",
-    "Reporting": "33.3% (69 of 207) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:36 p.m.",
+    "Reporting": "46.9% (97 of 207) precincts reporting",
+    "ReportingTime": "March 5, 2024, 10:45 p.m.",
     "candidates": [
       {
         "Name": "Gregg Hart",
         "Party": "Dem",
-        "Votes": "33,158",
-        "Percent": "63.4",
+        "Votes": "34,179",
+        "Percent": "63.3",
         "incumbent": true
       },
       {
         "Name": "Sari M. Domingues",
         "Party": "Rep",
-        "Votes": "19,105",
-        "Percent": "36.6",
+        "Votes": "19,774",
+        "Percent": "36.7",
         "incumbent": false
       }
     ]
