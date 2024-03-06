@@ -2,68 +2,68 @@
   {
     "raceTitle": "President Republican - Statewide Results",
     "Reporting": "99.9% (20,840 of 20,855) precincts reporting",
-    "ReportingTime": "March 6, 2024, 2:20 a.m.",
+    "ReportingTime": "March 6, 2024, 2:37 a.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
         "Party": "Rep",
-        "Votes": "2,306",
+        "Votes": "2,318",
         "Percent": "0.2",
         "incumbent": false
       },
       {
         "Name": "Chris Christie",
         "Party": "Rep",
-        "Votes": "12,644",
+        "Votes": "12,719",
         "Percent": "0.9",
         "incumbent": false
       },
       {
         "Name": "Ron DeSantis",
         "Party": "Rep",
-        "Votes": "20,487",
+        "Votes": "20,625",
         "Percent": "1.5",
         "incumbent": false
       },
       {
         "Name": "Nikki Haley",
         "Party": "Rep",
-        "Votes": "243,690",
+        "Votes": "245,244",
         "Percent": "18.0",
         "incumbent": false
       },
       {
         "Name": "Asa Hutchinson",
         "Party": "Rep",
-        "Votes": "2,053",
+        "Votes": "2,063",
         "Percent": "0.2",
         "incumbent": false
       },
       {
         "Name": "Vivek Ramaswamy",
         "Party": "Rep",
-        "Votes": "5,700",
+        "Votes": "5,717",
         "Percent": "0.4",
         "incumbent": false
       },
       {
         "Name": "David Stuckenberg",
         "Party": "Rep",
-        "Votes": "2,358",
+        "Votes": "2,366",
         "Percent": "0.2",
         "incumbent": false
       },
       {
         "Name": "Rachel Swift",
         "Party": "Rep",
-        "Votes": "2,656",
+        "Votes": "2,664",
         "Percent": "0.2",
         "incumbent": false
       },
       {
         "Name": "Donald J. Trump",
         "Party": "Rep",
-        "Votes": "1,061,414",
+        "Votes": "1,068,042",
         "Percent": "78.4",
         "incumbent": false
       }
@@ -3152,69 +3152,69 @@
   {
     "raceTitle": "President Republican - Shasta County Results",
     "Reporting": "100% (68 of 68) precincts reporting",
-    "ReportingTime": "March 6, 2024, 1:50 a.m.",
+    "ReportingTime": "March 6, 2024, 2:37 a.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
         "Party": "Rep",
-        "Votes": "1",
-        "Percent": "0.0",
+        "Votes": "13",
+        "Percent": "0.1",
         "incumbent": false
       },
       {
         "Name": "Chris Christie",
         "Party": "Rep",
-        "Votes": "12",
-        "Percent": "0.3",
+        "Votes": "87",
+        "Percent": "0.7",
         "incumbent": false
       },
       {
         "Name": "Ron DeSantis",
         "Party": "Rep",
-        "Votes": "39",
-        "Percent": "0.9",
+        "Votes": "177",
+        "Percent": "1.4",
         "incumbent": false
       },
       {
         "Name": "Nikki Haley",
         "Party": "Rep",
-        "Votes": "245",
-        "Percent": "5.9",
+        "Votes": "1,799",
+        "Percent": "14.3",
         "incumbent": false
       },
       {
         "Name": "Asa Hutchinson",
         "Party": "Rep",
-        "Votes": "3",
+        "Votes": "13",
         "Percent": "0.1",
         "incumbent": false
       },
       {
         "Name": "Vivek Ramaswamy",
         "Party": "Rep",
-        "Votes": "11",
-        "Percent": "0.3",
+        "Votes": "28",
+        "Percent": "0.2",
         "incumbent": false
       },
       {
         "Name": "David Stuckenberg",
         "Party": "Rep",
-        "Votes": "2",
-        "Percent": "0.0",
+        "Votes": "10",
+        "Percent": "0.1",
         "incumbent": false
       },
       {
         "Name": "Rachel Swift",
         "Party": "Rep",
-        "Votes": "1",
-        "Percent": "0.0",
+        "Votes": "9",
+        "Percent": "0.1",
         "incumbent": false
       },
       {
         "Name": "Donald J. Trump",
         "Party": "Rep",
-        "Votes": "3,824",
-        "Percent": "92.4",
+        "Votes": "10,452",
+        "Percent": "83.0",
         "incumbent": false
       }
     ]
