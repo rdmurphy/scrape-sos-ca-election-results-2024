@@ -1,15 +1,15 @@
 {
   "raceTitle": "Ballot Measures - Yuba Results",
-  "Reporting": "20.0% (7 of 35) precincts reporting",
-  "ReportingTime": "March 5, 2024, 8:55 p.m.",
+  "Reporting": "48.6% (17 of 35) precincts reporting",
+  "ReportingTime": "March 5, 2024, 11:07 p.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "1844",
-      "yesPercent": "41.1",
-      "noVotes": "2646",
-      "noPercent": "58.9"
+      "yesVotes": "1990",
+      "yesPercent": "40.0",
+      "noVotes": "2991",
+      "noPercent": "60.0"
     }
   ]
 }

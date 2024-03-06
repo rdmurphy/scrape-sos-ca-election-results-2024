@@ -1,70 +1,70 @@
 [
   {
     "raceTitle": "State Assembly District 5 - Placer County Results",
-    "Reporting": "0% (0 of 152) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:54 p.m.",
+    "Reporting": "100% (152 of 152) precincts reporting",
+    "ReportingTime": "March 5, 2024, 11:10 p.m.",
     "candidates": [
       {
         "Name": "Neva Parker",
         "Party": "Dem",
-        "Votes": "15,538",
-        "Percent": "35.4",
+        "Votes": "18,493",
+        "Percent": "31.9",
         "incumbent": false
       },
       {
         "Name": "Athena Singh",
         "Party": "Dem",
-        "Votes": "3,503",
-        "Percent": "8.0",
+        "Votes": "4,259",
+        "Percent": "7.3",
         "incumbent": false
       },
       {
         "Name": "Aabhash \"ABG\" Gautam",
         "Party": "Rep",
-        "Votes": "1,518",
-        "Percent": "3.5",
+        "Votes": "2,328",
+        "Percent": "4.0",
         "incumbent": false
       },
       {
         "Name": "Joe Patterson",
         "Party": "Rep",
-        "Votes": "23,346",
-        "Percent": "53.2",
+        "Votes": "32,911",
+        "Percent": "56.8",
         "incumbent": true
       }
     ]
   },
   {
     "raceTitle": "State Assembly District 5 - Districtwide Results",
-    "Reporting": "29.6% (64 of 216) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:02 p.m.",
+    "Reporting": "100% (216 of 216) precincts reporting",
+    "ReportingTime": "March 5, 2024, 11:11 p.m.",
     "candidates": [
       {
         "Name": "Neva Parker",
         "Party": "Dem",
-        "Votes": "23,220",
-        "Percent": "32.6",
+        "Votes": "26,175",
+        "Percent": "30.7",
         "incumbent": false
       },
       {
         "Name": "Athena Singh",
         "Party": "Dem",
-        "Votes": "6,367",
-        "Percent": "8.9",
+        "Votes": "7,123",
+        "Percent": "8.4",
         "incumbent": false
       },
       {
         "Name": "Aabhash \"ABG\" Gautam",
         "Party": "Rep",
-        "Votes": "2,682",
-        "Percent": "3.8",
+        "Votes": "3,492",
+        "Percent": "4.1",
         "incumbent": false
       },
       {
         "Name": "Joe Patterson",
         "Party": "Rep",
-        "Votes": "38,920",
-        "Percent": "54.7",
+        "Votes": "48,485",
+        "Percent": "56.9",
         "incumbent": true
       }
     ]

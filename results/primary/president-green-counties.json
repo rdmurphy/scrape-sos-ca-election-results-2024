@@ -1,13 +1,13 @@
 [
   {
     "raceTitle": "President Green - Statewide Results",
-    "Reporting": "66% (13,765 of 20,855) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:02 p.m.",
+    "Reporting": "66.9% (13,953 of 20,855) precincts reporting",
+    "ReportingTime": "March 5, 2024, 11:11 p.m.",
     "candidates": [
       {
         "Name": "Jill Stein",
         "Party": "Grn",
-        "Votes": "6,013",
+        "Votes": "6,090",
         "Percent": "100.0",
         "incumbent": false
       }
@@ -225,13 +225,13 @@
   },
   {
     "raceTitle": "President Green - Kings County Results",
-    "Reporting": "89.5% (17 of 19) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:00 p.m.",
+    "Reporting": "100% (19 of 19) precincts reporting",
+    "ReportingTime": "March 5, 2024, 11:08 p.m.",
     "candidates": [
       {
         "Name": "Jill Stein",
         "Party": "Grn",
-        "Votes": "4",
+        "Votes": "6",
         "Percent": "100.0",
         "incumbent": false
       }
@@ -239,13 +239,13 @@
   },
   {
     "raceTitle": "President Green - Lake County Results",
-    "Reporting": "0% (0 of 48) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:44 p.m.",
+    "Reporting": "12.5% (6 of 48) precincts reporting",
+    "ReportingTime": "March 5, 2024, 11:04 p.m.",
     "candidates": [
       {
         "Name": "Jill Stein",
         "Party": "Grn",
-        "Votes": "17",
+        "Votes": "18",
         "Percent": "100.0",
         "incumbent": false
       }
@@ -254,7 +254,7 @@
   {
     "raceTitle": "President Green - Lassen County Results",
     "Reporting": "100% (52 of 52) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:52 p.m.",
+    "ReportingTime": "March 5, 2024, 11:02 p.m.",
     "candidates": [
       {
         "Name": "Jill Stein",
@@ -338,12 +338,12 @@
   {
     "raceTitle": "President Green - Merced County Results",
     "Reporting": "100% (729 of 729) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:23 p.m.",
+    "ReportingTime": "March 5, 2024, 11:11 p.m.",
     "candidates": [
       {
         "Name": "Jill Stein",
         "Party": "Grn",
-        "Votes": "26",
+        "Votes": "32",
         "Percent": "100.0",
         "incumbent": false
       }
@@ -422,12 +422,12 @@
   {
     "raceTitle": "President Green - Orange County Results",
     "Reporting": "100% (2,239 of 2,239) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:52 p.m.",
+    "ReportingTime": "March 5, 2024, 11:10 p.m.",
     "candidates": [
       {
         "Name": "Jill Stein",
         "Party": "Grn",
-        "Votes": "426",
+        "Votes": "459",
         "Percent": "100.0",
         "incumbent": false
       }
@@ -435,13 +435,13 @@
   },
   {
     "raceTitle": "President Green - Placer County Results",
-    "Reporting": "0% (0 of 170) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:54 p.m.",
+    "Reporting": "100% (170 of 170) precincts reporting",
+    "ReportingTime": "March 5, 2024, 11:10 p.m.",
     "candidates": [
       {
         "Name": "Jill Stein",
         "Party": "Grn",
-        "Votes": "61",
+        "Votes": "80",
         "Percent": "100.0",
         "incumbent": false
       }
@@ -464,12 +464,12 @@
   {
     "raceTitle": "President Green - Riverside County Results",
     "Reporting": "100% (928 of 928) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:10 p.m.",
+    "ReportingTime": "March 5, 2024, 11:06 p.m.",
     "candidates": [
       {
         "Name": "Jill Stein",
         "Party": "Grn",
-        "Votes": "194",
+        "Votes": "205",
         "Percent": "100.0",
         "incumbent": false
       }
@@ -576,12 +576,12 @@
   {
     "raceTitle": "President Green - San Mateo County Results",
     "Reporting": "0% (0 of 266) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:02 p.m.",
+    "ReportingTime": "March 5, 2024, 11:06 p.m.",
     "candidates": [
       {
         "Name": "Jill Stein",
         "Party": "Grn",
-        "Votes": "186",
+        "Votes": "191",
         "Percent": "100.0",
         "incumbent": false
       }
@@ -813,8 +813,8 @@
   },
   {
     "raceTitle": "President Green - Yuba County Results",
-    "Reporting": "20% (7 of 35) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:55 p.m.",
+    "Reporting": "48.6% (17 of 35) precincts reporting",
+    "ReportingTime": "March 5, 2024, 11:07 p.m.",
     "candidates": [
       {
         "Name": "Jill Stein",

@@ -1,15 +1,15 @@
 {
   "raceTitle": "Ballot Measures - Lake Results",
-  "Reporting": "0.0% (0 of 48) precincts reporting",
-  "ReportingTime": "March 5, 2024, 9:44 p.m.",
+  "Reporting": "12.5% (6 of 48) precincts reporting",
+  "ReportingTime": "March 5, 2024, 11:04 p.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "2676",
-      "yesPercent": "49.1",
-      "noVotes": "2770",
-      "noPercent": "50.9"
+      "yesVotes": "2745",
+      "yesPercent": "48.1",
+      "noVotes": "2960",
+      "noPercent": "51.9"
     }
   ]
 }

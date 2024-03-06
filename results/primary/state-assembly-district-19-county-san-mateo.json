@@ -2,34 +2,34 @@
   {
     "raceTitle": "State Assembly District 19 - San Mateo County Results",
     "Reporting": "0% (0 of 37) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:02 p.m.",
+    "ReportingTime": "March 5, 2024, 11:06 p.m.",
     "candidates": [
       {
         "Name": "David E. Lee",
         "Party": "Dem",
-        "Votes": "3,562",
-        "Percent": "31.0",
+        "Votes": "3,582",
+        "Percent": "30.9",
         "incumbent": false
       },
       {
         "Name": "Catherine Stefani",
         "Party": "Dem",
-        "Votes": "5,544",
-        "Percent": "48.2",
+        "Votes": "5,579",
+        "Percent": "48.1",
         "incumbent": false
       },
       {
         "Name": "Nadia Flamenco",
         "Party": "Rep",
-        "Votes": "1,165",
+        "Votes": "1,177",
         "Percent": "10.1",
         "incumbent": false
       },
       {
         "Name": "Arjun Gustav Sodhani",
         "Party": "Rep",
-        "Votes": "1,237",
-        "Percent": "10.7",
+        "Votes": "1,261",
+        "Percent": "10.9",
         "incumbent": false
       }
     ]
@@ -37,34 +37,34 @@
   {
     "raceTitle": "State Assembly District 19 - Districtwide Results",
     "Reporting": "84.9% (213 of 251) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:02 p.m.",
+    "ReportingTime": "March 5, 2024, 11:11 p.m.",
     "candidates": [
       {
         "Name": "David E. Lee",
         "Party": "Dem",
-        "Votes": "14,742",
+        "Votes": "14,762",
         "Percent": "27.6",
         "incumbent": false
       },
       {
         "Name": "Catherine Stefani",
         "Party": "Dem",
-        "Votes": "30,017",
+        "Votes": "30,052",
         "Percent": "56.3",
         "incumbent": false
       },
       {
         "Name": "Nadia Flamenco",
         "Party": "Rep",
-        "Votes": "4,557",
-        "Percent": "8.5",
+        "Votes": "4,569",
+        "Percent": "8.6",
         "incumbent": false
       },
       {
         "Name": "Arjun Gustav Sodhani",
         "Party": "Rep",
-        "Votes": "4,009",
-        "Percent": "7.5",
+        "Votes": "4,033",
+        "Percent": "7.6",
         "incumbent": false
       }
     ]

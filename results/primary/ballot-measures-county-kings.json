@@ -1,15 +1,15 @@
 {
   "raceTitle": "Ballot Measures - Kings Results",
-  "Reporting": "89.5% (17 of 19) precincts reporting",
-  "ReportingTime": "March 5, 2024, 10:00 p.m.",
+  "Reporting": "100.0% (19 of 19) precincts reporting",
+  "ReportingTime": "March 5, 2024, 11:08 p.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "4012",
-      "yesPercent": "34.9",
-      "noVotes": "7470",
-      "noPercent": "65.1"
+      "yesVotes": "4508",
+      "yesPercent": "34.0",
+      "noVotes": "8742",
+      "noPercent": "66.0"
     }
   ]
 }

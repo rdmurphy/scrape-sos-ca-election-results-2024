@@ -2,7 +2,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 1 - Lassen County Results",
     "Reporting": "100% (52 of 52) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:52 p.m.",
+    "ReportingTime": "March 5, 2024, 11:02 p.m.",
     "candidates": [
       {
         "Name": "Mike Doran",
@@ -21,7 +21,7 @@
       {
         "Name": "Doug LaMalfa",
         "Party": "Rep",
-        "Votes": "2,761",
+        "Votes": "2,763",
         "Percent": "79.0",
         "incumbent": true
       }
@@ -29,28 +29,28 @@
   },
   {
     "raceTitle": "U.S. House of Representatives District 1 - Districtwide Results",
-    "Reporting": "76.9% (377 of 490) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:02 p.m.",
+    "Reporting": "78.8% (386 of 490) precincts reporting",
+    "ReportingTime": "March 5, 2024, 11:11 p.m.",
     "candidates": [
       {
         "Name": "Mike Doran",
         "Party": "Dem",
-        "Votes": "10,196",
-        "Percent": "12.0",
+        "Votes": "10,225",
+        "Percent": "11.9",
         "incumbent": false
       },
       {
         "Name": "Rose Penelope Yee",
         "Party": "Dem",
-        "Votes": "21,606",
-        "Percent": "25.4",
+        "Votes": "21,666",
+        "Percent": "25.3",
         "incumbent": false
       },
       {
         "Name": "Doug LaMalfa",
         "Party": "Rep",
-        "Votes": "53,424",
-        "Percent": "62.7",
+        "Votes": "53,747",
+        "Percent": "62.8",
         "incumbent": true
       }
     ]
