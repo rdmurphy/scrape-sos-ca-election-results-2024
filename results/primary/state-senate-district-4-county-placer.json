@@ -1,0 +1,44 @@
+[
+  {
+    "raceTitle": "State Senate District 4 - Placer County Results",
+    "Reporting": "100% (25 of 25) precincts reporting",
+    "ReportingTime": "December 10, 2022, 12:02 p.m.",
+    "candidates": [
+      {
+        "Name": "Marie Alvarado-Gil",
+        "Party": "Dem",
+        "Votes": "1,830",
+        "Percent": "39.4",
+        "incumbent": false
+      },
+      {
+        "Name": "Tim Robertson",
+        "Party": "Dem",
+        "Votes": "2,812",
+        "Percent": "60.6",
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "raceTitle": "State Senate District 4 - Districtwide Results",
+    "Reporting": "100% (685 of 685) precincts reporting",
+    "ReportingTime": "January 18, 2023, 3:44 p.m.",
+    "candidates": [
+      {
+        "Name": "Marie Alvarado-Gil",
+        "Party": "Dem",
+        "Votes": "137,157",
+        "Percent": "52.7",
+        "incumbent": false
+      },
+      {
+        "Name": "Tim Robertson",
+        "Party": "Dem",
+        "Votes": "123,210",
+        "Percent": "47.3",
+        "incumbent": false
+      }
+    ]
+  }
+]

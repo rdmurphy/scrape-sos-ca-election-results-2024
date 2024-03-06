@@ -1,0 +1,21 @@
+{
+  "raceTitle": "State Senate District 22 - Districtwide Results",
+  "Reporting": "100% (572 of 572) precincts reporting",
+  "ReportingTime": "January 18, 2023, 3:44 p.m.",
+  "candidates": [
+    {
+      "Name": "Susan Rubio",
+      "Party": "Dem",
+      "Votes": "110,327",
+      "Percent": "58.5",
+      "incumbent": false
+    },
+    {
+      "Name": "Vincent Tsai",
+      "Party": "Rep",
+      "Votes": "78,156",
+      "Percent": "41.5",
+      "incumbent": false
+    }
+  ]
+}

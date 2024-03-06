@@ -1,0 +1,44 @@
+[
+  {
+    "raceTitle": "State Senate District 2 - Sonoma County Results",
+    "Reporting": "100% (484 of 484) precincts reporting",
+    "ReportingTime": "December 10, 2022, 11:42 a.m.",
+    "candidates": [
+      {
+        "Name": "Mike McGuire",
+        "Party": "Dem",
+        "Votes": "120,614",
+        "Percent": "75.6",
+        "incumbent": false
+      },
+      {
+        "Name": "Gene Yoon",
+        "Party": "Rep",
+        "Votes": "38,983",
+        "Percent": "24.4",
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "raceTitle": "State Senate District 2 - Districtwide Results",
+    "Reporting": "100% (1,138 of 1,138) precincts reporting",
+    "ReportingTime": "January 18, 2023, 3:44 p.m.",
+    "candidates": [
+      {
+        "Name": "Mike McGuire",
+        "Party": "Dem",
+        "Votes": "283,689",
+        "Percent": "73.3",
+        "incumbent": false
+      },
+      {
+        "Name": "Gene Yoon",
+        "Party": "Rep",
+        "Votes": "103,333",
+        "Percent": "26.7",
+        "incumbent": false
+      }
+    ]
+  }
+]

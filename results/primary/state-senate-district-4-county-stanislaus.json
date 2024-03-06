@@ -1,0 +1,44 @@
+[
+  {
+    "raceTitle": "State Senate District 4 - Stanislaus County Results",
+    "Reporting": "100% (199 of 199) precincts reporting",
+    "ReportingTime": "December 10, 2022, 11:43 a.m.",
+    "candidates": [
+      {
+        "Name": "Marie Alvarado-Gil",
+        "Party": "Dem",
+        "Votes": "57,385",
+        "Percent": "54.4",
+        "incumbent": false
+      },
+      {
+        "Name": "Tim Robertson",
+        "Party": "Dem",
+        "Votes": "48,129",
+        "Percent": "45.6",
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "raceTitle": "State Senate District 4 - Districtwide Results",
+    "Reporting": "100% (685 of 685) precincts reporting",
+    "ReportingTime": "January 18, 2023, 3:44 p.m.",
+    "candidates": [
+      {
+        "Name": "Marie Alvarado-Gil",
+        "Party": "Dem",
+        "Votes": "137,157",
+        "Percent": "52.7",
+        "incumbent": false
+      },
+      {
+        "Name": "Tim Robertson",
+        "Party": "Dem",
+        "Votes": "123,210",
+        "Percent": "47.3",
+        "incumbent": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "raceTitle": "State Senate District 18 - San Bernardino County Results",
+    "Reporting": "100% (11 of 11) precincts reporting",
+    "ReportingTime": "December 10, 2022, 12:06 p.m.",
+    "candidates": [
+      {
+        "Name": "Steve Padilla",
+        "Party": "Dem",
+        "Votes": "494",
+        "Percent": "36.0",
+        "incumbent": false
+      },
+      {
+        "Name": "Alejandro Galicia",
+        "Party": "Rep",
+        "Votes": "880",
+        "Percent": "64.0",
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "raceTitle": "State Senate District 18 - Districtwide Results",
+    "Reporting": "100% (792 of 792) precincts reporting",
+    "ReportingTime": "January 18, 2023, 3:44 p.m.",
+    "candidates": [
+      {
+        "Name": "Steve Padilla",
+        "Party": "Dem",
+        "Votes": "115,103",
+        "Percent": "59.8",
+        "incumbent": false
+      },
+      {
+        "Name": "Alejandro Galicia",
+        "Party": "Rep",
+        "Votes": "77,223",
+        "Percent": "40.2",
+        "incumbent": false
+      }
+    ]
+  }
+]

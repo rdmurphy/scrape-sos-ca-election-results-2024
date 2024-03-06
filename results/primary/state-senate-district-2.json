@@ -1,0 +1,21 @@
+{
+  "raceTitle": "State Senate District 2 - Districtwide Results",
+  "Reporting": "100% (1,138 of 1,138) precincts reporting",
+  "ReportingTime": "January 18, 2023, 3:44 p.m.",
+  "candidates": [
+    {
+      "Name": "Mike McGuire",
+      "Party": "Dem",
+      "Votes": "283,689",
+      "Percent": "73.3",
+      "incumbent": false
+    },
+    {
+      "Name": "Gene Yoon",
+      "Party": "Rep",
+      "Votes": "103,333",
+      "Percent": "26.7",
+      "incumbent": false
+    }
+  ]
+}

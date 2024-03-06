@@ -1,0 +1,86 @@
+[
+  {
+    "raceTitle": "U.S. House of Representatives District 45 - Orange County Results",
+    "Reporting": "0% (0 of 437) precincts reporting",
+    "ReportingTime": "March 5, 2024, 3:45 p.m.",
+    "candidates": [
+      {
+        "Name": "Cheyenne Hunt",
+        "Party": "Dem",
+        "Votes": "0",
+        "Percent": "0.0",
+        "incumbent": false
+      },
+      {
+        "Name": "Kim Bernice Nguyen-Penaloza",
+        "Party": "Dem",
+        "Votes": "0",
+        "Percent": "0.0",
+        "incumbent": false
+      },
+      {
+        "Name": "Aditya Pai",
+        "Party": "Dem",
+        "Votes": "0",
+        "Percent": "0.0",
+        "incumbent": false
+      },
+      {
+        "Name": "Derek Tran",
+        "Party": "Dem",
+        "Votes": "0",
+        "Percent": "0.0",
+        "incumbent": false
+      },
+      {
+        "Name": "Michelle Steel",
+        "Party": "Rep",
+        "Votes": "0",
+        "Percent": "0.0",
+        "incumbent": true
+      }
+    ]
+  },
+  {
+    "raceTitle": "U.S. House of Representatives District 45 - Districtwide Results",
+    "Reporting": "0% (0 of 456) precincts reporting",
+    "ReportingTime": "March 5, 2024, 3:45 p.m.",
+    "candidates": [
+      {
+        "Name": "Cheyenne Hunt",
+        "Party": "Dem",
+        "Votes": "0",
+        "Percent": "0.0",
+        "incumbent": false
+      },
+      {
+        "Name": "Kim Bernice Nguyen-Penaloza",
+        "Party": "Dem",
+        "Votes": "0",
+        "Percent": "0.0",
+        "incumbent": false
+      },
+      {
+        "Name": "Aditya Pai",
+        "Party": "Dem",
+        "Votes": "0",
+        "Percent": "0.0",
+        "incumbent": false
+      },
+      {
+        "Name": "Derek Tran",
+        "Party": "Dem",
+        "Votes": "0",
+        "Percent": "0.0",
+        "incumbent": false
+      },
+      {
+        "Name": "Michelle Steel",
+        "Party": "Rep",
+        "Votes": "0",
+        "Percent": "0.0",
+        "incumbent": true
+      }
+    ]
+  }
+]

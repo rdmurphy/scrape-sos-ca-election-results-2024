@@ -1,0 +1,72 @@
+[
+  {
+    "raceTitle": "U.S. House of Representatives District 28 - Los Angeles County Results",
+    "Reporting": "0% (0 of 192) precincts reporting",
+    "ReportingTime": "March 5, 2024, 3:45 p.m.",
+    "candidates": [
+      {
+        "Name": "Judy Chu",
+        "Party": "Dem",
+        "Votes": "0",
+        "Percent": "0.0",
+        "incumbent": true
+      },
+      {
+        "Name": "April A. Verlato",
+        "Party": "Rep",
+        "Votes": "0",
+        "Percent": "0.0",
+        "incumbent": false
+      },
+      {
+        "Name": "Jose Castaneda",
+        "Party": "Lib",
+        "Votes": "0",
+        "Percent": "0.0",
+        "incumbent": false
+      },
+      {
+        "Name": "William Patterson",
+        "Party": "P&F",
+        "Votes": "0",
+        "Percent": "0.0",
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "raceTitle": "U.S. House of Representatives District 28 - Districtwide Results",
+    "Reporting": "0% (0 of 347) precincts reporting",
+    "ReportingTime": "March 5, 2024, 3:45 p.m.",
+    "candidates": [
+      {
+        "Name": "Judy Chu",
+        "Party": "Dem",
+        "Votes": "0",
+        "Percent": "0.0",
+        "incumbent": true
+      },
+      {
+        "Name": "April A. Verlato",
+        "Party": "Rep",
+        "Votes": "0",
+        "Percent": "0.0",
+        "incumbent": false
+      },
+      {
+        "Name": "Jose Castaneda",
+        "Party": "Lib",
+        "Votes": "0",
+        "Percent": "0.0",
+        "incumbent": false
+      },
+      {
+        "Name": "William Patterson",
+        "Party": "P&F",
+        "Votes": "0",
+        "Percent": "0.0",
+        "incumbent": false
+      }
+    ]
+  }
+]

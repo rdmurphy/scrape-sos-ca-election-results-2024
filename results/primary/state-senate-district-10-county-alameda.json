@@ -1,0 +1,44 @@
+[
+  {
+    "raceTitle": "State Senate District 10 - Alameda County Results",
+    "Reporting": "100% (169 of 169) precincts reporting",
+    "ReportingTime": "December 10, 2022, 11:26 a.m.",
+    "candidates": [
+      {
+        "Name": "Lily Mei",
+        "Party": "Dem",
+        "Votes": "49,081",
+        "Percent": "44.6",
+        "incumbent": false
+      },
+      {
+        "Name": "Aisha Wahab",
+        "Party": "Dem",
+        "Votes": "60,903",
+        "Percent": "55.4",
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "raceTitle": "State Senate District 10 - Districtwide Results",
+    "Reporting": "100% (326 of 326) precincts reporting",
+    "ReportingTime": "January 18, 2023, 3:44 p.m.",
+    "candidates": [
+      {
+        "Name": "Lily Mei",
+        "Party": "Dem",
+        "Votes": "99,011",
+        "Percent": "46.3",
+        "incumbent": false
+      },
+      {
+        "Name": "Aisha Wahab",
+        "Party": "Dem",
+        "Votes": "114,997",
+        "Percent": "53.7",
+        "incumbent": false
+      }
+    ]
+  }
+]

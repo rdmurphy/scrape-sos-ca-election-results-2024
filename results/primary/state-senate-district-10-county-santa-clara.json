@@ -1,0 +1,44 @@
+[
+  {
+    "raceTitle": "State Senate District 10 - Santa Clara County Results",
+    "Reporting": "100% (157 of 157) precincts reporting",
+    "ReportingTime": "December 10, 2022, 12:04 p.m.",
+    "candidates": [
+      {
+        "Name": "Lily Mei",
+        "Party": "Dem",
+        "Votes": "49,930",
+        "Percent": "48.0",
+        "incumbent": false
+      },
+      {
+        "Name": "Aisha Wahab",
+        "Party": "Dem",
+        "Votes": "54,094",
+        "Percent": "52.0",
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "raceTitle": "State Senate District 10 - Districtwide Results",
+    "Reporting": "100% (326 of 326) precincts reporting",
+    "ReportingTime": "January 18, 2023, 3:44 p.m.",
+    "candidates": [
+      {
+        "Name": "Lily Mei",
+        "Party": "Dem",
+        "Votes": "99,011",
+        "Percent": "46.3",
+        "incumbent": false
+      },
+      {
+        "Name": "Aisha Wahab",
+        "Party": "Dem",
+        "Votes": "114,997",
+        "Percent": "53.7",
+        "incumbent": false
+      }
+    ]
+  }
+]

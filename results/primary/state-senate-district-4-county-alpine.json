@@ -1,0 +1,44 @@
+[
+  {
+    "raceTitle": "State Senate District 4 - Alpine County Results",
+    "Reporting": "100% (5 of 5) precincts reporting",
+    "ReportingTime": "December 10, 2022, 11:27 a.m.",
+    "candidates": [
+      {
+        "Name": "Marie Alvarado-Gil",
+        "Party": "Dem",
+        "Votes": "208",
+        "Percent": "44.2",
+        "incumbent": false
+      },
+      {
+        "Name": "Tim Robertson",
+        "Party": "Dem",
+        "Votes": "263",
+        "Percent": "55.8",
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "raceTitle": "State Senate District 4 - Districtwide Results",
+    "Reporting": "100% (685 of 685) precincts reporting",
+    "ReportingTime": "January 18, 2023, 3:44 p.m.",
+    "candidates": [
+      {
+        "Name": "Marie Alvarado-Gil",
+        "Party": "Dem",
+        "Votes": "137,157",
+        "Percent": "52.7",
+        "incumbent": false
+      },
+      {
+        "Name": "Tim Robertson",
+        "Party": "Dem",
+        "Votes": "123,210",
+        "Percent": "47.3",
+        "incumbent": false
+      }
+    ]
+  }
+]

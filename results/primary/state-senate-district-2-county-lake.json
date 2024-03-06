@@ -1,0 +1,44 @@
+[
+  {
+    "raceTitle": "State Senate District 2 - Lake County Results",
+    "Reporting": "100% (80 of 80) precincts reporting",
+    "ReportingTime": "December 10, 2022, 11:25 a.m.",
+    "candidates": [
+      {
+        "Name": "Mike McGuire",
+        "Party": "Dem",
+        "Votes": "10,695",
+        "Percent": "54.0",
+        "incumbent": false
+      },
+      {
+        "Name": "Gene Yoon",
+        "Party": "Rep",
+        "Votes": "9,116",
+        "Percent": "46.0",
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "raceTitle": "State Senate District 2 - Districtwide Results",
+    "Reporting": "100% (1,138 of 1,138) precincts reporting",
+    "ReportingTime": "January 18, 2023, 3:44 p.m.",
+    "candidates": [
+      {
+        "Name": "Mike McGuire",
+        "Party": "Dem",
+        "Votes": "283,689",
+        "Percent": "73.3",
+        "incumbent": false
+      },
+      {
+        "Name": "Gene Yoon",
+        "Party": "Rep",
+        "Votes": "103,333",
+        "Percent": "26.7",
+        "incumbent": false
+      }
+    ]
+  }
+]

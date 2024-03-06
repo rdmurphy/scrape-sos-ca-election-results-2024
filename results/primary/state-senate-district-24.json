@@ -1,0 +1,21 @@
+{
+  "raceTitle": "State Senate District 24 - Districtwide Results",
+  "Reporting": "100% (358 of 358) precincts reporting",
+  "ReportingTime": "January 18, 2023, 3:44 p.m.",
+  "candidates": [
+    {
+      "Name": "Ben Allen",
+      "Party": "Dem",
+      "Votes": "248,642",
+      "Percent": "67.1",
+      "incumbent": false
+    },
+    {
+      "Name": "Kristina Irwin",
+      "Party": "Rep",
+      "Votes": "121,809",
+      "Percent": "32.9",
+      "incumbent": false
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "raceTitle": "U.S. House of Representatives District 2 - Del Norte County Results",
+    "Reporting": "0% (0 of 19) precincts reporting",
+    "ReportingTime": "March 5, 2024, 3:45 p.m.",
+    "candidates": [
+      {
+        "Name": "Jared Huffman",
+        "Party": "Dem",
+        "Votes": "0",
+        "Percent": "0.0",
+        "incumbent": true
+      },
+      {
+        "Name": "Chris Coulombe",
+        "Party": "Rep",
+        "Votes": "0",
+        "Percent": "0.0",
+        "incumbent": false
+      },
+      {
+        "Name": "Tief Gibbs",
+        "Party": "Rep",
+        "Votes": "0",
+        "Percent": "0.0",
+        "incumbent": false
+      },
+      {
+        "Name": "Jason Brisendine",
+        "Party": "NPP",
+        "Votes": "0",
+        "Percent": "0.0",
+        "incumbent": false
+      },
+      {
+        "Name": "Jolian \"Jo\" Kangas",
+        "Party": "NPP",
+        "Votes": "0",
+        "Percent": "0.0",
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "raceTitle": "U.S. House of Representatives District 2 - Districtwide Results",
+    "Reporting": "0% (0 of 629) precincts reporting",
+    "ReportingTime": "March 5, 2024, 3:45 p.m.",
+    "candidates": [
+      {
+        "Name": "Jared Huffman",
+        "Party": "Dem",
+        "Votes": "0",
+        "Percent": "0.0",
+        "incumbent": true
+      },
+      {
+        "Name": "Chris Coulombe",
+        "Party": "Rep",
+        "Votes": "0",
+        "Percent": "0.0",
+        "incumbent": false
+      },
+      {
+        "Name": "Tief Gibbs",
+        "Party": "Rep",
+        "Votes": "0",
+        "Percent": "0.0",
+        "incumbent": false
+      },
+      {
+        "Name": "Jason Brisendine",
+        "Party": "NPP",
+        "Votes": "0",
+        "Percent": "0.0",
+        "incumbent": false
+      },
+      {
+        "Name": "Jolian \"Jo\" Kangas",
+        "Party": "NPP",
+        "Votes": "0",
+        "Percent": "0.0",
+        "incumbent": false
+      }
+    ]
+  }
+]

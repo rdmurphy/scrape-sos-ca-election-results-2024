@@ -1,0 +1,21 @@
+{
+  "raceTitle": "State Senate District 6 - Districtwide Results",
+  "Reporting": "100% (574 of 574) precincts reporting",
+  "ReportingTime": "January 18, 2023, 3:44 p.m.",
+  "candidates": [
+    {
+      "Name": "Paula Villescaz",
+      "Party": "Dem",
+      "Votes": "160,846",
+      "Percent": "44.3",
+      "incumbent": false
+    },
+    {
+      "Name": "Roger Niello",
+      "Party": "Rep",
+      "Votes": "202,569",
+      "Percent": "55.7",
+      "incumbent": false
+    }
+  ]
+}

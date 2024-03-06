@@ -1,0 +1,44 @@
+[
+  {
+    "raceTitle": "State Senate District 4 - Merced County Results",
+    "Reporting": "100% (37 of 37) precincts reporting",
+    "ReportingTime": "December 10, 2022, 11:31 a.m.",
+    "candidates": [
+      {
+        "Name": "Marie Alvarado-Gil",
+        "Party": "Dem",
+        "Votes": "2,386",
+        "Percent": "55.6",
+        "incumbent": false
+      },
+      {
+        "Name": "Tim Robertson",
+        "Party": "Dem",
+        "Votes": "1,903",
+        "Percent": "44.4",
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "raceTitle": "State Senate District 4 - Districtwide Results",
+    "Reporting": "100% (685 of 685) precincts reporting",
+    "ReportingTime": "January 18, 2023, 3:44 p.m.",
+    "candidates": [
+      {
+        "Name": "Marie Alvarado-Gil",
+        "Party": "Dem",
+        "Votes": "137,157",
+        "Percent": "52.7",
+        "incumbent": false
+      },
+      {
+        "Name": "Tim Robertson",
+        "Party": "Dem",
+        "Votes": "123,210",
+        "Percent": "47.3",
+        "incumbent": false
+      }
+    ]
+  }
+]

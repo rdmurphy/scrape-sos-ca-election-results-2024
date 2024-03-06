@@ -1,0 +1,44 @@
+[
+  {
+    "raceTitle": "State Senate District 38 - San Diego County Results",
+    "Reporting": "100% (557 of 557) precincts reporting",
+    "ReportingTime": "December 10, 2022, 12:00 p.m.",
+    "candidates": [
+      {
+        "Name": "Catherine Blakespear",
+        "Party": "Dem",
+        "Votes": "145,195",
+        "Percent": "56.1",
+        "incumbent": false
+      },
+      {
+        "Name": "Matt Gunderson",
+        "Party": "Rep",
+        "Votes": "113,558",
+        "Percent": "43.9",
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "raceTitle": "State Senate District 38 - Districtwide Results",
+    "Reporting": "100% (741 of 741) precincts reporting",
+    "ReportingTime": "January 18, 2023, 3:44 p.m.",
+    "candidates": [
+      {
+        "Name": "Catherine Blakespear",
+        "Party": "Dem",
+        "Votes": "190,992",
+        "Percent": "52.2",
+        "incumbent": false
+      },
+      {
+        "Name": "Matt Gunderson",
+        "Party": "Rep",
+        "Votes": "174,581",
+        "Percent": "47.8",
+        "incumbent": false
+      }
+    ]
+  }
+]

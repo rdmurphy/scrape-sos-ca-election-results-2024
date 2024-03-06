@@ -1,0 +1,44 @@
+[
+  {
+    "raceTitle": "State Senate District 14 - Merced County Results",
+    "Reporting": "100% (262 of 262) precincts reporting",
+    "ReportingTime": "December 10, 2022, 11:31 a.m.",
+    "candidates": [
+      {
+        "Name": "Anna Caballero",
+        "Party": "Dem",
+        "Votes": "25,584",
+        "Percent": "52.7",
+        "incumbent": false
+      },
+      {
+        "Name": "Amnon Shor",
+        "Party": "Rep",
+        "Votes": "22,980",
+        "Percent": "47.3",
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "raceTitle": "State Senate District 14 - Districtwide Results",
+    "Reporting": "100% (706 of 706) precincts reporting",
+    "ReportingTime": "January 18, 2023, 3:44 p.m.",
+    "candidates": [
+      {
+        "Name": "Anna Caballero",
+        "Party": "Dem",
+        "Votes": "90,016",
+        "Percent": "56.3",
+        "incumbent": false
+      },
+      {
+        "Name": "Amnon Shor",
+        "Party": "Rep",
+        "Votes": "69,970",
+        "Percent": "43.7",
+        "incumbent": false
+      }
+    ]
+  }
+]

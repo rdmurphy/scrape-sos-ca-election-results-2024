@@ -1,0 +1,44 @@
+[
+  {
+    "raceTitle": "State Senate District 4 - Mariposa County Results",
+    "Reporting": "100% (27 of 27) precincts reporting",
+    "ReportingTime": "December 10, 2022, 11:29 a.m.",
+    "candidates": [
+      {
+        "Name": "Marie Alvarado-Gil",
+        "Party": "Dem",
+        "Votes": "2,855",
+        "Percent": "48.5",
+        "incumbent": false
+      },
+      {
+        "Name": "Tim Robertson",
+        "Party": "Dem",
+        "Votes": "3,032",
+        "Percent": "51.5",
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "raceTitle": "State Senate District 4 - Districtwide Results",
+    "Reporting": "100% (685 of 685) precincts reporting",
+    "ReportingTime": "January 18, 2023, 3:44 p.m.",
+    "candidates": [
+      {
+        "Name": "Marie Alvarado-Gil",
+        "Party": "Dem",
+        "Votes": "137,157",
+        "Percent": "52.7",
+        "incumbent": false
+      },
+      {
+        "Name": "Tim Robertson",
+        "Party": "Dem",
+        "Votes": "123,210",
+        "Percent": "47.3",
+        "incumbent": false
+      }
+    ]
+  }
+]

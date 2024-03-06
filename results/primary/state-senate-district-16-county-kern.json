@@ -1,0 +1,44 @@
+[
+  {
+    "raceTitle": "State Senate District 16 - Kern County Results",
+    "Reporting": "100% (317 of 317) precincts reporting",
+    "ReportingTime": "January 18, 2023, 3:44 p.m.",
+    "candidates": [
+      {
+        "Name": "Melissa Hurtado",
+        "Party": "Dem",
+        "Votes": "35,995",
+        "Percent": "58.0",
+        "incumbent": false
+      },
+      {
+        "Name": "David Shepard",
+        "Party": "Rep",
+        "Votes": "26,026",
+        "Percent": "42.0",
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "raceTitle": "State Senate District 16 - Districtwide Results",
+    "Reporting": "100% (618 of 618) precincts reporting",
+    "ReportingTime": "January 18, 2023, 3:44 p.m.",
+    "candidates": [
+      {
+        "Name": "Melissa Hurtado",
+        "Party": "Dem",
+        "Votes": "68,460",
+        "Percent": "50.0",
+        "incumbent": false
+      },
+      {
+        "Name": "David Shepard",
+        "Party": "Rep",
+        "Votes": "68,438",
+        "Percent": "50.0",
+        "incumbent": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,1947 @@
+https://api-internal.sos.ca.gov/returns/president/party/democratic
+  out=president-democrat.json
+
+https://api-internal.sos.ca.gov/returns/president/party/democratic/county/all
+  out=president-democrat-counties.json
+
+https://api-internal.sos.ca.gov/returns/president/party/democratic/district/all
+  out=president-democrat-districts.json
+
+https://api-internal.sos.ca.gov/returns/president/party/republican
+  out=president-republican.json
+
+https://api-internal.sos.ca.gov/returns/president/party/republican/county/all
+  out=president-republican-counties.json
+
+https://api-internal.sos.ca.gov/returns/president/party/republican/district/all
+  out=president-republican-districts.json
+
+https://api-internal.sos.ca.gov/returns/president/party/american-independent
+  out=president-american-independent.json
+
+https://api-internal.sos.ca.gov/returns/president/party/american-independent/county/all
+  out=president-american-independent-counties.json
+
+https://api-internal.sos.ca.gov/returns/president/party/green
+  out=president-green.json
+
+https://api-internal.sos.ca.gov/returns/president/party/green/county/all
+  out=president-green-counties.json
+
+https://api-internal.sos.ca.gov/returns/president/party/libertarian
+  out=president-libertarian.json
+
+https://api-internal.sos.ca.gov/returns/president/party/libertarian/county/all
+  out=president-libertarian-counties.json
+
+https://api-internal.sos.ca.gov/returns/president/party/peace-and-freedom
+  out=president-peace-and-freedom.json
+
+https://api-internal.sos.ca.gov/returns/president/party/peace-and-freedom/county/all
+  out=president-peace-and-freedom-counties.json
+
+https://api-internal.sos.ca.gov/returns/us-senate
+  out=us-senate.json
+
+https://api-internal.sos.ca.gov/returns/us-senate/county/all
+  out=us-senate-counties.json
+
+https://api-internal.sos.ca.gov/returns/us-senate-unexpired-term
+  out=us-senate-unexpired-term.json
+
+https://api-internal.sos.ca.gov/returns/us-senate-unexpired-term/county/all
+  out=us-senate-unexpired-term-counties.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures
+  out=ballot-measures.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/alameda
+  out=ballot-measures-county-alameda.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/alpine
+  out=ballot-measures-county-alpine.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/amador
+  out=ballot-measures-county-amador.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/butte
+  out=ballot-measures-county-butte.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/calaveras
+  out=ballot-measures-county-calaveras.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/colusa
+  out=ballot-measures-county-colusa.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/contra-costa
+  out=ballot-measures-county-contra-costa.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/del-norte
+  out=ballot-measures-county-del-norte.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/el-dorado
+  out=ballot-measures-county-el-dorado.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/fresno
+  out=ballot-measures-county-fresno.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/glenn
+  out=ballot-measures-county-glenn.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/humboldt
+  out=ballot-measures-county-humboldt.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/imperial
+  out=ballot-measures-county-imperial.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/inyo
+  out=ballot-measures-county-inyo.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/kern
+  out=ballot-measures-county-kern.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/kings
+  out=ballot-measures-county-kings.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/lake
+  out=ballot-measures-county-lake.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/lassen
+  out=ballot-measures-county-lassen.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/los-angeles
+  out=ballot-measures-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/madera
+  out=ballot-measures-county-madera.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/marin
+  out=ballot-measures-county-marin.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/mariposa
+  out=ballot-measures-county-mariposa.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/mendocino
+  out=ballot-measures-county-mendocino.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/merced
+  out=ballot-measures-county-merced.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/modoc
+  out=ballot-measures-county-modoc.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/mono
+  out=ballot-measures-county-mono.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/monterey
+  out=ballot-measures-county-monterey.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/napa
+  out=ballot-measures-county-napa.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/nevada
+  out=ballot-measures-county-nevada.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/orange
+  out=ballot-measures-county-orange.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/placer
+  out=ballot-measures-county-placer.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/plumas
+  out=ballot-measures-county-plumas.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/riverside
+  out=ballot-measures-county-riverside.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/sacramento
+  out=ballot-measures-county-sacramento.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/san-benito
+  out=ballot-measures-county-san-benito.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/san-bernardino
+  out=ballot-measures-county-san-bernardino.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/san-diego
+  out=ballot-measures-county-san-diego.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/san-francisco
+  out=ballot-measures-county-san-francisco.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/san-joaquin
+  out=ballot-measures-county-san-joaquin.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/san-luis-obispo
+  out=ballot-measures-county-san-luis-obispo.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/san-mateo
+  out=ballot-measures-county-san-mateo.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/santa-barbara
+  out=ballot-measures-county-santa-barbara.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/santa-clara
+  out=ballot-measures-county-santa-clara.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/santa-cruz
+  out=ballot-measures-county-santa-cruz.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/shasta
+  out=ballot-measures-county-shasta.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/sierra
+  out=ballot-measures-county-sierra.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/siskiyou
+  out=ballot-measures-county-siskiyou.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/solano
+  out=ballot-measures-county-solano.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/sonoma
+  out=ballot-measures-county-sonoma.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/stanislaus
+  out=ballot-measures-county-stanislaus.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/sutter
+  out=ballot-measures-county-sutter.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/tehama
+  out=ballot-measures-county-tehama.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/trinity
+  out=ballot-measures-county-trinity.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/tulare
+  out=ballot-measures-county-tulare.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/tuolumne
+  out=ballot-measures-county-tuolumne.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/ventura
+  out=ballot-measures-county-ventura.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/yolo
+  out=ballot-measures-county-yolo.json
+
+https://api-internal.sos.ca.gov/returns/ballot-measures/county/yuba
+  out=ballot-measures-county-yuba.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/all
+  out=us-rep.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/1
+  out=us-rep-district-1.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/2
+  out=us-rep-district-2.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/3
+  out=us-rep-district-3.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/4
+  out=us-rep-district-4.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/5
+  out=us-rep-district-5.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/6
+  out=us-rep-district-6.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/7
+  out=us-rep-district-7.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/8
+  out=us-rep-district-8.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/9
+  out=us-rep-district-9.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/10
+  out=us-rep-district-10.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/11
+  out=us-rep-district-11.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/12
+  out=us-rep-district-12.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/13
+  out=us-rep-district-13.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/14
+  out=us-rep-district-14.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/15
+  out=us-rep-district-15.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/16
+  out=us-rep-district-16.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/17
+  out=us-rep-district-17.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/18
+  out=us-rep-district-18.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/19
+  out=us-rep-district-19.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/20
+  out=us-rep-district-20.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/21
+  out=us-rep-district-21.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/22
+  out=us-rep-district-22.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/23
+  out=us-rep-district-23.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/24
+  out=us-rep-district-24.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/25
+  out=us-rep-district-25.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/26
+  out=us-rep-district-26.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/27
+  out=us-rep-district-27.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/28
+  out=us-rep-district-28.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/29
+  out=us-rep-district-29.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/30
+  out=us-rep-district-30.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/31
+  out=us-rep-district-31.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/32
+  out=us-rep-district-32.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/33
+  out=us-rep-district-33.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/34
+  out=us-rep-district-34.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/35
+  out=us-rep-district-35.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/36
+  out=us-rep-district-36.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/37
+  out=us-rep-district-37.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/38
+  out=us-rep-district-38.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/39
+  out=us-rep-district-39.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/40
+  out=us-rep-district-40.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/41
+  out=us-rep-district-41.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/42
+  out=us-rep-district-42.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/43
+  out=us-rep-district-43.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/44
+  out=us-rep-district-44.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/45
+  out=us-rep-district-45.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/46
+  out=us-rep-district-46.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/47
+  out=us-rep-district-47.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/48
+  out=us-rep-district-48.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/49
+  out=us-rep-district-49.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/50
+  out=us-rep-district-50.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/51
+  out=us-rep-district-51.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/52
+  out=us-rep-district-52.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/1/county/butte
+  out=us-rep-district-1-county-butte.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/1/county/colusa
+  out=us-rep-district-1-county-colusa.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/1/county/glenn
+  out=us-rep-district-1-county-glenn.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/1/county/lassen
+  out=us-rep-district-1-county-lassen.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/1/county/modoc
+  out=us-rep-district-1-county-modoc.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/1/county/shasta
+  out=us-rep-district-1-county-shasta.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/1/county/siskiyou
+  out=us-rep-district-1-county-siskiyou.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/1/county/sutter
+  out=us-rep-district-1-county-sutter.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/1/county/tehama
+  out=us-rep-district-1-county-tehama.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/1/county/yuba
+  out=us-rep-district-1-county-yuba.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/2/county/del-norte
+  out=us-rep-district-2-county-del-norte.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/2/county/humboldt
+  out=us-rep-district-2-county-humboldt.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/2/county/marin
+  out=us-rep-district-2-county-marin.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/2/county/mendocino
+  out=us-rep-district-2-county-mendocino.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/2/county/san-francisco
+  out=us-rep-district-2-county-san-francisco.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/2/county/sonoma
+  out=us-rep-district-2-county-sonoma.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/2/county/trinity
+  out=us-rep-district-2-county-trinity.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/3/county/alpine
+  out=us-rep-district-3-county-alpine.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/3/county/el-dorado
+  out=us-rep-district-3-county-el-dorado.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/3/county/inyo
+  out=us-rep-district-3-county-inyo.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/3/county/mono
+  out=us-rep-district-3-county-mono.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/3/county/nevada
+  out=us-rep-district-3-county-nevada.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/3/county/placer
+  out=us-rep-district-3-county-placer.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/3/county/plumas
+  out=us-rep-district-3-county-plumas.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/3/county/sacramento
+  out=us-rep-district-3-county-sacramento.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/3/county/sierra
+  out=us-rep-district-3-county-sierra.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/3/county/yuba
+  out=us-rep-district-3-county-yuba.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/4/county/lake
+  out=us-rep-district-4-county-lake.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/4/county/napa
+  out=us-rep-district-4-county-napa.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/4/county/solano
+  out=us-rep-district-4-county-solano.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/4/county/sonoma
+  out=us-rep-district-4-county-sonoma.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/4/county/yolo
+  out=us-rep-district-4-county-yolo.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/5/county/amador
+  out=us-rep-district-5-county-amador.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/5/county/calaveras
+  out=us-rep-district-5-county-calaveras.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/5/county/el-dorado
+  out=us-rep-district-5-county-el-dorado.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/5/county/fresno
+  out=us-rep-district-5-county-fresno.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/5/county/madera
+  out=us-rep-district-5-county-madera.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/5/county/mariposa
+  out=us-rep-district-5-county-mariposa.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/5/county/stanislaus
+  out=us-rep-district-5-county-stanislaus.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/5/county/tuolumne
+  out=us-rep-district-5-county-tuolumne.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/6/county/sacramento
+  out=us-rep-district-6-county-sacramento.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/7/county/sacramento
+  out=us-rep-district-7-county-sacramento.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/7/county/solano
+  out=us-rep-district-7-county-solano.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/7/county/yolo
+  out=us-rep-district-7-county-yolo.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/8/county/contra-costa
+  out=us-rep-district-8-county-contra-costa.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/8/county/solano
+  out=us-rep-district-8-county-solano.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/9/county/contra-costa
+  out=us-rep-district-9-county-contra-costa.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/9/county/san-joaquin
+  out=us-rep-district-9-county-san-joaquin.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/9/county/stanislaus
+  out=us-rep-district-9-county-stanislaus.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/10/county/alameda
+  out=us-rep-district-10-county-alameda.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/10/county/contra-costa
+  out=us-rep-district-10-county-contra-costa.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/11/county/san-francisco
+  out=us-rep-district-11-county-san-francisco.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/12/county/alameda
+  out=us-rep-district-12-county-alameda.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/12/county/san-francisco
+  out=us-rep-district-12-county-san-francisco.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/13/county/fresno
+  out=us-rep-district-13-county-fresno.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/13/county/madera
+  out=us-rep-district-13-county-madera.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/13/county/merced
+  out=us-rep-district-13-county-merced.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/13/county/san-joaquin
+  out=us-rep-district-13-county-san-joaquin.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/13/county/stanislaus
+  out=us-rep-district-13-county-stanislaus.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/14/county/alameda
+  out=us-rep-district-14-county-alameda.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/15/county/san-francisco
+  out=us-rep-district-15-county-san-francisco.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/15/county/san-mateo
+  out=us-rep-district-15-county-san-mateo.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/16/county/san-mateo
+  out=us-rep-district-16-county-san-mateo.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/16/county/santa-clara
+  out=us-rep-district-16-county-santa-clara.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/17/county/alameda
+  out=us-rep-district-17-county-alameda.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/17/county/santa-clara
+  out=us-rep-district-17-county-santa-clara.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/18/county/monterey
+  out=us-rep-district-18-county-monterey.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/18/county/san-benito
+  out=us-rep-district-18-county-san-benito.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/18/county/santa-clara
+  out=us-rep-district-18-county-santa-clara.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/18/county/santa-cruz
+  out=us-rep-district-18-county-santa-cruz.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/19/county/monterey
+  out=us-rep-district-19-county-monterey.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/19/county/san-luis-obispo
+  out=us-rep-district-19-county-san-luis-obispo.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/19/county/santa-clara
+  out=us-rep-district-19-county-santa-clara.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/19/county/santa-cruz
+  out=us-rep-district-19-county-santa-cruz.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/20/county/fresno
+  out=us-rep-district-20-county-fresno.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/20/county/kern
+  out=us-rep-district-20-county-kern.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/20/county/kings
+  out=us-rep-district-20-county-kings.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/20/county/tulare
+  out=us-rep-district-20-county-tulare.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/21/county/fresno
+  out=us-rep-district-21-county-fresno.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/21/county/tulare
+  out=us-rep-district-21-county-tulare.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/22/county/kern
+  out=us-rep-district-22-county-kern.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/22/county/kings
+  out=us-rep-district-22-county-kings.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/22/county/tulare
+  out=us-rep-district-22-county-tulare.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/23/county/kern
+  out=us-rep-district-23-county-kern.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/23/county/los-angeles
+  out=us-rep-district-23-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/23/county/san-bernardino
+  out=us-rep-district-23-county-san-bernardino.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/24/county/san-luis-obispo
+  out=us-rep-district-24-county-san-luis-obispo.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/24/county/santa-barbara
+  out=us-rep-district-24-county-santa-barbara.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/24/county/ventura
+  out=us-rep-district-24-county-ventura.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/25/county/imperial
+  out=us-rep-district-25-county-imperial.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/25/county/riverside
+  out=us-rep-district-25-county-riverside.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/25/county/san-bernardino
+  out=us-rep-district-25-county-san-bernardino.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/26/county/los-angeles
+  out=us-rep-district-26-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/26/county/ventura
+  out=us-rep-district-26-county-ventura.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/27/county/los-angeles
+  out=us-rep-district-27-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/28/county/los-angeles
+  out=us-rep-district-28-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/28/county/san-bernardino
+  out=us-rep-district-28-county-san-bernardino.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/29/county/los-angeles
+  out=us-rep-district-29-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/30/county/los-angeles
+  out=us-rep-district-30-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/31/county/los-angeles
+  out=us-rep-district-31-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/32/county/los-angeles
+  out=us-rep-district-32-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/32/county/ventura
+  out=us-rep-district-32-county-ventura.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/33/county/san-bernardino
+  out=us-rep-district-33-county-san-bernardino.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/34/county/los-angeles
+  out=us-rep-district-34-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/35/county/los-angeles
+  out=us-rep-district-35-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/35/county/riverside
+  out=us-rep-district-35-county-riverside.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/35/county/san-bernardino
+  out=us-rep-district-35-county-san-bernardino.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/36/county/los-angeles
+  out=us-rep-district-36-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/37/county/los-angeles
+  out=us-rep-district-37-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/38/county/los-angeles
+  out=us-rep-district-38-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/38/county/orange
+  out=us-rep-district-38-county-orange.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/39/county/riverside
+  out=us-rep-district-39-county-riverside.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/40/county/orange
+  out=us-rep-district-40-county-orange.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/40/county/riverside
+  out=us-rep-district-40-county-riverside.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/40/county/san-bernardino
+  out=us-rep-district-40-county-san-bernardino.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/41/county/riverside
+  out=us-rep-district-41-county-riverside.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/42/county/los-angeles
+  out=us-rep-district-42-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/43/county/los-angeles
+  out=us-rep-district-43-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/44/county/los-angeles
+  out=us-rep-district-44-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/45/county/los-angeles
+  out=us-rep-district-45-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/45/county/orange
+  out=us-rep-district-45-county-orange.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/46/county/orange
+  out=us-rep-district-46-county-orange.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/47/county/orange
+  out=us-rep-district-47-county-orange.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/48/county/riverside
+  out=us-rep-district-48-county-riverside.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/48/county/san-diego
+  out=us-rep-district-48-county-san-diego.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/49/county/orange
+  out=us-rep-district-49-county-orange.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/49/county/san-diego
+  out=us-rep-district-49-county-san-diego.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/50/county/san-diego
+  out=us-rep-district-50-county-san-diego.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/51/county/san-diego
+  out=us-rep-district-51-county-san-diego.json
+
+https://api-internal.sos.ca.gov/returns/us-rep/district/52/county/san-diego
+  out=us-rep-district-52-county-san-diego.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/all
+  out=state-senate.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/1
+  out=state-senate-district-1.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/2
+  out=state-senate-district-2.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/3
+  out=state-senate-district-3.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/4
+  out=state-senate-district-4.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/5
+  out=state-senate-district-5.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/6
+  out=state-senate-district-6.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/7
+  out=state-senate-district-7.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/8
+  out=state-senate-district-8.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/9
+  out=state-senate-district-9.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/10
+  out=state-senate-district-10.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/11
+  out=state-senate-district-11.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/12
+  out=state-senate-district-12.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/13
+  out=state-senate-district-13.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/14
+  out=state-senate-district-14.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/15
+  out=state-senate-district-15.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/16
+  out=state-senate-district-16.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/17
+  out=state-senate-district-17.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/18
+  out=state-senate-district-18.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/19
+  out=state-senate-district-19.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/20
+  out=state-senate-district-20.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/21
+  out=state-senate-district-21.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/22
+  out=state-senate-district-22.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/23
+  out=state-senate-district-23.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/24
+  out=state-senate-district-24.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/25
+  out=state-senate-district-25.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/26
+  out=state-senate-district-26.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/27
+  out=state-senate-district-27.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/28
+  out=state-senate-district-28.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/29
+  out=state-senate-district-29.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/30
+  out=state-senate-district-30.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/31
+  out=state-senate-district-31.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/32
+  out=state-senate-district-32.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/33
+  out=state-senate-district-33.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/34
+  out=state-senate-district-34.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/35
+  out=state-senate-district-35.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/36
+  out=state-senate-district-36.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/37
+  out=state-senate-district-37.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/38
+  out=state-senate-district-38.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/39
+  out=state-senate-district-39.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/40
+  out=state-senate-district-40.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/1/county/butte
+  out=state-senate-district-1-county-butte.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/1/county/colusa
+  out=state-senate-district-1-county-colusa.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/1/county/glenn
+  out=state-senate-district-1-county-glenn.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/1/county/lassen
+  out=state-senate-district-1-county-lassen.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/1/county/modoc
+  out=state-senate-district-1-county-modoc.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/1/county/nevada
+  out=state-senate-district-1-county-nevada.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/1/county/placer
+  out=state-senate-district-1-county-placer.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/1/county/plumas
+  out=state-senate-district-1-county-plumas.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/1/county/shasta
+  out=state-senate-district-1-county-shasta.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/1/county/sierra
+  out=state-senate-district-1-county-sierra.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/1/county/siskiyou
+  out=state-senate-district-1-county-siskiyou.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/1/county/sutter
+  out=state-senate-district-1-county-sutter.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/1/county/tehama
+  out=state-senate-district-1-county-tehama.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/1/county/yuba
+  out=state-senate-district-1-county-yuba.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/2/county/del-norte
+  out=state-senate-district-2-county-del-norte.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/2/county/humboldt
+  out=state-senate-district-2-county-humboldt.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/2/county/lake
+  out=state-senate-district-2-county-lake.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/2/county/marin
+  out=state-senate-district-2-county-marin.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/2/county/mendocino
+  out=state-senate-district-2-county-mendocino.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/2/county/san-francisco
+  out=state-senate-district-2-county-san-francisco.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/2/county/sonoma
+  out=state-senate-district-2-county-sonoma.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/2/county/trinity
+  out=state-senate-district-2-county-trinity.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/3/county/contra-costa
+  out=state-senate-district-3-county-contra-costa.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/3/county/napa
+  out=state-senate-district-3-county-napa.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/3/county/sacramento
+  out=state-senate-district-3-county-sacramento.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/3/county/solano
+  out=state-senate-district-3-county-solano.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/3/county/sonoma
+  out=state-senate-district-3-county-sonoma.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/3/county/yolo
+  out=state-senate-district-3-county-yolo.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/4/county/alpine
+  out=state-senate-district-4-county-alpine.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/4/county/amador
+  out=state-senate-district-4-county-amador.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/4/county/calaveras
+  out=state-senate-district-4-county-calaveras.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/4/county/el-dorado
+  out=state-senate-district-4-county-el-dorado.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/4/county/inyo
+  out=state-senate-district-4-county-inyo.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/4/county/madera
+  out=state-senate-district-4-county-madera.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/4/county/mariposa
+  out=state-senate-district-4-county-mariposa.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/4/county/merced
+  out=state-senate-district-4-county-merced.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/4/county/mono
+  out=state-senate-district-4-county-mono.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/4/county/nevada
+  out=state-senate-district-4-county-nevada.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/4/county/placer
+  out=state-senate-district-4-county-placer.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/4/county/stanislaus
+  out=state-senate-district-4-county-stanislaus.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/4/county/tuolumne
+  out=state-senate-district-4-county-tuolumne.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/5/county/alameda
+  out=state-senate-district-5-county-alameda.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/5/county/san-joaquin
+  out=state-senate-district-5-county-san-joaquin.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/6/county/placer
+  out=state-senate-district-6-county-placer.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/6/county/sacramento
+  out=state-senate-district-6-county-sacramento.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/7/county/alameda
+  out=state-senate-district-7-county-alameda.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/7/county/contra-costa
+  out=state-senate-district-7-county-contra-costa.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/7/county/san-francisco
+  out=state-senate-district-7-county-san-francisco.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/8/county/sacramento
+  out=state-senate-district-8-county-sacramento.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/9/county/alameda
+  out=state-senate-district-9-county-alameda.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/9/county/contra-costa
+  out=state-senate-district-9-county-contra-costa.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/10/county/alameda
+  out=state-senate-district-10-county-alameda.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/10/county/santa-clara
+  out=state-senate-district-10-county-santa-clara.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/11/county/san-francisco
+  out=state-senate-district-11-county-san-francisco.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/11/county/san-mateo
+  out=state-senate-district-11-county-san-mateo.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/12/county/fresno
+  out=state-senate-district-12-county-fresno.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/12/county/kern
+  out=state-senate-district-12-county-kern.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/12/county/tulare
+  out=state-senate-district-12-county-tulare.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/13/county/san-mateo
+  out=state-senate-district-13-county-san-mateo.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/13/county/santa-clara
+  out=state-senate-district-13-county-santa-clara.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/14/county/fresno
+  out=state-senate-district-14-county-fresno.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/14/county/madera
+  out=state-senate-district-14-county-madera.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/14/county/merced
+  out=state-senate-district-14-county-merced.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/14/county/tulare
+  out=state-senate-district-14-county-tulare.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/15/county/santa-clara
+  out=state-senate-district-15-county-santa-clara.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/16/county/fresno
+  out=state-senate-district-16-county-fresno.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/16/county/kern
+  out=state-senate-district-16-county-kern.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/16/county/kings
+  out=state-senate-district-16-county-kings.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/16/county/tulare
+  out=state-senate-district-16-county-tulare.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/17/county/monterey
+  out=state-senate-district-17-county-monterey.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/17/county/san-benito
+  out=state-senate-district-17-county-san-benito.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/17/county/san-luis-obispo
+  out=state-senate-district-17-county-san-luis-obispo.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/17/county/santa-cruz
+  out=state-senate-district-17-county-santa-cruz.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/18/county/imperial
+  out=state-senate-district-18-county-imperial.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/18/county/riverside
+  out=state-senate-district-18-county-riverside.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/18/county/san-bernardino
+  out=state-senate-district-18-county-san-bernardino.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/18/county/san-diego
+  out=state-senate-district-18-county-san-diego.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/19/county/riverside
+  out=state-senate-district-19-county-riverside.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/19/county/san-bernardino
+  out=state-senate-district-19-county-san-bernardino.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/20/county/los-angeles
+  out=state-senate-district-20-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/21/county/san-luis-obispo
+  out=state-senate-district-21-county-san-luis-obispo.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/21/county/santa-barbara
+  out=state-senate-district-21-county-santa-barbara.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/21/county/ventura
+  out=state-senate-district-21-county-ventura.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/22/county/los-angeles
+  out=state-senate-district-22-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/22/county/san-bernardino
+  out=state-senate-district-22-county-san-bernardino.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/23/county/los-angeles
+  out=state-senate-district-23-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/23/county/san-bernardino
+  out=state-senate-district-23-county-san-bernardino.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/24/county/los-angeles
+  out=state-senate-district-24-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/25/county/los-angeles
+  out=state-senate-district-25-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/25/county/san-bernardino
+  out=state-senate-district-25-county-san-bernardino.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/26/county/los-angeles
+  out=state-senate-district-26-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/27/county/los-angeles
+  out=state-senate-district-27-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/27/county/ventura
+  out=state-senate-district-27-county-ventura.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/28/county/los-angeles
+  out=state-senate-district-28-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/29/county/san-bernardino
+  out=state-senate-district-29-county-san-bernardino.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/30/county/los-angeles
+  out=state-senate-district-30-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/30/county/orange
+  out=state-senate-district-30-county-orange.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/31/county/riverside
+  out=state-senate-district-31-county-riverside.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/31/county/san-bernardino
+  out=state-senate-district-31-county-san-bernardino.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/32/county/orange
+  out=state-senate-district-32-county-orange.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/32/county/riverside
+  out=state-senate-district-32-county-riverside.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/32/county/san-bernardino
+  out=state-senate-district-32-county-san-bernardino.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/32/county/san-diego
+  out=state-senate-district-32-county-san-diego.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/33/county/los-angeles
+  out=state-senate-district-33-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/34/county/los-angeles
+  out=state-senate-district-34-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/34/county/orange
+  out=state-senate-district-34-county-orange.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/35/county/los-angeles
+  out=state-senate-district-35-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/36/county/los-angeles
+  out=state-senate-district-36-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/36/county/orange
+  out=state-senate-district-36-county-orange.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/37/county/orange
+  out=state-senate-district-37-county-orange.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/38/county/orange
+  out=state-senate-district-38-county-orange.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/38/county/san-diego
+  out=state-senate-district-38-county-san-diego.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/39/county/san-diego
+  out=state-senate-district-39-county-san-diego.json
+
+https://api-internal.sos.ca.gov/returns/state-senate/district/40/county/san-diego
+  out=state-senate-district-40-county-san-diego.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/all
+  out=state-assembly.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/1
+  out=state-assembly-district-1.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/2
+  out=state-assembly-district-2.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/3
+  out=state-assembly-district-3.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/4
+  out=state-assembly-district-4.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/5
+  out=state-assembly-district-5.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/6
+  out=state-assembly-district-6.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/7
+  out=state-assembly-district-7.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/8
+  out=state-assembly-district-8.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/9
+  out=state-assembly-district-9.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/10
+  out=state-assembly-district-10.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/11
+  out=state-assembly-district-11.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/12
+  out=state-assembly-district-12.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/13
+  out=state-assembly-district-13.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/14
+  out=state-assembly-district-14.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/15
+  out=state-assembly-district-15.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/16
+  out=state-assembly-district-16.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/17
+  out=state-assembly-district-17.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/18
+  out=state-assembly-district-18.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/19
+  out=state-assembly-district-19.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/20
+  out=state-assembly-district-20.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/21
+  out=state-assembly-district-21.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/22
+  out=state-assembly-district-22.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/23
+  out=state-assembly-district-23.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/24
+  out=state-assembly-district-24.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/25
+  out=state-assembly-district-25.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/26
+  out=state-assembly-district-26.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/27
+  out=state-assembly-district-27.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/28
+  out=state-assembly-district-28.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/29
+  out=state-assembly-district-29.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/30
+  out=state-assembly-district-30.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/31
+  out=state-assembly-district-31.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/32
+  out=state-assembly-district-32.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/33
+  out=state-assembly-district-33.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/34
+  out=state-assembly-district-34.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/35
+  out=state-assembly-district-35.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/36
+  out=state-assembly-district-36.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/37
+  out=state-assembly-district-37.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/38
+  out=state-assembly-district-38.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/39
+  out=state-assembly-district-39.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/40
+  out=state-assembly-district-40.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/41
+  out=state-assembly-district-41.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/42
+  out=state-assembly-district-42.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/43
+  out=state-assembly-district-43.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/44
+  out=state-assembly-district-44.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/45
+  out=state-assembly-district-45.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/46
+  out=state-assembly-district-46.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/47
+  out=state-assembly-district-47.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/48
+  out=state-assembly-district-48.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/49
+  out=state-assembly-district-49.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/50
+  out=state-assembly-district-50.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/51
+  out=state-assembly-district-51.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/52
+  out=state-assembly-district-52.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/53
+  out=state-assembly-district-53.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/54
+  out=state-assembly-district-54.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/55
+  out=state-assembly-district-55.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/56
+  out=state-assembly-district-56.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/57
+  out=state-assembly-district-57.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/58
+  out=state-assembly-district-58.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/59
+  out=state-assembly-district-59.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/60
+  out=state-assembly-district-60.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/61
+  out=state-assembly-district-61.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/62
+  out=state-assembly-district-62.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/63
+  out=state-assembly-district-63.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/64
+  out=state-assembly-district-64.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/65
+  out=state-assembly-district-65.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/66
+  out=state-assembly-district-66.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/67
+  out=state-assembly-district-67.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/68
+  out=state-assembly-district-68.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/69
+  out=state-assembly-district-69.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/70
+  out=state-assembly-district-70.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/71
+  out=state-assembly-district-71.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/72
+  out=state-assembly-district-72.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/73
+  out=state-assembly-district-73.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/74
+  out=state-assembly-district-74.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/75
+  out=state-assembly-district-75.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/76
+  out=state-assembly-district-76.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/77
+  out=state-assembly-district-77.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/78
+  out=state-assembly-district-78.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/79
+  out=state-assembly-district-79.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/80
+  out=state-assembly-district-80.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/1/county/alpine
+  out=state-assembly-district-1-county-alpine.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/1/county/amador
+  out=state-assembly-district-1-county-amador.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/1/county/el-dorado
+  out=state-assembly-district-1-county-el-dorado.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/1/county/lassen
+  out=state-assembly-district-1-county-lassen.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/1/county/modoc
+  out=state-assembly-district-1-county-modoc.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/1/county/nevada
+  out=state-assembly-district-1-county-nevada.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/1/county/placer
+  out=state-assembly-district-1-county-placer.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/1/county/plumas
+  out=state-assembly-district-1-county-plumas.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/1/county/shasta
+  out=state-assembly-district-1-county-shasta.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/1/county/sierra
+  out=state-assembly-district-1-county-sierra.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/1/county/siskiyou
+  out=state-assembly-district-1-county-siskiyou.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/2/county/del-norte
+  out=state-assembly-district-2-county-del-norte.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/2/county/humboldt
+  out=state-assembly-district-2-county-humboldt.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/2/county/mendocino
+  out=state-assembly-district-2-county-mendocino.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/2/county/sonoma
+  out=state-assembly-district-2-county-sonoma.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/2/county/trinity
+  out=state-assembly-district-2-county-trinity.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/3/county/butte
+  out=state-assembly-district-3-county-butte.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/3/county/glenn
+  out=state-assembly-district-3-county-glenn.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/3/county/placer
+  out=state-assembly-district-3-county-placer.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/3/county/sutter
+  out=state-assembly-district-3-county-sutter.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/3/county/tehama
+  out=state-assembly-district-3-county-tehama.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/3/county/yuba
+  out=state-assembly-district-3-county-yuba.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/4/county/colusa
+  out=state-assembly-district-4-county-colusa.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/4/county/lake
+  out=state-assembly-district-4-county-lake.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/4/county/napa
+  out=state-assembly-district-4-county-napa.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/4/county/sonoma
+  out=state-assembly-district-4-county-sonoma.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/4/county/yolo
+  out=state-assembly-district-4-county-yolo.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/5/county/el-dorado
+  out=state-assembly-district-5-county-el-dorado.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/5/county/placer
+  out=state-assembly-district-5-county-placer.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/6/county/sacramento
+  out=state-assembly-district-6-county-sacramento.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/7/county/sacramento
+  out=state-assembly-district-7-county-sacramento.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/8/county/calaveras
+  out=state-assembly-district-8-county-calaveras.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/8/county/fresno
+  out=state-assembly-district-8-county-fresno.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/8/county/inyo
+  out=state-assembly-district-8-county-inyo.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/8/county/madera
+  out=state-assembly-district-8-county-madera.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/8/county/mariposa
+  out=state-assembly-district-8-county-mariposa.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/8/county/mono
+  out=state-assembly-district-8-county-mono.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/8/county/tuolumne
+  out=state-assembly-district-8-county-tuolumne.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/9/county/amador
+  out=state-assembly-district-9-county-amador.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/9/county/calaveras
+  out=state-assembly-district-9-county-calaveras.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/9/county/sacramento
+  out=state-assembly-district-9-county-sacramento.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/9/county/san-joaquin
+  out=state-assembly-district-9-county-san-joaquin.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/9/county/stanislaus
+  out=state-assembly-district-9-county-stanislaus.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/10/county/sacramento
+  out=state-assembly-district-10-county-sacramento.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/11/county/contra-costa
+  out=state-assembly-district-11-county-contra-costa.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/11/county/sacramento
+  out=state-assembly-district-11-county-sacramento.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/11/county/solano
+  out=state-assembly-district-11-county-solano.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/12/county/marin
+  out=state-assembly-district-12-county-marin.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/12/county/san-francisco
+  out=state-assembly-district-12-county-san-francisco.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/12/county/sonoma
+  out=state-assembly-district-12-county-sonoma.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/13/county/san-joaquin
+  out=state-assembly-district-13-county-san-joaquin.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/14/county/alameda
+  out=state-assembly-district-14-county-alameda.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/14/county/contra-costa
+  out=state-assembly-district-14-county-contra-costa.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/15/county/contra-costa
+  out=state-assembly-district-15-county-contra-costa.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/16/county/alameda
+  out=state-assembly-district-16-county-alameda.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/16/county/contra-costa
+  out=state-assembly-district-16-county-contra-costa.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/17/county/san-francisco
+  out=state-assembly-district-17-county-san-francisco.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/18/county/alameda
+  out=state-assembly-district-18-county-alameda.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/18/county/san-francisco
+  out=state-assembly-district-18-county-san-francisco.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/19/county/san-francisco
+  out=state-assembly-district-19-county-san-francisco.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/19/county/san-mateo
+  out=state-assembly-district-19-county-san-mateo.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/20/county/alameda
+  out=state-assembly-district-20-county-alameda.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/21/county/san-mateo
+  out=state-assembly-district-21-county-san-mateo.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/22/county/merced
+  out=state-assembly-district-22-county-merced.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/22/county/stanislaus
+  out=state-assembly-district-22-county-stanislaus.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/23/county/san-mateo
+  out=state-assembly-district-23-county-san-mateo.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/23/county/santa-clara
+  out=state-assembly-district-23-county-santa-clara.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/24/county/alameda
+  out=state-assembly-district-24-county-alameda.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/24/county/santa-clara
+  out=state-assembly-district-24-county-santa-clara.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/25/county/santa-clara
+  out=state-assembly-district-25-county-santa-clara.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/26/county/santa-clara
+  out=state-assembly-district-26-county-santa-clara.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/27/county/fresno
+  out=state-assembly-district-27-county-fresno.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/27/county/madera
+  out=state-assembly-district-27-county-madera.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/27/county/merced
+  out=state-assembly-district-27-county-merced.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/28/county/santa-clara
+  out=state-assembly-district-28-county-santa-clara.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/28/county/santa-cruz
+  out=state-assembly-district-28-county-santa-cruz.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/29/county/monterey
+  out=state-assembly-district-29-county-monterey.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/29/county/san-benito
+  out=state-assembly-district-29-county-san-benito.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/29/county/santa-clara
+  out=state-assembly-district-29-county-santa-clara.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/29/county/santa-cruz
+  out=state-assembly-district-29-county-santa-cruz.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/30/county/monterey
+  out=state-assembly-district-30-county-monterey.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/30/county/san-luis-obispo
+  out=state-assembly-district-30-county-san-luis-obispo.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/30/county/santa-cruz
+  out=state-assembly-district-30-county-santa-cruz.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/31/county/fresno
+  out=state-assembly-district-31-county-fresno.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/32/county/kern
+  out=state-assembly-district-32-county-kern.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/32/county/tulare
+  out=state-assembly-district-32-county-tulare.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/33/county/fresno
+  out=state-assembly-district-33-county-fresno.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/33/county/kings
+  out=state-assembly-district-33-county-kings.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/33/county/tulare
+  out=state-assembly-district-33-county-tulare.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/34/county/kern
+  out=state-assembly-district-34-county-kern.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/34/county/los-angeles
+  out=state-assembly-district-34-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/34/county/san-bernardino
+  out=state-assembly-district-34-county-san-bernardino.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/35/county/kern
+  out=state-assembly-district-35-county-kern.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/36/county/imperial
+  out=state-assembly-district-36-county-imperial.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/36/county/riverside
+  out=state-assembly-district-36-county-riverside.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/36/county/san-bernardino
+  out=state-assembly-district-36-county-san-bernardino.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/37/county/san-luis-obispo
+  out=state-assembly-district-37-county-san-luis-obispo.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/37/county/santa-barbara
+  out=state-assembly-district-37-county-santa-barbara.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/38/county/ventura
+  out=state-assembly-district-38-county-ventura.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/39/county/los-angeles
+  out=state-assembly-district-39-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/39/county/san-bernardino
+  out=state-assembly-district-39-county-san-bernardino.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/40/county/los-angeles
+  out=state-assembly-district-40-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/41/county/los-angeles
+  out=state-assembly-district-41-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/41/county/san-bernardino
+  out=state-assembly-district-41-county-san-bernardino.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/42/county/los-angeles
+  out=state-assembly-district-42-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/42/county/ventura
+  out=state-assembly-district-42-county-ventura.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/43/county/los-angeles
+  out=state-assembly-district-43-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/44/county/los-angeles
+  out=state-assembly-district-44-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/45/county/san-bernardino
+  out=state-assembly-district-45-county-san-bernardino.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/46/county/los-angeles
+  out=state-assembly-district-46-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/46/county/ventura
+  out=state-assembly-district-46-county-ventura.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/47/county/riverside
+  out=state-assembly-district-47-county-riverside.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/47/county/san-bernardino
+  out=state-assembly-district-47-county-san-bernardino.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/48/county/los-angeles
+  out=state-assembly-district-48-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/49/county/los-angeles
+  out=state-assembly-district-49-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/50/county/san-bernardino
+  out=state-assembly-district-50-county-san-bernardino.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/51/county/los-angeles
+  out=state-assembly-district-51-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/52/county/los-angeles
+  out=state-assembly-district-52-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/53/county/los-angeles
+  out=state-assembly-district-53-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/53/county/san-bernardino
+  out=state-assembly-district-53-county-san-bernardino.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/54/county/los-angeles
+  out=state-assembly-district-54-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/55/county/los-angeles
+  out=state-assembly-district-55-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/56/county/los-angeles
+  out=state-assembly-district-56-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/57/county/los-angeles
+  out=state-assembly-district-57-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/58/county/riverside
+  out=state-assembly-district-58-county-riverside.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/58/county/san-bernardino
+  out=state-assembly-district-58-county-san-bernardino.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/59/county/orange
+  out=state-assembly-district-59-county-orange.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/59/county/san-bernardino
+  out=state-assembly-district-59-county-san-bernardino.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/60/county/riverside
+  out=state-assembly-district-60-county-riverside.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/61/county/los-angeles
+  out=state-assembly-district-61-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/62/county/los-angeles
+  out=state-assembly-district-62-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/63/county/riverside
+  out=state-assembly-district-63-county-riverside.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/64/county/los-angeles
+  out=state-assembly-district-64-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/64/county/orange
+  out=state-assembly-district-64-county-orange.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/65/county/los-angeles
+  out=state-assembly-district-65-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/66/county/los-angeles
+  out=state-assembly-district-66-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/67/county/los-angeles
+  out=state-assembly-district-67-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/67/county/orange
+  out=state-assembly-district-67-county-orange.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/68/county/orange
+  out=state-assembly-district-68-county-orange.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/69/county/los-angeles
+  out=state-assembly-district-69-county-los-angeles.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/70/county/orange
+  out=state-assembly-district-70-county-orange.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/71/county/orange
+  out=state-assembly-district-71-county-orange.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/71/county/riverside
+  out=state-assembly-district-71-county-riverside.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/72/county/orange
+  out=state-assembly-district-72-county-orange.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/73/county/orange
+  out=state-assembly-district-73-county-orange.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/74/county/orange
+  out=state-assembly-district-74-county-orange.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/74/county/san-diego
+  out=state-assembly-district-74-county-san-diego.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/75/county/san-diego
+  out=state-assembly-district-75-county-san-diego.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/76/county/san-diego
+  out=state-assembly-district-76-county-san-diego.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/77/county/san-diego
+  out=state-assembly-district-77-county-san-diego.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/78/county/san-diego
+  out=state-assembly-district-78-county-san-diego.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/79/county/san-diego
+  out=state-assembly-district-79-county-san-diego.json
+
+https://api-internal.sos.ca.gov/returns/state-assembly/district/80/county/san-diego
+  out=state-assembly-district-80-county-san-diego.json
+

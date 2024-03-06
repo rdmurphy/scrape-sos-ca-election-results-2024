@@ -1,0 +1,21 @@
+{
+  "raceTitle": "State Senate District 26 - Districtwide Results",
+  "Reporting": "100% (243 of 243) precincts reporting",
+  "ReportingTime": "January 18, 2023, 3:44 p.m.",
+  "candidates": [
+    {
+      "Name": "Maria Elena Durazo",
+      "Party": "Dem",
+      "Votes": "155,727",
+      "Percent": "82.9",
+      "incumbent": false
+    },
+    {
+      "Name": "Claudia Agraz",
+      "Party": "Rep",
+      "Votes": "32,022",
+      "Percent": "17.1",
+      "incumbent": false
+    }
+  ]
+}

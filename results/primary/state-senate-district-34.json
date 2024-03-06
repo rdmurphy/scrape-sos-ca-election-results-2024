@@ -1,0 +1,21 @@
+{
+  "raceTitle": "State Senate District 34 - Districtwide Results",
+  "Reporting": "100% (436 of 436) precincts reporting",
+  "ReportingTime": "January 18, 2023, 3:44 p.m.",
+  "candidates": [
+    {
+      "Name": "Tom Umberg",
+      "Party": "Dem",
+      "Votes": "96,419",
+      "Percent": "58.8",
+      "incumbent": false
+    },
+    {
+      "Name": "Rhonda Shader",
+      "Party": "Rep",
+      "Votes": "67,633",
+      "Percent": "41.2",
+      "incumbent": false
+    }
+  ]
+}

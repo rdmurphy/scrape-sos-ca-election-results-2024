@@ -1,0 +1,44 @@
+[
+  {
+    "raceTitle": "State Senate District 12 - Kern County Results",
+    "Reporting": "100% (445 of 445) precincts reporting",
+    "ReportingTime": "January 18, 2023, 3:44 p.m.",
+    "candidates": [
+      {
+        "Name": "Susanne Gundy",
+        "Party": "Dem",
+        "Votes": "34,507",
+        "Percent": "27.7",
+        "incumbent": false
+      },
+      {
+        "Name": "Shannon Grove",
+        "Party": "Rep",
+        "Votes": "89,905",
+        "Percent": "72.3",
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "raceTitle": "State Senate District 12 - Districtwide Results",
+    "Reporting": "100% (748 of 748) precincts reporting",
+    "ReportingTime": "January 18, 2023, 3:44 p.m.",
+    "candidates": [
+      {
+        "Name": "Susanne Gundy",
+        "Party": "Dem",
+        "Votes": "89,471",
+        "Percent": "31.3",
+        "incumbent": false
+      },
+      {
+        "Name": "Shannon Grove",
+        "Party": "Rep",
+        "Votes": "196,017",
+        "Percent": "68.7",
+        "incumbent": false
+      }
+    ]
+  }
+]

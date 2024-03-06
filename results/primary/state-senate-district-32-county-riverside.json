@@ -1,0 +1,44 @@
+[
+  {
+    "raceTitle": "State Senate District 32 - Riverside County Results",
+    "Reporting": "100% (493 of 493) precincts reporting",
+    "ReportingTime": "December 10, 2022, 12:03 p.m.",
+    "candidates": [
+      {
+        "Name": "Brian Nash",
+        "Party": "Dem",
+        "Votes": "91,487",
+        "Percent": "38.2",
+        "incumbent": false
+      },
+      {
+        "Name": "Kelly Seyarto",
+        "Party": "Rep",
+        "Votes": "148,094",
+        "Percent": "61.8",
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "raceTitle": "State Senate District 32 - Districtwide Results",
+    "Reporting": "100% (643 of 643) precincts reporting",
+    "ReportingTime": "January 18, 2023, 3:44 p.m.",
+    "candidates": [
+      {
+        "Name": "Brian Nash",
+        "Party": "Dem",
+        "Votes": "112,763",
+        "Percent": "38.0",
+        "incumbent": false
+      },
+      {
+        "Name": "Kelly Seyarto",
+        "Party": "Rep",
+        "Votes": "184,086",
+        "Percent": "62.0",
+        "incumbent": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "raceTitle": "State Senate District 40 - Districtwide Results",
+  "Reporting": "100% (1,068 of 1,068) precincts reporting",
+  "ReportingTime": "January 18, 2023, 3:44 p.m.",
+  "candidates": [
+    {
+      "Name": "Joseph C. Rocha",
+      "Party": "Dem",
+      "Votes": "149,948",
+      "Percent": "46.9",
+      "incumbent": false
+    },
+    {
+      "Name": "Brian W. Jones",
+      "Party": "Rep",
+      "Votes": "170,109",
+      "Percent": "53.1",
+      "incumbent": false
+    }
+  ]
+}

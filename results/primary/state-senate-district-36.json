@@ -1,0 +1,21 @@
+{
+  "raceTitle": "State Senate District 36 - Districtwide Results",
+  "Reporting": "100% (653 of 653) precincts reporting",
+  "ReportingTime": "January 18, 2023, 3:44 p.m.",
+  "candidates": [
+    {
+      "Name": "Kim Carr",
+      "Party": "Dem",
+      "Votes": "149,114",
+      "Percent": "43.1",
+      "incumbent": false
+    },
+    {
+      "Name": "Janet Nguyen",
+      "Party": "Rep",
+      "Votes": "196,488",
+      "Percent": "56.9",
+      "incumbent": false
+    }
+  ]
+}

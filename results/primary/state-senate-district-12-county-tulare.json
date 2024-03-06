@@ -1,0 +1,44 @@
+[
+  {
+    "raceTitle": "State Senate District 12 - Tulare County Results",
+    "Reporting": "100% (159 of 159) precincts reporting",
+    "ReportingTime": "December 10, 2022, 11:45 a.m.",
+    "candidates": [
+      {
+        "Name": "Susanne Gundy",
+        "Party": "Dem",
+        "Votes": "14,210",
+        "Percent": "30.8",
+        "incumbent": false
+      },
+      {
+        "Name": "Shannon Grove",
+        "Party": "Rep",
+        "Votes": "31,921",
+        "Percent": "69.2",
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "raceTitle": "State Senate District 12 - Districtwide Results",
+    "Reporting": "100% (748 of 748) precincts reporting",
+    "ReportingTime": "January 18, 2023, 3:44 p.m.",
+    "candidates": [
+      {
+        "Name": "Susanne Gundy",
+        "Party": "Dem",
+        "Votes": "89,471",
+        "Percent": "31.3",
+        "incumbent": false
+      },
+      {
+        "Name": "Shannon Grove",
+        "Party": "Rep",
+        "Votes": "196,017",
+        "Percent": "68.7",
+        "incumbent": false
+      }
+    ]
+  }
+]

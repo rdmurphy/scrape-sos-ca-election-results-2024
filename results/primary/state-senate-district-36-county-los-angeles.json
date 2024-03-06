@@ -1,0 +1,44 @@
+[
+  {
+    "raceTitle": "State Senate District 36 - Los Angeles County Results",
+    "Reporting": "100% (26 of 26) precincts reporting",
+    "ReportingTime": "December 10, 2022, 11:27 a.m.",
+    "candidates": [
+      {
+        "Name": "Kim Carr",
+        "Party": "Dem",
+        "Votes": "12,087",
+        "Percent": "55.9",
+        "incumbent": false
+      },
+      {
+        "Name": "Janet Nguyen",
+        "Party": "Rep",
+        "Votes": "9,517",
+        "Percent": "44.1",
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "raceTitle": "State Senate District 36 - Districtwide Results",
+    "Reporting": "100% (653 of 653) precincts reporting",
+    "ReportingTime": "January 18, 2023, 3:44 p.m.",
+    "candidates": [
+      {
+        "Name": "Kim Carr",
+        "Party": "Dem",
+        "Votes": "149,114",
+        "Percent": "43.1",
+        "incumbent": false
+      },
+      {
+        "Name": "Janet Nguyen",
+        "Party": "Rep",
+        "Votes": "196,488",
+        "Percent": "56.9",
+        "incumbent": false
+      }
+    ]
+  }
+]

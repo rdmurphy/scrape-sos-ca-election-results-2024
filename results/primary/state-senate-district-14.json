@@ -1,0 +1,21 @@
+{
+  "raceTitle": "State Senate District 14 - Districtwide Results",
+  "Reporting": "100% (706 of 706) precincts reporting",
+  "ReportingTime": "January 18, 2023, 3:44 p.m.",
+  "candidates": [
+    {
+      "Name": "Anna Caballero",
+      "Party": "Dem",
+      "Votes": "90,016",
+      "Percent": "56.3",
+      "incumbent": false
+    },
+    {
+      "Name": "Amnon Shor",
+      "Party": "Rep",
+      "Votes": "69,970",
+      "Percent": "43.7",
+      "incumbent": false
+    }
+  ]
+}

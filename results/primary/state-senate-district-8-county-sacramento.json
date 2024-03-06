@@ -1,0 +1,44 @@
+[
+  {
+    "raceTitle": "State Senate District 8 - Sacramento County Results",
+    "Reporting": "100% (366 of 366) precincts reporting",
+    "ReportingTime": "December 10, 2022, 12:05 p.m.",
+    "candidates": [
+      {
+        "Name": "Angelique Ashby",
+        "Party": "Dem",
+        "Votes": "118,135",
+        "Percent": "51.5",
+        "incumbent": false
+      },
+      {
+        "Name": "Dave Jones",
+        "Party": "Dem",
+        "Votes": "111,035",
+        "Percent": "48.5",
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "raceTitle": "State Senate District 8 - Districtwide Results",
+    "Reporting": "100% (366 of 366) precincts reporting",
+    "ReportingTime": "January 18, 2023, 3:44 p.m.",
+    "candidates": [
+      {
+        "Name": "Angelique Ashby",
+        "Party": "Dem",
+        "Votes": "118,135",
+        "Percent": "51.5",
+        "incumbent": false
+      },
+      {
+        "Name": "Dave Jones",
+        "Party": "Dem",
+        "Votes": "111,035",
+        "Percent": "48.5",
+        "incumbent": false
+      }
+    ]
+  }
+]

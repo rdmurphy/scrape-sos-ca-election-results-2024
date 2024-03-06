@@ -1,0 +1,44 @@
+[
+  {
+    "raceTitle": "State Senate District 16 - Kings County Results",
+    "Reporting": "100% (82 of 82) precincts reporting",
+    "ReportingTime": "December 10, 2022, 11:24 a.m.",
+    "candidates": [
+      {
+        "Name": "Melissa Hurtado",
+        "Party": "Dem",
+        "Votes": "10,786",
+        "Percent": "40.4",
+        "incumbent": false
+      },
+      {
+        "Name": "David Shepard",
+        "Party": "Rep",
+        "Votes": "15,917",
+        "Percent": "59.6",
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "raceTitle": "State Senate District 16 - Districtwide Results",
+    "Reporting": "100% (618 of 618) precincts reporting",
+    "ReportingTime": "January 18, 2023, 3:44 p.m.",
+    "candidates": [
+      {
+        "Name": "Melissa Hurtado",
+        "Party": "Dem",
+        "Votes": "68,460",
+        "Percent": "50.0",
+        "incumbent": false
+      },
+      {
+        "Name": "David Shepard",
+        "Party": "Rep",
+        "Votes": "68,438",
+        "Percent": "50.0",
+        "incumbent": false
+      }
+    ]
+  }
+]

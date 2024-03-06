@@ -1,0 +1,44 @@
+[
+  {
+    "raceTitle": "State Senate District 12 - Fresno County Results",
+    "Reporting": "100% (144 of 144) precincts reporting",
+    "ReportingTime": "December 10, 2022, 11:37 a.m.",
+    "candidates": [
+      {
+        "Name": "Susanne Gundy",
+        "Party": "Dem",
+        "Votes": "40,754",
+        "Percent": "35.5",
+        "incumbent": false
+      },
+      {
+        "Name": "Shannon Grove",
+        "Party": "Rep",
+        "Votes": "74,191",
+        "Percent": "64.5",
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "raceTitle": "State Senate District 12 - Districtwide Results",
+    "Reporting": "100% (748 of 748) precincts reporting",
+    "ReportingTime": "January 18, 2023, 3:44 p.m.",
+    "candidates": [
+      {
+        "Name": "Susanne Gundy",
+        "Party": "Dem",
+        "Votes": "89,471",
+        "Percent": "31.3",
+        "incumbent": false
+      },
+      {
+        "Name": "Shannon Grove",
+        "Party": "Rep",
+        "Votes": "196,017",
+        "Percent": "68.7",
+        "incumbent": false
+      }
+    ]
+  }
+]

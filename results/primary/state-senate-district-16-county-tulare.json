@@ -1,0 +1,44 @@
+[
+  {
+    "raceTitle": "State Senate District 16 - Tulare County Results",
+    "Reporting": "100% (200 of 200) precincts reporting",
+    "ReportingTime": "December 10, 2022, 11:45 a.m.",
+    "candidates": [
+      {
+        "Name": "Melissa Hurtado",
+        "Party": "Dem",
+        "Votes": "20,321",
+        "Percent": "46.8",
+        "incumbent": false
+      },
+      {
+        "Name": "David Shepard",
+        "Party": "Rep",
+        "Votes": "23,057",
+        "Percent": "53.2",
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "raceTitle": "State Senate District 16 - Districtwide Results",
+    "Reporting": "100% (618 of 618) precincts reporting",
+    "ReportingTime": "January 18, 2023, 3:44 p.m.",
+    "candidates": [
+      {
+        "Name": "Melissa Hurtado",
+        "Party": "Dem",
+        "Votes": "68,460",
+        "Percent": "50.0",
+        "incumbent": false
+      },
+      {
+        "Name": "David Shepard",
+        "Party": "Rep",
+        "Votes": "68,438",
+        "Percent": "50.0",
+        "incumbent": false
+      }
+    ]
+  }
+]

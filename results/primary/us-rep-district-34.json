@@ -1,0 +1,42 @@
+{
+  "raceTitle": "U.S. House of Representatives District 34 - Districtwide Results",
+  "Reporting": "0% (0 of 153) precincts reporting",
+  "ReportingTime": "March 5, 2024, 3:45 p.m.",
+  "candidates": [
+    {
+      "Name": "David M. Ferrell",
+      "Party": "Dem",
+      "Votes": "0",
+      "Percent": "0.0",
+      "incumbent": false
+    },
+    {
+      "Name": "Jimmy Gomez",
+      "Party": "Dem",
+      "Votes": "0",
+      "Percent": "0.0",
+      "incumbent": true
+    },
+    {
+      "Name": "David Kim",
+      "Party": "Dem",
+      "Votes": "0",
+      "Percent": "0.0",
+      "incumbent": false
+    },
+    {
+      "Name": "Calvin Lee",
+      "Party": "Rep",
+      "Votes": "0",
+      "Percent": "0.0",
+      "incumbent": false
+    },
+    {
+      "Name": "Aaron Reveles",
+      "Party": "P&F",
+      "Votes": "0",
+      "Percent": "0.0",
+      "incumbent": false
+    }
+  ]
+}

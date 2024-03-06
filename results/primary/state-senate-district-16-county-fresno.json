@@ -1,0 +1,44 @@
+[
+  {
+    "raceTitle": "State Senate District 16 - Fresno County Results",
+    "Reporting": "100% (19 of 19) precincts reporting",
+    "ReportingTime": "December 10, 2022, 11:37 a.m.",
+    "candidates": [
+      {
+        "Name": "Melissa Hurtado",
+        "Party": "Dem",
+        "Votes": "1,358",
+        "Percent": "28.3",
+        "incumbent": false
+      },
+      {
+        "Name": "David Shepard",
+        "Party": "Rep",
+        "Votes": "3,438",
+        "Percent": "71.7",
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "raceTitle": "State Senate District 16 - Districtwide Results",
+    "Reporting": "100% (618 of 618) precincts reporting",
+    "ReportingTime": "January 18, 2023, 3:44 p.m.",
+    "candidates": [
+      {
+        "Name": "Melissa Hurtado",
+        "Party": "Dem",
+        "Votes": "68,460",
+        "Percent": "50.0",
+        "incumbent": false
+      },
+      {
+        "Name": "David Shepard",
+        "Party": "Rep",
+        "Votes": "68,438",
+        "Percent": "50.0",
+        "incumbent": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "raceTitle": "State Senate District 14 - Tulare County Results",
+    "Reporting": "100% (1 of 1) precincts reporting",
+    "ReportingTime": "December 10, 2022, 11:45 a.m.",
+    "candidates": [
+      {
+        "Name": "Anna Caballero",
+        "Party": "Dem",
+        "Votes": "0",
+        "Percent": "0.0",
+        "incumbent": false
+      },
+      {
+        "Name": "Amnon Shor",
+        "Party": "Rep",
+        "Votes": "0",
+        "Percent": "0.0",
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "raceTitle": "State Senate District 14 - Districtwide Results",
+    "Reporting": "100% (706 of 706) precincts reporting",
+    "ReportingTime": "January 18, 2023, 3:44 p.m.",
+    "candidates": [
+      {
+        "Name": "Anna Caballero",
+        "Party": "Dem",
+        "Votes": "90,016",
+        "Percent": "56.3",
+        "incumbent": false
+      },
+      {
+        "Name": "Amnon Shor",
+        "Party": "Rep",
+        "Votes": "69,970",
+        "Percent": "43.7",
+        "incumbent": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "raceTitle": "State Senate District 2 - San Francisco County Results",
+    "Reporting": "100% (1 of 1) precincts reporting",
+    "ReportingTime": "December 10, 2022, 12:00 p.m.",
+    "candidates": [
+      {
+        "Name": "Mike McGuire",
+        "Party": "Dem",
+        "Votes": "0",
+        "Percent": "0.0",
+        "incumbent": false
+      },
+      {
+        "Name": "Gene Yoon",
+        "Party": "Rep",
+        "Votes": "0",
+        "Percent": "0.0",
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "raceTitle": "State Senate District 2 - Districtwide Results",
+    "Reporting": "100% (1,138 of 1,138) precincts reporting",
+    "ReportingTime": "January 18, 2023, 3:44 p.m.",
+    "candidates": [
+      {
+        "Name": "Mike McGuire",
+        "Party": "Dem",
+        "Votes": "283,689",
+        "Percent": "73.3",
+        "incumbent": false
+      },
+      {
+        "Name": "Gene Yoon",
+        "Party": "Rep",
+        "Votes": "103,333",
+        "Percent": "26.7",
+        "incumbent": false
+      }
+    ]
+  }
+]

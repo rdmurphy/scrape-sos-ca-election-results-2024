@@ -1,0 +1,58 @@
+[
+  {
+    "raceTitle": "U.S. House of Representatives District 1 - Glenn County Results",
+    "Reporting": "0% (0 of 99) precincts reporting",
+    "ReportingTime": "March 5, 2024, 3:45 p.m.",
+    "candidates": [
+      {
+        "Name": "Mike Doran",
+        "Party": "Dem",
+        "Votes": "0",
+        "Percent": "0.0",
+        "incumbent": false
+      },
+      {
+        "Name": "Rose Penelope Yee",
+        "Party": "Dem",
+        "Votes": "0",
+        "Percent": "0.0",
+        "incumbent": false
+      },
+      {
+        "Name": "Doug LaMalfa",
+        "Party": "Rep",
+        "Votes": "0",
+        "Percent": "0.0",
+        "incumbent": true
+      }
+    ]
+  },
+  {
+    "raceTitle": "U.S. House of Representatives District 1 - Districtwide Results",
+    "Reporting": "0% (0 of 490) precincts reporting",
+    "ReportingTime": "March 5, 2024, 3:45 p.m.",
+    "candidates": [
+      {
+        "Name": "Mike Doran",
+        "Party": "Dem",
+        "Votes": "0",
+        "Percent": "0.0",
+        "incumbent": false
+      },
+      {
+        "Name": "Rose Penelope Yee",
+        "Party": "Dem",
+        "Votes": "0",
+        "Percent": "0.0",
+        "incumbent": false
+      },
+      {
+        "Name": "Doug LaMalfa",
+        "Party": "Rep",
+        "Votes": "0",
+        "Percent": "0.0",
+        "incumbent": true
+      }
+    ]
+  }
+]

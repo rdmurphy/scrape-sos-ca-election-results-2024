@@ -1,0 +1,44 @@
+[
+  {
+    "raceTitle": "State Senate District 30 - Los Angeles County Results",
+    "Reporting": "100% (386 of 386) precincts reporting",
+    "ReportingTime": "December 10, 2022, 11:27 a.m.",
+    "candidates": [
+      {
+        "Name": "Bob Archuleta",
+        "Party": "Dem",
+        "Votes": "122,415",
+        "Percent": "62.3",
+        "incumbent": false
+      },
+      {
+        "Name": "Mitch Clemmons",
+        "Party": "Rep",
+        "Votes": "74,157",
+        "Percent": "37.7",
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "raceTitle": "State Senate District 30 - Districtwide Results",
+    "Reporting": "100% (428 of 428) precincts reporting",
+    "ReportingTime": "January 18, 2023, 3:44 p.m.",
+    "candidates": [
+      {
+        "Name": "Bob Archuleta",
+        "Party": "Dem",
+        "Votes": "129,890",
+        "Percent": "61.0",
+        "incumbent": false
+      },
+      {
+        "Name": "Mitch Clemmons",
+        "Party": "Rep",
+        "Votes": "83,214",
+        "Percent": "39.0",
+        "incumbent": false
+      }
+    ]
+  }
+]

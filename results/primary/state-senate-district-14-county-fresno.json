@@ -1,0 +1,44 @@
+[
+  {
+    "raceTitle": "State Senate District 14 - Fresno County Results",
+    "Reporting": "100% (399 of 399) precincts reporting",
+    "ReportingTime": "December 10, 2022, 11:37 a.m.",
+    "candidates": [
+      {
+        "Name": "Anna Caballero",
+        "Party": "Dem",
+        "Votes": "56,290",
+        "Percent": "59.5",
+        "incumbent": false
+      },
+      {
+        "Name": "Amnon Shor",
+        "Party": "Rep",
+        "Votes": "38,347",
+        "Percent": "40.5",
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "raceTitle": "State Senate District 14 - Districtwide Results",
+    "Reporting": "100% (706 of 706) precincts reporting",
+    "ReportingTime": "January 18, 2023, 3:44 p.m.",
+    "candidates": [
+      {
+        "Name": "Anna Caballero",
+        "Party": "Dem",
+        "Votes": "90,016",
+        "Percent": "56.3",
+        "incumbent": false
+      },
+      {
+        "Name": "Amnon Shor",
+        "Party": "Rep",
+        "Votes": "69,970",
+        "Percent": "43.7",
+        "incumbent": false
+      }
+    ]
+  }
+]

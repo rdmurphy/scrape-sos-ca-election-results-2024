@@ -1,0 +1,44 @@
+[
+  {
+    "raceTitle": "State Senate District 34 - Los Angeles County Results",
+    "Reporting": "100% (26 of 26) precincts reporting",
+    "ReportingTime": "December 10, 2022, 11:27 a.m.",
+    "candidates": [
+      {
+        "Name": "Tom Umberg",
+        "Party": "Dem",
+        "Votes": "7,851",
+        "Percent": "56.7",
+        "incumbent": false
+      },
+      {
+        "Name": "Rhonda Shader",
+        "Party": "Rep",
+        "Votes": "5,992",
+        "Percent": "43.3",
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "raceTitle": "State Senate District 34 - Districtwide Results",
+    "Reporting": "100% (436 of 436) precincts reporting",
+    "ReportingTime": "January 18, 2023, 3:44 p.m.",
+    "candidates": [
+      {
+        "Name": "Tom Umberg",
+        "Party": "Dem",
+        "Votes": "96,419",
+        "Percent": "58.8",
+        "incumbent": false
+      },
+      {
+        "Name": "Rhonda Shader",
+        "Party": "Rep",
+        "Votes": "67,633",
+        "Percent": "41.2",
+        "incumbent": false
+      }
+    ]
+  }
+]

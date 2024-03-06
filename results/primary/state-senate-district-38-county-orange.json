@@ -1,0 +1,44 @@
+[
+  {
+    "raceTitle": "State Senate District 38 - Orange County Results",
+    "Reporting": "100% (184 of 184) precincts reporting",
+    "ReportingTime": "December 10, 2022, 12:01 p.m.",
+    "candidates": [
+      {
+        "Name": "Catherine Blakespear",
+        "Party": "Dem",
+        "Votes": "45,797",
+        "Percent": "42.9",
+        "incumbent": false
+      },
+      {
+        "Name": "Matt Gunderson",
+        "Party": "Rep",
+        "Votes": "61,023",
+        "Percent": "57.1",
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "raceTitle": "State Senate District 38 - Districtwide Results",
+    "Reporting": "100% (741 of 741) precincts reporting",
+    "ReportingTime": "January 18, 2023, 3:44 p.m.",
+    "candidates": [
+      {
+        "Name": "Catherine Blakespear",
+        "Party": "Dem",
+        "Votes": "190,992",
+        "Percent": "52.2",
+        "incumbent": false
+      },
+      {
+        "Name": "Matt Gunderson",
+        "Party": "Rep",
+        "Votes": "174,581",
+        "Percent": "47.8",
+        "incumbent": false
+      }
+    ]
+  }
+]

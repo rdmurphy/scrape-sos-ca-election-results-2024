@@ -1,0 +1,44 @@
+[
+  {
+    "raceTitle": "State Senate District 6 - Placer County Results",
+    "Reporting": "100% (271 of 271) precincts reporting",
+    "ReportingTime": "December 10, 2022, 12:02 p.m.",
+    "candidates": [
+      {
+        "Name": "Paula Villescaz",
+        "Party": "Dem",
+        "Votes": "58,687",
+        "Percent": "40.1",
+        "incumbent": false
+      },
+      {
+        "Name": "Roger Niello",
+        "Party": "Rep",
+        "Votes": "87,673",
+        "Percent": "59.9",
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "raceTitle": "State Senate District 6 - Districtwide Results",
+    "Reporting": "100% (574 of 574) precincts reporting",
+    "ReportingTime": "January 18, 2023, 3:44 p.m.",
+    "candidates": [
+      {
+        "Name": "Paula Villescaz",
+        "Party": "Dem",
+        "Votes": "160,846",
+        "Percent": "44.3",
+        "incumbent": false
+      },
+      {
+        "Name": "Roger Niello",
+        "Party": "Rep",
+        "Votes": "202,569",
+        "Percent": "55.7",
+        "incumbent": false
+      }
+    ]
+  }
+]
