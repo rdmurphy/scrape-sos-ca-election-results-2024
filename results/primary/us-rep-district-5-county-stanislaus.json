@@ -29,27 +29,27 @@
   },
   {
     "raceTitle": "U.S. House of Representatives District 5 - Districtwide Results",
-    "Reporting": "66.1% (228 of 345) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:20 p.m.",
+    "Reporting": "66.4% (229 of 345) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:28 p.m.",
     "candidates": [
       {
         "Name": "Michael J. \"Mike\" Barkley",
         "Party": "Dem",
-        "Votes": "37,073",
-        "Percent": "36.2",
+        "Votes": "37,297",
+        "Percent": "36.1",
         "incumbent": false
       },
       {
         "Name": "Tom McClintock",
         "Party": "Rep",
-        "Votes": "56,334",
+        "Votes": "56,836",
         "Percent": "55.0",
         "incumbent": true
       },
       {
         "Name": "Steve Wozniak",
         "Party": "NPP",
-        "Votes": "9,101",
+        "Votes": "9,188",
         "Percent": "8.9",
         "incumbent": false
       }

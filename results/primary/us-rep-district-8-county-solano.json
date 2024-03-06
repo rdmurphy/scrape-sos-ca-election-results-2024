@@ -1,42 +1,42 @@
 [
   {
     "raceTitle": "U.S. House of Representatives District 8 - Solano County Results",
-    "Reporting": "0% (0 of 114) precincts reporting",
-    "ReportingTime": "March 5, 2024, 8:14 p.m.",
+    "Reporting": "17.5% (20 of 114) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:28 p.m.",
     "candidates": [
       {
         "Name": "John Garamendi",
         "Party": "Dem",
-        "Votes": "21,631",
-        "Percent": "74.2",
+        "Votes": "21,982",
+        "Percent": "73.8",
         "incumbent": true
       },
       {
         "Name": "Rudy Recile",
         "Party": "Rep",
-        "Votes": "7,533",
-        "Percent": "25.8",
+        "Votes": "7,809",
+        "Percent": "26.2",
         "incumbent": false
       }
     ]
   },
   {
     "raceTitle": "U.S. House of Representatives District 8 - Districtwide Results",
-    "Reporting": "0% (0 of 361) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:20 p.m.",
+    "Reporting": "5.5% (20 of 361) precincts reporting",
+    "ReportingTime": "March 5, 2024, 9:28 p.m.",
     "candidates": [
       {
         "Name": "John Garamendi",
         "Party": "Dem",
-        "Votes": "47,953",
-        "Percent": "77.8",
+        "Votes": "48,304",
+        "Percent": "77.6",
         "incumbent": true
       },
       {
         "Name": "Rudy Recile",
         "Party": "Rep",
-        "Votes": "13,645",
-        "Percent": "22.2",
+        "Votes": "13,921",
+        "Percent": "22.4",
         "incumbent": false
       }
     ]

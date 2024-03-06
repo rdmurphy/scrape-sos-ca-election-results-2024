@@ -1,15 +1,15 @@
 {
   "raceTitle": "Ballot Measures - Mono Results",
-  "Reporting": "0.0% (0 of 12) precincts reporting",
-  "ReportingTime": "March 5, 2024, 9:20 p.m.",
+  "Reporting": "8.3% (1 of 12) precincts reporting",
+  "ReportingTime": "March 5, 2024, 9:23 p.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "0",
-      "yesPercent": "0.0",
-      "noVotes": "0",
-      "noPercent": "0.0"
+      "yesVotes": "518",
+      "yesPercent": "47.1",
+      "noVotes": "581",
+      "noPercent": "52.9"
     }
   ]
 }
