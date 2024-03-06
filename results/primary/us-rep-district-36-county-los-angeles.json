@@ -2,34 +2,34 @@
   {
     "raceTitle": "U.S. House of Representatives District 36 - Los Angeles County Results",
     "Reporting": "100% (163 of 163) precincts reporting",
-    "ReportingTime": "March 6, 2024, 12:34 a.m.",
+    "ReportingTime": "March 6, 2024, 12:56 a.m.",
     "candidates": [
       {
         "Name": "Ted W. Lieu",
         "Party": "Dem",
-        "Votes": "59,696",
-        "Percent": "65.9",
+        "Votes": "60,060",
+        "Percent": "65.5",
         "incumbent": true
       },
       {
         "Name": "Ariana Hakami",
         "Party": "Rep",
-        "Votes": "14,146",
-        "Percent": "15.6",
+        "Votes": "14,503",
+        "Percent": "15.8",
         "incumbent": false
       },
       {
         "Name": "Melissa Toomim",
         "Party": "Rep",
-        "Votes": "14,582",
-        "Percent": "16.1",
+        "Votes": "14,978",
+        "Percent": "16.3",
         "incumbent": false
       },
       {
         "Name": "Claire Ragge Anderson",
         "Party": "NPP",
-        "Votes": "2,119",
-        "Percent": "2.3",
+        "Votes": "2,155",
+        "Percent": "2.4",
         "incumbent": false
       }
     ]
@@ -37,34 +37,34 @@
   {
     "raceTitle": "U.S. House of Representatives District 36 - Districtwide Results",
     "Reporting": "100% (163 of 163) precincts reporting",
-    "ReportingTime": "March 6, 2024, 12:44 a.m.",
+    "ReportingTime": "March 6, 2024, 12:56 a.m.",
     "candidates": [
       {
         "Name": "Ted W. Lieu",
         "Party": "Dem",
-        "Votes": "59,696",
-        "Percent": "65.9",
+        "Votes": "60,060",
+        "Percent": "65.5",
         "incumbent": true
       },
       {
         "Name": "Ariana Hakami",
         "Party": "Rep",
-        "Votes": "14,146",
-        "Percent": "15.6",
+        "Votes": "14,503",
+        "Percent": "15.8",
         "incumbent": false
       },
       {
         "Name": "Melissa Toomim",
         "Party": "Rep",
-        "Votes": "14,582",
-        "Percent": "16.1",
+        "Votes": "14,978",
+        "Percent": "16.3",
         "incumbent": false
       },
       {
         "Name": "Claire Ragge Anderson",
         "Party": "NPP",
-        "Votes": "2,119",
-        "Percent": "2.3",
+        "Votes": "2,155",
+        "Percent": "2.4",
         "incumbent": false
       }
     ]

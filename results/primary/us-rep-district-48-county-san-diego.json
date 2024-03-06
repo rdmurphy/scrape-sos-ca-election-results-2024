@@ -1,48 +1,48 @@
 [
   {
     "raceTitle": "U.S. House of Representatives District 48 - San Diego County Results",
-    "Reporting": "0% (0 of 310) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:44 p.m.",
+    "Reporting": "100% (310 of 310) precincts reporting",
+    "ReportingTime": "March 6, 2024, 12:50 a.m.",
     "candidates": [
       {
         "Name": "Stephen Houlahan",
         "Party": "Dem",
-        "Votes": "12,357",
+        "Votes": "12,380",
         "Percent": "15.9",
         "incumbent": false
       },
       {
         "Name": "Matthew G. Rascon",
         "Party": "Dem",
-        "Votes": "1,855",
+        "Votes": "1,860",
         "Percent": "2.4",
         "incumbent": false
       },
       {
         "Name": "Whitney Shanahan",
         "Party": "Dem",
-        "Votes": "8,352",
+        "Votes": "8,389",
         "Percent": "10.8",
         "incumbent": false
       },
       {
         "Name": "Mike Simon",
         "Party": "Dem",
-        "Votes": "6,750",
+        "Votes": "6,761",
         "Percent": "8.7",
         "incumbent": false
       },
       {
         "Name": "Darrell E. Issa",
         "Party": "Rep",
-        "Votes": "47,414",
-        "Percent": "61.1",
+        "Votes": "47,595",
+        "Percent": "61.2",
         "incumbent": true
       },
       {
         "Name": "Lucinda KWH Jahn",
         "Party": "NPP",
-        "Votes": "820",
+        "Votes": "822",
         "Percent": "1.1",
         "incumbent": false
       }
@@ -50,48 +50,48 @@
   },
   {
     "raceTitle": "U.S. House of Representatives District 48 - Districtwide Results",
-    "Reporting": "26.2% (110 of 420) precincts reporting",
-    "ReportingTime": "March 6, 2024, 12:44 a.m.",
+    "Reporting": "100% (420 of 420) precincts reporting",
+    "ReportingTime": "March 6, 2024, 12:56 a.m.",
     "candidates": [
       {
         "Name": "Stephen Houlahan",
         "Party": "Dem",
-        "Votes": "15,572",
-        "Percent": "15.6",
+        "Votes": "15,595",
+        "Percent": "15.5",
         "incumbent": false
       },
       {
         "Name": "Matthew G. Rascon",
         "Party": "Dem",
-        "Votes": "2,513",
+        "Votes": "2,518",
         "Percent": "2.5",
         "incumbent": false
       },
       {
         "Name": "Whitney Shanahan",
         "Party": "Dem",
-        "Votes": "12,075",
+        "Votes": "12,112",
         "Percent": "12.1",
         "incumbent": false
       },
       {
         "Name": "Mike Simon",
         "Party": "Dem",
-        "Votes": "8,420",
+        "Votes": "8,431",
         "Percent": "8.4",
         "incumbent": false
       },
       {
         "Name": "Darrell E. Issa",
         "Party": "Rep",
-        "Votes": "60,342",
+        "Votes": "60,523",
         "Percent": "60.3",
         "incumbent": true
       },
       {
         "Name": "Lucinda KWH Jahn",
         "Party": "NPP",
-        "Votes": "1,124",
+        "Votes": "1,126",
         "Percent": "1.1",
         "incumbent": false
       }

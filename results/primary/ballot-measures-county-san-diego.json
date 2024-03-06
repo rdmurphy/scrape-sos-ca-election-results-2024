@@ -1,15 +1,15 @@
 {
   "raceTitle": "Ballot Measures - San Diego Results",
-  "Reporting": "0.0% (0 of 1,886) precincts reporting",
-  "ReportingTime": "March 5, 2024, 11:44 p.m.",
+  "Reporting": "100.0% (1,886 of 1,886) precincts reporting",
+  "ReportingTime": "March 6, 2024, 12:50 a.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "199420",
-      "yesPercent": "49.8",
-      "noVotes": "201254",
-      "noPercent": "50.2"
+      "yesVotes": "201377",
+      "yesPercent": "49.7",
+      "noVotes": "204041",
+      "noPercent": "50.3"
     }
   ]
 }

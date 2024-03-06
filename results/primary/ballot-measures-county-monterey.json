@@ -1,15 +1,15 @@
 {
   "raceTitle": "Ballot Measures - Monterey Results",
-  "Reporting": "97.1% (201 of 207) precincts reporting",
-  "ReportingTime": "March 5, 2024, 11:20 p.m.",
+  "Reporting": "100.0% (207 of 207) precincts reporting",
+  "ReportingTime": "March 6, 2024, 12:52 a.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "17184",
-      "yesPercent": "55.3",
-      "noVotes": "13913",
-      "noPercent": "44.7"
+      "yesVotes": "17716",
+      "yesPercent": "54.8",
+      "noVotes": "14588",
+      "noPercent": "45.2"
     }
   ]
 }

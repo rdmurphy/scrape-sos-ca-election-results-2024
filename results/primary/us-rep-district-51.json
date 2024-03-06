@@ -1,33 +1,33 @@
 {
   "raceTitle": "U.S. House of Representatives District 51 - Districtwide Results",
-  "Reporting": "0% (0 of 462) precincts reporting",
-  "ReportingTime": "March 6, 2024, 12:44 a.m.",
+  "Reporting": "100% (462 of 462) precincts reporting",
+  "ReportingTime": "March 6, 2024, 12:56 a.m.",
   "candidates": [
     {
       "Name": "Sara Jacobs",
       "Party": "Dem",
-      "Votes": "52,982",
+      "Votes": "53,056",
       "Percent": "56.3",
       "incumbent": true
     },
     {
       "Name": "Bill Wells",
       "Party": "Rep",
-      "Votes": "37,747",
+      "Votes": "37,793",
       "Percent": "40.1",
       "incumbent": false
     },
     {
       "Name": "Stan Caplan",
       "Party": "NPP",
-      "Votes": "1,911",
+      "Votes": "1,917",
       "Percent": "2.0",
       "incumbent": false
     },
     {
       "Name": "Hilaire \"Fuji\" Shioura",
       "Party": "NPP",
-      "Votes": "1,503",
+      "Votes": "1,511",
       "Percent": "1.6",
       "incumbent": false
     }

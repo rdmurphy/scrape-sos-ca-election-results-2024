@@ -1,20 +1,20 @@
 {
   "raceTitle": "State Assembly District 66 - Districtwide Results",
   "Reporting": "100% (103 of 103) precincts reporting",
-  "ReportingTime": "March 6, 2024, 12:44 a.m.",
+  "ReportingTime": "March 6, 2024, 12:56 a.m.",
   "candidates": [
     {
       "Name": "Al Muratsuchi",
       "Party": "Dem",
-      "Votes": "34,550",
-      "Percent": "57.3",
+      "Votes": "35,064",
+      "Percent": "56.7",
       "incumbent": true
     },
     {
       "Name": "George Barks",
       "Party": "Rep",
-      "Votes": "25,744",
-      "Percent": "42.7",
+      "Votes": "26,749",
+      "Percent": "43.3",
       "incumbent": false
     }
   ]

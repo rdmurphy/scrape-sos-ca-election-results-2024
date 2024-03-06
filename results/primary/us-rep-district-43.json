@@ -1,41 +1,41 @@
 {
   "raceTitle": "U.S. House of Representatives District 43 - Districtwide Results",
   "Reporting": "100% (187 of 187) precincts reporting",
-  "ReportingTime": "March 6, 2024, 12:44 a.m.",
+  "ReportingTime": "March 6, 2024, 12:56 a.m.",
   "candidates": [
     {
       "Name": "Gregory Edward Jackson Cheadle",
       "Party": "Dem",
-      "Votes": "1,146",
+      "Votes": "1,160",
       "Percent": "2.9",
       "incumbent": false
     },
     {
       "Name": "Maxine Waters",
       "Party": "Dem",
-      "Votes": "27,256",
-      "Percent": "68.3",
+      "Votes": "27,623",
+      "Percent": "68.1",
       "incumbent": true
     },
     {
       "Name": "Chris B. Wiggins",
       "Party": "Dem",
-      "Votes": "2,481",
+      "Votes": "2,518",
       "Percent": "6.2",
       "incumbent": false
     },
     {
       "Name": "David Knight",
       "Party": "Rep",
-      "Votes": "3,123",
-      "Percent": "7.8",
+      "Votes": "3,193",
+      "Percent": "7.9",
       "incumbent": false
     },
     {
       "Name": "Steve Williams",
       "Party": "Rep",
-      "Votes": "5,904",
-      "Percent": "14.8",
+      "Votes": "6,063",
+      "Percent": "14.9",
       "incumbent": false
     }
   ]
