@@ -86,83 +86,83 @@
   {
     "raceTitle": "U.S. House of Representatives District 16 - Districtwide Results",
     "Reporting": "100% (274 of 274) precincts reporting",
-    "ReportingTime": "March 6, 2024, 4:24 p.m.",
+    "ReportingTime": "March 6, 2024, 6:24 p.m.",
     "candidates": [
       {
         "Name": "Joby B Bernstein",
         "Party": "Dem",
-        "Votes": "774",
+        "Votes": "840",
         "Percent": "0.9",
         "incumbent": false
       },
       {
         "Name": "Peter Dixon",
         "Party": "Dem",
-        "Votes": "6,776",
+        "Votes": "7,578",
         "Percent": "7.7",
         "incumbent": false
       },
       {
         "Name": "Rishi Kumar",
         "Party": "Dem",
-        "Votes": "5,540",
-        "Percent": "6.3",
+        "Votes": "6,333",
+        "Percent": "6.4",
         "incumbent": false
       },
       {
         "Name": "Sam Liccardo",
         "Party": "Dem",
-        "Votes": "19,134",
-        "Percent": "21.7",
+        "Votes": "21,538",
+        "Percent": "21.8",
         "incumbent": false
       },
       {
         "Name": "Evan Low",
         "Party": "Dem",
-        "Votes": "13,762",
-        "Percent": "15.6",
+        "Votes": "15,688",
+        "Percent": "15.9",
         "incumbent": false
       },
       {
         "Name": "Julie Lythcott-Haims",
         "Party": "Dem",
-        "Votes": "4,616",
+        "Votes": "5,156",
         "Percent": "5.2",
         "incumbent": false
       },
       {
         "Name": "Ahmed Mostafa",
         "Party": "Dem",
-        "Votes": "2,077",
+        "Votes": "2,383",
         "Percent": "2.4",
         "incumbent": false
       },
       {
         "Name": "Joe Simitian",
         "Party": "Dem",
-        "Votes": "15,598",
-        "Percent": "17.7",
+        "Votes": "17,647",
+        "Percent": "17.9",
         "incumbent": false
       },
       {
         "Name": "Greg Lin Tanaka",
         "Party": "Dem",
-        "Votes": "1,198",
-        "Percent": "1.4",
+        "Votes": "1,315",
+        "Percent": "1.3",
         "incumbent": false
       },
       {
         "Name": "Peter Ohtaki",
         "Party": "Rep",
-        "Votes": "11,985",
-        "Percent": "13.6",
+        "Votes": "13,171",
+        "Percent": "13.3",
         "incumbent": false
       },
       {
         "Name": "Karl Ryan",
         "Party": "Rep",
-        "Votes": "6,621",
-        "Percent": "7.5",
+        "Votes": "7,141",
+        "Percent": "7.2",
         "incumbent": false
       }
     ]

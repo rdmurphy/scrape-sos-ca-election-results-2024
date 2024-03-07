@@ -2,26 +2,26 @@
   {
     "raceTitle": "State Senate District 15 - Santa Clara County Results",
     "Reporting": "100% (337 of 337) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:26 p.m.",
+    "ReportingTime": "March 6, 2024, 6:24 p.m.",
     "candidates": [
       {
         "Name": "Dave Cortese",
         "Party": "Dem",
-        "Votes": "57,423",
-        "Percent": "67.1",
+        "Votes": "66,361",
+        "Percent": "67.5",
         "incumbent": true
       },
       {
         "Name": "Robert Paul Howell",
         "Party": "Rep",
-        "Votes": "17,850",
-        "Percent": "20.9",
+        "Votes": "20,026",
+        "Percent": "20.4",
         "incumbent": false
       },
       {
         "Name": "Tony Loaiza",
         "Party": "Rep",
-        "Votes": "10,319",
+        "Votes": "11,857",
         "Percent": "12.1",
         "incumbent": false
       }
@@ -30,26 +30,26 @@
   {
     "raceTitle": "State Senate District 15 - Districtwide Results",
     "Reporting": "100% (337 of 337) precincts reporting",
-    "ReportingTime": "March 6, 2024, 4:24 p.m.",
+    "ReportingTime": "March 6, 2024, 6:24 p.m.",
     "candidates": [
       {
         "Name": "Dave Cortese",
         "Party": "Dem",
-        "Votes": "57,423",
-        "Percent": "67.1",
+        "Votes": "66,361",
+        "Percent": "67.5",
         "incumbent": true
       },
       {
         "Name": "Robert Paul Howell",
         "Party": "Rep",
-        "Votes": "17,850",
-        "Percent": "20.9",
+        "Votes": "20,026",
+        "Percent": "20.4",
         "incumbent": false
       },
       {
         "Name": "Tony Loaiza",
         "Party": "Rep",
-        "Votes": "10,319",
+        "Votes": "11,857",
         "Percent": "12.1",
         "incumbent": false
       }

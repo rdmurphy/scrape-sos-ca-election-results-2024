@@ -1,27 +1,27 @@
 {
   "raceTitle": "U.S. House of Representatives District 29 - Districtwide Results",
   "Reporting": "100% (153 of 153) precincts reporting",
-  "ReportingTime": "March 6, 2024, 4:24 p.m.",
+  "ReportingTime": "March 6, 2024, 6:24 p.m.",
   "candidates": [
     {
       "Name": "Angélica María Dueñas",
       "Party": "Dem",
-      "Votes": "9,266",
-      "Percent": "20.8",
+      "Votes": "10,533",
+      "Percent": "21.1",
       "incumbent": false
     },
     {
       "Name": "Luz Maria Rivas",
       "Party": "Dem",
-      "Votes": "21,350",
-      "Percent": "48.0",
+      "Votes": "24,295",
+      "Percent": "48.7",
       "incumbent": false
     },
     {
       "Name": "Benito Benny Bernal",
       "Party": "Rep",
-      "Votes": "13,866",
-      "Percent": "31.2",
+      "Votes": "15,074",
+      "Percent": "30.2",
       "incumbent": false
     }
   ]

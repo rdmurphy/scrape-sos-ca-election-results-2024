@@ -1,27 +1,27 @@
 {
   "raceTitle": "State Assembly District 47 - Districtwide Results",
   "Reporting": "100% (495 of 495) precincts reporting",
-  "ReportingTime": "March 6, 2024, 4:24 p.m.",
+  "ReportingTime": "March 6, 2024, 6:24 p.m.",
   "candidates": [
     {
       "Name": "Christy Holstege",
       "Party": "Dem",
-      "Votes": "34,623",
-      "Percent": "48.9",
+      "Votes": "36,336",
+      "Percent": "49.0",
       "incumbent": false
     },
     {
       "Name": "Jamie Swain",
       "Party": "Dem",
-      "Votes": "3,706",
+      "Votes": "3,888",
       "Percent": "5.2",
       "incumbent": false
     },
     {
       "Name": "Greg Wallis",
       "Party": "Rep",
-      "Votes": "32,515",
-      "Percent": "45.9",
+      "Votes": "33,984",
+      "Percent": "45.8",
       "incumbent": true
     }
   ]

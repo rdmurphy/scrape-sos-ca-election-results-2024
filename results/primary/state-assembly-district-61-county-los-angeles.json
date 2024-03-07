@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 61 - Los Angeles County Results",
     "Reporting": "100% (109 of 109) precincts reporting",
-    "ReportingTime": "March 6, 2024, 2:06 a.m.",
+    "ReportingTime": "March 6, 2024, 4:36 p.m.",
     "candidates": [
       {
         "Name": "Tina Simone McKinnor",
         "Party": "Dem",
-        "Votes": "27,029",
-        "Percent": "76.1",
+        "Votes": "31,753",
+        "Percent": "77.2",
         "incumbent": true
       },
       {
         "Name": "Alfonso Hernandez",
         "Party": "Rep",
-        "Votes": "8,506",
-        "Percent": "23.9",
+        "Votes": "9,396",
+        "Percent": "22.8",
         "incumbent": false
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "State Assembly District 61 - Districtwide Results",
     "Reporting": "100% (109 of 109) precincts reporting",
-    "ReportingTime": "March 6, 2024, 4:24 p.m.",
+    "ReportingTime": "March 6, 2024, 6:24 p.m.",
     "candidates": [
       {
         "Name": "Tina Simone McKinnor",
         "Party": "Dem",
-        "Votes": "27,029",
-        "Percent": "76.1",
+        "Votes": "31,753",
+        "Percent": "77.2",
         "incumbent": true
       },
       {
         "Name": "Alfonso Hernandez",
         "Party": "Rep",
-        "Votes": "8,506",
-        "Percent": "23.9",
+        "Votes": "9,396",
+        "Percent": "22.8",
         "incumbent": false
       }
     ]

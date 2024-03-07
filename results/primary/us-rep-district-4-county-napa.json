@@ -37,33 +37,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 4 - Districtwide Results",
     "Reporting": "100% (570 of 570) precincts reporting",
-    "ReportingTime": "March 6, 2024, 4:24 p.m.",
+    "ReportingTime": "March 6, 2024, 6:24 p.m.",
     "candidates": [
       {
         "Name": "Andrew David Engdahl",
         "Party": "Dem",
-        "Votes": "4,594",
-        "Percent": "4.6",
+        "Votes": "4,840",
+        "Percent": "4.7",
         "incumbent": false
       },
       {
         "Name": "Mike Thompson",
         "Party": "Dem",
-        "Votes": "62,296",
-        "Percent": "63.0",
+        "Votes": "63,997",
+        "Percent": "62.2",
         "incumbent": true
       },
       {
         "Name": "John Munn",
         "Party": "Rep",
-        "Votes": "31,047",
-        "Percent": "31.4",
+        "Votes": "32,971",
+        "Percent": "32.1",
         "incumbent": false
       },
       {
         "Name": "Niket Patwardhan",
         "Party": "NPP",
-        "Votes": "1,024",
+        "Votes": "1,059",
         "Percent": "1.0",
         "incumbent": false
       }

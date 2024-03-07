@@ -1,75 +1,75 @@
 {
   "raceTitle": "U.S. House of Representatives District 31 - Districtwide Results",
   "Reporting": "100% (199 of 199) precincts reporting",
-  "ReportingTime": "March 6, 2024, 4:24 p.m.",
+  "ReportingTime": "March 6, 2024, 6:24 p.m.",
   "candidates": [
     {
       "Name": "Bob J. Archuleta",
       "Party": "Dem",
-      "Votes": "6,276",
-      "Percent": "10.5",
+      "Votes": "6,637",
+      "Percent": "10.4",
       "incumbent": false
     },
     {
       "Name": "Gil Cisneros",
       "Party": "Dem",
-      "Votes": "12,761",
+      "Votes": "13,627",
       "Percent": "21.4",
       "incumbent": false
     },
     {
       "Name": "Greg Hafif",
       "Party": "Dem",
-      "Votes": "2,571",
+      "Votes": "2,757",
       "Percent": "4.3",
       "incumbent": false
     },
     {
       "Name": "Kurt Jose",
       "Party": "Dem",
-      "Votes": "784",
+      "Votes": "824",
       "Percent": "1.3",
       "incumbent": false
     },
     {
       "Name": "Mary Ann Lutz",
       "Party": "Dem",
-      "Votes": "3,616",
-      "Percent": "6.0",
+      "Votes": "3,872",
+      "Percent": "6.1",
       "incumbent": false
     },
     {
       "Name": "Susan Rubio",
       "Party": "Dem",
-      "Votes": "9,016",
+      "Votes": "9,587",
       "Percent": "15.1",
       "incumbent": false
     },
     {
       "Name": "Pedro Antonio Casas",
       "Party": "Rep",
-      "Votes": "11,294",
+      "Votes": "12,061",
       "Percent": "18.9",
       "incumbent": false
     },
     {
       "Name": "Daniel Jose Bocic Martinez",
       "Party": "Rep",
-      "Votes": "12,368",
+      "Votes": "13,181",
       "Percent": "20.7",
       "incumbent": false
     },
     {
       "Name": "Erskine Levi",
       "Party": "NPP",
-      "Votes": "735",
+      "Votes": "768",
       "Percent": "1.2",
       "incumbent": false
     },
     {
       "Name": "Marie Manvel",
       "Party": "NPP",
-      "Votes": "348",
+      "Votes": "363",
       "Percent": "0.6",
       "incumbent": false
     }

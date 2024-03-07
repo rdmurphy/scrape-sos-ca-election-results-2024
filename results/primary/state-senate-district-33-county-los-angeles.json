@@ -2,27 +2,27 @@
   {
     "raceTitle": "State Senate District 33 - Los Angeles County Results",
     "Reporting": "100% (242 of 242) precincts reporting",
-    "ReportingTime": "March 6, 2024, 2:06 a.m.",
+    "ReportingTime": "March 6, 2024, 4:36 p.m.",
     "candidates": [
       {
         "Name": "Lena A. Gonzalez",
         "Party": "Dem",
-        "Votes": "44,559",
-        "Percent": "64.4",
+        "Votes": "51,555",
+        "Percent": "65.3",
         "incumbent": true
       },
       {
         "Name": "Sharifah A. Hardie",
         "Party": "Rep",
-        "Votes": "11,372",
-        "Percent": "16.4",
+        "Votes": "12,650",
+        "Percent": "16.0",
         "incumbent": false
       },
       {
         "Name": "Mario Paz",
         "Party": "Rep",
-        "Votes": "13,237",
-        "Percent": "19.1",
+        "Votes": "14,776",
+        "Percent": "18.7",
         "incumbent": false
       }
     ]
@@ -30,27 +30,27 @@
   {
     "raceTitle": "State Senate District 33 - Districtwide Results",
     "Reporting": "100% (242 of 242) precincts reporting",
-    "ReportingTime": "March 6, 2024, 4:24 p.m.",
+    "ReportingTime": "March 6, 2024, 6:24 p.m.",
     "candidates": [
       {
         "Name": "Lena A. Gonzalez",
         "Party": "Dem",
-        "Votes": "44,559",
-        "Percent": "64.4",
+        "Votes": "51,555",
+        "Percent": "65.3",
         "incumbent": true
       },
       {
         "Name": "Sharifah A. Hardie",
         "Party": "Rep",
-        "Votes": "11,372",
-        "Percent": "16.4",
+        "Votes": "12,650",
+        "Percent": "16.0",
         "incumbent": false
       },
       {
         "Name": "Mario Paz",
         "Party": "Rep",
-        "Votes": "13,237",
-        "Percent": "19.1",
+        "Votes": "14,776",
+        "Percent": "18.7",
         "incumbent": false
       }
     ]

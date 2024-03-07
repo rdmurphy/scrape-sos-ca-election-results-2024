@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 39 - Los Angeles County Results",
     "Reporting": "100% (62 of 62) precincts reporting",
-    "ReportingTime": "March 6, 2024, 2:06 a.m.",
+    "ReportingTime": "March 6, 2024, 4:36 p.m.",
     "candidates": [
       {
         "Name": "Juan Carrillo Ventura",
         "Party": "Dem",
-        "Votes": "7,814",
-        "Percent": "51.7",
+        "Votes": "8,412",
+        "Percent": "52.2",
         "incumbent": true
       },
       {
         "Name": "Paul Andre Marsh",
         "Party": "Rep",
-        "Votes": "7,300",
-        "Percent": "48.3",
+        "Votes": "7,702",
+        "Percent": "47.8",
         "incumbent": false
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "State Assembly District 39 - Districtwide Results",
     "Reporting": "100% (203 of 203) precincts reporting",
-    "ReportingTime": "March 6, 2024, 4:24 p.m.",
+    "ReportingTime": "March 6, 2024, 6:24 p.m.",
     "candidates": [
       {
         "Name": "Juan Carrillo Ventura",
         "Party": "Dem",
-        "Votes": "12,561",
-        "Percent": "51.3",
+        "Votes": "13,159",
+        "Percent": "51.6",
         "incumbent": true
       },
       {
         "Name": "Paul Andre Marsh",
         "Party": "Rep",
-        "Votes": "11,921",
-        "Percent": "48.7",
+        "Votes": "12,323",
+        "Percent": "48.4",
         "incumbent": false
       }
     ]

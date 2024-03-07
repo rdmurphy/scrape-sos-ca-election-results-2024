@@ -2,34 +2,34 @@
   {
     "raceTitle": "State Assembly District 11 - Solano County Results",
     "Reporting": "100% (181 of 181) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:42 p.m.",
+    "ReportingTime": "March 6, 2024, 5:00 p.m.",
     "candidates": [
       {
         "Name": "Jeffrey Flack",
         "Party": "Dem",
-        "Votes": "4,970",
-        "Percent": "9.0",
+        "Votes": "6,039",
+        "Percent": "9.1",
         "incumbent": false
       },
       {
         "Name": "Lori D Wilson",
         "Party": "Dem",
-        "Votes": "28,032",
-        "Percent": "50.6",
+        "Votes": "33,845",
+        "Percent": "51.0",
         "incumbent": true
       },
       {
         "Name": "Dave Ennis",
         "Party": "Rep",
-        "Votes": "14,595",
-        "Percent": "26.3",
+        "Votes": "17,110",
+        "Percent": "25.8",
         "incumbent": false
       },
       {
         "Name": "Wanda Wallis",
         "Party": "Rep",
-        "Votes": "7,815",
-        "Percent": "14.1",
+        "Votes": "9,415",
+        "Percent": "14.2",
         "incumbent": false
       }
     ]
@@ -37,33 +37,33 @@
   {
     "raceTitle": "State Assembly District 11 - Districtwide Results",
     "Reporting": "100% (301 of 301) precincts reporting",
-    "ReportingTime": "March 6, 2024, 4:24 p.m.",
+    "ReportingTime": "March 6, 2024, 6:24 p.m.",
     "candidates": [
       {
         "Name": "Jeffrey Flack",
         "Party": "Dem",
-        "Votes": "5,403",
-        "Percent": "8.7",
+        "Votes": "6,472",
+        "Percent": "8.8",
         "incumbent": false
       },
       {
         "Name": "Lori D Wilson",
         "Party": "Dem",
-        "Votes": "30,894",
-        "Percent": "49.7",
+        "Votes": "36,707",
+        "Percent": "50.2",
         "incumbent": true
       },
       {
         "Name": "Dave Ennis",
         "Party": "Rep",
-        "Votes": "16,952",
-        "Percent": "27.3",
+        "Votes": "19,467",
+        "Percent": "26.6",
         "incumbent": false
       },
       {
         "Name": "Wanda Wallis",
         "Party": "Rep",
-        "Votes": "8,946",
+        "Votes": "10,546",
         "Percent": "14.4",
         "incumbent": false
       }
