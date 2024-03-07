@@ -2,55 +2,55 @@
   {
     "raceTitle": "State Assembly District 36 - San Bernardino County Results",
     "Reporting": "100% (11 of 11) precincts reporting",
-    "ReportingTime": "March 6, 2024, 1:48 a.m.",
+    "ReportingTime": "March 6, 2024, 3:48 p.m.",
     "candidates": [
       {
         "Name": "Jose \"Joey\" Acuña Jr.",
         "Party": "Dem",
-        "Votes": "81",
-        "Percent": "14.2",
+        "Votes": "85",
+        "Percent": "14.3",
         "incumbent": false
       },
       {
         "Name": "Waymond Fermon",
         "Party": "Dem",
-        "Votes": "39",
-        "Percent": "6.8",
+        "Votes": "41",
+        "Percent": "6.9",
         "incumbent": false
       },
       {
         "Name": "Edgard Garcia",
         "Party": "Dem",
         "Votes": "33",
-        "Percent": "5.8",
+        "Percent": "5.6",
         "incumbent": false
       },
       {
         "Name": "Tomas Oliva",
         "Party": "Dem",
-        "Votes": "47",
-        "Percent": "8.2",
+        "Votes": "48",
+        "Percent": "8.1",
         "incumbent": false
       },
       {
         "Name": "Eric L. Rodriguez",
         "Party": "Dem",
         "Votes": "37",
-        "Percent": "6.5",
+        "Percent": "6.2",
         "incumbent": false
       },
       {
         "Name": "Jeff Gonzalez",
         "Party": "Rep",
-        "Votes": "207",
-        "Percent": "36.2",
+        "Votes": "214",
+        "Percent": "36.1",
         "incumbent": false
       },
       {
         "Name": "Kalin Morse",
         "Party": "Rep",
-        "Votes": "128",
-        "Percent": "22.4",
+        "Votes": "135",
+        "Percent": "22.8",
         "incumbent": false
       }
     ]
@@ -58,19 +58,19 @@
   {
     "raceTitle": "State Assembly District 36 - Districtwide Results",
     "Reporting": "100% (493 of 493) precincts reporting",
-    "ReportingTime": "March 6, 2024, 3:01 a.m.",
+    "ReportingTime": "March 6, 2024, 4:24 p.m.",
     "candidates": [
       {
         "Name": "Jose \"Joey\" Acuña Jr.",
         "Party": "Dem",
-        "Votes": "5,550",
+        "Votes": "5,554",
         "Percent": "17.9",
         "incumbent": false
       },
       {
         "Name": "Waymond Fermon",
         "Party": "Dem",
-        "Votes": "2,592",
+        "Votes": "2,594",
         "Percent": "8.4",
         "incumbent": false
       },
@@ -84,7 +84,7 @@
       {
         "Name": "Tomas Oliva",
         "Party": "Dem",
-        "Votes": "2,249",
+        "Votes": "2,250",
         "Percent": "7.3",
         "incumbent": false
       },
@@ -98,14 +98,14 @@
       {
         "Name": "Jeff Gonzalez",
         "Party": "Rep",
-        "Votes": "10,703",
+        "Votes": "10,710",
         "Percent": "34.5",
         "incumbent": false
       },
       {
         "Name": "Kalin Morse",
         "Party": "Rep",
-        "Votes": "3,369",
+        "Votes": "3,376",
         "Percent": "10.9",
         "incumbent": false
       }

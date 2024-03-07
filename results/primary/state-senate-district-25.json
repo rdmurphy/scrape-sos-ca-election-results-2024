@@ -1,41 +1,41 @@
 {
   "raceTitle": "State Senate District 25 - Districtwide Results",
   "Reporting": "100% (337 of 337) precincts reporting",
-  "ReportingTime": "March 6, 2024, 3:01 a.m.",
+  "ReportingTime": "March 6, 2024, 4:24 p.m.",
   "candidates": [
     {
       "Name": "Teddy Choi",
       "Party": "Dem",
-      "Votes": "5,483",
+      "Votes": "5,502",
       "Percent": "4.8",
       "incumbent": false
     },
     {
       "Name": "Sandra Armenta",
       "Party": "Dem",
-      "Votes": "11,169",
+      "Votes": "11,238",
       "Percent": "9.7",
       "incumbent": false
     },
     {
       "Name": "Sasha Renée Pérez",
       "Party": "Dem",
-      "Votes": "32,080",
+      "Votes": "32,184",
       "Percent": "27.9",
       "incumbent": false
     },
     {
       "Name": "Yvonne Yiu",
       "Party": "Dem",
-      "Votes": "21,513",
+      "Votes": "21,594",
       "Percent": "18.7",
       "incumbent": false
     },
     {
       "Name": "Elizabeth Wong Ahlers",
       "Party": "Rep",
-      "Votes": "44,575",
-      "Percent": "38.8",
+      "Votes": "44,906",
+      "Percent": "38.9",
       "incumbent": false
     }
   ]

@@ -2,27 +2,27 @@
   {
     "raceTitle": "State Assembly District 58 - San Bernardino County Results",
     "Reporting": "100% (7 of 7) precincts reporting",
-    "ReportingTime": "March 6, 2024, 1:48 a.m.",
+    "ReportingTime": "March 6, 2024, 3:48 p.m.",
     "candidates": [
       {
         "Name": "Clarissa Cervantes",
         "Party": "Dem",
-        "Votes": "304",
-        "Percent": "26.9",
+        "Votes": "324",
+        "Percent": "27.1",
         "incumbent": false
       },
       {
         "Name": "Ronaldo Fierro",
         "Party": "Dem",
-        "Votes": "236",
-        "Percent": "20.8",
+        "Votes": "254",
+        "Percent": "21.2",
         "incumbent": false
       },
       {
         "Name": "Leticia Castillo",
         "Party": "Rep",
-        "Votes": "592",
-        "Percent": "52.3",
+        "Votes": "619",
+        "Percent": "51.7",
         "incumbent": false
       }
     ]
@@ -30,26 +30,26 @@
   {
     "raceTitle": "State Assembly District 58 - Districtwide Results",
     "Reporting": "100% (130 of 130) precincts reporting",
-    "ReportingTime": "March 6, 2024, 3:01 a.m.",
+    "ReportingTime": "March 6, 2024, 4:24 p.m.",
     "candidates": [
       {
         "Name": "Clarissa Cervantes",
         "Party": "Dem",
-        "Votes": "7,668",
+        "Votes": "7,688",
         "Percent": "26.2",
         "incumbent": false
       },
       {
         "Name": "Ronaldo Fierro",
         "Party": "Dem",
-        "Votes": "7,595",
+        "Votes": "7,613",
         "Percent": "26.0",
         "incumbent": false
       },
       {
         "Name": "Leticia Castillo",
         "Party": "Rep",
-        "Votes": "13,988",
+        "Votes": "14,015",
         "Percent": "47.8",
         "incumbent": false
       }

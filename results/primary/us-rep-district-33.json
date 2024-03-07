@@ -1,20 +1,20 @@
 {
   "raceTitle": "U.S. House of Representatives District 33 - Districtwide Results",
   "Reporting": "100% (655 of 655) precincts reporting",
-  "ReportingTime": "March 6, 2024, 3:01 a.m.",
+  "ReportingTime": "March 6, 2024, 4:24 p.m.",
   "candidates": [
     {
       "Name": "Pete Aguilar",
       "Party": "Dem",
-      "Votes": "21,050",
-      "Percent": "56.8",
+      "Votes": "22,916",
+      "Percent": "57.1",
       "incumbent": true
     },
     {
       "Name": "Tom Herman",
       "Party": "Rep",
-      "Votes": "15,995",
-      "Percent": "43.2",
+      "Votes": "17,210",
+      "Percent": "42.9",
       "incumbent": false
     }
   ]

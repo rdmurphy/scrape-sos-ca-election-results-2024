@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 39 - San Bernardino County Results",
     "Reporting": "100% (141 of 141) precincts reporting",
-    "ReportingTime": "March 6, 2024, 1:48 a.m.",
+    "ReportingTime": "March 6, 2024, 3:48 p.m.",
     "candidates": [
       {
         "Name": "Juan Carrillo Ventura",
         "Party": "Dem",
-        "Votes": "4,499",
-        "Percent": "50.3",
+        "Votes": "4,747",
+        "Percent": "50.7",
         "incumbent": true
       },
       {
         "Name": "Paul Andre Marsh",
         "Party": "Rep",
-        "Votes": "4,440",
-        "Percent": "49.7",
+        "Votes": "4,621",
+        "Percent": "49.3",
         "incumbent": false
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "State Assembly District 39 - Districtwide Results",
     "Reporting": "100% (203 of 203) precincts reporting",
-    "ReportingTime": "March 6, 2024, 3:01 a.m.",
+    "ReportingTime": "March 6, 2024, 4:24 p.m.",
     "candidates": [
       {
         "Name": "Juan Carrillo Ventura",
         "Party": "Dem",
-        "Votes": "12,313",
-        "Percent": "51.2",
+        "Votes": "12,561",
+        "Percent": "51.3",
         "incumbent": true
       },
       {
         "Name": "Paul Andre Marsh",
         "Party": "Rep",
-        "Votes": "11,740",
-        "Percent": "48.8",
+        "Votes": "11,921",
+        "Percent": "48.7",
         "incumbent": false
       }
     ]

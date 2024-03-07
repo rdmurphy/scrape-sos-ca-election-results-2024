@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 59 - San Bernardino County Results",
     "Reporting": "100% (73 of 73) precincts reporting",
-    "ReportingTime": "March 6, 2024, 1:48 a.m.",
+    "ReportingTime": "March 6, 2024, 3:48 p.m.",
     "candidates": [
       {
         "Name": "Dave Obrand",
         "Party": "Dem",
-        "Votes": "2,903",
-        "Percent": "38.2",
+        "Votes": "3,170",
+        "Percent": "37.9",
         "incumbent": false
       },
       {
         "Name": "Phillip Chen",
         "Party": "Rep",
-        "Votes": "4,693",
-        "Percent": "61.8",
+        "Votes": "5,194",
+        "Percent": "62.1",
         "incumbent": true
       }
     ]
@@ -23,19 +23,19 @@
   {
     "raceTitle": "State Assembly District 59 - Districtwide Results",
     "Reporting": "100% (525 of 525) precincts reporting",
-    "ReportingTime": "March 6, 2024, 3:01 a.m.",
+    "ReportingTime": "March 6, 2024, 4:24 p.m.",
     "candidates": [
       {
         "Name": "Dave Obrand",
         "Party": "Dem",
-        "Votes": "22,541",
+        "Votes": "22,808",
         "Percent": "34.6",
         "incumbent": false
       },
       {
         "Name": "Phillip Chen",
         "Party": "Rep",
-        "Votes": "42,549",
+        "Votes": "43,050",
         "Percent": "65.4",
         "incumbent": true
       }
