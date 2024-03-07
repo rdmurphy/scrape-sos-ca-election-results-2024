@@ -2,12 +2,12 @@
   {
     "raceTitle": "President Democratic - Statewide Results",
     "Reporting": "100% (20,855 of 20,855) precincts reporting",
-    "ReportingTime": "March 6, 2024, 6:24 p.m.",
+    "ReportingTime": "March 7, 2024, 1:52 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
         "Party": "Dem",
-        "Votes": "1,737,415",
+        "Votes": "1,737,564",
         "Percent": "89.4",
         "incumbent": true
       },
@@ -49,14 +49,14 @@
       {
         "Name": "Dean Phillips",
         "Party": "Dem",
-        "Votes": "55,251",
+        "Votes": "55,256",
         "Percent": "2.8",
         "incumbent": false
       },
       {
         "Name": "Marianne Williamson",
         "Party": "Dem",
-        "Votes": "66,418",
+        "Votes": "66,425",
         "Percent": "3.4",
         "incumbent": false
       }
@@ -1388,12 +1388,12 @@
   {
     "raceTitle": "President Democratic - Mariposa County Results",
     "Reporting": "100% (27 of 27) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:25 p.m.",
+    "ReportingTime": "March 7, 2024, 1:52 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
         "Party": "Dem",
-        "Votes": "1,419",
+        "Votes": "1,568",
         "Percent": "92.1",
         "incumbent": true
       },
@@ -1401,7 +1401,7 @@
         "Name": "President R Boddie",
         "Party": "Dem",
         "Votes": "20",
-        "Percent": "1.3",
+        "Percent": "1.2",
         "incumbent": false
       },
       {
@@ -1435,15 +1435,15 @@
       {
         "Name": "Dean Phillips",
         "Party": "Dem",
-        "Votes": "33",
-        "Percent": "2.1",
+        "Votes": "38",
+        "Percent": "2.2",
         "incumbent": false
       },
       {
         "Name": "Marianne Williamson",
         "Party": "Dem",
-        "Votes": "53",
-        "Percent": "3.4",
+        "Votes": "60",
+        "Percent": "3.5",
         "incumbent": false
       }
     ]
