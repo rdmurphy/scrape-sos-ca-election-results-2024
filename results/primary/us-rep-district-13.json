@@ -1,20 +1,20 @@
 {
   "raceTitle": "U.S. House of Representatives District 13 - Districtwide Results",
   "Reporting": "100% (865 of 865) precincts reporting",
-  "ReportingTime": "March 8, 2024, 2:52 p.m.",
+  "ReportingTime": "March 8, 2024, 3:41 p.m.",
   "candidates": [
     {
       "Name": "Adam Gray",
       "Party": "Dem",
-      "Votes": "21,746",
-      "Percent": "45.6",
+      "Votes": "23,378",
+      "Percent": "45.5",
       "incumbent": false
     },
     {
       "Name": "John Duarte",
       "Party": "Rep",
-      "Votes": "25,976",
-      "Percent": "54.4",
+      "Votes": "27,968",
+      "Percent": "54.5",
       "incumbent": true
     }
   ]

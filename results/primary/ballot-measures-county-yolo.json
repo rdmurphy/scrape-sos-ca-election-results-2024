@@ -1,15 +1,15 @@
 {
   "raceTitle": "Ballot Measures - Yolo Results",
   "Reporting": "100.0% (44 of 44) precincts reporting",
-  "ReportingTime": "March 7, 2024, 3:53 p.m.",
+  "ReportingTime": "March 8, 2024, 3:12 p.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "13802",
-      "yesPercent": "52.8",
-      "noVotes": "12331",
-      "noPercent": "47.2"
+      "yesVotes": "16877",
+      "yesPercent": "52.9",
+      "noVotes": "15053",
+      "noPercent": "47.1"
     }
   ]
 }

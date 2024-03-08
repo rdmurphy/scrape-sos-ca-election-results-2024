@@ -1,76 +1,76 @@
 {
   "raceTitle": "State Assembly District 6 - Districtwide Results",
   "Reporting": "100% (195 of 195) precincts reporting",
-  "ReportingTime": "March 8, 2024, 2:52 p.m.",
+  "ReportingTime": "March 8, 2024, 3:41 p.m.",
   "candidates": [
     {
       "Name": "Emmanuel Amanfor",
       "Party": "Dem",
-      "Votes": "1,206",
-      "Percent": "3.6",
+      "Votes": "1,734",
+      "Percent": "3.3",
       "incumbent": false
     },
     {
       "Name": "Sean Frame",
       "Party": "Dem",
-      "Votes": "1,752",
-      "Percent": "5.2",
+      "Votes": "2,805",
+      "Percent": "5.4",
       "incumbent": false
     },
     {
       "Name": "Rosanna Herber",
       "Party": "Dem",
-      "Votes": "3,120",
+      "Votes": "4,751",
       "Percent": "9.2",
       "incumbent": false
     },
     {
       "Name": "Maggy Krell",
       "Party": "Dem",
-      "Votes": "9,102",
-      "Percent": "26.9",
+      "Votes": "14,292",
+      "Percent": "27.6",
       "incumbent": false
     },
     {
       "Name": "Carlos Marquez III",
       "Party": "Dem",
-      "Votes": "3,195",
-      "Percent": "9.5",
+      "Votes": "4,745",
+      "Percent": "9.2",
       "incumbent": false
     },
     {
       "Name": "Evan Minton",
       "Party": "Dem",
-      "Votes": "680",
-      "Percent": "2.0",
+      "Votes": "1,109",
+      "Percent": "2.1",
       "incumbent": false
     },
     {
       "Name": "Paula Villescaz",
       "Party": "Dem",
-      "Votes": "3,783",
-      "Percent": "11.2",
+      "Votes": "6,096",
+      "Percent": "11.8",
       "incumbent": false
     },
     {
       "Name": "Nikki Ellis",
       "Party": "Rep",
-      "Votes": "5,664",
-      "Percent": "16.8",
+      "Votes": "8,165",
+      "Percent": "15.8",
       "incumbent": false
     },
     {
       "Name": "Preston Romero",
       "Party": "Rep",
-      "Votes": "4,688",
-      "Percent": "13.9",
+      "Votes": "7,269",
+      "Percent": "14.0",
       "incumbent": false
     },
     {
       "Name": "Kevin Olmar Martinez",
       "Party": "P&F",
-      "Votes": "616",
-      "Percent": "1.8",
+      "Votes": "843",
+      "Percent": "1.6",
       "incumbent": false
     }
   ]

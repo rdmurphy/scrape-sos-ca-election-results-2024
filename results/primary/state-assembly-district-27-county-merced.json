@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 27 - Merced County Results",
     "Reporting": "100% (630 of 630) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:11 p.m.",
+    "ReportingTime": "March 8, 2024, 3:40 p.m.",
     "candidates": [
       {
         "Name": "Esmeralda Soria",
         "Party": "Dem",
-        "Votes": "8,002",
-        "Percent": "50.0",
+        "Votes": "9,616",
+        "Percent": "49.2",
         "incumbent": true
       },
       {
         "Name": "Joanna Garcia Rose",
         "Party": "Rep",
-        "Votes": "7,991",
-        "Percent": "50.0",
+        "Votes": "9,926",
+        "Percent": "50.8",
         "incumbent": false
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "State Assembly District 27 - Districtwide Results",
     "Reporting": "100% (704 of 704) precincts reporting",
-    "ReportingTime": "March 8, 2024, 2:52 p.m.",
+    "ReportingTime": "March 8, 2024, 3:41 p.m.",
     "candidates": [
       {
         "Name": "Esmeralda Soria",
         "Party": "Dem",
-        "Votes": "15,807",
-        "Percent": "49.6",
+        "Votes": "17,421",
+        "Percent": "49.2",
         "incumbent": true
       },
       {
         "Name": "Joanna Garcia Rose",
         "Party": "Rep",
-        "Votes": "16,068",
-        "Percent": "50.4",
+        "Votes": "18,003",
+        "Percent": "50.8",
         "incumbent": false
       }
     ]

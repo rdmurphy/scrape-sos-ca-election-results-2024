@@ -2,55 +2,55 @@
   {
     "raceTitle": "State Assembly District 2 - Del Norte County Results",
     "Reporting": "100% (19 of 19) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:25 p.m.",
+    "ReportingTime": "March 8, 2024, 3:28 p.m.",
     "candidates": [
       {
         "Name": "Cynthia A. Click",
         "Party": "Dem",
-        "Votes": "14",
+        "Votes": "22",
         "Percent": "0.4",
         "incumbent": false
       },
       {
         "Name": "Rusty Hicks",
         "Party": "Dem",
-        "Votes": "656",
-        "Percent": "21.1",
+        "Votes": "1,129",
+        "Percent": "19.7",
         "incumbent": false
       },
       {
         "Name": "Ariel Kelley",
         "Party": "Dem",
-        "Votes": "248",
-        "Percent": "8.0",
+        "Votes": "425",
+        "Percent": "7.4",
         "incumbent": false
       },
       {
         "Name": "Frankie Myers",
         "Party": "Dem",
-        "Votes": "402",
-        "Percent": "12.9",
+        "Votes": "756",
+        "Percent": "13.2",
         "incumbent": false
       },
       {
         "Name": "Chris Rogers",
         "Party": "Dem",
-        "Votes": "100",
-        "Percent": "3.2",
+        "Votes": "194",
+        "Percent": "3.4",
         "incumbent": false
       },
       {
         "Name": "Ted Williams",
         "Party": "Dem",
-        "Votes": "75",
-        "Percent": "2.4",
+        "Votes": "122",
+        "Percent": "2.1",
         "incumbent": false
       },
       {
         "Name": "Michael Greer",
         "Party": "Rep",
-        "Votes": "1,619",
-        "Percent": "52.0",
+        "Votes": "3,093",
+        "Percent": "53.9",
         "incumbent": false
       }
     ]
@@ -58,55 +58,55 @@
   {
     "raceTitle": "State Assembly District 2 - Districtwide Results",
     "Reporting": "100% (581 of 581) precincts reporting",
-    "ReportingTime": "March 8, 2024, 2:52 p.m.",
+    "ReportingTime": "March 8, 2024, 3:41 p.m.",
     "candidates": [
       {
         "Name": "Cynthia A. Click",
         "Party": "Dem",
-        "Votes": "854",
+        "Votes": "862",
         "Percent": "1.2",
         "incumbent": false
       },
       {
         "Name": "Rusty Hicks",
         "Party": "Dem",
-        "Votes": "12,955",
+        "Votes": "13,428",
         "Percent": "18.9",
         "incumbent": false
       },
       {
         "Name": "Ariel Kelley",
         "Party": "Dem",
-        "Votes": "9,678",
-        "Percent": "14.1",
+        "Votes": "9,855",
+        "Percent": "13.9",
         "incumbent": false
       },
       {
         "Name": "Frankie Myers",
         "Party": "Dem",
-        "Votes": "7,400",
-        "Percent": "10.8",
+        "Votes": "7,754",
+        "Percent": "10.9",
         "incumbent": false
       },
       {
         "Name": "Chris Rogers",
         "Party": "Dem",
-        "Votes": "13,329",
-        "Percent": "19.5",
+        "Votes": "13,423",
+        "Percent": "18.9",
         "incumbent": false
       },
       {
         "Name": "Ted Williams",
         "Party": "Dem",
-        "Votes": "4,861",
-        "Percent": "7.1",
+        "Votes": "4,908",
+        "Percent": "6.9",
         "incumbent": false
       },
       {
         "Name": "Michael Greer",
         "Party": "Rep",
-        "Votes": "19,441",
-        "Percent": "28.4",
+        "Votes": "20,915",
+        "Percent": "29.4",
         "incumbent": false
       }
     ]

@@ -44,41 +44,41 @@
   {
     "raceTitle": "State Senate District 3 - Districtwide Results",
     "Reporting": "100% (693 of 693) precincts reporting",
-    "ReportingTime": "March 8, 2024, 2:52 p.m.",
+    "ReportingTime": "March 8, 2024, 3:41 p.m.",
     "candidates": [
       {
         "Name": "Christopher Cabaldon",
         "Party": "Dem",
-        "Votes": "36,904",
-        "Percent": "26.2",
+        "Votes": "39,221",
+        "Percent": "26.7",
         "incumbent": false
       },
       {
         "Name": "Jackie Elward",
         "Party": "Dem",
-        "Votes": "24,867",
-        "Percent": "17.6",
+        "Votes": "25,961",
+        "Percent": "17.7",
         "incumbent": false
       },
       {
         "Name": "Rozzana Verder-Aliga",
         "Party": "Dem",
-        "Votes": "28,970",
-        "Percent": "20.5",
+        "Votes": "29,852",
+        "Percent": "20.3",
         "incumbent": false
       },
       {
         "Name": "Thom Bogue",
         "Party": "Rep",
-        "Votes": "41,020",
-        "Percent": "29.1",
+        "Votes": "42,248",
+        "Percent": "28.8",
         "incumbent": false
       },
       {
         "Name": "Jimih Jones",
         "Party": "Rep",
-        "Votes": "9,262",
-        "Percent": "6.6",
+        "Votes": "9,533",
+        "Percent": "6.5",
         "incumbent": false
       }
     ]
