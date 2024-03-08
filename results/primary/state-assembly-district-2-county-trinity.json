@@ -2,54 +2,54 @@
   {
     "raceTitle": "State Assembly District 2 - Trinity County Results",
     "Reporting": "100% (8 of 8) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:24 p.m.",
+    "ReportingTime": "March 8, 2024, 12:17 p.m.",
     "candidates": [
       {
         "Name": "Cynthia A. Click",
         "Party": "Dem",
-        "Votes": "11",
+        "Votes": "19",
         "Percent": "0.7",
         "incumbent": false
       },
       {
         "Name": "Rusty Hicks",
         "Party": "Dem",
-        "Votes": "294",
+        "Votes": "473",
         "Percent": "17.9",
         "incumbent": false
       },
       {
         "Name": "Ariel Kelley",
         "Party": "Dem",
-        "Votes": "65",
+        "Votes": "107",
         "Percent": "4.0",
         "incumbent": false
       },
       {
         "Name": "Frankie Myers",
         "Party": "Dem",
-        "Votes": "234",
-        "Percent": "14.3",
+        "Votes": "374",
+        "Percent": "14.1",
         "incumbent": false
       },
       {
         "Name": "Chris Rogers",
         "Party": "Dem",
-        "Votes": "88",
-        "Percent": "5.4",
+        "Votes": "155",
+        "Percent": "5.9",
         "incumbent": false
       },
       {
         "Name": "Ted Williams",
         "Party": "Dem",
-        "Votes": "95",
-        "Percent": "5.8",
+        "Votes": "143",
+        "Percent": "5.4",
         "incumbent": false
       },
       {
         "Name": "Michael Greer",
         "Party": "Rep",
-        "Votes": "852",
+        "Votes": "1,377",
         "Percent": "52.0",
         "incumbent": false
       }
@@ -58,55 +58,55 @@
   {
     "raceTitle": "State Assembly District 2 - Districtwide Results",
     "Reporting": "100% (581 of 581) precincts reporting",
-    "ReportingTime": "March 8, 2024, 8:42 a.m.",
+    "ReportingTime": "March 8, 2024, 12:17 p.m.",
     "candidates": [
       {
         "Name": "Cynthia A. Click",
         "Party": "Dem",
-        "Votes": "846",
-        "Percent": "1.3",
+        "Votes": "854",
+        "Percent": "1.2",
         "incumbent": false
       },
       {
         "Name": "Rusty Hicks",
         "Party": "Dem",
-        "Votes": "12,776",
+        "Votes": "12,955",
         "Percent": "18.9",
         "incumbent": false
       },
       {
         "Name": "Ariel Kelley",
         "Party": "Dem",
-        "Votes": "9,636",
-        "Percent": "14.3",
+        "Votes": "9,678",
+        "Percent": "14.1",
         "incumbent": false
       },
       {
         "Name": "Frankie Myers",
         "Party": "Dem",
-        "Votes": "7,260",
+        "Votes": "7,400",
         "Percent": "10.8",
         "incumbent": false
       },
       {
         "Name": "Chris Rogers",
         "Party": "Dem",
-        "Votes": "13,262",
-        "Percent": "19.6",
+        "Votes": "13,329",
+        "Percent": "19.5",
         "incumbent": false
       },
       {
         "Name": "Ted Williams",
         "Party": "Dem",
-        "Votes": "4,813",
+        "Votes": "4,861",
         "Percent": "7.1",
         "incumbent": false
       },
       {
         "Name": "Michael Greer",
         "Party": "Rep",
-        "Votes": "18,916",
-        "Percent": "28.0",
+        "Votes": "19,441",
+        "Percent": "28.4",
         "incumbent": false
       }
     ]
