@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 9 - Stanislaus County Results",
     "Reporting": "100% (33 of 33) precincts reporting",
-    "ReportingTime": "March 6, 2024, 12:01 a.m.",
+    "ReportingTime": "March 7, 2024, 5:31 p.m.",
     "candidates": [
       {
         "Name": "Heath Flora",
         "Party": "Rep",
-        "Votes": "6,041",
-        "Percent": "76.2",
+        "Votes": "7,985",
+        "Percent": "76.4",
         "incumbent": true
       },
       {
         "Name": "Tami Nobriga",
         "Party": "AI",
-        "Votes": "1,889",
-        "Percent": "23.8",
+        "Votes": "2,463",
+        "Percent": "23.6",
         "incumbent": false
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "State Assembly District 9 - Districtwide Results",
     "Reporting": "100% (186 of 186) precincts reporting",
-    "ReportingTime": "March 7, 2024, 4:29 p.m.",
+    "ReportingTime": "March 7, 2024, 5:31 p.m.",
     "candidates": [
       {
         "Name": "Heath Flora",
         "Party": "Rep",
-        "Votes": "33,381",
-        "Percent": "73.7",
+        "Votes": "35,325",
+        "Percent": "73.9",
         "incumbent": true
       },
       {
         "Name": "Tami Nobriga",
         "Party": "AI",
-        "Votes": "11,913",
-        "Percent": "26.3",
+        "Votes": "12,487",
+        "Percent": "26.1",
         "incumbent": false
       }
     ]

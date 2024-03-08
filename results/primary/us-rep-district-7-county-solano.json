@@ -2,27 +2,27 @@
   {
     "raceTitle": "U.S. House of Representatives District 7 - Solano County Results",
     "Reporting": "100% (1 of 1) precincts reporting",
-    "ReportingTime": "March 6, 2024, 5:00 p.m.",
+    "ReportingTime": "March 7, 2024, 5:01 p.m.",
     "candidates": [
       {
         "Name": "David Lee Mandel",
         "Party": "Dem",
         "Votes": "5",
-        "Percent": "27.8",
+        "Percent": "23.8",
         "incumbent": false
       },
       {
         "Name": "Doris Matsui",
         "Party": "Dem",
-        "Votes": "6",
-        "Percent": "33.3",
+        "Votes": "9",
+        "Percent": "42.9",
         "incumbent": true
       },
       {
         "Name": "Tom Silva",
         "Party": "Rep",
         "Votes": "7",
-        "Percent": "38.9",
+        "Percent": "33.3",
         "incumbent": false
       }
     ]
@@ -30,7 +30,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 7 - Districtwide Results",
     "Reporting": "100% (291 of 291) precincts reporting",
-    "ReportingTime": "March 7, 2024, 4:29 p.m.",
+    "ReportingTime": "March 7, 2024, 5:31 p.m.",
     "candidates": [
       {
         "Name": "David Lee Mandel",
@@ -42,7 +42,7 @@
       {
         "Name": "Doris Matsui",
         "Party": "Dem",
-        "Votes": "32,881",
+        "Votes": "32,884",
         "Percent": "57.7",
         "incumbent": true
       },

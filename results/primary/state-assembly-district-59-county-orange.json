@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 59 - Orange County Results",
     "Reporting": "100% (452 of 452) precincts reporting",
-    "ReportingTime": "March 6, 2024, 5:10 p.m.",
+    "ReportingTime": "March 7, 2024, 5:13 p.m.",
     "candidates": [
       {
         "Name": "Dave Obrand",
         "Party": "Dem",
-        "Votes": "21,359",
-        "Percent": "34.2",
+        "Votes": "23,496",
+        "Percent": "34.6",
         "incumbent": false
       },
       {
         "Name": "Phillip Chen",
         "Party": "Rep",
-        "Votes": "41,057",
-        "Percent": "65.8",
+        "Votes": "44,326",
+        "Percent": "65.4",
         "incumbent": true
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "State Assembly District 59 - Districtwide Results",
     "Reporting": "100% (525 of 525) precincts reporting",
-    "ReportingTime": "March 7, 2024, 4:29 p.m.",
+    "ReportingTime": "March 7, 2024, 5:31 p.m.",
     "candidates": [
       {
         "Name": "Dave Obrand",
         "Party": "Dem",
-        "Votes": "24,688",
-        "Percent": "34.5",
+        "Votes": "26,825",
+        "Percent": "34.9",
         "incumbent": false
       },
       {
         "Name": "Phillip Chen",
         "Party": "Rep",
-        "Votes": "46,853",
-        "Percent": "65.5",
+        "Votes": "50,122",
+        "Percent": "65.1",
         "incumbent": true
       }
     ]

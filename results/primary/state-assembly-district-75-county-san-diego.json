@@ -2,48 +2,48 @@
   {
     "raceTitle": "State Assembly District 75 - San Diego County Results",
     "Reporting": "100% (313 of 313) precincts reporting",
-    "ReportingTime": "March 6, 2024, 12:50 a.m.",
+    "ReportingTime": "March 7, 2024, 5:01 p.m.",
     "candidates": [
       {
         "Name": "Christie Dougherty",
         "Party": "Dem",
-        "Votes": "8,123",
-        "Percent": "10.4",
+        "Votes": "9,294",
+        "Percent": "10.2",
         "incumbent": false
       },
       {
         "Name": "Joy Frew",
         "Party": "Dem",
-        "Votes": "5,891",
+        "Votes": "6,828",
         "Percent": "7.5",
         "incumbent": false
       },
       {
         "Name": "Kevin Juza",
         "Party": "Dem",
-        "Votes": "14,865",
+        "Votes": "17,312",
         "Percent": "19.0",
         "incumbent": false
       },
       {
         "Name": "Carl DeMaio",
         "Party": "Rep",
-        "Votes": "34,261",
-        "Percent": "43.8",
+        "Votes": "39,397",
+        "Percent": "43.3",
         "incumbent": false
       },
       {
         "Name": "Jack Fernandes",
         "Party": "Rep",
-        "Votes": "2,277",
-        "Percent": "2.9",
+        "Votes": "2,578",
+        "Percent": "2.8",
         "incumbent": false
       },
       {
         "Name": "Andrew Hayes",
         "Party": "Rep",
-        "Votes": "12,725",
-        "Percent": "16.3",
+        "Votes": "15,499",
+        "Percent": "17.0",
         "incumbent": false
       }
     ]
@@ -51,48 +51,48 @@
   {
     "raceTitle": "State Assembly District 75 - Districtwide Results",
     "Reporting": "100% (313 of 313) precincts reporting",
-    "ReportingTime": "March 7, 2024, 4:29 p.m.",
+    "ReportingTime": "March 7, 2024, 5:31 p.m.",
     "candidates": [
       {
         "Name": "Christie Dougherty",
         "Party": "Dem",
-        "Votes": "8,123",
-        "Percent": "10.4",
+        "Votes": "9,294",
+        "Percent": "10.2",
         "incumbent": false
       },
       {
         "Name": "Joy Frew",
         "Party": "Dem",
-        "Votes": "5,891",
+        "Votes": "6,828",
         "Percent": "7.5",
         "incumbent": false
       },
       {
         "Name": "Kevin Juza",
         "Party": "Dem",
-        "Votes": "14,865",
+        "Votes": "17,312",
         "Percent": "19.0",
         "incumbent": false
       },
       {
         "Name": "Carl DeMaio",
         "Party": "Rep",
-        "Votes": "34,261",
-        "Percent": "43.8",
+        "Votes": "39,397",
+        "Percent": "43.3",
         "incumbent": false
       },
       {
         "Name": "Jack Fernandes",
         "Party": "Rep",
-        "Votes": "2,277",
-        "Percent": "2.9",
+        "Votes": "2,578",
+        "Percent": "2.8",
         "incumbent": false
       },
       {
         "Name": "Andrew Hayes",
         "Party": "Rep",
-        "Votes": "12,725",
-        "Percent": "16.3",
+        "Votes": "15,499",
+        "Percent": "17.0",
         "incumbent": false
       }
     ]

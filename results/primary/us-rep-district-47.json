@@ -1,75 +1,75 @@
 {
   "raceTitle": "U.S. House of Representatives District 47 - Districtwide Results",
   "Reporting": "100% (542 of 542) precincts reporting",
-  "ReportingTime": "March 7, 2024, 4:29 p.m.",
+  "ReportingTime": "March 7, 2024, 5:31 p.m.",
   "candidates": [
     {
       "Name": "Dave Min",
       "Party": "Dem",
-      "Votes": "28,839",
-      "Percent": "25.6",
+      "Votes": "33,068",
+      "Percent": "25.8",
       "incumbent": false
     },
     {
       "Name": "Boyd Roberts",
       "Party": "Dem",
-      "Votes": "1,413",
+      "Votes": "1,613",
       "Percent": "1.3",
       "incumbent": false
     },
     {
       "Name": "Joanna Weiss",
       "Party": "Dem",
-      "Votes": "21,371",
-      "Percent": "18.9",
+      "Votes": "24,547",
+      "Percent": "19.2",
       "incumbent": false
     },
     {
       "Name": "Shariq Zaidi",
       "Party": "Dem",
-      "Votes": "510",
+      "Votes": "580",
       "Percent": "0.5",
       "incumbent": false
     },
     {
       "Name": "Scott Baugh",
       "Party": "Rep",
-      "Votes": "37,349",
-      "Percent": "33.1",
+      "Votes": "41,980",
+      "Percent": "32.8",
       "incumbent": false
     },
     {
       "Name": "Long Pham",
       "Party": "Rep",
-      "Votes": "3,227",
-      "Percent": "2.9",
+      "Votes": "3,611",
+      "Percent": "2.8",
       "incumbent": false
     },
     {
       "Name": "Max Ukropina",
       "Party": "Rep",
-      "Votes": "16,692",
-      "Percent": "14.8",
+      "Votes": "18,805",
+      "Percent": "14.7",
       "incumbent": false
     },
     {
       "Name": "Terry L. Crandall",
       "Party": "NPP",
-      "Votes": "1,768",
+      "Votes": "2,014",
       "Percent": "1.6",
       "incumbent": false
     },
     {
       "Name": "Tom McGrath",
       "Party": "NPP",
-      "Votes": "946",
-      "Percent": "0.8",
+      "Votes": "1,109",
+      "Percent": "0.9",
       "incumbent": false
     },
     {
       "Name": "Bill Smith",
       "Party": "NPP",
-      "Votes": "696",
+      "Votes": "774",
       "Percent": "0.6",
       "incumbent": false
     }

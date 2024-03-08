@@ -2,41 +2,41 @@
   {
     "raceTitle": "State Assembly District 33 - Fresno County Results",
     "Reporting": "100% (15 of 15) precincts reporting",
-    "ReportingTime": "March 6, 2024, 12:58 a.m.",
+    "ReportingTime": "March 7, 2024, 4:59 p.m.",
     "candidates": [
       {
         "Name": "Hipolito A. Cerros",
         "Party": "Dem",
-        "Votes": "97",
-        "Percent": "3.0",
+        "Votes": "127",
+        "Percent": "2.9",
         "incumbent": false
       },
       {
         "Name": "Ruben Macareno",
         "Party": "Dem",
-        "Votes": "377",
-        "Percent": "11.6",
+        "Votes": "523",
+        "Percent": "11.8",
         "incumbent": false
       },
       {
         "Name": "Angel Ruiz",
         "Party": "Dem",
-        "Votes": "516",
+        "Votes": "698",
         "Percent": "15.8",
         "incumbent": false
       },
       {
         "Name": "Xavier Avila",
         "Party": "Rep",
-        "Votes": "725",
-        "Percent": "22.3",
+        "Votes": "958",
+        "Percent": "21.7",
         "incumbent": false
       },
       {
         "Name": "Alexandra Macedo",
         "Party": "Rep",
-        "Votes": "1,543",
-        "Percent": "47.4",
+        "Votes": "2,118",
+        "Percent": "47.9",
         "incumbent": false
       }
     ]
@@ -44,41 +44,41 @@
   {
     "raceTitle": "State Assembly District 33 - Districtwide Results",
     "Reporting": "100% (106 of 106) precincts reporting",
-    "ReportingTime": "March 7, 2024, 4:29 p.m.",
+    "ReportingTime": "March 7, 2024, 5:31 p.m.",
     "candidates": [
       {
         "Name": "Hipolito A. Cerros",
         "Party": "Dem",
-        "Votes": "1,461",
-        "Percent": "4.7",
+        "Votes": "1,604",
+        "Percent": "4.5",
         "incumbent": false
       },
       {
         "Name": "Ruben Macareno",
         "Party": "Dem",
-        "Votes": "4,778",
-        "Percent": "15.4",
+        "Votes": "5,392",
+        "Percent": "15.2",
         "incumbent": false
       },
       {
         "Name": "Angel Ruiz",
         "Party": "Dem",
-        "Votes": "3,789",
-        "Percent": "12.2",
+        "Votes": "4,408",
+        "Percent": "12.5",
         "incumbent": false
       },
       {
         "Name": "Xavier Avila",
         "Party": "Rep",
-        "Votes": "7,536",
-        "Percent": "24.3",
+        "Votes": "8,707",
+        "Percent": "24.6",
         "incumbent": false
       },
       {
         "Name": "Alexandra Macedo",
         "Party": "Rep",
-        "Votes": "13,418",
-        "Percent": "43.3",
+        "Votes": "15,261",
+        "Percent": "43.1",
         "incumbent": false
       }
     ]

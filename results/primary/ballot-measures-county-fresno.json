@@ -1,15 +1,15 @@
 {
   "raceTitle": "Ballot Measures - Fresno Results",
   "Reporting": "100.0% (301 of 301) precincts reporting",
-  "ReportingTime": "March 6, 2024, 12:58 a.m.",
+  "ReportingTime": "March 7, 2024, 4:59 p.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "34513",
-      "yesPercent": "44.0",
-      "noVotes": "43927",
-      "noPercent": "56.0"
+      "yesVotes": "44031",
+      "yesPercent": "43.6",
+      "noVotes": "56909",
+      "noPercent": "56.4"
     }
   ]
 }

@@ -1,15 +1,15 @@
 {
   "raceTitle": "Ballot Measures - San Benito Results",
   "Reporting": "100.0% (28 of 28) precincts reporting",
-  "ReportingTime": "March 5, 2024, 11:30 p.m.",
+  "ReportingTime": "March 7, 2024, 4:57 p.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "1695",
-      "yesPercent": "43.5",
-      "noVotes": "2199",
-      "noPercent": "56.5"
+      "yesVotes": "1791",
+      "yesPercent": "43.3",
+      "noVotes": "2346",
+      "noPercent": "56.7"
     }
   ]
 }

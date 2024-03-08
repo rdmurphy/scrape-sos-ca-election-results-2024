@@ -2,34 +2,34 @@
   {
     "raceTitle": "U.S. House of Representatives District 38 - Orange County Results",
     "Reporting": "100% (22 of 22) precincts reporting",
-    "ReportingTime": "March 6, 2024, 5:10 p.m.",
+    "ReportingTime": "March 7, 2024, 5:13 p.m.",
     "candidates": [
       {
         "Name": "Linda T. Sánchez",
         "Party": "Dem",
-        "Votes": "2,814",
-        "Percent": "47.0",
+        "Votes": "3,257",
+        "Percent": "46.9",
         "incumbent": true
       },
       {
         "Name": "Eric J. Ching",
         "Party": "Rep",
-        "Votes": "1,529",
-        "Percent": "25.5",
+        "Votes": "1,830",
+        "Percent": "26.4",
         "incumbent": false
       },
       {
         "Name": "Robert Zhang Ochoa",
         "Party": "Rep",
-        "Votes": "531",
-        "Percent": "8.9",
+        "Votes": "592",
+        "Percent": "8.5",
         "incumbent": false
       },
       {
         "Name": "John Sarega",
         "Party": "Rep",
-        "Votes": "1,112",
-        "Percent": "18.6",
+        "Votes": "1,260",
+        "Percent": "18.2",
         "incumbent": false
       }
     ]
@@ -37,33 +37,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 38 - Districtwide Results",
     "Reporting": "100% (197 of 197) precincts reporting",
-    "ReportingTime": "March 7, 2024, 4:29 p.m.",
+    "ReportingTime": "March 7, 2024, 5:31 p.m.",
     "candidates": [
       {
         "Name": "Linda T. Sánchez",
         "Party": "Dem",
-        "Votes": "39,975",
-        "Percent": "53.9",
+        "Votes": "40,418",
+        "Percent": "53.8",
         "incumbent": true
       },
       {
         "Name": "Eric J. Ching",
         "Party": "Rep",
-        "Votes": "18,657",
-        "Percent": "25.2",
+        "Votes": "18,958",
+        "Percent": "25.3",
         "incumbent": false
       },
       {
         "Name": "Robert Zhang Ochoa",
         "Party": "Rep",
-        "Votes": "5,607",
+        "Votes": "5,668",
         "Percent": "7.6",
         "incumbent": false
       },
       {
         "Name": "John Sarega",
         "Party": "Rep",
-        "Votes": "9,867",
+        "Votes": "10,015",
         "Percent": "13.3",
         "incumbent": false
       }

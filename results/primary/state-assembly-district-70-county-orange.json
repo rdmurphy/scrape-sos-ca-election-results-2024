@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 70 - Orange County Results",
     "Reporting": "100% (268 of 268) precincts reporting",
-    "ReportingTime": "March 6, 2024, 5:10 p.m.",
+    "ReportingTime": "March 7, 2024, 5:13 p.m.",
     "candidates": [
       {
         "Name": "Jimmy D. Pham",
         "Party": "Dem",
-        "Votes": "18,741",
-        "Percent": "39.0",
+        "Votes": "21,095",
+        "Percent": "39.6",
         "incumbent": false
       },
       {
         "Name": "Tri Ta",
         "Party": "Rep",
-        "Votes": "29,257",
-        "Percent": "61.0",
+        "Votes": "32,118",
+        "Percent": "60.4",
         "incumbent": true
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "State Assembly District 70 - Districtwide Results",
     "Reporting": "100% (268 of 268) precincts reporting",
-    "ReportingTime": "March 7, 2024, 4:29 p.m.",
+    "ReportingTime": "March 7, 2024, 5:31 p.m.",
     "candidates": [
       {
         "Name": "Jimmy D. Pham",
         "Party": "Dem",
-        "Votes": "18,741",
-        "Percent": "39.0",
+        "Votes": "21,095",
+        "Percent": "39.6",
         "incumbent": false
       },
       {
         "Name": "Tri Ta",
         "Party": "Rep",
-        "Votes": "29,257",
-        "Percent": "61.0",
+        "Votes": "32,118",
+        "Percent": "60.4",
         "incumbent": true
       }
     ]
