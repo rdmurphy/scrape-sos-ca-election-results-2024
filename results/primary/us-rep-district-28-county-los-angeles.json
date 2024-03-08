@@ -2,33 +2,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 28 - Los Angeles County Results",
     "Reporting": "100% (192 of 192) precincts reporting",
-    "ReportingTime": "March 6, 2024, 4:36 p.m.",
+    "ReportingTime": "March 7, 2024, 4:21 p.m.",
     "candidates": [
       {
         "Name": "Judy Chu",
         "Party": "Dem",
-        "Votes": "52,617",
-        "Percent": "63.2",
+        "Votes": "59,181",
+        "Percent": "64.3",
         "incumbent": true
       },
       {
         "Name": "April A. Verlato",
         "Party": "Rep",
-        "Votes": "27,102",
-        "Percent": "32.6",
+        "Votes": "29,038",
+        "Percent": "31.6",
         "incumbent": false
       },
       {
         "Name": "Jose Castaneda",
         "Party": "Lib",
-        "Votes": "1,763",
+        "Votes": "1,920",
         "Percent": "2.1",
         "incumbent": false
       },
       {
         "Name": "William Patterson",
         "Party": "P&F",
-        "Votes": "1,714",
+        "Votes": "1,895",
         "Percent": "2.1",
         "incumbent": false
       }
@@ -37,33 +37,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 28 - Districtwide Results",
     "Reporting": "100% (347 of 347) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Judy Chu",
         "Party": "Dem",
-        "Votes": "56,880",
-        "Percent": "60.4",
+        "Votes": "63,444",
+        "Percent": "61.6",
         "incumbent": true
       },
       {
         "Name": "April A. Verlato",
         "Party": "Rep",
-        "Votes": "33,451",
-        "Percent": "35.5",
+        "Votes": "35,387",
+        "Percent": "34.3",
         "incumbent": false
       },
       {
         "Name": "Jose Castaneda",
         "Party": "Lib",
-        "Votes": "1,971",
+        "Votes": "2,128",
         "Percent": "2.1",
         "incumbent": false
       },
       {
         "Name": "William Patterson",
         "Party": "P&F",
-        "Votes": "1,886",
+        "Votes": "2,067",
         "Percent": "2.0",
         "incumbent": false
       }

@@ -30,26 +30,26 @@
   {
     "raceTitle": "U.S. House of Representatives District 3 - Districtwide Results",
     "Reporting": "100% (454 of 454) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Jessica Morse",
         "Party": "Dem",
-        "Votes": "53,867",
-        "Percent": "42.9",
+        "Votes": "54,416",
+        "Percent": "43.0",
         "incumbent": false
       },
       {
         "Name": "Kevin Kiley",
         "Party": "Rep",
-        "Votes": "69,112",
-        "Percent": "55.1",
+        "Votes": "69,596",
+        "Percent": "55.0",
         "incumbent": true
       },
       {
         "Name": "Robert Smith",
         "Party": "NPP",
-        "Votes": "2,484",
+        "Votes": "2,514",
         "Percent": "2.0",
         "incumbent": false
       }

@@ -1,27 +1,27 @@
 {
   "raceTitle": "State Assembly District 17 - Districtwide Results",
   "Reporting": "100% (298 of 298) precincts reporting",
-  "ReportingTime": "March 7, 2024, 3:53 p.m.",
+  "ReportingTime": "March 7, 2024, 4:29 p.m.",
   "candidates": [
     {
       "Name": "Otto Duke",
       "Party": "Dem",
-      "Votes": "3,024",
-      "Percent": "5.9",
+      "Votes": "3,620",
+      "Percent": "5.6",
       "incumbent": false
     },
     {
       "Name": "Matt Haney",
       "Party": "Dem",
-      "Votes": "40,804",
-      "Percent": "79.5",
+      "Votes": "51,703",
+      "Percent": "80.6",
       "incumbent": true
     },
     {
       "Name": "Manuel Noris-Barrera",
       "Party": "Rep",
-      "Votes": "7,472",
-      "Percent": "14.6",
+      "Votes": "8,801",
+      "Percent": "13.7",
       "incumbent": false
     }
   ]

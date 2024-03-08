@@ -2,62 +2,62 @@
   {
     "raceTitle": "President Democratic - Statewide Results",
     "Reporting": "100% (20,855 of 20,855) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
         "Party": "Dem",
-        "Votes": "1,749,736",
+        "Votes": "1,821,538",
         "Percent": "89.4",
         "incumbent": true
       },
       {
         "Name": "President R Boddie",
         "Party": "Dem",
-        "Votes": "15,155",
+        "Votes": "15,558",
         "Percent": "0.8",
         "incumbent": false
       },
       {
         "Name": "Eban Cambridge",
         "Party": "Dem",
-        "Votes": "6,543",
+        "Votes": "6,780",
         "Percent": "0.3",
         "incumbent": false
       },
       {
         "Name": "Gabriel Cornejo",
         "Party": "Dem",
-        "Votes": "24,535",
+        "Votes": "25,620",
         "Percent": "1.3",
         "incumbent": false
       },
       {
         "Name": "Stephen P Lyons",
         "Party": "Dem",
-        "Votes": "13,594",
+        "Votes": "14,021",
         "Percent": "0.7",
         "incumbent": false
       },
       {
         "Name": "Armando \"Mando\" Perez-Serrato",
         "Party": "Dem",
-        "Votes": "25,680",
+        "Votes": "26,548",
         "Percent": "1.3",
         "incumbent": false
       },
       {
         "Name": "Dean Phillips",
         "Party": "Dem",
-        "Votes": "55,568",
+        "Votes": "57,743",
         "Percent": "2.8",
         "incumbent": false
       },
       {
         "Name": "Marianne Williamson",
         "Party": "Dem",
-        "Votes": "66,917",
-        "Percent": "3.4",
+        "Votes": "70,429",
+        "Percent": "3.5",
         "incumbent": false
       }
     ]
@@ -65,26 +65,26 @@
   {
     "raceTitle": "President Democratic District 1 - Districtwide Results",
     "Reporting": "100% (490 of 490) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
         "Party": "Dem",
-        "Votes": "27,788",
+        "Votes": "28,298",
         "Percent": "89.6",
         "incumbent": true
       },
       {
         "Name": "President R Boddie",
         "Party": "Dem",
-        "Votes": "254",
+        "Votes": "255",
         "Percent": "0.8",
         "incumbent": false
       },
       {
         "Name": "Eban Cambridge",
         "Party": "Dem",
-        "Votes": "112",
+        "Votes": "115",
         "Percent": "0.4",
         "incumbent": false
       },
@@ -98,28 +98,28 @@
       {
         "Name": "Stephen P Lyons",
         "Party": "Dem",
-        "Votes": "230",
+        "Votes": "235",
         "Percent": "0.7",
         "incumbent": false
       },
       {
         "Name": "Armando \"Mando\" Perez-Serrato",
         "Party": "Dem",
-        "Votes": "250",
+        "Votes": "252",
         "Percent": "0.8",
         "incumbent": false
       },
       {
         "Name": "Dean Phillips",
         "Party": "Dem",
-        "Votes": "936",
+        "Votes": "945",
         "Percent": "3.0",
         "incumbent": false
       },
       {
         "Name": "Marianne Williamson",
         "Party": "Dem",
-        "Votes": "1,135",
+        "Votes": "1,165",
         "Percent": "3.7",
         "incumbent": false
       }
@@ -128,7 +128,7 @@
   {
     "raceTitle": "President Democratic District 2 - Districtwide Results",
     "Reporting": "100% (629 of 629) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -191,19 +191,19 @@
   {
     "raceTitle": "President Democratic District 3 - Districtwide Results",
     "Reporting": "100% (454 of 454) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
         "Party": "Dem",
-        "Votes": "43,858",
-        "Percent": "93.1",
+        "Votes": "44,244",
+        "Percent": "93.0",
         "incumbent": true
       },
       {
         "Name": "President R Boddie",
         "Party": "Dem",
-        "Votes": "229",
+        "Votes": "233",
         "Percent": "0.5",
         "incumbent": false
       },
@@ -217,35 +217,35 @@
       {
         "Name": "Gabriel Cornejo",
         "Party": "Dem",
-        "Votes": "136",
+        "Votes": "137",
         "Percent": "0.3",
         "incumbent": false
       },
       {
         "Name": "Stephen P Lyons",
         "Party": "Dem",
-        "Votes": "214",
+        "Votes": "215",
         "Percent": "0.5",
         "incumbent": false
       },
       {
         "Name": "Armando \"Mando\" Perez-Serrato",
         "Party": "Dem",
-        "Votes": "169",
+        "Votes": "174",
         "Percent": "0.4",
         "incumbent": false
       },
       {
         "Name": "Dean Phillips",
         "Party": "Dem",
-        "Votes": "1,171",
+        "Votes": "1,190",
         "Percent": "2.5",
         "incumbent": false
       },
       {
         "Name": "Marianne Williamson",
         "Party": "Dem",
-        "Votes": "1,268",
+        "Votes": "1,283",
         "Percent": "2.7",
         "incumbent": false
       }
@@ -254,7 +254,7 @@
   {
     "raceTitle": "President Democratic District 4 - Districtwide Results",
     "Reporting": "100% (570 of 570) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -317,62 +317,62 @@
   {
     "raceTitle": "President Democratic District 5 - Districtwide Results",
     "Reporting": "100% (345 of 345) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
         "Party": "Dem",
-        "Votes": "39,460",
-        "Percent": "92.1",
+        "Votes": "40,100",
+        "Percent": "92.0",
         "incumbent": true
       },
       {
         "Name": "President R Boddie",
         "Party": "Dem",
-        "Votes": "281",
-        "Percent": "0.7",
+        "Votes": "282",
+        "Percent": "0.6",
         "incumbent": false
       },
       {
         "Name": "Eban Cambridge",
         "Party": "Dem",
-        "Votes": "72",
+        "Votes": "75",
         "Percent": "0.2",
         "incumbent": false
       },
       {
         "Name": "Gabriel Cornejo",
         "Party": "Dem",
-        "Votes": "186",
+        "Votes": "188",
         "Percent": "0.4",
         "incumbent": false
       },
       {
         "Name": "Stephen P Lyons",
         "Party": "Dem",
-        "Votes": "280",
+        "Votes": "290",
         "Percent": "0.7",
         "incumbent": false
       },
       {
         "Name": "Armando \"Mando\" Perez-Serrato",
         "Party": "Dem",
-        "Votes": "258",
+        "Votes": "271",
         "Percent": "0.6",
         "incumbent": false
       },
       {
         "Name": "Dean Phillips",
         "Party": "Dem",
-        "Votes": "1,072",
+        "Votes": "1,094",
         "Percent": "2.5",
         "incumbent": false
       },
       {
         "Name": "Marianne Williamson",
         "Party": "Dem",
-        "Votes": "1,252",
-        "Percent": "2.9",
+        "Votes": "1,294",
+        "Percent": "3.0",
         "incumbent": false
       }
     ]
@@ -380,7 +380,7 @@
   {
     "raceTitle": "President Democratic District 6 - Districtwide Results",
     "Reporting": "100% (280 of 280) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -443,7 +443,7 @@
   {
     "raceTitle": "President Democratic District 7 - Districtwide Results",
     "Reporting": "100% (291 of 291) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -506,7 +506,7 @@
   {
     "raceTitle": "President Democratic District 8 - Districtwide Results",
     "Reporting": "100% (361 of 361) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -569,7 +569,7 @@
   {
     "raceTitle": "President Democratic District 9 - Districtwide Results",
     "Reporting": "100% (240 of 240) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -632,7 +632,7 @@
   {
     "raceTitle": "President Democratic District 10 - Districtwide Results",
     "Reporting": "100% (645 of 645) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -695,62 +695,62 @@
   {
     "raceTitle": "President Democratic District 11 - Districtwide Results",
     "Reporting": "100% (451 of 451) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
         "Party": "Dem",
-        "Votes": "59,413",
-        "Percent": "90.3",
+        "Votes": "75,389",
+        "Percent": "90.5",
         "incumbent": true
       },
       {
         "Name": "President R Boddie",
         "Party": "Dem",
-        "Votes": "374",
-        "Percent": "0.6",
+        "Votes": "438",
+        "Percent": "0.5",
         "incumbent": false
       },
       {
         "Name": "Eban Cambridge",
         "Party": "Dem",
-        "Votes": "225",
+        "Votes": "281",
         "Percent": "0.3",
         "incumbent": false
       },
       {
         "Name": "Gabriel Cornejo",
         "Party": "Dem",
-        "Votes": "450",
-        "Percent": "0.7",
+        "Votes": "532",
+        "Percent": "0.6",
         "incumbent": false
       },
       {
         "Name": "Stephen P Lyons",
         "Party": "Dem",
-        "Votes": "432",
-        "Percent": "0.7",
+        "Votes": "480",
+        "Percent": "0.6",
         "incumbent": false
       },
       {
         "Name": "Armando \"Mando\" Perez-Serrato",
         "Party": "Dem",
-        "Votes": "214",
+        "Votes": "239",
         "Percent": "0.3",
         "incumbent": false
       },
       {
         "Name": "Dean Phillips",
         "Party": "Dem",
-        "Votes": "2,557",
-        "Percent": "3.9",
+        "Votes": "3,172",
+        "Percent": "3.8",
         "incumbent": false
       },
       {
         "Name": "Marianne Williamson",
         "Party": "Dem",
-        "Votes": "2,140",
-        "Percent": "3.3",
+        "Votes": "2,806",
+        "Percent": "3.4",
         "incumbent": false
       }
     ]
@@ -758,7 +758,7 @@
   {
     "raceTitle": "President Democratic District 12 - Districtwide Results",
     "Reporting": "100% (179 of 179) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -821,7 +821,7 @@
   {
     "raceTitle": "President Democratic District 13 - Districtwide Results",
     "Reporting": "100% (865 of 865) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -884,7 +884,7 @@
   {
     "raceTitle": "President Democratic District 14 - Districtwide Results",
     "Reporting": "100% (348 of 348) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -947,61 +947,61 @@
   {
     "raceTitle": "President Democratic District 15 - Districtwide Results",
     "Reporting": "100% (252 of 252) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
         "Party": "Dem",
-        "Votes": "44,860",
-        "Percent": "92.3",
+        "Votes": "52,270",
+        "Percent": "92.4",
         "incumbent": true
       },
       {
         "Name": "President R Boddie",
         "Party": "Dem",
-        "Votes": "230",
+        "Votes": "259",
         "Percent": "0.5",
         "incumbent": false
       },
       {
         "Name": "Eban Cambridge",
         "Party": "Dem",
-        "Votes": "129",
+        "Votes": "142",
         "Percent": "0.3",
         "incumbent": false
       },
       {
         "Name": "Gabriel Cornejo",
         "Party": "Dem",
-        "Votes": "353",
+        "Votes": "395",
         "Percent": "0.7",
         "incumbent": false
       },
       {
         "Name": "Stephen P Lyons",
         "Party": "Dem",
-        "Votes": "256",
+        "Votes": "288",
         "Percent": "0.5",
         "incumbent": false
       },
       {
         "Name": "Armando \"Mando\" Perez-Serrato",
         "Party": "Dem",
-        "Votes": "224",
+        "Votes": "257",
         "Percent": "0.5",
         "incumbent": false
       },
       {
         "Name": "Dean Phillips",
         "Party": "Dem",
-        "Votes": "1,346",
-        "Percent": "2.8",
+        "Votes": "1,546",
+        "Percent": "2.7",
         "incumbent": false
       },
       {
         "Name": "Marianne Williamson",
         "Party": "Dem",
-        "Votes": "1,213",
+        "Votes": "1,437",
         "Percent": "2.5",
         "incumbent": false
       }
@@ -1010,61 +1010,61 @@
   {
     "raceTitle": "President Democratic District 16 - Districtwide Results",
     "Reporting": "100% (274 of 274) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
         "Party": "Dem",
-        "Votes": "55,634",
-        "Percent": "92.6",
+        "Votes": "56,861",
+        "Percent": "92.7",
         "incumbent": true
       },
       {
         "Name": "President R Boddie",
         "Party": "Dem",
-        "Votes": "318",
+        "Votes": "325",
         "Percent": "0.5",
         "incumbent": false
       },
       {
         "Name": "Eban Cambridge",
         "Party": "Dem",
-        "Votes": "153",
+        "Votes": "155",
         "Percent": "0.3",
         "incumbent": false
       },
       {
         "Name": "Gabriel Cornejo",
         "Party": "Dem",
-        "Votes": "240",
+        "Votes": "245",
         "Percent": "0.4",
         "incumbent": false
       },
       {
         "Name": "Stephen P Lyons",
         "Party": "Dem",
-        "Votes": "257",
+        "Votes": "260",
         "Percent": "0.4",
         "incumbent": false
       },
       {
         "Name": "Armando \"Mando\" Perez-Serrato",
         "Party": "Dem",
-        "Votes": "240",
+        "Votes": "243",
         "Percent": "0.4",
         "incumbent": false
       },
       {
         "Name": "Dean Phillips",
         "Party": "Dem",
-        "Votes": "1,827",
+        "Votes": "1,859",
         "Percent": "3.0",
         "incumbent": false
       },
       {
         "Name": "Marianne Williamson",
         "Party": "Dem",
-        "Votes": "1,381",
+        "Votes": "1,400",
         "Percent": "2.3",
         "incumbent": false
       }
@@ -1073,7 +1073,7 @@
   {
     "raceTitle": "President Democratic District 17 - Districtwide Results",
     "Reporting": "100% (186 of 186) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -1136,7 +1136,7 @@
   {
     "raceTitle": "President Democratic District 18 - Districtwide Results",
     "Reporting": "100% (281 of 281) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -1199,7 +1199,7 @@
   {
     "raceTitle": "President Democratic District 19 - Districtwide Results",
     "Reporting": "100% (337 of 337) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -1262,7 +1262,7 @@
   {
     "raceTitle": "President Democratic District 20 - Districtwide Results",
     "Reporting": "100% (478 of 478) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -1325,7 +1325,7 @@
   {
     "raceTitle": "President Democratic District 21 - Districtwide Results",
     "Reporting": "100% (208 of 208) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -1388,7 +1388,7 @@
   {
     "raceTitle": "President Democratic District 22 - Districtwide Results",
     "Reporting": "100% (414 of 414) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -1451,12 +1451,12 @@
   {
     "raceTitle": "President Democratic District 23 - Districtwide Results",
     "Reporting": "100% (1,609 of 1,609) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
         "Party": "Dem",
-        "Votes": "20,657",
+        "Votes": "20,688",
         "Percent": "88.6",
         "incumbent": true
       },
@@ -1484,28 +1484,28 @@
       {
         "Name": "Stephen P Lyons",
         "Party": "Dem",
-        "Votes": "151",
-        "Percent": "0.6",
+        "Votes": "152",
+        "Percent": "0.7",
         "incumbent": false
       },
       {
         "Name": "Armando \"Mando\" Perez-Serrato",
         "Party": "Dem",
-        "Votes": "321",
+        "Votes": "324",
         "Percent": "1.4",
         "incumbent": false
       },
       {
         "Name": "Dean Phillips",
         "Party": "Dem",
-        "Votes": "748",
+        "Votes": "749",
         "Percent": "3.2",
         "incumbent": false
       },
       {
         "Name": "Marianne Williamson",
         "Party": "Dem",
-        "Votes": "844",
+        "Votes": "846",
         "Percent": "3.6",
         "incumbent": false
       }
@@ -1514,7 +1514,7 @@
   {
     "raceTitle": "President Democratic District 24 - Districtwide Results",
     "Reporting": "100% (617 of 617) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -1577,7 +1577,7 @@
   {
     "raceTitle": "President Democratic District 25 - Districtwide Results",
     "Reporting": "100% (582 of 582) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -1640,19 +1640,19 @@
   {
     "raceTitle": "President Democratic District 26 - Districtwide Results",
     "Reporting": "100% (1,076 of 1,076) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
         "Party": "Dem",
-        "Votes": "45,719",
+        "Votes": "46,157",
         "Percent": "91.9",
         "incumbent": true
       },
       {
         "Name": "President R Boddie",
         "Party": "Dem",
-        "Votes": "264",
+        "Votes": "266",
         "Percent": "0.5",
         "incumbent": false
       },
@@ -1666,14 +1666,14 @@
       {
         "Name": "Gabriel Cornejo",
         "Party": "Dem",
-        "Votes": "337",
+        "Votes": "338",
         "Percent": "0.7",
         "incumbent": false
       },
       {
         "Name": "Stephen P Lyons",
         "Party": "Dem",
-        "Votes": "251",
+        "Votes": "253",
         "Percent": "0.5",
         "incumbent": false
       },
@@ -1681,20 +1681,20 @@
         "Name": "Armando \"Mando\" Perez-Serrato",
         "Party": "Dem",
         "Votes": "426",
-        "Percent": "0.9",
+        "Percent": "0.8",
         "incumbent": false
       },
       {
         "Name": "Dean Phillips",
         "Party": "Dem",
-        "Votes": "1,280",
+        "Votes": "1,287",
         "Percent": "2.6",
         "incumbent": false
       },
       {
         "Name": "Marianne Williamson",
         "Party": "Dem",
-        "Votes": "1,342",
+        "Votes": "1,352",
         "Percent": "2.7",
         "incumbent": false
       }
@@ -1703,62 +1703,62 @@
   {
     "raceTitle": "President Democratic District 27 - Districtwide Results",
     "Reporting": "100% (205 of 205) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
         "Party": "Dem",
-        "Votes": "26,955",
-        "Percent": "83.4",
+        "Votes": "29,403",
+        "Percent": "83.5",
         "incumbent": true
       },
       {
         "Name": "President R Boddie",
         "Party": "Dem",
-        "Votes": "273",
+        "Votes": "292",
         "Percent": "0.8",
         "incumbent": false
       },
       {
         "Name": "Eban Cambridge",
         "Party": "Dem",
-        "Votes": "222",
+        "Votes": "237",
         "Percent": "0.7",
         "incumbent": false
       },
       {
         "Name": "Gabriel Cornejo",
         "Party": "Dem",
-        "Votes": "784",
-        "Percent": "2.4",
+        "Votes": "872",
+        "Percent": "2.5",
         "incumbent": false
       },
       {
         "Name": "Stephen P Lyons",
         "Party": "Dem",
-        "Votes": "527",
+        "Votes": "560",
         "Percent": "1.6",
         "incumbent": false
       },
       {
         "Name": "Armando \"Mando\" Perez-Serrato",
         "Party": "Dem",
-        "Votes": "941",
+        "Votes": "1,012",
         "Percent": "2.9",
         "incumbent": false
       },
       {
         "Name": "Dean Phillips",
         "Party": "Dem",
-        "Votes": "1,206",
+        "Votes": "1,309",
         "Percent": "3.7",
         "incumbent": false
       },
       {
         "Name": "Marianne Williamson",
         "Party": "Dem",
-        "Votes": "1,404",
-        "Percent": "4.3",
+        "Votes": "1,546",
+        "Percent": "4.4",
         "incumbent": false
       }
     ]
@@ -1766,61 +1766,61 @@
   {
     "raceTitle": "President Democratic District 28 - Districtwide Results",
     "Reporting": "100% (347 of 347) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
         "Party": "Dem",
-        "Votes": "41,191",
-        "Percent": "88.4",
+        "Votes": "45,925",
+        "Percent": "88.6",
         "incumbent": true
       },
       {
         "Name": "President R Boddie",
         "Party": "Dem",
-        "Votes": "306",
-        "Percent": "0.7",
+        "Votes": "328",
+        "Percent": "0.6",
         "incumbent": false
       },
       {
         "Name": "Eban Cambridge",
         "Party": "Dem",
-        "Votes": "178",
+        "Votes": "192",
         "Percent": "0.4",
         "incumbent": false
       },
       {
         "Name": "Gabriel Cornejo",
         "Party": "Dem",
-        "Votes": "747",
-        "Percent": "1.6",
+        "Votes": "803",
+        "Percent": "1.5",
         "incumbent": false
       },
       {
         "Name": "Stephen P Lyons",
         "Party": "Dem",
-        "Votes": "661",
+        "Votes": "718",
         "Percent": "1.4",
         "incumbent": false
       },
       {
         "Name": "Armando \"Mando\" Perez-Serrato",
         "Party": "Dem",
-        "Votes": "600",
-        "Percent": "1.3",
+        "Votes": "636",
+        "Percent": "1.2",
         "incumbent": false
       },
       {
         "Name": "Dean Phillips",
         "Party": "Dem",
-        "Votes": "1,239",
-        "Percent": "2.7",
+        "Votes": "1,334",
+        "Percent": "2.6",
         "incumbent": false
       },
       {
         "Name": "Marianne Williamson",
         "Party": "Dem",
-        "Votes": "1,683",
+        "Votes": "1,874",
         "Percent": "3.6",
         "incumbent": false
       }
@@ -1829,61 +1829,61 @@
   {
     "raceTitle": "President Democratic District 29 - Districtwide Results",
     "Reporting": "100% (153 of 153) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
         "Party": "Dem",
-        "Votes": "23,069",
-        "Percent": "77.8",
+        "Votes": "25,230",
+        "Percent": "78.3",
         "incumbent": true
       },
       {
         "Name": "President R Boddie",
         "Party": "Dem",
-        "Votes": "327",
+        "Votes": "341",
         "Percent": "1.1",
         "incumbent": false
       },
       {
         "Name": "Eban Cambridge",
         "Party": "Dem",
-        "Votes": "176",
+        "Votes": "187",
         "Percent": "0.6",
         "incumbent": false
       },
       {
         "Name": "Gabriel Cornejo",
         "Party": "Dem",
-        "Votes": "1,887",
-        "Percent": "6.4",
+        "Votes": "1,974",
+        "Percent": "6.1",
         "incumbent": false
       },
       {
         "Name": "Stephen P Lyons",
         "Party": "Dem",
-        "Votes": "291",
-        "Percent": "1.0",
+        "Votes": "298",
+        "Percent": "0.9",
         "incumbent": false
       },
       {
         "Name": "Armando \"Mando\" Perez-Serrato",
         "Party": "Dem",
-        "Votes": "1,106",
-        "Percent": "3.7",
+        "Votes": "1,160",
+        "Percent": "3.6",
         "incumbent": false
       },
       {
         "Name": "Dean Phillips",
         "Party": "Dem",
-        "Votes": "955",
+        "Votes": "1,036",
         "Percent": "3.2",
         "incumbent": false
       },
       {
         "Name": "Marianne Williamson",
         "Party": "Dem",
-        "Votes": "1,841",
+        "Votes": "1,988",
         "Percent": "6.2",
         "incumbent": false
       }
@@ -1892,61 +1892,61 @@
   {
     "raceTitle": "President Democratic District 30 - Districtwide Results",
     "Reporting": "100% (194 of 194) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
         "Party": "Dem",
-        "Votes": "48,106",
-        "Percent": "88.2",
+        "Votes": "53,573",
+        "Percent": "88.4",
         "incumbent": true
       },
       {
         "Name": "President R Boddie",
         "Party": "Dem",
-        "Votes": "442",
+        "Votes": "479",
         "Percent": "0.8",
         "incumbent": false
       },
       {
         "Name": "Eban Cambridge",
         "Party": "Dem",
-        "Votes": "152",
+        "Votes": "173",
         "Percent": "0.3",
         "incumbent": false
       },
       {
         "Name": "Gabriel Cornejo",
         "Party": "Dem",
-        "Votes": "688",
-        "Percent": "1.3",
+        "Votes": "740",
+        "Percent": "1.2",
         "incumbent": false
       },
       {
         "Name": "Stephen P Lyons",
         "Party": "Dem",
-        "Votes": "233",
+        "Votes": "241",
         "Percent": "0.4",
         "incumbent": false
       },
       {
         "Name": "Armando \"Mando\" Perez-Serrato",
         "Party": "Dem",
-        "Votes": "514",
+        "Votes": "535",
         "Percent": "0.9",
         "incumbent": false
       },
       {
         "Name": "Dean Phillips",
         "Party": "Dem",
-        "Votes": "1,540",
+        "Votes": "1,672",
         "Percent": "2.8",
         "incumbent": false
       },
       {
         "Name": "Marianne Williamson",
         "Party": "Dem",
-        "Votes": "2,869",
+        "Votes": "3,200",
         "Percent": "5.3",
         "incumbent": false
       }
@@ -1955,61 +1955,61 @@
   {
     "raceTitle": "President Democratic District 31 - Districtwide Results",
     "Reporting": "100% (199 of 199) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
         "Party": "Dem",
-        "Votes": "23,015",
-        "Percent": "79.1",
+        "Votes": "25,046",
+        "Percent": "79.3",
         "incumbent": true
       },
       {
         "Name": "President R Boddie",
         "Party": "Dem",
-        "Votes": "335",
-        "Percent": "1.2",
+        "Votes": "357",
+        "Percent": "1.1",
         "incumbent": false
       },
       {
         "Name": "Eban Cambridge",
         "Party": "Dem",
-        "Votes": "158",
+        "Votes": "165",
         "Percent": "0.5",
         "incumbent": false
       },
       {
         "Name": "Gabriel Cornejo",
         "Party": "Dem",
-        "Votes": "1,332",
-        "Percent": "4.6",
+        "Votes": "1,405",
+        "Percent": "4.5",
         "incumbent": false
       },
       {
         "Name": "Stephen P Lyons",
         "Party": "Dem",
-        "Votes": "599",
-        "Percent": "2.1",
+        "Votes": "643",
+        "Percent": "2.0",
         "incumbent": false
       },
       {
         "Name": "Armando \"Mando\" Perez-Serrato",
         "Party": "Dem",
-        "Votes": "1,556",
-        "Percent": "5.3",
+        "Votes": "1,647",
+        "Percent": "5.2",
         "incumbent": false
       },
       {
         "Name": "Dean Phillips",
         "Party": "Dem",
-        "Votes": "848",
+        "Votes": "919",
         "Percent": "2.9",
         "incumbent": false
       },
       {
         "Name": "Marianne Williamson",
         "Party": "Dem",
-        "Votes": "1,269",
+        "Votes": "1,383",
         "Percent": "4.4",
         "incumbent": false
       }
@@ -2018,62 +2018,62 @@
   {
     "raceTitle": "President Democratic District 32 - Districtwide Results",
     "Reporting": "100% (185 of 185) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
         "Party": "Dem",
-        "Votes": "48,888",
-        "Percent": "89.5",
+        "Votes": "54,373",
+        "Percent": "89.8",
         "incumbent": true
       },
       {
         "Name": "President R Boddie",
         "Party": "Dem",
-        "Votes": "247",
+        "Votes": "273",
         "Percent": "0.5",
         "incumbent": false
       },
       {
         "Name": "Eban Cambridge",
         "Party": "Dem",
-        "Votes": "146",
+        "Votes": "154",
         "Percent": "0.3",
         "incumbent": false
       },
       {
         "Name": "Gabriel Cornejo",
         "Party": "Dem",
-        "Votes": "452",
+        "Votes": "482",
         "Percent": "0.8",
         "incumbent": false
       },
       {
         "Name": "Stephen P Lyons",
         "Party": "Dem",
-        "Votes": "398",
+        "Votes": "413",
         "Percent": "0.7",
         "incumbent": false
       },
       {
         "Name": "Armando \"Mando\" Perez-Serrato",
         "Party": "Dem",
-        "Votes": "571",
+        "Votes": "604",
         "Percent": "1.0",
         "incumbent": false
       },
       {
         "Name": "Dean Phillips",
         "Party": "Dem",
-        "Votes": "1,763",
+        "Votes": "1,920",
         "Percent": "3.2",
         "incumbent": false
       },
       {
         "Name": "Marianne Williamson",
         "Party": "Dem",
-        "Votes": "2,132",
-        "Percent": "3.9",
+        "Votes": "2,324",
+        "Percent": "3.8",
         "incumbent": false
       }
     ]
@@ -2081,7 +2081,7 @@
   {
     "raceTitle": "President Democratic District 33 - Districtwide Results",
     "Reporting": "100% (655 of 655) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -2144,62 +2144,62 @@
   {
     "raceTitle": "President Democratic District 34 - Districtwide Results",
     "Reporting": "100% (153 of 153) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
         "Party": "Dem",
-        "Votes": "22,962",
-        "Percent": "76.3",
+        "Votes": "25,884",
+        "Percent": "77.0",
         "incumbent": true
       },
       {
         "Name": "President R Boddie",
         "Party": "Dem",
-        "Votes": "426",
+        "Votes": "461",
         "Percent": "1.4",
         "incumbent": false
       },
       {
         "Name": "Eban Cambridge",
         "Party": "Dem",
-        "Votes": "231",
-        "Percent": "0.8",
+        "Votes": "246",
+        "Percent": "0.7",
         "incumbent": false
       },
       {
         "Name": "Gabriel Cornejo",
         "Party": "Dem",
-        "Votes": "1,327",
-        "Percent": "4.4",
+        "Votes": "1,444",
+        "Percent": "4.3",
         "incumbent": false
       },
       {
         "Name": "Stephen P Lyons",
         "Party": "Dem",
-        "Votes": "319",
-        "Percent": "1.1",
+        "Votes": "331",
+        "Percent": "1.0",
         "incumbent": false
       },
       {
         "Name": "Armando \"Mando\" Perez-Serrato",
         "Party": "Dem",
-        "Votes": "1,602",
-        "Percent": "5.3",
+        "Votes": "1,687",
+        "Percent": "5.0",
         "incumbent": false
       },
       {
         "Name": "Dean Phillips",
         "Party": "Dem",
-        "Votes": "987",
-        "Percent": "3.3",
+        "Votes": "1,056",
+        "Percent": "3.1",
         "incumbent": false
       },
       {
         "Name": "Marianne Williamson",
         "Party": "Dem",
-        "Votes": "2,233",
-        "Percent": "7.4",
+        "Votes": "2,518",
+        "Percent": "7.5",
         "incumbent": false
       }
     ]
@@ -2207,62 +2207,62 @@
   {
     "raceTitle": "President Democratic District 35 - Districtwide Results",
     "Reporting": "100% (431 of 431) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
         "Party": "Dem",
-        "Votes": "17,639",
-        "Percent": "85.9",
+        "Votes": "17,971",
+        "Percent": "85.8",
         "incumbent": true
       },
       {
         "Name": "President R Boddie",
         "Party": "Dem",
-        "Votes": "156",
+        "Votes": "163",
         "Percent": "0.8",
         "incumbent": false
       },
       {
         "Name": "Eban Cambridge",
         "Party": "Dem",
-        "Votes": "82",
+        "Votes": "85",
         "Percent": "0.4",
         "incumbent": false
       },
       {
         "Name": "Gabriel Cornejo",
         "Party": "Dem",
-        "Votes": "390",
+        "Votes": "401",
         "Percent": "1.9",
         "incumbent": false
       },
       {
         "Name": "Stephen P Lyons",
         "Party": "Dem",
-        "Votes": "145",
+        "Votes": "148",
         "Percent": "0.7",
         "incumbent": false
       },
       {
         "Name": "Armando \"Mando\" Perez-Serrato",
         "Party": "Dem",
-        "Votes": "577",
+        "Votes": "593",
         "Percent": "2.8",
         "incumbent": false
       },
       {
         "Name": "Dean Phillips",
         "Party": "Dem",
-        "Votes": "655",
+        "Votes": "669",
         "Percent": "3.2",
         "incumbent": false
       },
       {
         "Name": "Marianne Williamson",
         "Party": "Dem",
-        "Votes": "879",
-        "Percent": "4.3",
+        "Votes": "912",
+        "Percent": "4.4",
         "incumbent": false
       }
     ]
@@ -2270,61 +2270,61 @@
   {
     "raceTitle": "President Democratic District 36 - Districtwide Results",
     "Reporting": "100% (163 of 163) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
         "Party": "Dem",
-        "Votes": "57,800",
-        "Percent": "91.0",
+        "Votes": "64,494",
+        "Percent": "91.2",
         "incumbent": true
       },
       {
         "Name": "President R Boddie",
         "Party": "Dem",
-        "Votes": "234",
+        "Votes": "259",
         "Percent": "0.4",
         "incumbent": false
       },
       {
         "Name": "Eban Cambridge",
         "Party": "Dem",
-        "Votes": "187",
+        "Votes": "197",
         "Percent": "0.3",
         "incumbent": false
       },
       {
         "Name": "Gabriel Cornejo",
         "Party": "Dem",
-        "Votes": "438",
+        "Votes": "476",
         "Percent": "0.7",
         "incumbent": false
       },
       {
         "Name": "Stephen P Lyons",
         "Party": "Dem",
-        "Votes": "275",
+        "Votes": "290",
         "Percent": "0.4",
         "incumbent": false
       },
       {
         "Name": "Armando \"Mando\" Perez-Serrato",
         "Party": "Dem",
-        "Votes": "326",
+        "Votes": "355",
         "Percent": "0.5",
         "incumbent": false
       },
       {
         "Name": "Dean Phillips",
         "Party": "Dem",
-        "Votes": "2,012",
-        "Percent": "3.2",
+        "Votes": "2,193",
+        "Percent": "3.1",
         "incumbent": false
       },
       {
         "Name": "Marianne Williamson",
         "Party": "Dem",
-        "Votes": "2,216",
+        "Votes": "2,488",
         "Percent": "3.5",
         "incumbent": false
       }
@@ -2333,61 +2333,61 @@
   {
     "raceTitle": "President Democratic District 37 - Districtwide Results",
     "Reporting": "100% (171 of 171) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
         "Party": "Dem",
-        "Votes": "33,588",
-        "Percent": "84.0",
+        "Votes": "36,792",
+        "Percent": "84.2",
         "incumbent": true
       },
       {
         "Name": "President R Boddie",
         "Party": "Dem",
-        "Votes": "353",
+        "Votes": "377",
         "Percent": "0.9",
         "incumbent": false
       },
       {
         "Name": "Eban Cambridge",
         "Party": "Dem",
-        "Votes": "282",
+        "Votes": "301",
         "Percent": "0.7",
         "incumbent": false
       },
       {
         "Name": "Gabriel Cornejo",
         "Party": "Dem",
-        "Votes": "1,211",
+        "Votes": "1,292",
         "Percent": "3.0",
         "incumbent": false
       },
       {
         "Name": "Stephen P Lyons",
         "Party": "Dem",
-        "Votes": "616",
+        "Votes": "650",
         "Percent": "1.5",
         "incumbent": false
       },
       {
         "Name": "Armando \"Mando\" Perez-Serrato",
         "Party": "Dem",
-        "Votes": "824",
-        "Percent": "2.1",
+        "Votes": "877",
+        "Percent": "2.0",
         "incumbent": false
       },
       {
         "Name": "Dean Phillips",
         "Party": "Dem",
-        "Votes": "1,222",
-        "Percent": "3.1",
+        "Votes": "1,323",
+        "Percent": "3.0",
         "incumbent": false
       },
       {
         "Name": "Marianne Williamson",
         "Party": "Dem",
-        "Votes": "1,909",
+        "Votes": "2,083",
         "Percent": "4.8",
         "incumbent": false
       }
@@ -2396,62 +2396,62 @@
   {
     "raceTitle": "President Democratic District 38 - Districtwide Results",
     "Reporting": "100% (197 of 197) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
         "Party": "Dem",
-        "Votes": "25,313",
-        "Percent": "80.3",
+        "Votes": "27,428",
+        "Percent": "80.6",
         "incumbent": true
       },
       {
         "Name": "President R Boddie",
         "Party": "Dem",
-        "Votes": "328",
+        "Votes": "338",
         "Percent": "1.0",
         "incumbent": false
       },
       {
         "Name": "Eban Cambridge",
         "Party": "Dem",
-        "Votes": "192",
+        "Votes": "199",
         "Percent": "0.6",
         "incumbent": false
       },
       {
         "Name": "Gabriel Cornejo",
         "Party": "Dem",
-        "Votes": "1,074",
+        "Votes": "1,159",
         "Percent": "3.4",
         "incumbent": false
       },
       {
         "Name": "Stephen P Lyons",
         "Party": "Dem",
-        "Votes": "491",
-        "Percent": "1.6",
+        "Votes": "512",
+        "Percent": "1.5",
         "incumbent": false
       },
       {
         "Name": "Armando \"Mando\" Perez-Serrato",
         "Party": "Dem",
-        "Votes": "1,672",
-        "Percent": "5.3",
+        "Votes": "1,745",
+        "Percent": "5.1",
         "incumbent": false
       },
       {
         "Name": "Dean Phillips",
         "Party": "Dem",
-        "Votes": "1,016",
+        "Votes": "1,079",
         "Percent": "3.2",
         "incumbent": false
       },
       {
         "Name": "Marianne Williamson",
         "Party": "Dem",
-        "Votes": "1,423",
-        "Percent": "4.5",
+        "Votes": "1,551",
+        "Percent": "4.6",
         "incumbent": false
       }
     ]
@@ -2459,7 +2459,7 @@
   {
     "raceTitle": "President Democratic District 39 - Districtwide Results",
     "Reporting": "100% (196 of 196) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -2522,7 +2522,7 @@
   {
     "raceTitle": "President Democratic District 40 - Districtwide Results",
     "Reporting": "100% (718 of 718) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -2585,7 +2585,7 @@
   {
     "raceTitle": "President Democratic District 41 - Districtwide Results",
     "Reporting": "100% (338 of 338) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -2648,62 +2648,62 @@
   {
     "raceTitle": "President Democratic District 42 - Districtwide Results",
     "Reporting": "100% (172 of 172) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
         "Party": "Dem",
-        "Votes": "26,377",
-        "Percent": "81.0",
+        "Votes": "28,867",
+        "Percent": "81.4",
         "incumbent": true
       },
       {
         "Name": "President R Boddie",
         "Party": "Dem",
-        "Votes": "279",
-        "Percent": "0.9",
+        "Votes": "290",
+        "Percent": "0.8",
         "incumbent": false
       },
       {
         "Name": "Eban Cambridge",
         "Party": "Dem",
-        "Votes": "175",
+        "Votes": "187",
         "Percent": "0.5",
         "incumbent": false
       },
       {
         "Name": "Gabriel Cornejo",
         "Party": "Dem",
-        "Votes": "1,097",
-        "Percent": "3.4",
+        "Votes": "1,177",
+        "Percent": "3.3",
         "incumbent": false
       },
       {
         "Name": "Stephen P Lyons",
         "Party": "Dem",
-        "Votes": "398",
+        "Votes": "410",
         "Percent": "1.2",
         "incumbent": false
       },
       {
         "Name": "Armando \"Mando\" Perez-Serrato",
         "Party": "Dem",
-        "Votes": "1,405",
-        "Percent": "4.3",
+        "Votes": "1,489",
+        "Percent": "4.2",
         "incumbent": false
       },
       {
         "Name": "Dean Phillips",
         "Party": "Dem",
-        "Votes": "984",
+        "Votes": "1,050",
         "Percent": "3.0",
         "incumbent": false
       },
       {
         "Name": "Marianne Williamson",
         "Party": "Dem",
-        "Votes": "1,838",
-        "Percent": "5.6",
+        "Votes": "2,006",
+        "Percent": "5.7",
         "incumbent": false
       }
     ]
@@ -2711,62 +2711,62 @@
   {
     "raceTitle": "President Democratic District 43 - Districtwide Results",
     "Reporting": "100% (187 of 187) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
         "Party": "Dem",
-        "Votes": "28,307",
-        "Percent": "84.2",
+        "Votes": "30,845",
+        "Percent": "84.3",
         "incumbent": true
       },
       {
         "Name": "President R Boddie",
         "Party": "Dem",
-        "Votes": "325",
-        "Percent": "1.0",
+        "Votes": "347",
+        "Percent": "0.9",
         "incumbent": false
       },
       {
         "Name": "Eban Cambridge",
         "Party": "Dem",
-        "Votes": "230",
+        "Votes": "240",
         "Percent": "0.7",
         "incumbent": false
       },
       {
         "Name": "Gabriel Cornejo",
         "Party": "Dem",
-        "Votes": "958",
+        "Votes": "1,032",
         "Percent": "2.8",
         "incumbent": false
       },
       {
         "Name": "Stephen P Lyons",
         "Party": "Dem",
-        "Votes": "556",
-        "Percent": "1.7",
+        "Votes": "588",
+        "Percent": "1.6",
         "incumbent": false
       },
       {
         "Name": "Armando \"Mando\" Perez-Serrato",
         "Party": "Dem",
-        "Votes": "861",
-        "Percent": "2.6",
+        "Votes": "920",
+        "Percent": "2.5",
         "incumbent": false
       },
       {
         "Name": "Dean Phillips",
         "Party": "Dem",
-        "Votes": "834",
+        "Votes": "905",
         "Percent": "2.5",
         "incumbent": false
       },
       {
         "Name": "Marianne Williamson",
         "Party": "Dem",
-        "Votes": "1,564",
-        "Percent": "4.6",
+        "Votes": "1,724",
+        "Percent": "4.7",
         "incumbent": false
       }
     ]
@@ -2774,61 +2774,61 @@
   {
     "raceTitle": "President Democratic District 44 - Districtwide Results",
     "Reporting": "100% (174 of 174) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
         "Party": "Dem",
-        "Votes": "27,128",
-        "Percent": "81.4",
+        "Votes": "29,500",
+        "Percent": "81.7",
         "incumbent": true
       },
       {
         "Name": "President R Boddie",
         "Party": "Dem",
-        "Votes": "278",
+        "Votes": "299",
         "Percent": "0.8",
         "incumbent": false
       },
       {
         "Name": "Eban Cambridge",
         "Party": "Dem",
-        "Votes": "214",
+        "Votes": "222",
         "Percent": "0.6",
         "incumbent": false
       },
       {
         "Name": "Gabriel Cornejo",
         "Party": "Dem",
-        "Votes": "1,122",
-        "Percent": "3.4",
+        "Votes": "1,192",
+        "Percent": "3.3",
         "incumbent": false
       },
       {
         "Name": "Stephen P Lyons",
         "Party": "Dem",
-        "Votes": "598",
-        "Percent": "1.8",
+        "Votes": "629",
+        "Percent": "1.7",
         "incumbent": false
       },
       {
         "Name": "Armando \"Mando\" Perez-Serrato",
         "Party": "Dem",
-        "Votes": "1,210",
+        "Votes": "1,286",
         "Percent": "3.6",
         "incumbent": false
       },
       {
         "Name": "Dean Phillips",
         "Party": "Dem",
-        "Votes": "936",
+        "Votes": "999",
         "Percent": "2.8",
         "incumbent": false
       },
       {
         "Name": "Marianne Williamson",
         "Party": "Dem",
-        "Votes": "1,844",
+        "Votes": "1,999",
         "Percent": "5.5",
         "incumbent": false
       }
@@ -2837,12 +2837,12 @@
   {
     "raceTitle": "President Democratic District 45 - Districtwide Results",
     "Reporting": "100% (456 of 456) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
         "Party": "Dem",
-        "Votes": "28,038",
+        "Votes": "28,229",
         "Percent": "88.9",
         "incumbent": true
       },
@@ -2863,35 +2863,35 @@
       {
         "Name": "Gabriel Cornejo",
         "Party": "Dem",
-        "Votes": "395",
+        "Votes": "405",
         "Percent": "1.3",
         "incumbent": false
       },
       {
         "Name": "Stephen P Lyons",
         "Party": "Dem",
-        "Votes": "238",
+        "Votes": "239",
         "Percent": "0.8",
         "incumbent": false
       },
       {
         "Name": "Armando \"Mando\" Perez-Serrato",
         "Party": "Dem",
-        "Votes": "279",
+        "Votes": "282",
         "Percent": "0.9",
         "incumbent": false
       },
       {
         "Name": "Dean Phillips",
         "Party": "Dem",
-        "Votes": "1,044",
+        "Votes": "1,047",
         "Percent": "3.3",
         "incumbent": false
       },
       {
         "Name": "Marianne Williamson",
         "Party": "Dem",
-        "Votes": "1,097",
+        "Votes": "1,109",
         "Percent": "3.5",
         "incumbent": false
       }
@@ -2900,7 +2900,7 @@
   {
     "raceTitle": "President Democratic District 46 - Districtwide Results",
     "Reporting": "100% (367 of 367) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -2963,7 +2963,7 @@
   {
     "raceTitle": "President Democratic District 47 - Districtwide Results",
     "Reporting": "100% (542 of 542) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -3026,7 +3026,7 @@
   {
     "raceTitle": "President Democratic District 48 - Districtwide Results",
     "Reporting": "100% (420 of 420) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -3089,7 +3089,7 @@
   {
     "raceTitle": "President Democratic District 49 - Districtwide Results",
     "Reporting": "100% (472 of 472) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -3152,7 +3152,7 @@
   {
     "raceTitle": "President Democratic District 50 - Districtwide Results",
     "Reporting": "100% (437 of 437) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -3215,7 +3215,7 @@
   {
     "raceTitle": "President Democratic District 51 - Districtwide Results",
     "Reporting": "100% (462 of 462) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -3278,7 +3278,7 @@
   {
     "raceTitle": "President Democratic District 52 - Districtwide Results",
     "Reporting": "100% (399 of 399) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",

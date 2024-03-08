@@ -2,34 +2,34 @@
   {
     "raceTitle": "State Senate District 11 - San Francisco County Results",
     "Reporting": "100% (512 of 512) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:42 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Cynthia Cravens",
         "Party": "Dem",
-        "Votes": "7,331",
-        "Percent": "7.8",
+        "Votes": "8,978",
+        "Percent": "7.6",
         "incumbent": false
       },
       {
         "Name": "Scott Wiener",
         "Party": "Dem",
-        "Votes": "67,728",
-        "Percent": "71.7",
+        "Votes": "86,518",
+        "Percent": "72.9",
         "incumbent": true
       },
       {
         "Name": "Yvette Corkrean",
         "Party": "Rep",
-        "Votes": "15,330",
-        "Percent": "16.2",
+        "Votes": "18,319",
+        "Percent": "15.4",
         "incumbent": false
       },
       {
         "Name": "Jing Chao Xiong",
         "Party": "NPP",
-        "Votes": "4,047",
-        "Percent": "4.3",
+        "Votes": "4,918",
+        "Percent": "4.1",
         "incumbent": false
       }
     ]
@@ -37,34 +37,34 @@
   {
     "raceTitle": "State Senate District 11 - Districtwide Results",
     "Reporting": "100% (549 of 549) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:53 p.m.",
+    "ReportingTime": "March 7, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Cynthia Cravens",
         "Party": "Dem",
-        "Votes": "8,737",
-        "Percent": "8.1",
+        "Votes": "10,493",
+        "Percent": "7.9",
         "incumbent": false
       },
       {
         "Name": "Scott Wiener",
         "Party": "Dem",
-        "Votes": "75,581",
-        "Percent": "70.4",
+        "Votes": "95,032",
+        "Percent": "71.6",
         "incumbent": true
       },
       {
         "Name": "Yvette Corkrean",
         "Party": "Rep",
-        "Votes": "18,455",
-        "Percent": "17.2",
+        "Votes": "21,657",
+        "Percent": "16.3",
         "incumbent": false
       },
       {
         "Name": "Jing Chao Xiong",
         "Party": "NPP",
-        "Votes": "4,552",
-        "Percent": "4.2",
+        "Votes": "5,462",
+        "Percent": "4.1",
         "incumbent": false
       }
     ]
