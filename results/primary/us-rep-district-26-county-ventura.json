@@ -2,33 +2,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 26 - Ventura County Results",
     "Reporting": "100% (1,059 of 1,059) precincts reporting",
-    "ReportingTime": "March 6, 2024, 2:13 a.m.",
+    "ReportingTime": "March 7, 2024, 3:43 p.m.",
     "candidates": [
       {
         "Name": "Chris Anstead",
         "Party": "Dem",
-        "Votes": "3,172",
+        "Votes": "3,598",
         "Percent": "3.6",
         "incumbent": false
       },
       {
         "Name": "Julia Brownley",
         "Party": "Dem",
-        "Votes": "45,302",
-        "Percent": "51.3",
+        "Votes": "51,100",
+        "Percent": "51.4",
         "incumbent": true
       },
       {
         "Name": "Bruce Boyer",
         "Party": "Rep",
-        "Votes": "9,658",
+        "Votes": "10,807",
         "Percent": "10.9",
         "incumbent": false
       },
       {
         "Name": "Michael Koslow",
         "Party": "Rep",
-        "Votes": "30,139",
+        "Votes": "33,970",
         "Percent": "34.1",
         "incumbent": false
       }
@@ -37,33 +37,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 26 - Districtwide Results",
     "Reporting": "100% (1,076 of 1,076) precincts reporting",
-    "ReportingTime": "March 7, 2024, 1:52 p.m.",
+    "ReportingTime": "March 7, 2024, 3:53 p.m.",
     "candidates": [
       {
         "Name": "Chris Anstead",
         "Party": "Dem",
-        "Votes": "3,915",
+        "Votes": "4,341",
         "Percent": "4.0",
         "incumbent": false
       },
       {
         "Name": "Julia Brownley",
         "Party": "Dem",
-        "Votes": "50,176",
-        "Percent": "51.2",
+        "Votes": "55,974",
+        "Percent": "51.3",
         "incumbent": true
       },
       {
         "Name": "Bruce Boyer",
         "Party": "Rep",
-        "Votes": "10,423",
+        "Votes": "11,572",
         "Percent": "10.6",
         "incumbent": false
       },
       {
         "Name": "Michael Koslow",
         "Party": "Rep",
-        "Votes": "33,424",
+        "Votes": "37,255",
         "Percent": "34.1",
         "incumbent": false
       }

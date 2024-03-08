@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Senate District 1 - Glenn County Results",
     "Reporting": "100% (99 of 99) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:22 p.m.",
+    "ReportingTime": "March 7, 2024, 3:00 p.m.",
     "candidates": [
       {
         "Name": "Megan Dahle",
         "Party": "Rep",
-        "Votes": "2,113",
-        "Percent": "77.4",
+        "Votes": "3,074",
+        "Percent": "77.5",
         "incumbent": false
       },
       {
         "Name": "David Fennell",
         "Party": "Rep",
-        "Votes": "618",
-        "Percent": "22.6",
+        "Votes": "891",
+        "Percent": "22.5",
         "incumbent": false
       }
     ]
@@ -23,19 +23,19 @@
   {
     "raceTitle": "State Senate District 1 - Districtwide Results",
     "Reporting": "100% (674 of 674) precincts reporting",
-    "ReportingTime": "March 7, 2024, 1:52 p.m.",
+    "ReportingTime": "March 7, 2024, 3:53 p.m.",
     "candidates": [
       {
         "Name": "Megan Dahle",
         "Party": "Rep",
-        "Votes": "82,951",
+        "Votes": "83,961",
         "Percent": "77.0",
         "incumbent": false
       },
       {
         "Name": "David Fennell",
         "Party": "Rep",
-        "Votes": "24,733",
+        "Votes": "25,014",
         "Percent": "23.0",
         "incumbent": false
       }

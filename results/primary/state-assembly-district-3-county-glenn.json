@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 3 - Glenn County Results",
     "Reporting": "100% (99 of 99) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:22 p.m.",
+    "ReportingTime": "March 7, 2024, 3:00 p.m.",
     "candidates": [
       {
         "Name": "Aaron Draper",
         "Party": "Dem",
-        "Votes": "585",
-        "Percent": "18.9",
+        "Votes": "809",
+        "Percent": "18.0",
         "incumbent": false
       },
       {
         "Name": "Jamie \"James\" Gallagher",
         "Party": "Rep",
-        "Votes": "2,511",
-        "Percent": "81.1",
+        "Votes": "3,694",
+        "Percent": "82.0",
         "incumbent": true
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "State Assembly District 3 - Districtwide Results",
     "Reporting": "100% (290 of 290) precincts reporting",
-    "ReportingTime": "March 7, 2024, 1:52 p.m.",
+    "ReportingTime": "March 7, 2024, 3:53 p.m.",
     "candidates": [
       {
         "Name": "Aaron Draper",
         "Party": "Dem",
-        "Votes": "22,157",
-        "Percent": "33.7",
+        "Votes": "22,381",
+        "Percent": "33.4",
         "incumbent": false
       },
       {
         "Name": "Jamie \"James\" Gallagher",
         "Party": "Rep",
-        "Votes": "43,525",
-        "Percent": "66.3",
+        "Votes": "44,708",
+        "Percent": "66.6",
         "incumbent": true
       }
     ]

@@ -2,26 +2,26 @@
   {
     "raceTitle": "U.S. House of Representatives District 32 - Ventura County Results",
     "Reporting": "100% (5 of 5) precincts reporting",
-    "ReportingTime": "March 6, 2024, 2:13 a.m.",
+    "ReportingTime": "March 7, 2024, 3:43 p.m.",
     "candidates": [
       {
         "Name": "Dave Abbitt",
         "Party": "Dem",
-        "Votes": "3",
-        "Percent": "1.0",
+        "Votes": "4",
+        "Percent": "1.1",
         "incumbent": false
       },
       {
         "Name": "Christopher A. Ahuja",
         "Party": "Dem",
-        "Votes": "13",
-        "Percent": "4.2",
+        "Votes": "14",
+        "Percent": "3.8",
         "incumbent": false
       },
       {
         "Name": "Brad Sherman",
         "Party": "Dem",
-        "Votes": "148",
+        "Votes": "174",
         "Percent": "47.3",
         "incumbent": true
       },
@@ -36,21 +36,21 @@
         "Name": "Trevor Lucas Witt",
         "Party": "Dem",
         "Votes": "2",
-        "Percent": "0.6",
+        "Percent": "0.5",
         "incumbent": false
       },
       {
         "Name": "James Shuster",
         "Party": "Rep",
-        "Votes": "73",
-        "Percent": "23.3",
+        "Votes": "87",
+        "Percent": "23.6",
         "incumbent": false
       },
       {
         "Name": "Larry Thompson",
         "Party": "Rep",
-        "Votes": "73",
-        "Percent": "23.3",
+        "Votes": "86",
+        "Percent": "23.4",
         "incumbent": false
       }
     ]
@@ -58,26 +58,26 @@
   {
     "raceTitle": "U.S. House of Representatives District 32 - Districtwide Results",
     "Reporting": "100% (185 of 185) precincts reporting",
-    "ReportingTime": "March 7, 2024, 1:52 p.m.",
+    "ReportingTime": "March 7, 2024, 3:53 p.m.",
     "candidates": [
       {
         "Name": "Dave Abbitt",
         "Party": "Dem",
-        "Votes": "1,103",
+        "Votes": "1,104",
         "Percent": "1.2",
         "incumbent": false
       },
       {
         "Name": "Christopher A. Ahuja",
         "Party": "Dem",
-        "Votes": "5,364",
+        "Votes": "5,365",
         "Percent": "5.6",
         "incumbent": false
       },
       {
         "Name": "Brad Sherman",
         "Party": "Dem",
-        "Votes": "54,821",
+        "Votes": "54,847",
         "Percent": "57.7",
         "incumbent": true
       },
@@ -98,14 +98,14 @@
       {
         "Name": "James Shuster",
         "Party": "Rep",
-        "Votes": "11,363",
+        "Votes": "11,377",
         "Percent": "12.0",
         "incumbent": false
       },
       {
         "Name": "Larry Thompson",
         "Party": "Rep",
-        "Votes": "19,950",
+        "Votes": "19,963",
         "Percent": "21.0",
         "incumbent": false
       }

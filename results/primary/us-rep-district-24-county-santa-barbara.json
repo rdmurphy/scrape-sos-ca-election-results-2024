@@ -30,26 +30,26 @@
   {
     "raceTitle": "U.S. House of Representatives District 24 - Districtwide Results",
     "Reporting": "100% (617 of 617) precincts reporting",
-    "ReportingTime": "March 7, 2024, 1:52 p.m.",
+    "ReportingTime": "March 7, 2024, 3:53 p.m.",
     "candidates": [
       {
         "Name": "Salud Carbajal",
         "Party": "Dem",
-        "Votes": "58,410",
-        "Percent": "55.4",
+        "Votes": "61,232",
+        "Percent": "55.1",
         "incumbent": true
       },
       {
         "Name": "Helena Pasquarella",
         "Party": "Dem",
-        "Votes": "8,459",
-        "Percent": "8.0",
+        "Votes": "9,179",
+        "Percent": "8.3",
         "incumbent": false
       },
       {
         "Name": "Thomas Cole",
         "Party": "Rep",
-        "Votes": "38,620",
+        "Votes": "40,664",
         "Percent": "36.6",
         "incumbent": false
       }
