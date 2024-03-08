@@ -1,41 +1,41 @@
 {
   "raceTitle": "State Assembly District 33 - Districtwide Results",
   "Reporting": "100% (106 of 106) precincts reporting",
-  "ReportingTime": "March 7, 2024, 5:31 p.m.",
+  "ReportingTime": "March 7, 2024, 6:09 p.m.",
   "candidates": [
     {
       "Name": "Hipolito A. Cerros",
       "Party": "Dem",
-      "Votes": "1,604",
-      "Percent": "4.5",
+      "Votes": "1,712",
+      "Percent": "4.6",
       "incumbent": false
     },
     {
       "Name": "Ruben Macareno",
       "Party": "Dem",
-      "Votes": "5,392",
-      "Percent": "15.2",
+      "Votes": "5,722",
+      "Percent": "15.4",
       "incumbent": false
     },
     {
       "Name": "Angel Ruiz",
       "Party": "Dem",
-      "Votes": "4,408",
+      "Votes": "4,627",
       "Percent": "12.5",
       "incumbent": false
     },
     {
       "Name": "Xavier Avila",
       "Party": "Rep",
-      "Votes": "8,707",
-      "Percent": "24.6",
+      "Votes": "9,029",
+      "Percent": "24.3",
       "incumbent": false
     },
     {
       "Name": "Alexandra Macedo",
       "Party": "Rep",
-      "Votes": "15,261",
-      "Percent": "43.1",
+      "Votes": "16,058",
+      "Percent": "43.2",
       "incumbent": false
     }
   ]
