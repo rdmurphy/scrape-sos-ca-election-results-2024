@@ -2,26 +2,26 @@
   {
     "raceTitle": "State Assembly District 71 - Riverside County Results",
     "Reporting": "100% (113 of 113) precincts reporting",
-    "ReportingTime": "March 7, 2024, 6:07 p.m.",
+    "ReportingTime": "March 8, 2024, 5:58 p.m.",
     "candidates": [
       {
         "Name": "Gary Kephart",
         "Party": "Dem",
-        "Votes": "12,415",
-        "Percent": "33.9",
+        "Votes": "15,209",
+        "Percent": "33.2",
         "incumbent": false
       },
       {
         "Name": "Kate Sanchez",
         "Party": "Rep",
-        "Votes": "23,428",
-        "Percent": "63.9",
+        "Votes": "29,572",
+        "Percent": "64.5",
         "incumbent": true
       },
       {
         "Name": "Babar Khan",
         "Party": "P&F",
-        "Votes": "831",
+        "Votes": "1,065",
         "Percent": "2.3",
         "incumbent": false
       }
@@ -30,26 +30,26 @@
   {
     "raceTitle": "State Assembly District 71 - Districtwide Results",
     "Reporting": "100% (290 of 290) precincts reporting",
-    "ReportingTime": "March 8, 2024, 5:28 p.m.",
+    "ReportingTime": "March 8, 2024, 7:06 p.m.",
     "candidates": [
       {
         "Name": "Gary Kephart",
         "Party": "Dem",
-        "Votes": "27,657",
-        "Percent": "35.3",
+        "Votes": "30,451",
+        "Percent": "34.8",
         "incumbent": false
       },
       {
         "Name": "Kate Sanchez",
         "Party": "Rep",
-        "Votes": "48,877",
-        "Percent": "62.3",
+        "Votes": "55,021",
+        "Percent": "62.8",
         "incumbent": true
       },
       {
         "Name": "Babar Khan",
         "Party": "P&F",
-        "Votes": "1,889",
+        "Votes": "2,123",
         "Percent": "2.4",
         "incumbent": false
       }
