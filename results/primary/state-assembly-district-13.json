@@ -1,27 +1,27 @@
 {
   "raceTitle": "State Assembly District 13 - Districtwide Results",
   "Reporting": "100% (118 of 118) precincts reporting",
-  "ReportingTime": "March 8, 2024, 7:06 p.m.",
+  "ReportingTime": "March 8, 2024, 8:15 p.m.",
   "candidates": [
     {
       "Name": "Rhodesia Ransom",
       "Party": "Dem",
-      "Votes": "12,445",
-      "Percent": "39.7",
+      "Votes": "15,151",
+      "Percent": "40.7",
       "incumbent": false
     },
     {
       "Name": "Edith Villapudua",
       "Party": "Dem",
-      "Votes": "7,115",
-      "Percent": "22.7",
+      "Votes": "8,257",
+      "Percent": "22.2",
       "incumbent": false
     },
     {
       "Name": "Denise Aguilar Mendez",
       "Party": "Rep",
-      "Votes": "11,766",
-      "Percent": "37.6",
+      "Votes": "13,823",
+      "Percent": "37.1",
       "incumbent": false
     }
   ]
