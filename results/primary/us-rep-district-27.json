@@ -1,27 +1,27 @@
 {
   "raceTitle": "U.S. House of Representatives District 27 - Districtwide Results",
   "Reporting": "100% (205 of 205) precincts reporting",
-  "ReportingTime": "March 8, 2024, 4:31 p.m.",
+  "ReportingTime": "March 8, 2024, 4:55 p.m.",
   "candidates": [
     {
       "Name": "Steve Hill",
       "Party": "Dem",
-      "Votes": "10,987",
-      "Percent": "11.5",
+      "Votes": "12,319",
+      "Percent": "11.7",
       "incumbent": false
     },
     {
       "Name": "George Whitesides",
       "Party": "Dem",
-      "Votes": "29,828",
-      "Percent": "31.2",
+      "Votes": "33,362",
+      "Percent": "31.6",
       "incumbent": false
     },
     {
       "Name": "Mike Garcia",
       "Party": "Rep",
-      "Votes": "54,663",
-      "Percent": "57.3",
+      "Votes": "59,979",
+      "Percent": "56.8",
       "incumbent": true
     }
   ]

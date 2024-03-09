@@ -1,20 +1,20 @@
 {
   "raceTitle": "State Assembly District 61 - Districtwide Results",
   "Reporting": "100% (109 of 109) precincts reporting",
-  "ReportingTime": "March 8, 2024, 4:31 p.m.",
+  "ReportingTime": "March 8, 2024, 4:55 p.m.",
   "candidates": [
     {
       "Name": "Tina Simone McKinnor",
       "Party": "Dem",
-      "Votes": "34,913",
-      "Percent": "77.7",
+      "Votes": "38,966",
+      "Percent": "78.3",
       "incumbent": true
     },
     {
       "Name": "Alfonso Hernandez",
       "Party": "Rep",
-      "Votes": "10,037",
-      "Percent": "22.3",
+      "Votes": "10,824",
+      "Percent": "21.7",
       "incumbent": false
     }
   ]

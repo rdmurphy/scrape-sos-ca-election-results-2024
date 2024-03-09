@@ -1,20 +1,20 @@
 {
   "raceTitle": "State Assembly District 40 - Districtwide Results",
   "Reporting": "100% (136 of 136) precincts reporting",
-  "ReportingTime": "March 8, 2024, 4:31 p.m.",
+  "ReportingTime": "March 8, 2024, 4:55 p.m.",
   "candidates": [
     {
       "Name": "Pilar Schiavo",
       "Party": "Dem",
-      "Votes": "36,669",
-      "Percent": "47.9",
+      "Votes": "39,563",
+      "Percent": "48.1",
       "incumbent": true
     },
     {
       "Name": "Patrick Lee Gipson",
       "Party": "Rep",
-      "Votes": "39,820",
-      "Percent": "52.1",
+      "Votes": "42,694",
+      "Percent": "51.9",
       "incumbent": false
     }
   ]

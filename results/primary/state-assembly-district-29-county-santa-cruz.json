@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 29 - Santa Cruz County Results",
     "Reporting": "100% (24 of 24) precincts reporting",
-    "ReportingTime": "March 6, 2024, 2:20 a.m.",
+    "ReportingTime": "March 8, 2024, 4:55 p.m.",
     "candidates": [
       {
         "Name": "Robert Rivas",
         "Party": "Dem",
-        "Votes": "4,153",
-        "Percent": "73.2",
+        "Votes": "6,015",
+        "Percent": "74.4",
         "incumbent": true
       },
       {
         "Name": "J.W. Paine",
         "Party": "Rep",
-        "Votes": "1,521",
-        "Percent": "26.8",
+        "Votes": "2,069",
+        "Percent": "25.6",
         "incumbent": false
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "State Assembly District 29 - Districtwide Results",
     "Reporting": "100% (199 of 199) precincts reporting",
-    "ReportingTime": "March 8, 2024, 4:31 p.m.",
+    "ReportingTime": "March 8, 2024, 4:55 p.m.",
     "candidates": [
       {
         "Name": "Robert Rivas",
         "Party": "Dem",
-        "Votes": "22,718",
-        "Percent": "64.4",
+        "Votes": "24,580",
+        "Percent": "65.2",
         "incumbent": true
       },
       {
         "Name": "J.W. Paine",
         "Party": "Rep",
-        "Votes": "12,556",
-        "Percent": "35.6",
+        "Votes": "13,104",
+        "Percent": "34.8",
         "incumbent": false
       }
     ]
