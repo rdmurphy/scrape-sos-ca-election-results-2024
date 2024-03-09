@@ -72,69 +72,69 @@
   {
     "raceTitle": "U.S. House of Representatives District 12 - Districtwide Results",
     "Reporting": "100% (179 of 179) precincts reporting",
-    "ReportingTime": "March 8, 2024, 4:55 p.m.",
+    "ReportingTime": "March 8, 2024, 5:28 p.m.",
     "candidates": [
       {
         "Name": "Tony Daysog",
         "Party": "Dem",
-        "Votes": "6,002",
-        "Percent": "14.1",
+        "Votes": "9,112",
+        "Percent": "13.6",
         "incumbent": false
       },
       {
         "Name": "Glenn Kaplan",
         "Party": "Dem",
-        "Votes": "2,360",
-        "Percent": "5.5",
+        "Votes": "3,304",
+        "Percent": "4.9",
         "incumbent": false
       },
       {
         "Name": "Abdur Sikder",
         "Party": "Dem",
-        "Votes": "930",
-        "Percent": "2.2",
+        "Votes": "1,298",
+        "Percent": "1.9",
         "incumbent": false
       },
       {
         "Name": "Lateefah Simon",
         "Party": "Dem",
-        "Votes": "19,124",
-        "Percent": "44.9",
+        "Votes": "33,241",
+        "Percent": "49.7",
         "incumbent": false
       },
       {
         "Name": "Andre Todd",
         "Party": "Dem",
-        "Votes": "572",
-        "Percent": "1.3",
+        "Votes": "795",
+        "Percent": "1.2",
         "incumbent": false
       },
       {
         "Name": "Jennifer Tran",
         "Party": "Dem",
-        "Votes": "7,119",
-        "Percent": "16.7",
+        "Votes": "10,528",
+        "Percent": "15.7",
         "incumbent": false
       },
       {
         "Name": "Eric Wilson",
         "Party": "Dem",
-        "Votes": "1,573",
-        "Percent": "3.7",
+        "Votes": "2,028",
+        "Percent": "3.0",
         "incumbent": false
       },
       {
         "Name": "Ned Nuerge",
         "Party": "Rep",
-        "Votes": "1,014",
-        "Percent": "2.4",
+        "Votes": "1,305",
+        "Percent": "2.0",
         "incumbent": false
       },
       {
         "Name": "Stephen Slauson",
         "Party": "Rep",
-        "Votes": "3,897",
-        "Percent": "9.1",
+        "Votes": "5,259",
+        "Percent": "7.9",
         "incumbent": false
       }
     ]

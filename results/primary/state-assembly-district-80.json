@@ -1,20 +1,20 @@
 {
   "raceTitle": "State Assembly District 80 - Districtwide Results",
   "Reporting": "100% (263 of 263) precincts reporting",
-  "ReportingTime": "March 8, 2024, 4:55 p.m.",
+  "ReportingTime": "March 8, 2024, 5:28 p.m.",
   "candidates": [
     {
       "Name": "David A. Alvarez",
       "Party": "Dem",
-      "Votes": "28,975",
-      "Percent": "58.5",
+      "Votes": "32,295",
+      "Percent": "58.7",
       "incumbent": true
     },
     {
       "Name": "Michael W. Williams",
       "Party": "Rep",
-      "Votes": "20,547",
-      "Percent": "41.5",
+      "Votes": "22,753",
+      "Percent": "41.3",
       "incumbent": false
     }
   ]

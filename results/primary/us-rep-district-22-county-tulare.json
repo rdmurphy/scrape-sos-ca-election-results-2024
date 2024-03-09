@@ -2,34 +2,34 @@
   {
     "raceTitle": "U.S. House of Representatives District 22 - Tulare County Results",
     "Reporting": "100% (40 of 40) precincts reporting",
-    "ReportingTime": "March 7, 2024, 6:09 p.m.",
+    "ReportingTime": "March 8, 2024, 5:28 p.m.",
     "candidates": [
       {
         "Name": "Melissa Hurtado",
         "Party": "Dem",
-        "Votes": "1,839",
-        "Percent": "18.1",
+        "Votes": "2,036",
+        "Percent": "17.7",
         "incumbent": false
       },
       {
         "Name": "Rudy Salas",
         "Party": "Dem",
-        "Votes": "2,104",
-        "Percent": "20.7",
+        "Votes": "2,463",
+        "Percent": "21.4",
         "incumbent": false
       },
       {
         "Name": "Chris Mathys",
         "Party": "Rep",
-        "Votes": "2,753",
-        "Percent": "27.0",
+        "Votes": "3,091",
+        "Percent": "26.8",
         "incumbent": false
       },
       {
         "Name": "David G. Valadao",
         "Party": "Rep",
-        "Votes": "3,491",
-        "Percent": "34.3",
+        "Votes": "3,939",
+        "Percent": "34.2",
         "incumbent": true
       }
     ]
@@ -37,34 +37,34 @@
   {
     "raceTitle": "U.S. House of Representatives District 22 - Districtwide Results",
     "Reporting": "100% (414 of 414) precincts reporting",
-    "ReportingTime": "March 8, 2024, 4:55 p.m.",
+    "ReportingTime": "March 8, 2024, 5:28 p.m.",
     "candidates": [
       {
         "Name": "Melissa Hurtado",
         "Party": "Dem",
-        "Votes": "4,633",
+        "Votes": "4,830",
         "Percent": "15.1",
         "incumbent": false
       },
       {
         "Name": "Rudy Salas",
         "Party": "Dem",
-        "Votes": "8,666",
-        "Percent": "28.3",
+        "Votes": "9,025",
+        "Percent": "28.2",
         "incumbent": false
       },
       {
         "Name": "Chris Mathys",
         "Party": "Rep",
-        "Votes": "6,923",
-        "Percent": "22.6",
+        "Votes": "7,261",
+        "Percent": "22.7",
         "incumbent": false
       },
       {
         "Name": "David G. Valadao",
         "Party": "Rep",
-        "Votes": "10,405",
-        "Percent": "34.0",
+        "Votes": "10,853",
+        "Percent": "33.9",
         "incumbent": true
       }
     ]

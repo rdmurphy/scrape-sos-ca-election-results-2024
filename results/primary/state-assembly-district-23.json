@@ -1,34 +1,34 @@
 {
   "raceTitle": "State Assembly District 23 - Districtwide Results",
   "Reporting": "100% (184 of 184) precincts reporting",
-  "ReportingTime": "March 8, 2024, 4:55 p.m.",
+  "ReportingTime": "March 8, 2024, 5:28 p.m.",
   "candidates": [
     {
       "Name": "Marc Berman",
       "Party": "Dem",
-      "Votes": "39,979",
-      "Percent": "56.4",
+      "Votes": "43,728",
+      "Percent": "56.6",
       "incumbent": true
     },
     {
       "Name": "Lydia Kou",
       "Party": "Dem",
-      "Votes": "14,027",
-      "Percent": "19.8",
+      "Votes": "15,465",
+      "Percent": "20.0",
       "incumbent": false
     },
     {
       "Name": "Allan K. Marson",
       "Party": "Rep",
-      "Votes": "8,527",
-      "Percent": "12.0",
+      "Votes": "9,077",
+      "Percent": "11.8",
       "incumbent": false
     },
     {
       "Name": "Gus Mattammal",
       "Party": "Rep",
-      "Votes": "8,298",
-      "Percent": "11.7",
+      "Votes": "8,925",
+      "Percent": "11.6",
       "incumbent": false
     }
   ]

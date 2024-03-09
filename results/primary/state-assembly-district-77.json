@@ -1,27 +1,27 @@
 {
   "raceTitle": "State Assembly District 77 - Districtwide Results",
   "Reporting": "100% (292 of 292) precincts reporting",
-  "ReportingTime": "March 8, 2024, 4:55 p.m.",
+  "ReportingTime": "March 8, 2024, 5:28 p.m.",
   "candidates": [
     {
       "Name": "Tasha Boerner",
       "Party": "Dem",
-      "Votes": "50,824",
-      "Percent": "56.6",
+      "Votes": "58,893",
+      "Percent": "56.9",
       "incumbent": true
     },
     {
       "Name": "Henny Kupferstein",
       "Party": "Dem",
-      "Votes": "3,961",
-      "Percent": "4.4",
+      "Votes": "4,609",
+      "Percent": "4.5",
       "incumbent": false
     },
     {
       "Name": "James Browne",
       "Party": "Rep",
-      "Votes": "34,948",
-      "Percent": "38.9",
+      "Votes": "40,022",
+      "Percent": "38.7",
       "incumbent": false
     }
   ]

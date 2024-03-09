@@ -1,48 +1,48 @@
 {
   "raceTitle": "State Assembly District 75 - Districtwide Results",
   "Reporting": "100% (313 of 313) precincts reporting",
-  "ReportingTime": "March 8, 2024, 4:55 p.m.",
+  "ReportingTime": "March 8, 2024, 5:28 p.m.",
   "candidates": [
     {
       "Name": "Christie Dougherty",
       "Party": "Dem",
-      "Votes": "9,294",
-      "Percent": "10.2",
+      "Votes": "10,232",
+      "Percent": "10.0",
       "incumbent": false
     },
     {
       "Name": "Joy Frew",
       "Party": "Dem",
-      "Votes": "6,828",
-      "Percent": "7.5",
+      "Votes": "7,569",
+      "Percent": "7.4",
       "incumbent": false
     },
     {
       "Name": "Kevin Juza",
       "Party": "Dem",
-      "Votes": "17,312",
-      "Percent": "19.0",
+      "Votes": "19,104",
+      "Percent": "18.6",
       "incumbent": false
     },
     {
       "Name": "Carl DeMaio",
       "Party": "Rep",
-      "Votes": "39,397",
-      "Percent": "43.3",
+      "Votes": "44,664",
+      "Percent": "43.5",
       "incumbent": false
     },
     {
       "Name": "Jack Fernandes",
       "Party": "Rep",
-      "Votes": "2,578",
+      "Votes": "2,857",
       "Percent": "2.8",
       "incumbent": false
     },
     {
       "Name": "Andrew Hayes",
       "Party": "Rep",
-      "Votes": "15,499",
-      "Percent": "17.0",
+      "Votes": "18,315",
+      "Percent": "17.8",
       "incumbent": false
     }
   ]
