@@ -1,62 +1,62 @@
 {
   "raceTitle": "U.S. House of Representatives District 11 - Districtwide Results",
   "Reporting": "100% (451 of 451) precincts reporting",
-  "ReportingTime": "March 8, 2024, 3:46 p.m.",
+  "ReportingTime": "March 8, 2024, 4:31 p.m.",
   "candidates": [
     {
       "Name": "Jason Boyce",
       "Party": "Dem",
-      "Votes": "2,467",
+      "Votes": "3,558",
       "Percent": "2.3",
       "incumbent": false
     },
     {
       "Name": "Marjorie Mikels",
       "Party": "Dem",
-      "Votes": "4,685",
-      "Percent": "4.3",
+      "Votes": "7,473",
+      "Percent": "4.7",
       "incumbent": false
     },
     {
       "Name": "Nancy Pelosi",
       "Party": "Dem",
-      "Votes": "79,134",
-      "Percent": "72.9",
+      "Votes": "116,081",
+      "Percent": "73.8",
       "incumbent": true
     },
     {
       "Name": "Bianca Von Krieg",
       "Party": "Dem",
-      "Votes": "3,877",
-      "Percent": "3.6",
+      "Votes": "6,018",
+      "Percent": "3.8",
       "incumbent": false
     },
     {
       "Name": "Eve Del Castello",
       "Party": "Rep",
-      "Votes": "1,804",
-      "Percent": "1.7",
+      "Votes": "2,303",
+      "Percent": "1.5",
       "incumbent": false
     },
     {
       "Name": "Bruce Lou",
       "Party": "Rep",
-      "Votes": "9,988",
-      "Percent": "9.2",
+      "Votes": "13,620",
+      "Percent": "8.7",
       "incumbent": false
     },
     {
       "Name": "Larry Nichelson",
       "Party": "Rep",
-      "Votes": "2,245",
-      "Percent": "2.1",
+      "Votes": "2,838",
+      "Percent": "1.8",
       "incumbent": false
     },
     {
       "Name": "Jason Chuyuan Zeng",
       "Party": "Rep",
-      "Votes": "4,321",
-      "Percent": "4.0",
+      "Votes": "5,496",
+      "Percent": "3.5",
       "incumbent": false
     }
   ]

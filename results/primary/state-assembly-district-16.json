@@ -1,20 +1,20 @@
 {
   "raceTitle": "State Assembly District 16 - Districtwide Results",
   "Reporting": "100% (319 of 319) precincts reporting",
-  "ReportingTime": "March 8, 2024, 3:46 p.m.",
+  "ReportingTime": "March 8, 2024, 4:31 p.m.",
   "candidates": [
     {
       "Name": "Rebecca Bauer-Kahan",
       "Party": "Dem",
-      "Votes": "40,372",
-      "Percent": "64.4",
+      "Votes": "54,323",
+      "Percent": "65.3",
       "incumbent": true
     },
     {
       "Name": "Joseph A. Rubay",
       "Party": "Rep",
-      "Votes": "22,358",
-      "Percent": "35.6",
+      "Votes": "28,928",
+      "Percent": "34.7",
       "incumbent": false
     }
   ]

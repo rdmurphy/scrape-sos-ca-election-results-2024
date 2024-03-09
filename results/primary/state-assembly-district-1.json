@@ -1,34 +1,34 @@
 {
   "raceTitle": "State Assembly District 1 - Districtwide Results",
   "Reporting": "100% (435 of 435) precincts reporting",
-  "ReportingTime": "March 8, 2024, 3:46 p.m.",
+  "ReportingTime": "March 8, 2024, 4:31 p.m.",
   "candidates": [
     {
       "Name": "Tenessa Audette",
       "Party": "Rep",
-      "Votes": "23,290",
-      "Percent": "30.0",
+      "Votes": "26,431",
+      "Percent": "29.6",
       "incumbent": false
     },
     {
       "Name": "Heather Hadwick",
       "Party": "Rep",
-      "Votes": "29,749",
-      "Percent": "38.4",
+      "Votes": "32,370",
+      "Percent": "36.3",
       "incumbent": false
     },
     {
       "Name": "Melissa Hunt",
       "Party": "Rep",
-      "Votes": "6,853",
-      "Percent": "8.8",
+      "Votes": "8,359",
+      "Percent": "9.4",
       "incumbent": false
     },
     {
       "Name": "Mark Mezzano",
       "Party": "Rep",
-      "Votes": "17,649",
-      "Percent": "22.8",
+      "Votes": "22,097",
+      "Percent": "24.8",
       "incumbent": false
     }
   ]

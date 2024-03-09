@@ -1,15 +1,15 @@
 {
   "raceTitle": "Ballot Measures - Contra Costa Results",
   "Reporting": "100.0% (912 of 912) precincts reporting",
-  "ReportingTime": "March 5, 2024, 11:50 p.m.",
+  "ReportingTime": "March 8, 2024, 4:03 p.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "78286",
-      "yesPercent": "56.4",
-      "noVotes": "60584",
-      "noPercent": "43.6"
+      "yesVotes": "113547",
+      "yesPercent": "56.3",
+      "noVotes": "88213",
+      "noPercent": "43.7"
     }
   ]
 }

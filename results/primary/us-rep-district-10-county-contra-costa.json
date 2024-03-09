@@ -2,41 +2,41 @@
   {
     "raceTitle": "U.S. House of Representatives District 10 - Contra Costa County Results",
     "Reporting": "100% (628 of 628) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:50 p.m.",
+    "ReportingTime": "March 8, 2024, 4:03 p.m.",
     "candidates": [
       {
         "Name": "Mark DeSaulnier",
         "Party": "Dem",
-        "Votes": "63,846",
-        "Percent": "65.1",
+        "Votes": "92,687",
+        "Percent": "65.4",
         "incumbent": true
       },
       {
         "Name": "Nolan Lee Chen",
         "Party": "Rep",
-        "Votes": "10,497",
-        "Percent": "10.7",
+        "Votes": "14,756",
+        "Percent": "10.4",
         "incumbent": false
       },
       {
         "Name": "Katherine Piccinini",
         "Party": "Rep",
-        "Votes": "19,421",
-        "Percent": "19.8",
+        "Votes": "27,517",
+        "Percent": "19.4",
         "incumbent": false
       },
       {
         "Name": "Mohamed Elsherbini",
         "Party": "NPP",
-        "Votes": "796",
+        "Votes": "1,204",
         "Percent": "0.8",
         "incumbent": false
       },
       {
         "Name": "Joe Sweeney",
         "Party": "NPP",
-        "Votes": "3,584",
-        "Percent": "3.7",
+        "Votes": "5,486",
+        "Percent": "3.9",
         "incumbent": false
       }
     ]
@@ -44,41 +44,41 @@
   {
     "raceTitle": "U.S. House of Representatives District 10 - Districtwide Results",
     "Reporting": "100% (645 of 645) precincts reporting",
-    "ReportingTime": "March 8, 2024, 3:46 p.m.",
+    "ReportingTime": "March 8, 2024, 4:31 p.m.",
     "candidates": [
       {
         "Name": "Mark DeSaulnier",
         "Party": "Dem",
-        "Votes": "64,620",
-        "Percent": "65.0",
+        "Votes": "93,461",
+        "Percent": "65.4",
         "incumbent": true
       },
       {
         "Name": "Nolan Lee Chen",
         "Party": "Rep",
-        "Votes": "10,710",
-        "Percent": "10.8",
+        "Votes": "14,969",
+        "Percent": "10.5",
         "incumbent": false
       },
       {
         "Name": "Katherine Piccinini",
         "Party": "Rep",
-        "Votes": "19,656",
-        "Percent": "19.8",
+        "Votes": "27,752",
+        "Percent": "19.4",
         "incumbent": false
       },
       {
         "Name": "Mohamed Elsherbini",
         "Party": "NPP",
-        "Votes": "825",
-        "Percent": "0.8",
+        "Votes": "1,233",
+        "Percent": "0.9",
         "incumbent": false
       },
       {
         "Name": "Joe Sweeney",
         "Party": "NPP",
-        "Votes": "3,666",
-        "Percent": "3.7",
+        "Votes": "5,568",
+        "Percent": "3.9",
         "incumbent": false
       }
     ]

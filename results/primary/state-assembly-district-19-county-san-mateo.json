@@ -37,34 +37,34 @@
   {
     "raceTitle": "State Assembly District 19 - Districtwide Results",
     "Reporting": "100% (251 of 251) precincts reporting",
-    "ReportingTime": "March 8, 2024, 3:46 p.m.",
+    "ReportingTime": "March 8, 2024, 4:31 p.m.",
     "candidates": [
       {
         "Name": "David E. Lee",
         "Party": "Dem",
-        "Votes": "18,698",
-        "Percent": "27.9",
+        "Votes": "25,971",
+        "Percent": "28.4",
         "incumbent": false
       },
       {
         "Name": "Catherine Stefani",
         "Party": "Dem",
-        "Votes": "37,871",
-        "Percent": "56.6",
+        "Votes": "52,713",
+        "Percent": "57.6",
         "incumbent": false
       },
       {
         "Name": "Nadia Flamenco",
         "Party": "Rep",
-        "Votes": "5,483",
-        "Percent": "8.2",
+        "Votes": "6,698",
+        "Percent": "7.3",
         "incumbent": false
       },
       {
         "Name": "Arjun Gustav Sodhani",
         "Party": "Rep",
-        "Votes": "4,915",
-        "Percent": "7.3",
+        "Votes": "6,085",
+        "Percent": "6.7",
         "incumbent": false
       }
     ]
