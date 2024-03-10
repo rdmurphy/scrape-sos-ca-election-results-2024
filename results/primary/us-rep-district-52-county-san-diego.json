@@ -2,20 +2,20 @@
   {
     "raceTitle": "U.S. House of Representatives District 52 - San Diego County Results",
     "Reporting": "100% (399 of 399) precincts reporting",
-    "ReportingTime": "March 8, 2024, 4:58 p.m.",
+    "ReportingTime": "March 9, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Juan Vargas",
         "Party": "Dem",
-        "Votes": "49,370",
-        "Percent": "64.5",
+        "Votes": "57,169",
+        "Percent": "64.7",
         "incumbent": true
       },
       {
         "Name": "Justin Lee",
         "Party": "Rep",
-        "Votes": "27,180",
-        "Percent": "35.5",
+        "Votes": "31,218",
+        "Percent": "35.3",
         "incumbent": false
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "U.S. House of Representatives District 52 - Districtwide Results",
     "Reporting": "100% (399 of 399) precincts reporting",
-    "ReportingTime": "March 8, 2024, 8:15 p.m.",
+    "ReportingTime": "March 9, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Juan Vargas",
         "Party": "Dem",
-        "Votes": "49,370",
-        "Percent": "64.5",
+        "Votes": "57,169",
+        "Percent": "64.7",
         "incumbent": true
       },
       {
         "Name": "Justin Lee",
         "Party": "Rep",
-        "Votes": "27,180",
-        "Percent": "35.5",
+        "Votes": "31,218",
+        "Percent": "35.3",
         "incumbent": false
       }
     ]

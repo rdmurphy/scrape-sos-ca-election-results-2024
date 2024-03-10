@@ -2,33 +2,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 28 - San Bernardino County Results",
     "Reporting": "100% (155 of 155) precincts reporting",
-    "ReportingTime": "March 8, 2024, 3:41 p.m.",
+    "ReportingTime": "March 9, 2024, 1:36 p.m.",
     "candidates": [
       {
         "Name": "Judy Chu",
         "Party": "Dem",
-        "Votes": "4,897",
-        "Percent": "37.2",
+        "Votes": "5,687",
+        "Percent": "36.1",
         "incumbent": true
       },
       {
         "Name": "April A. Verlato",
         "Party": "Rep",
-        "Votes": "7,839",
-        "Percent": "59.5",
+        "Votes": "9,528",
+        "Percent": "60.6",
         "incumbent": false
       },
       {
         "Name": "Jose Castaneda",
         "Party": "Lib",
-        "Votes": "239",
+        "Votes": "287",
         "Percent": "1.8",
         "incumbent": false
       },
       {
         "Name": "William Patterson",
         "Party": "P&F",
-        "Votes": "203",
+        "Votes": "231",
         "Percent": "1.5",
         "incumbent": false
       }
@@ -37,33 +37,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 28 - Districtwide Results",
     "Reporting": "100% (347 of 347) precincts reporting",
-    "ReportingTime": "March 8, 2024, 8:15 p.m.",
+    "ReportingTime": "March 9, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Judy Chu",
         "Party": "Dem",
-        "Votes": "72,378",
-        "Percent": "62.1",
+        "Votes": "73,168",
+        "Percent": "61.4",
         "incumbent": true
       },
       {
         "Name": "April A. Verlato",
         "Party": "Rep",
-        "Votes": "39,369",
-        "Percent": "33.8",
+        "Votes": "41,058",
+        "Percent": "34.5",
         "incumbent": false
       },
       {
         "Name": "Jose Castaneda",
         "Party": "Lib",
-        "Votes": "2,352",
+        "Votes": "2,400",
         "Percent": "2.0",
         "incumbent": false
       },
       {
         "Name": "William Patterson",
         "Party": "P&F",
-        "Votes": "2,440",
+        "Votes": "2,468",
         "Percent": "2.1",
         "incumbent": false
       }

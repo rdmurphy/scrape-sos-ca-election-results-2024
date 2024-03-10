@@ -2,27 +2,27 @@
   {
     "raceTitle": "State Senate District 31 - San Bernardino County Results",
     "Reporting": "100% (5 of 5) precincts reporting",
-    "ReportingTime": "March 8, 2024, 3:41 p.m.",
+    "ReportingTime": "March 9, 2024, 1:36 p.m.",
     "candidates": [
       {
         "Name": "Sabrina Cervantes",
         "Party": "Dem",
-        "Votes": "439",
-        "Percent": "45.4",
+        "Votes": "490",
+        "Percent": "46.6",
         "incumbent": false
       },
       {
         "Name": "Angelo Farooq",
         "Party": "Dem",
-        "Votes": "139",
-        "Percent": "14.4",
+        "Votes": "149",
+        "Percent": "14.2",
         "incumbent": false
       },
       {
         "Name": "Cynthia Navarro",
         "Party": "Rep",
-        "Votes": "389",
-        "Percent": "40.2",
+        "Votes": "412",
+        "Percent": "39.2",
         "incumbent": false
       }
     ]
@@ -30,26 +30,26 @@
   {
     "raceTitle": "State Senate District 31 - Districtwide Results",
     "Reporting": "100% (249 of 249) precincts reporting",
-    "ReportingTime": "March 8, 2024, 8:15 p.m.",
+    "ReportingTime": "March 9, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Sabrina Cervantes",
         "Party": "Dem",
-        "Votes": "28,417",
+        "Votes": "28,468",
         "Percent": "39.4",
         "incumbent": false
       },
       {
         "Name": "Angelo Farooq",
         "Party": "Dem",
-        "Votes": "10,513",
+        "Votes": "10,523",
         "Percent": "14.6",
         "incumbent": false
       },
       {
         "Name": "Cynthia Navarro",
         "Party": "Rep",
-        "Votes": "33,187",
+        "Votes": "33,210",
         "Percent": "46.0",
         "incumbent": false
       }

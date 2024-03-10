@@ -37,34 +37,34 @@
   {
     "raceTitle": "U.S. House of Representatives District 35 - Districtwide Results",
     "Reporting": "100% (431 of 431) precincts reporting",
-    "ReportingTime": "March 8, 2024, 8:15 p.m.",
+    "ReportingTime": "March 9, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Melissa May",
         "Party": "Dem",
-        "Votes": "3,908",
-        "Percent": "7.5",
+        "Votes": "4,277",
+        "Percent": "7.4",
         "incumbent": false
       },
       {
         "Name": "Norma J. Torres",
         "Party": "Dem",
-        "Votes": "24,669",
-        "Percent": "47.1",
+        "Votes": "27,064",
+        "Percent": "46.8",
         "incumbent": true
       },
       {
         "Name": "Mike Cargile",
         "Party": "Rep",
-        "Votes": "21,365",
-        "Percent": "40.8",
+        "Votes": "23,888",
+        "Percent": "41.3",
         "incumbent": false
       },
       {
         "Name": "Vijal Suthar",
         "Party": "Rep",
-        "Votes": "2,401",
-        "Percent": "4.6",
+        "Votes": "2,596",
+        "Percent": "4.5",
         "incumbent": false
       }
     ]

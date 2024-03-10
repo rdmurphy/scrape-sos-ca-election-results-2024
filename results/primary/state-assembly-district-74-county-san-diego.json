@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 74 - San Diego County Results",
     "Reporting": "100% (139 of 139) precincts reporting",
-    "ReportingTime": "March 8, 2024, 4:58 p.m.",
+    "ReportingTime": "March 9, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Chris Duncan",
         "Party": "Dem",
-        "Votes": "21,850",
-        "Percent": "49.4",
+        "Votes": "25,319",
+        "Percent": "49.0",
         "incumbent": false
       },
       {
         "Name": "Laurie Davies",
         "Party": "Rep",
-        "Votes": "22,396",
-        "Percent": "50.6",
+        "Votes": "26,361",
+        "Percent": "51.0",
         "incumbent": true
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "State Assembly District 74 - Districtwide Results",
     "Reporting": "100% (301 of 301) precincts reporting",
-    "ReportingTime": "March 8, 2024, 8:15 p.m.",
+    "ReportingTime": "March 9, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Chris Duncan",
         "Party": "Dem",
-        "Votes": "40,657",
-        "Percent": "44.7",
+        "Votes": "44,126",
+        "Percent": "44.9",
         "incumbent": false
       },
       {
         "Name": "Laurie Davies",
         "Party": "Rep",
-        "Votes": "50,272",
-        "Percent": "55.3",
+        "Votes": "54,237",
+        "Percent": "55.1",
         "incumbent": true
       }
     ]
