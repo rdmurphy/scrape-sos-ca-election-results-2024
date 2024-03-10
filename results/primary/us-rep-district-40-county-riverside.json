@@ -2,27 +2,27 @@
   {
     "raceTitle": "U.S. House of Representatives District 40 - Riverside County Results",
     "Reporting": "100% (4 of 4) precincts reporting",
-    "ReportingTime": "March 8, 2024, 5:58 p.m.",
+    "ReportingTime": "March 9, 2024, 5:43 p.m.",
     "candidates": [
       {
         "Name": "Allyson Muñiz Damikolas",
         "Party": "Dem",
-        "Votes": "125",
-        "Percent": "9.6",
+        "Votes": "129",
+        "Percent": "9.5",
         "incumbent": false
       },
       {
         "Name": "Joe Kerr",
         "Party": "Dem",
-        "Votes": "361",
-        "Percent": "27.8",
+        "Votes": "376",
+        "Percent": "27.6",
         "incumbent": false
       },
       {
         "Name": "Young Kim",
         "Party": "Rep",
-        "Votes": "812",
-        "Percent": "62.6",
+        "Votes": "858",
+        "Percent": "62.9",
         "incumbent": true
       }
     ]
@@ -30,27 +30,27 @@
   {
     "raceTitle": "U.S. House of Representatives District 40 - Districtwide Results",
     "Reporting": "100% (718 of 718) precincts reporting",
-    "ReportingTime": "March 9, 2024, 4:29 p.m.",
+    "ReportingTime": "March 9, 2024, 5:43 p.m.",
     "candidates": [
       {
         "Name": "Allyson Muñiz Damikolas",
         "Party": "Dem",
-        "Votes": "25,176",
+        "Votes": "27,479",
         "Percent": "17.2",
         "incumbent": false
       },
       {
         "Name": "Joe Kerr",
         "Party": "Dem",
-        "Votes": "38,131",
-        "Percent": "26.0",
+        "Votes": "40,691",
+        "Percent": "25.5",
         "incumbent": false
       },
       {
         "Name": "Young Kim",
         "Party": "Rep",
-        "Votes": "83,372",
-        "Percent": "56.8",
+        "Votes": "91,569",
+        "Percent": "57.3",
         "incumbent": true
       }
     ]

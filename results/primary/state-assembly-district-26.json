@@ -1,48 +1,48 @@
 {
   "raceTitle": "State Assembly District 26 - Districtwide Results",
   "Reporting": "100% (123 of 123) precincts reporting",
-  "ReportingTime": "March 9, 2024, 4:29 p.m.",
+  "ReportingTime": "March 9, 2024, 5:43 p.m.",
   "candidates": [
     {
       "Name": "Patrick Ahrens",
       "Party": "Dem",
-      "Votes": "17,736",
+      "Votes": "18,575",
       "Percent": "35.1",
       "incumbent": false
     },
     {
       "Name": "Omar Din",
       "Party": "Dem",
-      "Votes": "5,733",
-      "Percent": "11.3",
+      "Votes": "6,051",
+      "Percent": "11.4",
       "incumbent": false
     },
     {
       "Name": "Tara Sreekrishnan",
       "Party": "Dem",
-      "Votes": "13,081",
-      "Percent": "25.9",
+      "Votes": "13,809",
+      "Percent": "26.1",
       "incumbent": false
     },
     {
       "Name": "Sophie Yan Song",
       "Party": "Rep",
-      "Votes": "11,641",
-      "Percent": "23.0",
+      "Votes": "12,053",
+      "Percent": "22.8",
       "incumbent": false
     },
     {
       "Name": "Bob Goodwyn",
       "Party": "Lib",
-      "Votes": "1,553",
-      "Percent": "3.1",
+      "Votes": "1,602",
+      "Percent": "3.0",
       "incumbent": false
     },
     {
       "Name": "Ashish Garg",
       "Party": "NPP",
-      "Votes": "778",
-      "Percent": "1.5",
+      "Votes": "822",
+      "Percent": "1.6",
       "incumbent": false
     }
   ]

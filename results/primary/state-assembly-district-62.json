@@ -1,27 +1,27 @@
 {
   "raceTitle": "State Assembly District 62 - Districtwide Results",
   "Reporting": "100% (98 of 98) precincts reporting",
-  "ReportingTime": "March 9, 2024, 4:29 p.m.",
+  "ReportingTime": "March 9, 2024, 5:43 p.m.",
   "candidates": [
     {
       "Name": "Maria Estrada",
       "Party": "Dem",
-      "Votes": "8,368",
-      "Percent": "23.9",
+      "Votes": "9,343",
+      "Percent": "23.8",
       "incumbent": false
     },
     {
       "Name": "Jose Luis Solache",
       "Party": "Dem",
-      "Votes": "14,245",
-      "Percent": "40.7",
+      "Votes": "16,158",
+      "Percent": "41.2",
       "incumbent": false
     },
     {
       "Name": "Paul Jones",
       "Party": "Rep",
-      "Votes": "12,429",
-      "Percent": "35.5",
+      "Votes": "13,719",
+      "Percent": "35.0",
       "incumbent": false
     }
   ]

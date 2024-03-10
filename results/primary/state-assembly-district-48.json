@@ -1,27 +1,27 @@
 {
   "raceTitle": "State Assembly District 48 - Districtwide Results",
   "Reporting": "100% (131 of 131) precincts reporting",
-  "ReportingTime": "March 9, 2024, 4:29 p.m.",
+  "ReportingTime": "March 9, 2024, 5:43 p.m.",
   "candidates": [
     {
       "Name": "Blanca Rubio",
       "Party": "Dem",
-      "Votes": "19,845",
-      "Percent": "40.8",
+      "Votes": "21,881",
+      "Percent": "41.1",
       "incumbent": true
     },
     {
       "Name": "Brian Calderón Tabatabai",
       "Party": "Dem",
-      "Votes": "8,379",
-      "Percent": "17.2",
+      "Votes": "9,507",
+      "Percent": "17.8",
       "incumbent": false
     },
     {
       "Name": "Dan T. Tran",
       "Party": "Rep",
-      "Votes": "20,443",
-      "Percent": "42.0",
+      "Votes": "21,910",
+      "Percent": "41.1",
       "incumbent": false
     }
   ]

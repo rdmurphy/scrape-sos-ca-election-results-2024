@@ -1,20 +1,20 @@
 {
   "raceTitle": "State Assembly District 72 - Districtwide Results",
   "Reporting": "100% (369 of 369) precincts reporting",
-  "ReportingTime": "March 9, 2024, 4:29 p.m.",
+  "ReportingTime": "March 9, 2024, 5:43 p.m.",
   "candidates": [
     {
       "Name": "Dom Jones",
       "Party": "Dem",
-      "Votes": "44,481",
-      "Percent": "39.3",
+      "Votes": "46,958",
+      "Percent": "38.5",
       "incumbent": false
     },
     {
       "Name": "Diane Dixon",
       "Party": "Rep",
-      "Votes": "68,608",
-      "Percent": "60.7",
+      "Votes": "74,881",
+      "Percent": "61.5",
       "incumbent": true
     }
   ]

@@ -2,20 +2,20 @@
   {
     "raceTitle": "U.S. House of Representatives District 46 - Orange County Results",
     "Reporting": "100% (367 of 367) precincts reporting",
-    "ReportingTime": "March 8, 2024, 5:06 p.m.",
+    "ReportingTime": "March 9, 2024, 5:15 p.m.",
     "candidates": [
       {
         "Name": "Lou Correa",
         "Party": "Dem",
-        "Votes": "33,459",
-        "Percent": "60.0",
+        "Votes": "36,875",
+        "Percent": "59.6",
         "incumbent": true
       },
       {
         "Name": "David Pan",
         "Party": "Rep",
-        "Votes": "22,292",
-        "Percent": "40.0",
+        "Votes": "25,004",
+        "Percent": "40.4",
         "incumbent": false
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "U.S. House of Representatives District 46 - Districtwide Results",
     "Reporting": "100% (367 of 367) precincts reporting",
-    "ReportingTime": "March 9, 2024, 4:29 p.m.",
+    "ReportingTime": "March 9, 2024, 5:43 p.m.",
     "candidates": [
       {
         "Name": "Lou Correa",
         "Party": "Dem",
-        "Votes": "33,459",
-        "Percent": "60.0",
+        "Votes": "36,875",
+        "Percent": "59.6",
         "incumbent": true
       },
       {
         "Name": "David Pan",
         "Party": "Rep",
-        "Votes": "22,292",
-        "Percent": "40.0",
+        "Votes": "25,004",
+        "Percent": "40.4",
         "incumbent": false
       }
     ]

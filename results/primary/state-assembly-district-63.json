@@ -1,27 +1,27 @@
 {
   "raceTitle": "State Assembly District 63 - Districtwide Results",
   "Reporting": "100% (169 of 169) precincts reporting",
-  "ReportingTime": "March 9, 2024, 4:29 p.m.",
+  "ReportingTime": "March 9, 2024, 5:43 p.m.",
   "candidates": [
     {
       "Name": "Chris Shoults",
       "Party": "Dem",
-      "Votes": "23,441",
-      "Percent": "37.3",
+      "Votes": "25,489",
+      "Percent": "37.2",
       "incumbent": false
     },
     {
       "Name": "Bill Essayli",
       "Party": "Rep",
-      "Votes": "37,559",
-      "Percent": "59.8",
+      "Votes": "41,051",
+      "Percent": "59.9",
       "incumbent": true
     },
     {
       "Name": "Orlando Munguia",
       "Party": "NPP",
-      "Votes": "1,829",
-      "Percent": "2.9",
+      "Votes": "2,027",
+      "Percent": "3.0",
       "incumbent": false
     }
   ]
