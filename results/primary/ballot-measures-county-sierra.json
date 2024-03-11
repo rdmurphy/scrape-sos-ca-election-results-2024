@@ -1,15 +1,15 @@
 {
   "raceTitle": "Ballot Measures - Sierra Results",
   "Reporting": "100.0% (19 of 19) precincts reporting",
-  "ReportingTime": "March 8, 2024, 3:11 p.m.",
+  "ReportingTime": "March 11, 2024, 1:59 p.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "405",
-      "yesPercent": "33.1",
-      "noVotes": "820",
-      "noPercent": "66.9"
+      "yesVotes": "411",
+      "yesPercent": "33.3",
+      "noVotes": "825",
+      "noPercent": "66.7"
     }
   ]
 }

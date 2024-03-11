@@ -2,41 +2,41 @@
   {
     "raceTitle": "State Senate District 23 - San Bernardino County Results",
     "Reporting": "100% (319 of 319) precincts reporting",
-    "ReportingTime": "March 9, 2024, 1:36 p.m.",
+    "ReportingTime": "March 11, 2024, 3:28 p.m.",
     "candidates": [
       {
         "Name": "Blanca Azucena Gomez",
         "Party": "Dem",
-        "Votes": "2,892",
-        "Percent": "10.4",
+        "Votes": "3,533",
+        "Percent": "10.6",
         "incumbent": false
       },
       {
         "Name": "Ollie M. McCaulley",
         "Party": "Dem",
-        "Votes": "1,289",
-        "Percent": "4.6",
+        "Votes": "1,564",
+        "Percent": "4.7",
         "incumbent": false
       },
       {
         "Name": "Kipp Mueller",
         "Party": "Dem",
-        "Votes": "6,687",
-        "Percent": "24.0",
+        "Votes": "8,415",
+        "Percent": "25.1",
         "incumbent": false
       },
       {
         "Name": "James \"DJ\" Hamburger",
         "Party": "Rep",
-        "Votes": "8,969",
-        "Percent": "32.2",
+        "Votes": "10,539",
+        "Percent": "31.5",
         "incumbent": false
       },
       {
         "Name": "Suzette Martinez Valladares",
         "Party": "Rep",
-        "Votes": "8,004",
-        "Percent": "28.7",
+        "Votes": "9,413",
+        "Percent": "28.1",
         "incumbent": false
       }
     ]
@@ -44,41 +44,41 @@
   {
     "raceTitle": "State Senate District 23 - Districtwide Results",
     "Reporting": "100% (520 of 520) precincts reporting",
-    "ReportingTime": "March 11, 2024, 1:16 p.m.",
+    "ReportingTime": "March 11, 2024, 4:06 p.m.",
     "candidates": [
       {
         "Name": "Blanca Azucena Gomez",
         "Party": "Dem",
-        "Votes": "11,638",
-        "Percent": "9.0",
+        "Votes": "12,279",
+        "Percent": "9.1",
         "incumbent": false
       },
       {
         "Name": "Ollie M. McCaulley",
         "Party": "Dem",
-        "Votes": "6,107",
+        "Votes": "6,382",
         "Percent": "4.7",
         "incumbent": false
       },
       {
         "Name": "Kipp Mueller",
         "Party": "Dem",
-        "Votes": "36,581",
-        "Percent": "28.3",
+        "Votes": "38,309",
+        "Percent": "28.4",
         "incumbent": false
       },
       {
         "Name": "James \"DJ\" Hamburger",
         "Party": "Rep",
-        "Votes": "31,272",
-        "Percent": "24.2",
+        "Votes": "32,842",
+        "Percent": "24.4",
         "incumbent": false
       },
       {
         "Name": "Suzette Martinez Valladares",
         "Party": "Rep",
-        "Votes": "43,469",
-        "Percent": "33.7",
+        "Votes": "44,878",
+        "Percent": "33.3",
         "incumbent": false
       }
     ]

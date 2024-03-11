@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Senate District 1 - Sierra County Results",
     "Reporting": "100% (19 of 19) precincts reporting",
-    "ReportingTime": "March 8, 2024, 3:11 p.m.",
+    "ReportingTime": "March 11, 2024, 1:59 p.m.",
     "candidates": [
       {
         "Name": "Megan Dahle",
         "Party": "Rep",
-        "Votes": "869",
-        "Percent": "83.2",
+        "Votes": "877",
+        "Percent": "83.4",
         "incumbent": false
       },
       {
         "Name": "David Fennell",
         "Party": "Rep",
         "Votes": "175",
-        "Percent": "16.8",
+        "Percent": "16.6",
         "incumbent": false
       }
     ]
@@ -23,19 +23,19 @@
   {
     "raceTitle": "State Senate District 1 - Districtwide Results",
     "Reporting": "100% (674 of 674) precincts reporting",
-    "ReportingTime": "March 11, 2024, 1:16 p.m.",
+    "ReportingTime": "March 11, 2024, 4:06 p.m.",
     "candidates": [
       {
         "Name": "Megan Dahle",
         "Party": "Rep",
-        "Votes": "111,465",
+        "Votes": "111,669",
         "Percent": "77.4",
         "incumbent": false
       },
       {
         "Name": "David Fennell",
         "Party": "Rep",
-        "Votes": "32,505",
+        "Votes": "32,545",
         "Percent": "22.6",
         "incumbent": false
       }
