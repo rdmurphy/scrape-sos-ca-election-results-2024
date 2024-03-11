@@ -2,33 +2,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 4 - Sonoma County Results",
     "Reporting": "100% (220 of 220) precincts reporting",
-    "ReportingTime": "March 8, 2024, 3:46 p.m.",
+    "ReportingTime": "March 11, 2024, 12:26 p.m.",
     "candidates": [
       {
         "Name": "Andrew David Engdahl",
         "Party": "Dem",
-        "Votes": "1,812",
+        "Votes": "1,897",
         "Percent": "4.3",
         "incumbent": false
       },
       {
         "Name": "Mike Thompson",
         "Party": "Dem",
-        "Votes": "31,011",
-        "Percent": "72.8",
+        "Votes": "32,051",
+        "Percent": "72.7",
         "incumbent": true
       },
       {
         "Name": "John Munn",
         "Party": "Rep",
-        "Votes": "9,325",
+        "Votes": "9,634",
         "Percent": "21.9",
         "incumbent": false
       },
       {
         "Name": "Niket Patwardhan",
         "Party": "NPP",
-        "Votes": "470",
+        "Votes": "493",
         "Percent": "1.1",
         "incumbent": false
       }
@@ -37,33 +37,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 4 - Districtwide Results",
     "Reporting": "100% (570 of 570) precincts reporting",
-    "ReportingTime": "March 11, 2024, 9:39 a.m.",
+    "ReportingTime": "March 11, 2024, 1:16 p.m.",
     "candidates": [
       {
         "Name": "Andrew David Engdahl",
         "Party": "Dem",
-        "Votes": "6,342",
+        "Votes": "6,427",
         "Percent": "5.1",
         "incumbent": false
       },
       {
         "Name": "Mike Thompson",
         "Party": "Dem",
-        "Votes": "78,002",
-        "Percent": "62.2",
+        "Votes": "79,042",
+        "Percent": "62.3",
         "incumbent": true
       },
       {
         "Name": "John Munn",
         "Party": "Rep",
-        "Votes": "39,646",
-        "Percent": "31.6",
+        "Votes": "39,955",
+        "Percent": "31.5",
         "incumbent": false
       },
       {
         "Name": "Niket Patwardhan",
         "Party": "NPP",
-        "Votes": "1,327",
+        "Votes": "1,350",
         "Percent": "1.1",
         "incumbent": false
       }

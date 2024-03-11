@@ -30,26 +30,26 @@
   {
     "raceTitle": "State Assembly District 12 - Districtwide Results",
     "Reporting": "100% (247 of 247) precincts reporting",
-    "ReportingTime": "March 11, 2024, 9:39 a.m.",
+    "ReportingTime": "March 11, 2024, 1:16 p.m.",
     "candidates": [
       {
         "Name": "Damon Connolly",
         "Party": "Dem",
-        "Votes": "61,960",
+        "Votes": "62,841",
         "Percent": "76.6",
         "incumbent": true
       },
       {
         "Name": "Eryn Cervantes",
         "Party": "Rep",
-        "Votes": "8,684",
-        "Percent": "10.7",
+        "Votes": "8,840",
+        "Percent": "10.8",
         "incumbent": false
       },
       {
         "Name": "Andy Podshadley",
         "Party": "Rep",
-        "Votes": "10,206",
+        "Votes": "10,351",
         "Percent": "12.6",
         "incumbent": false
       }

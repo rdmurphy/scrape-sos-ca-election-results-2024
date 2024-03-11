@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Senate District 1 - Sutter County Results",
     "Reporting": "100% (24 of 24) precincts reporting",
-    "ReportingTime": "March 5, 2024, 10:34 p.m.",
+    "ReportingTime": "March 11, 2024, 12:17 p.m.",
     "candidates": [
       {
         "Name": "Megan Dahle",
         "Party": "Rep",
-        "Votes": "6,060",
-        "Percent": "72.2",
+        "Votes": "9,003",
+        "Percent": "71.4",
         "incumbent": false
       },
       {
         "Name": "David Fennell",
         "Party": "Rep",
-        "Votes": "2,337",
-        "Percent": "27.8",
+        "Votes": "3,598",
+        "Percent": "28.6",
         "incumbent": false
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "State Senate District 1 - Districtwide Results",
     "Reporting": "100% (674 of 674) precincts reporting",
-    "ReportingTime": "March 11, 2024, 9:39 a.m.",
+    "ReportingTime": "March 11, 2024, 1:16 p.m.",
     "candidates": [
       {
         "Name": "Megan Dahle",
         "Party": "Rep",
-        "Votes": "108,522",
-        "Percent": "77.6",
+        "Votes": "111,465",
+        "Percent": "77.4",
         "incumbent": false
       },
       {
         "Name": "David Fennell",
         "Party": "Rep",
-        "Votes": "31,244",
-        "Percent": "22.4",
+        "Votes": "32,505",
+        "Percent": "22.6",
         "incumbent": false
       }
     ]
