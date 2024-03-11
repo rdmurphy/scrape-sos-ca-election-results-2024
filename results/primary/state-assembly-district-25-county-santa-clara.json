@@ -2,27 +2,27 @@
   {
     "raceTitle": "State Assembly District 25 - Santa Clara County Results",
     "Reporting": "100% (145 of 145) precincts reporting",
-    "ReportingTime": "March 9, 2024, 5:23 p.m.",
+    "ReportingTime": "March 11, 2024, 8:27 a.m.",
     "candidates": [
       {
         "Name": "Ash Kalra",
         "Party": "Dem",
-        "Votes": "24,472",
-        "Percent": "50.0",
+        "Votes": "27,824",
+        "Percent": "50.7",
         "incumbent": true
       },
       {
         "Name": "Lan Ngo",
         "Party": "Dem",
-        "Votes": "11,352",
-        "Percent": "23.2",
+        "Votes": "12,513",
+        "Percent": "22.8",
         "incumbent": false
       },
       {
         "Name": "Ted Stroll",
         "Party": "Rep",
-        "Votes": "13,166",
-        "Percent": "26.9",
+        "Votes": "14,533",
+        "Percent": "26.5",
         "incumbent": false
       }
     ]
@@ -30,27 +30,27 @@
   {
     "raceTitle": "State Assembly District 25 - Districtwide Results",
     "Reporting": "100% (145 of 145) precincts reporting",
-    "ReportingTime": "March 10, 2024, 7:03 p.m.",
+    "ReportingTime": "March 11, 2024, 8:27 a.m.",
     "candidates": [
       {
         "Name": "Ash Kalra",
         "Party": "Dem",
-        "Votes": "24,472",
-        "Percent": "50.0",
+        "Votes": "27,824",
+        "Percent": "50.7",
         "incumbent": true
       },
       {
         "Name": "Lan Ngo",
         "Party": "Dem",
-        "Votes": "11,352",
-        "Percent": "23.2",
+        "Votes": "12,513",
+        "Percent": "22.8",
         "incumbent": false
       },
       {
         "Name": "Ted Stroll",
         "Party": "Rep",
-        "Votes": "13,166",
-        "Percent": "26.9",
+        "Votes": "14,533",
+        "Percent": "26.5",
         "incumbent": false
       }
     ]
