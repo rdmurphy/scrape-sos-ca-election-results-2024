@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 66 - Los Angeles County Results",
     "Reporting": "100% (103 of 103) precincts reporting",
-    "ReportingTime": "March 9, 2024, 5:15 p.m.",
+    "ReportingTime": "March 11, 2024, 4:16 p.m.",
     "candidates": [
       {
         "Name": "Al Muratsuchi",
         "Party": "Dem",
-        "Votes": "54,967",
-        "Percent": "58.2",
+        "Votes": "58,119",
+        "Percent": "58.3",
         "incumbent": true
       },
       {
         "Name": "George Barks",
         "Party": "Rep",
-        "Votes": "39,515",
-        "Percent": "41.8",
+        "Votes": "41,524",
+        "Percent": "41.7",
         "incumbent": false
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "State Assembly District 66 - Districtwide Results",
     "Reporting": "100% (103 of 103) precincts reporting",
-    "ReportingTime": "March 11, 2024, 4:06 p.m.",
+    "ReportingTime": "March 11, 2024, 4:26 p.m.",
     "candidates": [
       {
         "Name": "Al Muratsuchi",
         "Party": "Dem",
-        "Votes": "54,967",
-        "Percent": "58.2",
+        "Votes": "58,119",
+        "Percent": "58.3",
         "incumbent": true
       },
       {
         "Name": "George Barks",
         "Party": "Rep",
-        "Votes": "39,515",
-        "Percent": "41.8",
+        "Votes": "41,524",
+        "Percent": "41.7",
         "incumbent": false
       }
     ]

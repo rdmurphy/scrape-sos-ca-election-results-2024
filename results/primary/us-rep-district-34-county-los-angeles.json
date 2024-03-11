@@ -2,41 +2,41 @@
   {
     "raceTitle": "U.S. House of Representatives District 34 - Los Angeles County Results",
     "Reporting": "100% (153 of 153) precincts reporting",
-    "ReportingTime": "March 9, 2024, 5:15 p.m.",
+    "ReportingTime": "March 11, 2024, 4:16 p.m.",
     "candidates": [
       {
         "Name": "David M. Ferrell",
         "Party": "Dem",
-        "Votes": "1,921",
-        "Percent": "3.0",
+        "Votes": "2,037",
+        "Percent": "2.9",
         "incumbent": false
       },
       {
         "Name": "Jimmy Gomez",
         "Party": "Dem",
-        "Votes": "32,674",
+        "Votes": "35,904",
         "Percent": "51.5",
         "incumbent": true
       },
       {
         "Name": "David Kim",
         "Party": "Dem",
-        "Votes": "16,612",
-        "Percent": "26.2",
+        "Votes": "18,853",
+        "Percent": "27.0",
         "incumbent": false
       },
       {
         "Name": "Calvin Lee",
         "Party": "Rep",
-        "Votes": "9,732",
-        "Percent": "15.3",
+        "Votes": "10,252",
+        "Percent": "14.7",
         "incumbent": false
       },
       {
         "Name": "Aaron Reveles",
         "Party": "P&F",
-        "Votes": "2,530",
-        "Percent": "4.0",
+        "Votes": "2,717",
+        "Percent": "3.9",
         "incumbent": false
       }
     ]
@@ -44,41 +44,41 @@
   {
     "raceTitle": "U.S. House of Representatives District 34 - Districtwide Results",
     "Reporting": "100% (153 of 153) precincts reporting",
-    "ReportingTime": "March 11, 2024, 4:06 p.m.",
+    "ReportingTime": "March 11, 2024, 4:26 p.m.",
     "candidates": [
       {
         "Name": "David M. Ferrell",
         "Party": "Dem",
-        "Votes": "1,921",
-        "Percent": "3.0",
+        "Votes": "2,037",
+        "Percent": "2.9",
         "incumbent": false
       },
       {
         "Name": "Jimmy Gomez",
         "Party": "Dem",
-        "Votes": "32,674",
+        "Votes": "35,904",
         "Percent": "51.5",
         "incumbent": true
       },
       {
         "Name": "David Kim",
         "Party": "Dem",
-        "Votes": "16,612",
-        "Percent": "26.2",
+        "Votes": "18,853",
+        "Percent": "27.0",
         "incumbent": false
       },
       {
         "Name": "Calvin Lee",
         "Party": "Rep",
-        "Votes": "9,732",
-        "Percent": "15.3",
+        "Votes": "10,252",
+        "Percent": "14.7",
         "incumbent": false
       },
       {
         "Name": "Aaron Reveles",
         "Party": "P&F",
-        "Votes": "2,530",
-        "Percent": "4.0",
+        "Votes": "2,717",
+        "Percent": "3.9",
         "incumbent": false
       }
     ]

@@ -37,33 +37,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 26 - Districtwide Results",
     "Reporting": "100% (1,076 of 1,076) precincts reporting",
-    "ReportingTime": "March 11, 2024, 4:06 p.m.",
+    "ReportingTime": "March 11, 2024, 4:26 p.m.",
     "candidates": [
       {
         "Name": "Chris Anstead",
         "Party": "Dem",
-        "Votes": "4,544",
+        "Votes": "4,561",
         "Percent": "4.1",
         "incumbent": false
       },
       {
         "Name": "Julia Brownley",
         "Party": "Dem",
-        "Votes": "57,372",
+        "Votes": "57,526",
         "Percent": "51.3",
         "incumbent": true
       },
       {
         "Name": "Bruce Boyer",
         "Party": "Rep",
-        "Votes": "11,762",
+        "Votes": "11,775",
         "Percent": "10.5",
         "incumbent": false
       },
       {
         "Name": "Michael Koslow",
         "Party": "Rep",
-        "Votes": "38,103",
+        "Votes": "38,189",
         "Percent": "34.1",
         "incumbent": false
       }

@@ -2,55 +2,55 @@
   {
     "raceTitle": "U.S. House of Representatives District 32 - Los Angeles County Results",
     "Reporting": "100% (180 of 180) precincts reporting",
-    "ReportingTime": "March 9, 2024, 5:15 p.m.",
+    "ReportingTime": "March 11, 2024, 4:16 p.m.",
     "candidates": [
       {
         "Name": "Dave Abbitt",
         "Party": "Dem",
-        "Votes": "1,288",
+        "Votes": "1,344",
         "Percent": "1.1",
         "incumbent": false
       },
       {
         "Name": "Christopher A. Ahuja",
         "Party": "Dem",
-        "Votes": "8,251",
-        "Percent": "6.9",
+        "Votes": "9,229",
+        "Percent": "7.2",
         "incumbent": false
       },
       {
         "Name": "Brad Sherman",
         "Party": "Dem",
-        "Votes": "70,277",
-        "Percent": "58.5",
+        "Votes": "74,364",
+        "Percent": "58.4",
         "incumbent": true
       },
       {
         "Name": "Douglas Smith",
         "Party": "Dem",
-        "Votes": "1,821",
+        "Votes": "1,950",
         "Percent": "1.5",
         "incumbent": false
       },
       {
         "Name": "Trevor Lucas Witt",
         "Party": "Dem",
-        "Votes": "1,232",
+        "Votes": "1,310",
         "Percent": "1.0",
         "incumbent": false
       },
       {
         "Name": "James Shuster",
         "Party": "Rep",
-        "Votes": "13,330",
-        "Percent": "11.1",
+        "Votes": "13,902",
+        "Percent": "10.9",
         "incumbent": false
       },
       {
         "Name": "Larry Thompson",
         "Party": "Rep",
-        "Votes": "23,969",
-        "Percent": "19.9",
+        "Votes": "25,198",
+        "Percent": "19.8",
         "incumbent": false
       }
     ]
@@ -58,55 +58,55 @@
   {
     "raceTitle": "U.S. House of Representatives District 32 - Districtwide Results",
     "Reporting": "100% (185 of 185) precincts reporting",
-    "ReportingTime": "March 11, 2024, 4:06 p.m.",
+    "ReportingTime": "March 11, 2024, 4:26 p.m.",
     "candidates": [
       {
         "Name": "Dave Abbitt",
         "Party": "Dem",
-        "Votes": "1,292",
+        "Votes": "1,348",
         "Percent": "1.1",
         "incumbent": false
       },
       {
         "Name": "Christopher A. Ahuja",
         "Party": "Dem",
-        "Votes": "8,265",
-        "Percent": "6.9",
+        "Votes": "9,243",
+        "Percent": "7.2",
         "incumbent": false
       },
       {
         "Name": "Brad Sherman",
         "Party": "Dem",
-        "Votes": "70,451",
+        "Votes": "74,538",
         "Percent": "58.4",
         "incumbent": true
       },
       {
         "Name": "Douglas Smith",
         "Party": "Dem",
-        "Votes": "1,822",
+        "Votes": "1,951",
         "Percent": "1.5",
         "incumbent": false
       },
       {
         "Name": "Trevor Lucas Witt",
         "Party": "Dem",
-        "Votes": "1,234",
+        "Votes": "1,312",
         "Percent": "1.0",
         "incumbent": false
       },
       {
         "Name": "James Shuster",
         "Party": "Rep",
-        "Votes": "13,417",
-        "Percent": "11.1",
+        "Votes": "13,989",
+        "Percent": "11.0",
         "incumbent": false
       },
       {
         "Name": "Larry Thompson",
         "Party": "Rep",
-        "Votes": "24,055",
-        "Percent": "20.0",
+        "Votes": "25,284",
+        "Percent": "19.8",
         "incumbent": false
       }
     ]

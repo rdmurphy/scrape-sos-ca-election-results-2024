@@ -30,27 +30,27 @@
   {
     "raceTitle": "State Senate District 27 - Districtwide Results",
     "Reporting": "100% (531 of 531) precincts reporting",
-    "ReportingTime": "March 11, 2024, 4:06 p.m.",
+    "ReportingTime": "March 11, 2024, 4:26 p.m.",
     "candidates": [
       {
         "Name": "Susan A. Collins",
         "Party": "Dem",
-        "Votes": "28,364",
+        "Votes": "29,670",
         "Percent": "17.7",
         "incumbent": false
       },
       {
         "Name": "Henry Stern",
         "Party": "Dem",
-        "Votes": "70,267",
-        "Percent": "43.8",
+        "Votes": "74,320",
+        "Percent": "44.4",
         "incumbent": true
       },
       {
         "Name": "Lucie Volotzky",
         "Party": "Rep",
-        "Votes": "61,631",
-        "Percent": "38.5",
+        "Votes": "63,545",
+        "Percent": "37.9",
         "incumbent": false
       }
     ]

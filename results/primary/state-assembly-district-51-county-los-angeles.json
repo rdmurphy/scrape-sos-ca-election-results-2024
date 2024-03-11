@@ -2,27 +2,27 @@
   {
     "raceTitle": "State Assembly District 51 - Los Angeles County Results",
     "Reporting": "100% (125 of 125) precincts reporting",
-    "ReportingTime": "March 9, 2024, 5:15 p.m.",
+    "ReportingTime": "March 11, 2024, 4:16 p.m.",
     "candidates": [
       {
         "Name": "Rick Chavez Zbur",
         "Party": "Dem",
-        "Votes": "60,615",
-        "Percent": "77.1",
+        "Votes": "64,702",
+        "Percent": "77.4",
         "incumbent": true
       },
       {
         "Name": "Shiva Bagheri",
         "Party": "Rep",
-        "Votes": "8,901",
-        "Percent": "11.3",
+        "Votes": "9,371",
+        "Percent": "11.2",
         "incumbent": false
       },
       {
         "Name": "Stephan Hohil",
         "Party": "Rep",
-        "Votes": "9,122",
-        "Percent": "11.6",
+        "Votes": "9,552",
+        "Percent": "11.4",
         "incumbent": false
       }
     ]
@@ -30,27 +30,27 @@
   {
     "raceTitle": "State Assembly District 51 - Districtwide Results",
     "Reporting": "100% (125 of 125) precincts reporting",
-    "ReportingTime": "March 11, 2024, 4:06 p.m.",
+    "ReportingTime": "March 11, 2024, 4:26 p.m.",
     "candidates": [
       {
         "Name": "Rick Chavez Zbur",
         "Party": "Dem",
-        "Votes": "60,615",
-        "Percent": "77.1",
+        "Votes": "64,702",
+        "Percent": "77.4",
         "incumbent": true
       },
       {
         "Name": "Shiva Bagheri",
         "Party": "Rep",
-        "Votes": "8,901",
-        "Percent": "11.3",
+        "Votes": "9,371",
+        "Percent": "11.2",
         "incumbent": false
       },
       {
         "Name": "Stephan Hohil",
         "Party": "Rep",
-        "Votes": "9,122",
-        "Percent": "11.6",
+        "Votes": "9,552",
+        "Percent": "11.4",
         "incumbent": false
       }
     ]
