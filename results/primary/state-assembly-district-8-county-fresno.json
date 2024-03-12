@@ -2,34 +2,34 @@
   {
     "raceTitle": "State Assembly District 8 - Fresno County Results",
     "Reporting": "100% (87 of 87) precincts reporting",
-    "ReportingTime": "March 7, 2024, 4:59 p.m.",
+    "ReportingTime": "March 12, 2024, 4:21 p.m.",
     "candidates": [
       {
         "Name": "Caleb Helsel",
         "Party": "Dem",
-        "Votes": "14,904",
-        "Percent": "27.5",
+        "Votes": "19,774",
+        "Percent": "27.6",
         "incumbent": false
       },
       {
         "Name": "George Radanovich",
         "Party": "Rep",
-        "Votes": "16,971",
+        "Votes": "22,423",
         "Percent": "31.3",
         "incumbent": false
       },
       {
         "Name": "David J. Tangipa",
         "Party": "Rep",
-        "Votes": "21,021",
-        "Percent": "38.8",
+        "Votes": "27,654",
+        "Percent": "38.6",
         "incumbent": false
       },
       {
         "Name": "Michael Matheson",
         "Party": "NPP",
-        "Votes": "1,327",
-        "Percent": "2.4",
+        "Votes": "1,778",
+        "Percent": "2.5",
         "incumbent": false
       }
     ]
@@ -37,34 +37,34 @@
   {
     "raceTitle": "State Assembly District 8 - Districtwide Results",
     "Reporting": "100% (208 of 208) precincts reporting",
-    "ReportingTime": "March 12, 2024, 2:50 p.m.",
+    "ReportingTime": "March 12, 2024, 4:25 p.m.",
     "candidates": [
       {
         "Name": "Caleb Helsel",
         "Party": "Dem",
-        "Votes": "32,397",
-        "Percent": "30.0",
+        "Votes": "37,299",
+        "Percent": "29.8",
         "incumbent": false
       },
       {
         "Name": "George Radanovich",
         "Party": "Rep",
-        "Votes": "39,615",
-        "Percent": "36.7",
+        "Votes": "45,082",
+        "Percent": "36.0",
         "incumbent": false
       },
       {
         "Name": "David J. Tangipa",
         "Party": "Rep",
-        "Votes": "32,470",
-        "Percent": "30.1",
+        "Votes": "39,126",
+        "Percent": "31.2",
         "incumbent": false
       },
       {
         "Name": "Michael Matheson",
         "Party": "NPP",
-        "Votes": "3,357",
-        "Percent": "3.1",
+        "Votes": "3,815",
+        "Percent": "3.0",
         "incumbent": false
       }
     ]

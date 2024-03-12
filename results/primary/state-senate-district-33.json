@@ -1,27 +1,27 @@
 {
   "raceTitle": "State Senate District 33 - Districtwide Results",
   "Reporting": "100% (242 of 242) precincts reporting",
-  "ReportingTime": "March 12, 2024, 2:50 p.m.",
+  "ReportingTime": "March 12, 2024, 4:25 p.m.",
   "candidates": [
     {
       "Name": "Lena A. Gonzalez",
       "Party": "Dem",
-      "Votes": "76,003",
-      "Percent": "68.1",
+      "Votes": "80,915",
+      "Percent": "68.3",
       "incumbent": true
     },
     {
       "Name": "Sharifah A. Hardie",
       "Party": "Rep",
-      "Votes": "16,286",
-      "Percent": "14.6",
+      "Votes": "17,160",
+      "Percent": "14.5",
       "incumbent": false
     },
     {
       "Name": "Mario Paz",
       "Party": "Rep",
-      "Votes": "19,289",
-      "Percent": "17.3",
+      "Votes": "20,406",
+      "Percent": "17.2",
       "incumbent": false
     }
   ]

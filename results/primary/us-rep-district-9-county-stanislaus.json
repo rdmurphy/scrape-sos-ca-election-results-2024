@@ -2,34 +2,34 @@
   {
     "raceTitle": "U.S. House of Representatives District 9 - Stanislaus County Results",
     "Reporting": "100% (2 of 2) precincts reporting",
-    "ReportingTime": "March 7, 2024, 5:31 p.m.",
+    "ReportingTime": "March 12, 2024, 4:01 p.m.",
     "candidates": [
       {
         "Name": "Josh Harder",
         "Party": "Dem",
-        "Votes": "82",
-        "Percent": "27.5",
+        "Votes": "100",
+        "Percent": "25.3",
         "incumbent": true
       },
       {
         "Name": "Khalid Jeffrey Jafri",
         "Party": "Rep",
-        "Votes": "58",
-        "Percent": "19.5",
+        "Votes": "83",
+        "Percent": "21.0",
         "incumbent": false
       },
       {
         "Name": "Kevin Lincoln",
         "Party": "Rep",
-        "Votes": "104",
-        "Percent": "34.9",
+        "Votes": "131",
+        "Percent": "33.1",
         "incumbent": false
       },
       {
         "Name": "John McBride",
         "Party": "Rep",
-        "Votes": "54",
-        "Percent": "18.1",
+        "Votes": "82",
+        "Percent": "20.7",
         "incumbent": false
       }
     ]
@@ -37,33 +37,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 9 - Districtwide Results",
     "Reporting": "100% (240 of 240) precincts reporting",
-    "ReportingTime": "March 12, 2024, 2:50 p.m.",
+    "ReportingTime": "March 12, 2024, 4:25 p.m.",
     "candidates": [
       {
         "Name": "Josh Harder",
         "Party": "Dem",
-        "Votes": "44,976",
+        "Votes": "44,994",
         "Percent": "52.7",
         "incumbent": true
       },
       {
         "Name": "Khalid Jeffrey Jafri",
         "Party": "Rep",
-        "Votes": "6,120",
+        "Votes": "6,145",
         "Percent": "7.2",
         "incumbent": false
       },
       {
         "Name": "Kevin Lincoln",
         "Party": "Rep",
-        "Votes": "24,312",
+        "Votes": "24,339",
         "Percent": "28.5",
         "incumbent": false
       },
       {
         "Name": "John McBride",
         "Party": "Rep",
-        "Votes": "9,914",
+        "Votes": "9,942",
         "Percent": "11.6",
         "incumbent": false
       }

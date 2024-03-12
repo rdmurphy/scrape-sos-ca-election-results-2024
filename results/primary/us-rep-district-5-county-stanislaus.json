@@ -2,26 +2,26 @@
   {
     "raceTitle": "U.S. House of Representatives District 5 - Stanislaus County Results",
     "Reporting": "100% (99 of 99) precincts reporting",
-    "ReportingTime": "March 7, 2024, 5:31 p.m.",
+    "ReportingTime": "March 12, 2024, 4:01 p.m.",
     "candidates": [
       {
         "Name": "Michael J. \"Mike\" Barkley",
         "Party": "Dem",
-        "Votes": "13,698",
-        "Percent": "36.4",
+        "Votes": "18,215",
+        "Percent": "34.4",
         "incumbent": false
       },
       {
         "Name": "Tom McClintock",
         "Party": "Rep",
-        "Votes": "20,764",
-        "Percent": "55.2",
+        "Votes": "30,223",
+        "Percent": "57.1",
         "incumbent": true
       },
       {
         "Name": "Steve Wozniak",
         "Party": "NPP",
-        "Votes": "3,185",
+        "Votes": "4,483",
         "Percent": "8.5",
         "incumbent": false
       }
@@ -30,27 +30,27 @@
   {
     "raceTitle": "U.S. House of Representatives District 5 - Districtwide Results",
     "Reporting": "100% (345 of 345) precincts reporting",
-    "ReportingTime": "March 12, 2024, 2:50 p.m.",
+    "ReportingTime": "March 12, 2024, 4:25 p.m.",
     "candidates": [
       {
         "Name": "Michael J. \"Mike\" Barkley",
         "Party": "Dem",
-        "Votes": "55,756",
-        "Percent": "32.9",
+        "Votes": "63,126",
+        "Percent": "32.8",
         "incumbent": false
       },
       {
         "Name": "Tom McClintock",
         "Party": "Rep",
-        "Votes": "98,738",
-        "Percent": "58.3",
+        "Votes": "112,836",
+        "Percent": "58.6",
         "incumbent": true
       },
       {
         "Name": "Steve Wozniak",
         "Party": "NPP",
-        "Votes": "14,938",
-        "Percent": "8.8",
+        "Votes": "16,685",
+        "Percent": "8.7",
         "incumbent": false
       }
     ]

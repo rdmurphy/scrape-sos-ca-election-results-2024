@@ -1,75 +1,75 @@
 {
   "raceTitle": "State Assembly District 52 - Districtwide Results",
   "Reporting": "100% (118 of 118) precincts reporting",
-  "ReportingTime": "March 12, 2024, 2:50 p.m.",
+  "ReportingTime": "March 12, 2024, 4:25 p.m.",
   "candidates": [
     {
       "Name": "Jessica Caloza",
       "Party": "Dem",
-      "Votes": "19,273",
-      "Percent": "30.0",
+      "Votes": "21,539",
+      "Percent": "29.8",
       "incumbent": false
     },
     {
       "Name": "Franky Carrillo",
       "Party": "Dem",
-      "Votes": "15,669",
-      "Percent": "24.4",
+      "Votes": "18,636",
+      "Percent": "25.8",
       "incumbent": false
     },
     {
       "Name": "Genesis Coronado",
       "Party": "Dem",
-      "Votes": "2,185",
-      "Percent": "3.4",
+      "Votes": "2,394",
+      "Percent": "3.3",
       "incumbent": false
     },
     {
       "Name": "Anthony Libertino Fanara",
       "Party": "Dem",
-      "Votes": "860",
+      "Votes": "935",
       "Percent": "1.3",
       "incumbent": false
     },
     {
       "Name": "David Girón",
       "Party": "Dem",
-      "Votes": "7,529",
+      "Votes": "8,452",
       "Percent": "11.7",
       "incumbent": false
     },
     {
       "Name": "Carlos J. León",
       "Party": "Dem",
-      "Votes": "2,282",
-      "Percent": "3.6",
+      "Votes": "2,451",
+      "Percent": "3.4",
       "incumbent": false
     },
     {
       "Name": "Sofia G. Quinones",
       "Party": "Dem",
-      "Votes": "1,773",
-      "Percent": "2.8",
+      "Votes": "1,930",
+      "Percent": "2.7",
       "incumbent": false
     },
     {
       "Name": "Ari Ruiz",
       "Party": "Dem",
-      "Votes": "4,933",
-      "Percent": "7.7",
+      "Votes": "5,437",
+      "Percent": "7.5",
       "incumbent": false
     },
     {
       "Name": "Stephen Sills",
       "Party": "Rep",
-      "Votes": "8,790",
-      "Percent": "13.7",
+      "Votes": "9,415",
+      "Percent": "13.0",
       "incumbent": false
     },
     {
       "Name": "Shannel Pittman",
       "Party": "Grn",
-      "Votes": "954",
+      "Votes": "1,065",
       "Percent": "1.5",
       "incumbent": false
     }

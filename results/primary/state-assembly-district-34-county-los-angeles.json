@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 34 - Los Angeles County Results",
     "Reporting": "100% (69 of 69) precincts reporting",
-    "ReportingTime": "March 11, 2024, 4:16 p.m.",
+    "ReportingTime": "March 12, 2024, 4:02 p.m.",
     "candidates": [
       {
         "Name": "Ricardo Ortega",
         "Party": "Dem",
-        "Votes": "8,511",
-        "Percent": "32.3",
+        "Votes": "9,096",
+        "Percent": "32.6",
         "incumbent": false
       },
       {
         "Name": "Tom Lackey",
         "Party": "Rep",
-        "Votes": "17,852",
-        "Percent": "67.7",
+        "Votes": "18,791",
+        "Percent": "67.4",
         "incumbent": true
       }
     ]
@@ -23,19 +23,19 @@
   {
     "raceTitle": "State Assembly District 34 - Districtwide Results",
     "Reporting": "100% (1,169 of 1,169) precincts reporting",
-    "ReportingTime": "March 12, 2024, 2:50 p.m.",
+    "ReportingTime": "March 12, 2024, 4:25 p.m.",
     "candidates": [
       {
         "Name": "Ricardo Ortega",
         "Party": "Dem",
-        "Votes": "26,477",
+        "Votes": "27,643",
         "Percent": "33.7",
         "incumbent": false
       },
       {
         "Name": "Tom Lackey",
         "Party": "Rep",
-        "Votes": "52,159",
+        "Votes": "54,335",
         "Percent": "66.3",
         "incumbent": true
       }

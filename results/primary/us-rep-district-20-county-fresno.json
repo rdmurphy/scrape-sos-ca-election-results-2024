@@ -2,82 +2,82 @@
   {
     "raceTitle": "U.S. House of Representatives District 20 - Fresno County Results",
     "Reporting": "100% (57 of 57) precincts reporting",
-    "ReportingTime": "March 7, 2024, 4:59 p.m.",
+    "ReportingTime": "March 12, 2024, 4:21 p.m.",
     "candidates": [
       {
         "Name": "Andy Morales",
         "Party": "Dem",
-        "Votes": "1,097",
-        "Percent": "3.4",
+        "Votes": "1,356",
+        "Percent": "3.3",
         "incumbent": false
       },
       {
         "Name": "Marisa Wood",
         "Party": "Dem",
-        "Votes": "7,931",
-        "Percent": "24.7",
+        "Votes": "10,148",
+        "Percent": "24.3",
         "incumbent": false
       },
       {
         "Name": "Mike Boudreaux",
         "Party": "Rep",
-        "Votes": "8,095",
-        "Percent": "25.3",
+        "Votes": "10,922",
+        "Percent": "26.2",
         "incumbent": false
       },
       {
         "Name": "Stan Ellis",
         "Party": "Rep",
-        "Votes": "507",
-        "Percent": "1.6",
+        "Votes": "608",
+        "Percent": "1.5",
         "incumbent": false
       },
       {
         "Name": "Vince Fong",
         "Party": "Rep",
-        "Votes": "9,932",
-        "Percent": "31.0",
+        "Votes": "12,872",
+        "Percent": "30.9",
         "incumbent": false
       },
       {
         "Name": "David A. Giglio",
         "Party": "Rep",
-        "Votes": "962",
-        "Percent": "3.0",
+        "Votes": "1,170",
+        "Percent": "2.8",
         "incumbent": false
       },
       {
         "Name": "Kyle Kirkland",
         "Party": "Rep",
-        "Votes": "2,575",
-        "Percent": "8.0",
+        "Votes": "3,424",
+        "Percent": "8.2",
         "incumbent": false
       },
       {
         "Name": "Kelly Kulikoff",
         "Party": "Rep",
-        "Votes": "174",
+        "Votes": "209",
         "Percent": "0.5",
         "incumbent": false
       },
       {
         "Name": "Matthew Stoll",
         "Party": "Rep",
-        "Votes": "242",
-        "Percent": "0.8",
+        "Votes": "278",
+        "Percent": "0.7",
         "incumbent": false
       },
       {
         "Name": "Ben Dewell",
         "Party": "NPP",
-        "Votes": "397",
-        "Percent": "1.2",
+        "Votes": "535",
+        "Percent": "1.3",
         "incumbent": false
       },
       {
         "Name": "T.J. Esposito",
         "Party": "NPP",
-        "Votes": "141",
+        "Votes": "164",
         "Percent": "0.4",
         "incumbent": false
       }
@@ -86,83 +86,83 @@
   {
     "raceTitle": "U.S. House of Representatives District 20 - Districtwide Results",
     "Reporting": "100% (478 of 478) precincts reporting",
-    "ReportingTime": "March 12, 2024, 2:50 p.m.",
+    "ReportingTime": "March 12, 2024, 4:25 p.m.",
     "candidates": [
       {
         "Name": "Andy Morales",
         "Party": "Dem",
-        "Votes": "2,946",
+        "Votes": "3,217",
         "Percent": "3.1",
         "incumbent": false
       },
       {
         "Name": "Marisa Wood",
         "Party": "Dem",
-        "Votes": "20,791",
-        "Percent": "22.0",
+        "Votes": "23,116",
+        "Percent": "22.1",
         "incumbent": false
       },
       {
         "Name": "Mike Boudreaux",
         "Party": "Rep",
-        "Votes": "24,351",
-        "Percent": "25.8",
+        "Votes": "27,359",
+        "Percent": "26.2",
         "incumbent": false
       },
       {
         "Name": "Stan Ellis",
         "Party": "Rep",
-        "Votes": "2,032",
-        "Percent": "2.2",
+        "Votes": "2,147",
+        "Percent": "2.1",
         "incumbent": false
       },
       {
         "Name": "Vince Fong",
         "Party": "Rep",
-        "Votes": "35,822",
-        "Percent": "38.0",
+        "Votes": "38,868",
+        "Percent": "37.2",
         "incumbent": false
       },
       {
         "Name": "David A. Giglio",
         "Party": "Rep",
-        "Votes": "1,564",
+        "Votes": "1,778",
         "Percent": "1.7",
         "incumbent": false
       },
       {
         "Name": "Kyle Kirkland",
         "Party": "Rep",
-        "Votes": "4,312",
-        "Percent": "4.6",
+        "Votes": "5,193",
+        "Percent": "5.0",
         "incumbent": false
       },
       {
         "Name": "Kelly Kulikoff",
         "Party": "Rep",
-        "Votes": "486",
+        "Votes": "522",
         "Percent": "0.5",
         "incumbent": false
       },
       {
         "Name": "Matthew Stoll",
         "Party": "Rep",
-        "Votes": "777",
+        "Votes": "818",
         "Percent": "0.8",
         "incumbent": false
       },
       {
         "Name": "Ben Dewell",
         "Party": "NPP",
-        "Votes": "880",
-        "Percent": "0.9",
+        "Votes": "1,027",
+        "Percent": "1.0",
         "incumbent": false
       },
       {
         "Name": "T.J. Esposito",
         "Party": "NPP",
-        "Votes": "340",
-        "Percent": "0.4",
+        "Votes": "363",
+        "Percent": "0.3",
         "incumbent": false
       }
     ]

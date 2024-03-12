@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 31 - Fresno County Results",
     "Reporting": "100% (148 of 148) precincts reporting",
-    "ReportingTime": "March 7, 2024, 4:59 p.m.",
+    "ReportingTime": "March 12, 2024, 4:21 p.m.",
     "candidates": [
       {
         "Name": "Joaquin Arambula",
         "Party": "Dem",
-        "Votes": "18,847",
-        "Percent": "59.9",
+        "Votes": "26,467",
+        "Percent": "60.0",
         "incumbent": true
       },
       {
         "Name": "Solomon Verduzco",
         "Party": "Rep",
-        "Votes": "12,636",
-        "Percent": "40.1",
+        "Votes": "17,663",
+        "Percent": "40.0",
         "incumbent": false
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "State Assembly District 31 - Districtwide Results",
     "Reporting": "100% (148 of 148) precincts reporting",
-    "ReportingTime": "March 12, 2024, 2:50 p.m.",
+    "ReportingTime": "March 12, 2024, 4:25 p.m.",
     "candidates": [
       {
         "Name": "Joaquin Arambula",
         "Party": "Dem",
-        "Votes": "18,847",
-        "Percent": "59.9",
+        "Votes": "26,467",
+        "Percent": "60.0",
         "incumbent": true
       },
       {
         "Name": "Solomon Verduzco",
         "Party": "Rep",
-        "Votes": "12,636",
-        "Percent": "40.1",
+        "Votes": "17,663",
+        "Percent": "40.0",
         "incumbent": false
       }
     ]

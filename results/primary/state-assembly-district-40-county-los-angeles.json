@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 40 - Los Angeles County Results",
     "Reporting": "100% (136 of 136) precincts reporting",
-    "ReportingTime": "March 11, 2024, 4:16 p.m.",
+    "ReportingTime": "March 12, 2024, 4:02 p.m.",
     "candidates": [
       {
         "Name": "Pilar Schiavo",
         "Party": "Dem",
-        "Votes": "46,005",
-        "Percent": "49.1",
+        "Votes": "49,815",
+        "Percent": "49.7",
         "incumbent": true
       },
       {
         "Name": "Patrick Lee Gipson",
         "Party": "Rep",
-        "Votes": "47,621",
-        "Percent": "50.9",
+        "Votes": "50,461",
+        "Percent": "50.3",
         "incumbent": false
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "State Assembly District 40 - Districtwide Results",
     "Reporting": "100% (136 of 136) precincts reporting",
-    "ReportingTime": "March 12, 2024, 2:50 p.m.",
+    "ReportingTime": "March 12, 2024, 4:25 p.m.",
     "candidates": [
       {
         "Name": "Pilar Schiavo",
         "Party": "Dem",
-        "Votes": "46,005",
-        "Percent": "49.1",
+        "Votes": "49,815",
+        "Percent": "49.7",
         "incumbent": true
       },
       {
         "Name": "Patrick Lee Gipson",
         "Party": "Rep",
-        "Votes": "47,621",
-        "Percent": "50.9",
+        "Votes": "50,461",
+        "Percent": "50.3",
         "incumbent": false
       }
     ]

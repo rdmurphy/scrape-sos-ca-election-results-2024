@@ -2,27 +2,27 @@
   {
     "raceTitle": "U.S. House of Representatives District 1 - Sutter County Results",
     "Reporting": "100% (24 of 24) precincts reporting",
-    "ReportingTime": "March 11, 2024, 12:17 p.m.",
+    "ReportingTime": "March 12, 2024, 3:32 p.m.",
     "candidates": [
       {
         "Name": "Mike Doran",
         "Party": "Dem",
-        "Votes": "1,526",
-        "Percent": "10.0",
+        "Votes": "1,911",
+        "Percent": "9.7",
         "incumbent": false
       },
       {
         "Name": "Rose Penelope Yee",
         "Party": "Dem",
-        "Votes": "2,885",
-        "Percent": "18.9",
+        "Votes": "3,615",
+        "Percent": "18.4",
         "incumbent": false
       },
       {
         "Name": "Doug LaMalfa",
         "Party": "Rep",
-        "Votes": "10,846",
-        "Percent": "71.1",
+        "Votes": "14,080",
+        "Percent": "71.8",
         "incumbent": true
       }
     ]
@@ -30,27 +30,27 @@
   {
     "raceTitle": "U.S. House of Representatives District 1 - Districtwide Results",
     "Reporting": "100% (490 of 490) precincts reporting",
-    "ReportingTime": "March 12, 2024, 2:50 p.m.",
+    "ReportingTime": "March 12, 2024, 4:25 p.m.",
     "candidates": [
       {
         "Name": "Mike Doran",
         "Party": "Dem",
-        "Votes": "15,247",
-        "Percent": "10.9",
+        "Votes": "16,394",
+        "Percent": "10.7",
         "incumbent": false
       },
       {
         "Name": "Rose Penelope Yee",
         "Party": "Dem",
-        "Votes": "32,767",
-        "Percent": "23.5",
+        "Votes": "35,073",
+        "Percent": "23.0",
         "incumbent": false
       },
       {
         "Name": "Doug LaMalfa",
         "Party": "Rep",
-        "Votes": "91,361",
-        "Percent": "65.6",
+        "Votes": "101,195",
+        "Percent": "66.3",
         "incumbent": true
       }
     ]

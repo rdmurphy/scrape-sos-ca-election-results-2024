@@ -2,41 +2,41 @@
   {
     "raceTitle": "State Senate District 25 - San Bernardino County Results",
     "Reporting": "100% (86 of 86) precincts reporting",
-    "ReportingTime": "March 11, 2024, 3:28 p.m.",
+    "ReportingTime": "March 12, 2024, 3:44 p.m.",
     "candidates": [
       {
         "Name": "Teddy Choi",
         "Party": "Dem",
-        "Votes": "310",
-        "Percent": "2.3",
+        "Votes": "369",
+        "Percent": "2.4",
         "incumbent": false
       },
       {
         "Name": "Sandra Armenta",
         "Party": "Dem",
-        "Votes": "1,103",
-        "Percent": "8.3",
+        "Votes": "1,340",
+        "Percent": "8.6",
         "incumbent": false
       },
       {
         "Name": "Sasha Renée Pérez",
         "Party": "Dem",
-        "Votes": "2,060",
-        "Percent": "15.5",
+        "Votes": "2,530",
+        "Percent": "16.3",
         "incumbent": false
       },
       {
         "Name": "Yvonne Yiu",
         "Party": "Dem",
-        "Votes": "1,513",
-        "Percent": "11.4",
+        "Votes": "1,804",
+        "Percent": "11.6",
         "incumbent": false
       },
       {
         "Name": "Elizabeth Wong Ahlers",
         "Party": "Rep",
-        "Votes": "8,270",
-        "Percent": "62.4",
+        "Votes": "9,500",
+        "Percent": "61.1",
         "incumbent": false
       }
     ]
@@ -44,41 +44,41 @@
   {
     "raceTitle": "State Senate District 25 - Districtwide Results",
     "Reporting": "100% (337 of 337) precincts reporting",
-    "ReportingTime": "March 12, 2024, 2:50 p.m.",
+    "ReportingTime": "March 12, 2024, 4:25 p.m.",
     "candidates": [
       {
         "Name": "Teddy Choi",
         "Party": "Dem",
-        "Votes": "7,655",
-        "Percent": "4.4",
+        "Votes": "8,229",
+        "Percent": "4.3",
         "incumbent": false
       },
       {
         "Name": "Sandra Armenta",
         "Party": "Dem",
-        "Votes": "16,768",
-        "Percent": "9.6",
+        "Votes": "18,168",
+        "Percent": "9.5",
         "incumbent": false
       },
       {
         "Name": "Sasha Renée Pérez",
         "Party": "Dem",
-        "Votes": "56,660",
-        "Percent": "32.3",
+        "Votes": "62,357",
+        "Percent": "32.7",
         "incumbent": false
       },
       {
         "Name": "Yvonne Yiu",
         "Party": "Dem",
-        "Votes": "30,966",
-        "Percent": "17.7",
+        "Votes": "33,337",
+        "Percent": "17.5",
         "incumbent": false
       },
       {
         "Name": "Elizabeth Wong Ahlers",
         "Party": "Rep",
-        "Votes": "63,252",
-        "Percent": "36.1",
+        "Votes": "68,315",
+        "Percent": "35.9",
         "incumbent": false
       }
     ]

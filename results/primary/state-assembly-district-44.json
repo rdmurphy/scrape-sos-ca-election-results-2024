@@ -1,62 +1,62 @@
 {
   "raceTitle": "State Assembly District 44 - Districtwide Results",
   "Reporting": "100% (106 of 106) precincts reporting",
-  "ReportingTime": "March 12, 2024, 2:50 p.m.",
+  "ReportingTime": "March 12, 2024, 4:25 p.m.",
   "candidates": [
     {
       "Name": "Elen Asatryan",
       "Party": "Dem",
-      "Votes": "12,028",
-      "Percent": "13.5",
+      "Votes": "13,323",
+      "Percent": "13.4",
       "incumbent": false
     },
     {
       "Name": "Carmenita Helligar",
       "Party": "Dem",
-      "Votes": "4,891",
-      "Percent": "5.5",
+      "Votes": "5,541",
+      "Percent": "5.6",
       "incumbent": false
     },
     {
       "Name": "Ed Han",
       "Party": "Dem",
-      "Votes": "13,980",
-      "Percent": "15.7",
+      "Votes": "15,753",
+      "Percent": "15.9",
       "incumbent": false
     },
     {
       "Name": "Steve Pierson",
       "Party": "Dem",
-      "Votes": "6,740",
-      "Percent": "7.6",
+      "Votes": "7,713",
+      "Percent": "7.8",
       "incumbent": false
     },
     {
       "Name": "Adam Pryor",
       "Party": "Dem",
-      "Votes": "1,196",
-      "Percent": "1.3",
+      "Votes": "1,386",
+      "Percent": "1.4",
       "incumbent": false
     },
     {
       "Name": "Nick Schultz",
       "Party": "Dem",
-      "Votes": "24,295",
-      "Percent": "27.3",
+      "Votes": "27,787",
+      "Percent": "28.0",
       "incumbent": false
     },
     {
       "Name": "Tony Rodriguez",
       "Party": "Rep",
-      "Votes": "23,891",
-      "Percent": "26.9",
+      "Votes": "25,796",
+      "Percent": "26.0",
       "incumbent": false
     },
     {
       "Name": "Adam Summer",
       "Party": "NPP",
-      "Votes": "1,840",
-      "Percent": "2.1",
+      "Votes": "2,009",
+      "Percent": "2.0",
       "incumbent": false
     }
   ]

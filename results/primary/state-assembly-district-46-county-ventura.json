@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 46 - Ventura County Results",
     "Reporting": "100% (7 of 7) precincts reporting",
-    "ReportingTime": "March 7, 2024, 3:43 p.m.",
+    "ReportingTime": "March 12, 2024, 3:29 p.m.",
     "candidates": [
       {
         "Name": "Jesse Gabriel",
         "Party": "Dem",
-        "Votes": "176",
-        "Percent": "50.4",
+        "Votes": "194",
+        "Percent": "49.7",
         "incumbent": true
       },
       {
         "Name": "Tracey Schroeder",
         "Party": "Rep",
-        "Votes": "173",
-        "Percent": "49.6",
+        "Votes": "196",
+        "Percent": "50.3",
         "incumbent": false
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "State Assembly District 46 - Districtwide Results",
     "Reporting": "100% (114 of 114) precincts reporting",
-    "ReportingTime": "March 12, 2024, 2:50 p.m.",
+    "ReportingTime": "March 12, 2024, 4:25 p.m.",
     "candidates": [
       {
         "Name": "Jesse Gabriel",
         "Party": "Dem",
-        "Votes": "39,825",
-        "Percent": "64.3",
+        "Votes": "44,989",
+        "Percent": "65.2",
         "incumbent": true
       },
       {
         "Name": "Tracey Schroeder",
         "Party": "Rep",
-        "Votes": "22,084",
-        "Percent": "35.7",
+        "Votes": "24,048",
+        "Percent": "34.8",
         "incumbent": false
       }
     ]

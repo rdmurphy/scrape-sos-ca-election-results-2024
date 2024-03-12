@@ -2,20 +2,20 @@
   {
     "raceTitle": "U.S. House of Representatives District 13 - Fresno County Results",
     "Reporting": "100% (33 of 33) precincts reporting",
-    "ReportingTime": "March 7, 2024, 4:59 p.m.",
+    "ReportingTime": "March 12, 2024, 4:21 p.m.",
     "candidates": [
       {
         "Name": "Adam Gray",
         "Party": "Dem",
-        "Votes": "2,136",
-        "Percent": "39.2",
+        "Votes": "2,952",
+        "Percent": "39.1",
         "incumbent": false
       },
       {
         "Name": "John Duarte",
         "Party": "Rep",
-        "Votes": "3,313",
-        "Percent": "60.8",
+        "Votes": "4,596",
+        "Percent": "60.9",
         "incumbent": true
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "U.S. House of Representatives District 13 - Districtwide Results",
     "Reporting": "100% (865 of 865) precincts reporting",
-    "ReportingTime": "March 12, 2024, 2:50 p.m.",
+    "ReportingTime": "March 12, 2024, 4:25 p.m.",
     "candidates": [
       {
         "Name": "Adam Gray",
         "Party": "Dem",
-        "Votes": "24,692",
-        "Percent": "45.1",
+        "Votes": "28,372",
+        "Percent": "44.9",
         "incumbent": false
       },
       {
         "Name": "John Duarte",
         "Party": "Rep",
-        "Votes": "30,114",
-        "Percent": "54.9",
+        "Votes": "34,749",
+        "Percent": "55.1",
         "incumbent": true
       }
     ]

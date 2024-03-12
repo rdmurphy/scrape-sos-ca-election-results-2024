@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 28 - Santa Clara County Results",
     "Reporting": "100% (139 of 139) precincts reporting",
-    "ReportingTime": "March 11, 2024, 4:45 p.m.",
+    "ReportingTime": "March 12, 2024, 4:23 p.m.",
     "candidates": [
       {
         "Name": "Gail Pellerin",
         "Party": "Dem",
-        "Votes": "45,511",
-        "Percent": "64.2",
+        "Votes": "51,040",
+        "Percent": "64.1",
         "incumbent": true
       },
       {
         "Name": "Liz Lawler",
         "Party": "Rep",
-        "Votes": "25,400",
-        "Percent": "35.8",
+        "Votes": "28,527",
+        "Percent": "35.9",
         "incumbent": false
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "State Assembly District 28 - Districtwide Results",
     "Reporting": "100% (210 of 210) precincts reporting",
-    "ReportingTime": "March 12, 2024, 2:50 p.m.",
+    "ReportingTime": "March 12, 2024, 4:25 p.m.",
     "candidates": [
       {
         "Name": "Gail Pellerin",
         "Party": "Dem",
-        "Votes": "74,269",
-        "Percent": "69.4",
+        "Votes": "81,289",
+        "Percent": "69.2",
         "incumbent": true
       },
       {
         "Name": "Liz Lawler",
         "Party": "Rep",
-        "Votes": "32,703",
-        "Percent": "30.6",
+        "Votes": "36,166",
+        "Percent": "30.8",
         "incumbent": false
       }
     ]

@@ -2,48 +2,48 @@
   {
     "raceTitle": "U.S. House of Representatives District 6 - Sacramento County Results",
     "Reporting": "100% (280 of 280) precincts reporting",
-    "ReportingTime": "March 8, 2024, 3:12 p.m.",
+    "ReportingTime": "March 12, 2024, 3:48 p.m.",
     "candidates": [
       {
         "Name": "Adam Barajas",
         "Party": "Dem",
-        "Votes": "3,875",
-        "Percent": "5.0",
+        "Votes": "5,485",
+        "Percent": "5.3",
         "incumbent": false
       },
       {
         "Name": "Ami Bera",
         "Party": "Dem",
-        "Votes": "41,920",
-        "Percent": "54.0",
+        "Votes": "54,773",
+        "Percent": "52.8",
         "incumbent": true
       },
       {
         "Name": "Christine Bish",
         "Party": "Rep",
-        "Votes": "15,247",
-        "Percent": "19.6",
+        "Votes": "20,661",
+        "Percent": "19.9",
         "incumbent": false
       },
       {
         "Name": "Craig J. DeLuz",
         "Party": "Rep",
-        "Votes": "6,904",
-        "Percent": "8.9",
+        "Votes": "9,769",
+        "Percent": "9.4",
         "incumbent": false
       },
       {
         "Name": "Raymond Riehle",
         "Party": "Rep",
-        "Votes": "8,424",
+        "Votes": "11,202",
         "Percent": "10.8",
         "incumbent": false
       },
       {
         "Name": "Chris Richardson",
         "Party": "Grn",
-        "Votes": "1,271",
-        "Percent": "1.6",
+        "Votes": "1,764",
+        "Percent": "1.7",
         "incumbent": false
       }
     ]
@@ -51,48 +51,48 @@
   {
     "raceTitle": "U.S. House of Representatives District 6 - Districtwide Results",
     "Reporting": "100% (280 of 280) precincts reporting",
-    "ReportingTime": "March 12, 2024, 2:50 p.m.",
+    "ReportingTime": "March 12, 2024, 4:25 p.m.",
     "candidates": [
       {
         "Name": "Adam Barajas",
         "Party": "Dem",
-        "Votes": "3,875",
-        "Percent": "5.0",
+        "Votes": "5,485",
+        "Percent": "5.3",
         "incumbent": false
       },
       {
         "Name": "Ami Bera",
         "Party": "Dem",
-        "Votes": "41,920",
-        "Percent": "54.0",
+        "Votes": "54,773",
+        "Percent": "52.8",
         "incumbent": true
       },
       {
         "Name": "Christine Bish",
         "Party": "Rep",
-        "Votes": "15,247",
-        "Percent": "19.6",
+        "Votes": "20,661",
+        "Percent": "19.9",
         "incumbent": false
       },
       {
         "Name": "Craig J. DeLuz",
         "Party": "Rep",
-        "Votes": "6,904",
-        "Percent": "8.9",
+        "Votes": "9,769",
+        "Percent": "9.4",
         "incumbent": false
       },
       {
         "Name": "Raymond Riehle",
         "Party": "Rep",
-        "Votes": "8,424",
+        "Votes": "11,202",
         "Percent": "10.8",
         "incumbent": false
       },
       {
         "Name": "Chris Richardson",
         "Party": "Grn",
-        "Votes": "1,271",
-        "Percent": "1.6",
+        "Votes": "1,764",
+        "Percent": "1.7",
         "incumbent": false
       }
     ]

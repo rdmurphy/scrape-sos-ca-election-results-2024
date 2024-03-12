@@ -2,27 +2,27 @@
   {
     "raceTitle": "U.S. House of Representatives District 40 - San Bernardino County Results",
     "Reporting": "100% (37 of 37) precincts reporting",
-    "ReportingTime": "March 11, 2024, 3:28 p.m.",
+    "ReportingTime": "March 12, 2024, 3:44 p.m.",
     "candidates": [
       {
         "Name": "Allyson Muñiz Damikolas",
         "Party": "Dem",
-        "Votes": "1,202",
-        "Percent": "12.7",
+        "Votes": "1,525",
+        "Percent": "13.7",
         "incumbent": false
       },
       {
         "Name": "Joe Kerr",
         "Party": "Dem",
-        "Votes": "2,511",
-        "Percent": "26.5",
+        "Votes": "3,023",
+        "Percent": "27.2",
         "incumbent": false
       },
       {
         "Name": "Young Kim",
         "Party": "Rep",
-        "Votes": "5,762",
-        "Percent": "60.8",
+        "Votes": "6,558",
+        "Percent": "59.0",
         "incumbent": true
       }
     ]
@@ -30,27 +30,27 @@
   {
     "raceTitle": "U.S. House of Representatives District 40 - Districtwide Results",
     "Reporting": "100% (718 of 718) precincts reporting",
-    "ReportingTime": "March 12, 2024, 2:50 p.m.",
+    "ReportingTime": "March 12, 2024, 4:25 p.m.",
     "candidates": [
       {
         "Name": "Allyson Muñiz Damikolas",
         "Party": "Dem",
-        "Votes": "30,939",
+        "Votes": "31,262",
         "Percent": "17.6",
         "incumbent": false
       },
       {
         "Name": "Joe Kerr",
         "Party": "Dem",
-        "Votes": "44,651",
+        "Votes": "45,163",
         "Percent": "25.4",
         "incumbent": false
       },
       {
         "Name": "Young Kim",
         "Party": "Rep",
-        "Votes": "100,447",
-        "Percent": "57.1",
+        "Votes": "101,243",
+        "Percent": "57.0",
         "incumbent": true
       }
     ]

@@ -2,55 +2,55 @@
   {
     "raceTitle": "U.S. House of Representatives District 32 - Los Angeles County Results",
     "Reporting": "100% (180 of 180) precincts reporting",
-    "ReportingTime": "March 11, 2024, 4:16 p.m.",
+    "ReportingTime": "March 12, 2024, 4:02 p.m.",
     "candidates": [
       {
         "Name": "Dave Abbitt",
         "Party": "Dem",
-        "Votes": "1,344",
-        "Percent": "1.1",
+        "Votes": "1,489",
+        "Percent": "1.0",
         "incumbent": false
       },
       {
         "Name": "Christopher A. Ahuja",
         "Party": "Dem",
-        "Votes": "9,229",
-        "Percent": "7.2",
+        "Votes": "11,122",
+        "Percent": "7.8",
         "incumbent": false
       },
       {
         "Name": "Brad Sherman",
         "Party": "Dem",
-        "Votes": "74,364",
-        "Percent": "58.4",
+        "Votes": "83,233",
+        "Percent": "58.6",
         "incumbent": true
       },
       {
         "Name": "Douglas Smith",
         "Party": "Dem",
-        "Votes": "1,950",
-        "Percent": "1.5",
+        "Votes": "2,234",
+        "Percent": "1.6",
         "incumbent": false
       },
       {
         "Name": "Trevor Lucas Witt",
         "Party": "Dem",
-        "Votes": "1,310",
+        "Votes": "1,468",
         "Percent": "1.0",
         "incumbent": false
       },
       {
         "Name": "James Shuster",
         "Party": "Rep",
-        "Votes": "13,902",
-        "Percent": "10.9",
+        "Votes": "15,056",
+        "Percent": "10.6",
         "incumbent": false
       },
       {
         "Name": "Larry Thompson",
         "Party": "Rep",
-        "Votes": "25,198",
-        "Percent": "19.8",
+        "Votes": "27,337",
+        "Percent": "19.3",
         "incumbent": false
       }
     ]
@@ -58,55 +58,55 @@
   {
     "raceTitle": "U.S. House of Representatives District 32 - Districtwide Results",
     "Reporting": "100% (185 of 185) precincts reporting",
-    "ReportingTime": "March 12, 2024, 2:50 p.m.",
+    "ReportingTime": "March 12, 2024, 4:25 p.m.",
     "candidates": [
       {
         "Name": "Dave Abbitt",
         "Party": "Dem",
-        "Votes": "1,348",
-        "Percent": "1.1",
+        "Votes": "1,493",
+        "Percent": "1.0",
         "incumbent": false
       },
       {
         "Name": "Christopher A. Ahuja",
         "Party": "Dem",
-        "Votes": "9,243",
-        "Percent": "7.2",
+        "Votes": "11,141",
+        "Percent": "7.8",
         "incumbent": false
       },
       {
         "Name": "Brad Sherman",
         "Party": "Dem",
-        "Votes": "74,538",
-        "Percent": "58.4",
+        "Votes": "83,419",
+        "Percent": "58.6",
         "incumbent": true
       },
       {
         "Name": "Douglas Smith",
         "Party": "Dem",
-        "Votes": "1,951",
-        "Percent": "1.5",
+        "Votes": "2,236",
+        "Percent": "1.6",
         "incumbent": false
       },
       {
         "Name": "Trevor Lucas Witt",
         "Party": "Dem",
-        "Votes": "1,312",
+        "Votes": "1,470",
         "Percent": "1.0",
         "incumbent": false
       },
       {
         "Name": "James Shuster",
         "Party": "Rep",
-        "Votes": "13,989",
-        "Percent": "11.0",
+        "Votes": "15,153",
+        "Percent": "10.6",
         "incumbent": false
       },
       {
         "Name": "Larry Thompson",
         "Party": "Rep",
-        "Votes": "25,284",
-        "Percent": "19.8",
+        "Votes": "27,436",
+        "Percent": "19.3",
         "incumbent": false
       }
     ]

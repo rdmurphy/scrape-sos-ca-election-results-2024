@@ -1,20 +1,20 @@
 {
   "raceTitle": "State Assembly District 55 - Districtwide Results",
   "Reporting": "100% (119 of 119) precincts reporting",
-  "ReportingTime": "March 12, 2024, 2:50 p.m.",
+  "ReportingTime": "March 12, 2024, 4:25 p.m.",
   "candidates": [
     {
       "Name": "Isaac G. Bryan",
       "Party": "Dem",
-      "Votes": "63,567",
-      "Percent": "83.3",
+      "Votes": "69,848",
+      "Percent": "83.7",
       "incumbent": true
     },
     {
       "Name": "Keith G. Cascio",
       "Party": "Rep",
-      "Votes": "12,704",
-      "Percent": "16.7",
+      "Votes": "13,579",
+      "Percent": "16.3",
       "incumbent": false
     }
   ]

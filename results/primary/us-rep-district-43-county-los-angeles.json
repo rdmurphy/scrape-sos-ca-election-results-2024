@@ -2,41 +2,41 @@
   {
     "raceTitle": "U.S. House of Representatives District 43 - Los Angeles County Results",
     "Reporting": "100% (187 of 187) precincts reporting",
-    "ReportingTime": "March 11, 2024, 4:16 p.m.",
+    "ReportingTime": "March 12, 2024, 4:02 p.m.",
     "candidates": [
       {
         "Name": "Gregory Edward Jackson Cheadle",
         "Party": "Dem",
-        "Votes": "1,842",
-        "Percent": "2.7",
+        "Votes": "1,945",
+        "Percent": "2.6",
         "incumbent": false
       },
       {
         "Name": "Maxine Waters",
         "Party": "Dem",
-        "Votes": "48,127",
-        "Percent": "69.5",
+        "Votes": "51,541",
+        "Percent": "69.8",
         "incumbent": true
       },
       {
         "Name": "Chris B. Wiggins",
         "Party": "Dem",
-        "Votes": "4,410",
-        "Percent": "6.4",
+        "Votes": "4,689",
+        "Percent": "6.3",
         "incumbent": false
       },
       {
         "Name": "David Knight",
         "Party": "Rep",
-        "Votes": "5,073",
-        "Percent": "7.3",
+        "Votes": "5,344",
+        "Percent": "7.2",
         "incumbent": false
       },
       {
         "Name": "Steve Williams",
         "Party": "Rep",
-        "Votes": "9,820",
-        "Percent": "14.2",
+        "Votes": "10,363",
+        "Percent": "14.0",
         "incumbent": false
       }
     ]
@@ -44,41 +44,41 @@
   {
     "raceTitle": "U.S. House of Representatives District 43 - Districtwide Results",
     "Reporting": "100% (187 of 187) precincts reporting",
-    "ReportingTime": "March 12, 2024, 2:50 p.m.",
+    "ReportingTime": "March 12, 2024, 4:25 p.m.",
     "candidates": [
       {
         "Name": "Gregory Edward Jackson Cheadle",
         "Party": "Dem",
-        "Votes": "1,842",
-        "Percent": "2.7",
+        "Votes": "1,945",
+        "Percent": "2.6",
         "incumbent": false
       },
       {
         "Name": "Maxine Waters",
         "Party": "Dem",
-        "Votes": "48,127",
-        "Percent": "69.5",
+        "Votes": "51,541",
+        "Percent": "69.8",
         "incumbent": true
       },
       {
         "Name": "Chris B. Wiggins",
         "Party": "Dem",
-        "Votes": "4,410",
-        "Percent": "6.4",
+        "Votes": "4,689",
+        "Percent": "6.3",
         "incumbent": false
       },
       {
         "Name": "David Knight",
         "Party": "Rep",
-        "Votes": "5,073",
-        "Percent": "7.3",
+        "Votes": "5,344",
+        "Percent": "7.2",
         "incumbent": false
       },
       {
         "Name": "Steve Williams",
         "Party": "Rep",
-        "Votes": "9,820",
-        "Percent": "14.2",
+        "Votes": "10,363",
+        "Percent": "14.0",
         "incumbent": false
       }
     ]

@@ -1,15 +1,15 @@
 {
   "raceTitle": "Ballot Measures - San Bernardino Results",
   "Reporting": "100.0% (2,824 of 2,824) precincts reporting",
-  "ReportingTime": "March 11, 2024, 3:28 p.m.",
+  "ReportingTime": "March 12, 2024, 3:44 p.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "108792",
-      "yesPercent": "43.2",
-      "noVotes": "142915",
-      "noPercent": "56.8"
+      "yesVotes": "121875",
+      "yesPercent": "43.6",
+      "noVotes": "157734",
+      "noPercent": "56.4"
     }
   ]
 }

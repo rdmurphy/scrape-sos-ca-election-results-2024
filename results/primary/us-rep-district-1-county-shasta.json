@@ -2,27 +2,27 @@
   {
     "raceTitle": "U.S. House of Representatives District 1 - Shasta County Results",
     "Reporting": "100% (68 of 68) precincts reporting",
-    "ReportingTime": "March 8, 2024, 4:30 p.m.",
+    "ReportingTime": "March 12, 2024, 4:12 p.m.",
     "candidates": [
       {
         "Name": "Mike Doran",
         "Party": "Dem",
-        "Votes": "3,853",
-        "Percent": "11.0",
+        "Votes": "4,601",
+        "Percent": "10.5",
         "incumbent": false
       },
       {
         "Name": "Rose Penelope Yee",
         "Party": "Dem",
-        "Votes": "7,563",
-        "Percent": "21.5",
+        "Votes": "9,130",
+        "Percent": "20.8",
         "incumbent": false
       },
       {
         "Name": "Doug LaMalfa",
         "Party": "Rep",
-        "Votes": "23,684",
-        "Percent": "67.5",
+        "Votes": "30,244",
+        "Percent": "68.8",
         "incumbent": true
       }
     ]
@@ -30,27 +30,27 @@
   {
     "raceTitle": "U.S. House of Representatives District 1 - Districtwide Results",
     "Reporting": "100% (490 of 490) precincts reporting",
-    "ReportingTime": "March 12, 2024, 2:50 p.m.",
+    "ReportingTime": "March 12, 2024, 4:25 p.m.",
     "candidates": [
       {
         "Name": "Mike Doran",
         "Party": "Dem",
-        "Votes": "15,247",
-        "Percent": "10.9",
+        "Votes": "16,394",
+        "Percent": "10.7",
         "incumbent": false
       },
       {
         "Name": "Rose Penelope Yee",
         "Party": "Dem",
-        "Votes": "32,767",
-        "Percent": "23.5",
+        "Votes": "35,073",
+        "Percent": "23.0",
         "incumbent": false
       },
       {
         "Name": "Doug LaMalfa",
         "Party": "Rep",
-        "Votes": "91,361",
-        "Percent": "65.6",
+        "Votes": "101,195",
+        "Percent": "66.3",
         "incumbent": true
       }
     ]

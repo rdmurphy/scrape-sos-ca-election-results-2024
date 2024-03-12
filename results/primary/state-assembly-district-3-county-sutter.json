@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 3 - Sutter County Results",
     "Reporting": "100% (24 of 24) precincts reporting",
-    "ReportingTime": "March 11, 2024, 12:17 p.m.",
+    "ReportingTime": "March 12, 2024, 3:32 p.m.",
     "candidates": [
       {
         "Name": "Aaron Draper",
         "Party": "Dem",
-        "Votes": "3,938",
-        "Percent": "25.7",
+        "Votes": "4,887",
+        "Percent": "24.9",
         "incumbent": false
       },
       {
         "Name": "Jamie \"James\" Gallagher",
         "Party": "Rep",
-        "Votes": "11,397",
-        "Percent": "74.3",
+        "Votes": "14,775",
+        "Percent": "75.1",
         "incumbent": true
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "State Assembly District 3 - Districtwide Results",
     "Reporting": "100% (290 of 290) precincts reporting",
-    "ReportingTime": "March 12, 2024, 2:50 p.m.",
+    "ReportingTime": "March 12, 2024, 4:25 p.m.",
     "candidates": [
       {
         "Name": "Aaron Draper",
         "Party": "Dem",
-        "Votes": "27,186",
-        "Percent": "32.7",
+        "Votes": "28,215",
+        "Percent": "32.1",
         "incumbent": false
       },
       {
         "Name": "Jamie \"James\" Gallagher",
         "Party": "Rep",
-        "Votes": "56,012",
-        "Percent": "67.3",
+        "Votes": "59,682",
+        "Percent": "67.9",
         "incumbent": true
       }
     ]

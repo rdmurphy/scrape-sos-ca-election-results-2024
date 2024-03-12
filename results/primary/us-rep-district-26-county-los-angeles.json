@@ -2,34 +2,34 @@
   {
     "raceTitle": "U.S. House of Representatives District 26 - Los Angeles County Results",
     "Reporting": "100% (17 of 17) precincts reporting",
-    "ReportingTime": "March 11, 2024, 4:16 p.m.",
+    "ReportingTime": "March 12, 2024, 4:02 p.m.",
     "candidates": [
       {
         "Name": "Chris Anstead",
         "Party": "Dem",
-        "Votes": "963",
-        "Percent": "7.7",
+        "Votes": "1,030",
+        "Percent": "7.6",
         "incumbent": false
       },
       {
         "Name": "Julia Brownley",
         "Party": "Dem",
-        "Votes": "6,426",
-        "Percent": "51.1",
+        "Votes": "7,015",
+        "Percent": "51.7",
         "incumbent": true
       },
       {
         "Name": "Bruce Boyer",
         "Party": "Rep",
-        "Votes": "968",
-        "Percent": "7.7",
+        "Votes": "1,022",
+        "Percent": "7.5",
         "incumbent": false
       },
       {
         "Name": "Michael Koslow",
         "Party": "Rep",
-        "Votes": "4,219",
-        "Percent": "33.5",
+        "Votes": "4,506",
+        "Percent": "33.2",
         "incumbent": false
       }
     ]
@@ -37,34 +37,34 @@
   {
     "raceTitle": "U.S. House of Representatives District 26 - Districtwide Results",
     "Reporting": "100% (1,076 of 1,076) precincts reporting",
-    "ReportingTime": "March 12, 2024, 2:50 p.m.",
+    "ReportingTime": "March 12, 2024, 4:25 p.m.",
     "candidates": [
       {
         "Name": "Chris Anstead",
         "Party": "Dem",
-        "Votes": "4,561",
-        "Percent": "4.1",
+        "Votes": "5,793",
+        "Percent": "4.0",
         "incumbent": false
       },
       {
         "Name": "Julia Brownley",
         "Party": "Dem",
-        "Votes": "57,526",
-        "Percent": "51.3",
+        "Votes": "73,334",
+        "Percent": "51.0",
         "incumbent": true
       },
       {
         "Name": "Bruce Boyer",
         "Party": "Rep",
-        "Votes": "11,775",
-        "Percent": "10.5",
+        "Votes": "15,282",
+        "Percent": "10.6",
         "incumbent": false
       },
       {
         "Name": "Michael Koslow",
         "Party": "Rep",
-        "Votes": "38,189",
-        "Percent": "34.1",
+        "Votes": "49,336",
+        "Percent": "34.3",
         "incumbent": false
       }
     ]

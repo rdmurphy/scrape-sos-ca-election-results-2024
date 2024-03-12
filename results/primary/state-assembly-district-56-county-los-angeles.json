@@ -2,27 +2,27 @@
   {
     "raceTitle": "State Assembly District 56 - Los Angeles County Results",
     "Reporting": "100% (135 of 135) precincts reporting",
-    "ReportingTime": "March 11, 2024, 4:16 p.m.",
+    "ReportingTime": "March 12, 2024, 4:02 p.m.",
     "candidates": [
       {
         "Name": "Lisa Calderon",
         "Party": "Dem",
-        "Votes": "31,431",
-        "Percent": "55.4",
+        "Votes": "33,963",
+        "Percent": "55.8",
         "incumbent": true
       },
       {
         "Name": "Jessica Martinez",
         "Party": "Rep",
-        "Votes": "18,640",
-        "Percent": "32.8",
+        "Votes": "19,834",
+        "Percent": "32.6",
         "incumbent": false
       },
       {
         "Name": "Natasha Serrano",
         "Party": "Rep",
-        "Votes": "6,697",
-        "Percent": "11.8",
+        "Votes": "7,097",
+        "Percent": "11.7",
         "incumbent": false
       }
     ]
@@ -30,27 +30,27 @@
   {
     "raceTitle": "State Assembly District 56 - Districtwide Results",
     "Reporting": "100% (135 of 135) precincts reporting",
-    "ReportingTime": "March 12, 2024, 2:50 p.m.",
+    "ReportingTime": "March 12, 2024, 4:25 p.m.",
     "candidates": [
       {
         "Name": "Lisa Calderon",
         "Party": "Dem",
-        "Votes": "31,431",
-        "Percent": "55.4",
+        "Votes": "33,963",
+        "Percent": "55.8",
         "incumbent": true
       },
       {
         "Name": "Jessica Martinez",
         "Party": "Rep",
-        "Votes": "18,640",
-        "Percent": "32.8",
+        "Votes": "19,834",
+        "Percent": "32.6",
         "incumbent": false
       },
       {
         "Name": "Natasha Serrano",
         "Party": "Rep",
-        "Votes": "6,697",
-        "Percent": "11.8",
+        "Votes": "7,097",
+        "Percent": "11.7",
         "incumbent": false
       }
     ]

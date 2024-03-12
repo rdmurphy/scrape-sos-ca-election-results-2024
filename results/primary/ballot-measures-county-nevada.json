@@ -1,15 +1,15 @@
 {
   "raceTitle": "Ballot Measures - Nevada Results",
   "Reporting": "100.0% (108 of 108) precincts reporting",
-  "ReportingTime": "March 8, 2024, 3:28 p.m.",
+  "ReportingTime": "March 12, 2024, 3:33 p.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "12519",
-      "yesPercent": "43.1",
-      "noVotes": "16512",
-      "noPercent": "56.9"
+      "yesVotes": "15076",
+      "yesPercent": "42.6",
+      "noVotes": "20328",
+      "noPercent": "57.4"
     }
   ]
 }

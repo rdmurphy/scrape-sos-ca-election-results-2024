@@ -2,27 +2,27 @@
   {
     "raceTitle": "U.S. House of Representatives District 3 - Nevada County Results",
     "Reporting": "100% (108 of 108) precincts reporting",
-    "ReportingTime": "March 8, 2024, 3:28 p.m.",
+    "ReportingTime": "March 12, 2024, 3:33 p.m.",
     "candidates": [
       {
         "Name": "Jessica Morse",
         "Party": "Dem",
-        "Votes": "14,833",
-        "Percent": "51.1",
+        "Votes": "17,934",
+        "Percent": "50.6",
         "incumbent": false
       },
       {
         "Name": "Kevin Kiley",
         "Party": "Rep",
-        "Votes": "13,671",
-        "Percent": "47.1",
+        "Votes": "16,801",
+        "Percent": "47.4",
         "incumbent": true
       },
       {
         "Name": "Robert Smith",
         "Party": "NPP",
-        "Votes": "530",
-        "Percent": "1.8",
+        "Votes": "695",
+        "Percent": "2.0",
         "incumbent": false
       }
     ]
@@ -30,26 +30,26 @@
   {
     "raceTitle": "U.S. House of Representatives District 3 - Districtwide Results",
     "Reporting": "100% (454 of 454) precincts reporting",
-    "ReportingTime": "March 12, 2024, 2:50 p.m.",
+    "ReportingTime": "March 12, 2024, 4:25 p.m.",
     "candidates": [
       {
         "Name": "Jessica Morse",
         "Party": "Dem",
-        "Votes": "75,375",
-        "Percent": "43.3",
+        "Votes": "86,919",
+        "Percent": "43.2",
         "incumbent": false
       },
       {
         "Name": "Kevin Kiley",
         "Party": "Rep",
-        "Votes": "95,277",
-        "Percent": "54.7",
+        "Votes": "110,087",
+        "Percent": "54.8",
         "incumbent": true
       },
       {
         "Name": "Robert Smith",
         "Party": "NPP",
-        "Votes": "3,418",
+        "Votes": "4,055",
         "Percent": "2.0",
         "incumbent": false
       }

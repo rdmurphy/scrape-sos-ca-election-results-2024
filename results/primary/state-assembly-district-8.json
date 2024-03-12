@@ -1,34 +1,34 @@
 {
   "raceTitle": "State Assembly District 8 - Districtwide Results",
   "Reporting": "100% (208 of 208) precincts reporting",
-  "ReportingTime": "March 12, 2024, 2:50 p.m.",
+  "ReportingTime": "March 12, 2024, 4:25 p.m.",
   "candidates": [
     {
       "Name": "Caleb Helsel",
       "Party": "Dem",
-      "Votes": "32,397",
-      "Percent": "30.0",
+      "Votes": "37,299",
+      "Percent": "29.8",
       "incumbent": false
     },
     {
       "Name": "George Radanovich",
       "Party": "Rep",
-      "Votes": "39,615",
-      "Percent": "36.7",
+      "Votes": "45,082",
+      "Percent": "36.0",
       "incumbent": false
     },
     {
       "Name": "David J. Tangipa",
       "Party": "Rep",
-      "Votes": "32,470",
-      "Percent": "30.1",
+      "Votes": "39,126",
+      "Percent": "31.2",
       "incumbent": false
     },
     {
       "Name": "Michael Matheson",
       "Party": "NPP",
-      "Votes": "3,357",
-      "Percent": "3.1",
+      "Votes": "3,815",
+      "Percent": "3.0",
       "incumbent": false
     }
   ]

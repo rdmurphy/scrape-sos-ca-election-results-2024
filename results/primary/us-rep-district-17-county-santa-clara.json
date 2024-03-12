@@ -2,40 +2,40 @@
   {
     "raceTitle": "U.S. House of Representatives District 17 - Santa Clara County Results",
     "Reporting": "100% (167 of 167) precincts reporting",
-    "ReportingTime": "March 11, 2024, 4:45 p.m.",
+    "ReportingTime": "March 12, 2024, 4:23 p.m.",
     "candidates": [
       {
         "Name": "Ro Khanna",
         "Party": "Dem",
-        "Votes": "55,219",
-        "Percent": "63.5",
+        "Votes": "60,678",
+        "Percent": "63.6",
         "incumbent": true
       },
       {
         "Name": "Mario Art Ramirez",
         "Party": "Dem",
-        "Votes": "3,083",
-        "Percent": "3.5",
+        "Votes": "3,425",
+        "Percent": "3.6",
         "incumbent": false
       },
       {
         "Name": "Ritesh Tandon",
         "Party": "Dem",
-        "Votes": "4,080",
+        "Votes": "4,522",
         "Percent": "4.7",
         "incumbent": false
       },
       {
         "Name": "Anita Chen",
         "Party": "Rep",
-        "Votes": "23,139",
-        "Percent": "26.6",
+        "Votes": "25,219",
+        "Percent": "26.4",
         "incumbent": false
       },
       {
         "Name": "Joe Dehn",
         "Party": "Lib",
-        "Votes": "1,386",
+        "Votes": "1,530",
         "Percent": "1.6",
         "incumbent": false
       }
@@ -44,40 +44,40 @@
   {
     "raceTitle": "U.S. House of Representatives District 17 - Districtwide Results",
     "Reporting": "100% (186 of 186) precincts reporting",
-    "ReportingTime": "March 12, 2024, 2:50 p.m.",
+    "ReportingTime": "March 12, 2024, 4:25 p.m.",
     "candidates": [
       {
         "Name": "Ro Khanna",
         "Party": "Dem",
-        "Votes": "61,662",
-        "Percent": "63.1",
+        "Votes": "67,121",
+        "Percent": "63.2",
         "incumbent": true
       },
       {
         "Name": "Mario Art Ramirez",
         "Party": "Dem",
-        "Votes": "3,612",
+        "Votes": "3,954",
         "Percent": "3.7",
         "incumbent": false
       },
       {
         "Name": "Ritesh Tandon",
         "Party": "Dem",
-        "Votes": "4,640",
-        "Percent": "4.7",
+        "Votes": "5,082",
+        "Percent": "4.8",
         "incumbent": false
       },
       {
         "Name": "Anita Chen",
         "Party": "Rep",
-        "Votes": "26,266",
-        "Percent": "26.9",
+        "Votes": "28,346",
+        "Percent": "26.7",
         "incumbent": false
       },
       {
         "Name": "Joe Dehn",
         "Party": "Lib",
-        "Votes": "1,535",
+        "Votes": "1,679",
         "Percent": "1.6",
         "incumbent": false
       }
