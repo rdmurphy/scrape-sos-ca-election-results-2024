@@ -1,15 +1,15 @@
 {
   "raceTitle": "Ballot Measures - San Joaquin Results",
   "Reporting": "100.0% (214 of 214) precincts reporting",
-  "ReportingTime": "March 8, 2024, 8:15 p.m.",
+  "ReportingTime": "March 11, 2024, 7:04 p.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "35365",
-      "yesPercent": "50.1",
-      "noVotes": "35218",
-      "noPercent": "49.9"
+      "yesVotes": "42940",
+      "yesPercent": "50.9",
+      "noVotes": "41494",
+      "noPercent": "49.1"
     }
   ]
 }

@@ -2,34 +2,34 @@
   {
     "raceTitle": "U.S. House of Representatives District 35 - Riverside County Results",
     "Reporting": "100% (14 of 14) precincts reporting",
-    "ReportingTime": "March 9, 2024, 5:43 p.m.",
+    "ReportingTime": "March 11, 2024, 5:55 p.m.",
     "candidates": [
       {
         "Name": "Melissa May",
         "Party": "Dem",
-        "Votes": "449",
+        "Votes": "490",
         "Percent": "8.1",
         "incumbent": false
       },
       {
         "Name": "Norma J. Torres",
         "Party": "Dem",
-        "Votes": "2,136",
-        "Percent": "38.3",
+        "Votes": "2,361",
+        "Percent": "39.2",
         "incumbent": true
       },
       {
         "Name": "Mike Cargile",
         "Party": "Rep",
-        "Votes": "2,700",
-        "Percent": "48.4",
+        "Votes": "2,871",
+        "Percent": "47.6",
         "incumbent": false
       },
       {
         "Name": "Vijal Suthar",
         "Party": "Rep",
-        "Votes": "288",
-        "Percent": "5.2",
+        "Votes": "307",
+        "Percent": "5.1",
         "incumbent": false
       }
     ]
@@ -37,33 +37,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 35 - Districtwide Results",
     "Reporting": "100% (431 of 431) precincts reporting",
-    "ReportingTime": "March 11, 2024, 5:07 p.m.",
+    "ReportingTime": "March 11, 2024, 7:04 p.m.",
     "candidates": [
       {
         "Name": "Melissa May",
         "Party": "Dem",
-        "Votes": "5,230",
+        "Votes": "5,271",
         "Percent": "7.7",
         "incumbent": false
       },
       {
         "Name": "Norma J. Torres",
         "Party": "Dem",
-        "Votes": "32,559",
+        "Votes": "32,784",
         "Percent": "47.7",
         "incumbent": true
       },
       {
         "Name": "Mike Cargile",
         "Party": "Rep",
-        "Votes": "27,566",
+        "Votes": "27,737",
         "Percent": "40.3",
         "incumbent": false
       },
       {
         "Name": "Vijal Suthar",
         "Party": "Rep",
-        "Votes": "2,967",
+        "Votes": "2,986",
         "Percent": "4.3",
         "incumbent": false
       }

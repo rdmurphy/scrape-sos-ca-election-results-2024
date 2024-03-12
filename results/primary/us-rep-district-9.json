@@ -1,34 +1,34 @@
 {
   "raceTitle": "U.S. House of Representatives District 9 - Districtwide Results",
   "Reporting": "100% (240 of 240) precincts reporting",
-  "ReportingTime": "March 11, 2024, 5:07 p.m.",
+  "ReportingTime": "March 11, 2024, 7:04 p.m.",
   "candidates": [
     {
       "Name": "Josh Harder",
       "Party": "Dem",
-      "Votes": "36,825",
-      "Percent": "51.6",
+      "Votes": "44,976",
+      "Percent": "52.7",
       "incumbent": true
     },
     {
       "Name": "Khalid Jeffrey Jafri",
       "Party": "Rep",
-      "Votes": "5,382",
-      "Percent": "7.5",
+      "Votes": "6,120",
+      "Percent": "7.2",
       "incumbent": false
     },
     {
       "Name": "Kevin Lincoln",
       "Party": "Rep",
-      "Votes": "20,653",
-      "Percent": "28.9",
+      "Votes": "24,312",
+      "Percent": "28.5",
       "incumbent": false
     },
     {
       "Name": "John McBride",
       "Party": "Rep",
-      "Votes": "8,548",
-      "Percent": "12.0",
+      "Votes": "9,914",
+      "Percent": "11.6",
       "incumbent": false
     }
   ]

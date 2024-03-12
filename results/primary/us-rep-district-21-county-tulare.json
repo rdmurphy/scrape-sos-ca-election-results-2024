@@ -2,20 +2,20 @@
   {
     "raceTitle": "U.S. House of Representatives District 21 - Tulare County Results",
     "Reporting": "100% (41 of 41) precincts reporting",
-    "ReportingTime": "March 8, 2024, 5:28 p.m.",
+    "ReportingTime": "March 11, 2024, 6:59 p.m.",
     "candidates": [
       {
         "Name": "Jim Costa",
         "Party": "Dem",
-        "Votes": "5,131",
-        "Percent": "40.8",
+        "Votes": "5,561",
+        "Percent": "40.5",
         "incumbent": true
       },
       {
         "Name": "Michael Maher",
         "Party": "Rep",
-        "Votes": "7,448",
-        "Percent": "59.2",
+        "Votes": "8,176",
+        "Percent": "59.5",
         "incumbent": false
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "U.S. House of Representatives District 21 - Districtwide Results",
     "Reporting": "100% (208 of 208) precincts reporting",
-    "ReportingTime": "March 11, 2024, 5:07 p.m.",
+    "ReportingTime": "March 11, 2024, 7:04 p.m.",
     "candidates": [
       {
         "Name": "Jim Costa",
         "Party": "Dem",
-        "Votes": "28,630",
-        "Percent": "53.1",
+        "Votes": "29,060",
+        "Percent": "52.7",
         "incumbent": true
       },
       {
         "Name": "Michael Maher",
         "Party": "Rep",
-        "Votes": "25,309",
-        "Percent": "46.9",
+        "Votes": "26,037",
+        "Percent": "47.3",
         "incumbent": false
       }
     ]

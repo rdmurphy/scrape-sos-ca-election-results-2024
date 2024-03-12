@@ -1,15 +1,15 @@
 {
   "raceTitle": "Ballot Measures - Humboldt Results",
   "Reporting": "100.0% (78 of 78) precincts reporting",
-  "ReportingTime": "March 5, 2024, 11:58 p.m.",
+  "ReportingTime": "March 11, 2024, 5:47 p.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "10178",
-      "yesPercent": "52.2",
-      "noVotes": "9325",
-      "noPercent": "47.8"
+      "yesVotes": "10286",
+      "yesPercent": "52.1",
+      "noVotes": "9447",
+      "noPercent": "47.9"
     }
   ]
 }
