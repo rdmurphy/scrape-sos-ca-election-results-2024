@@ -1,41 +1,41 @@
 {
   "raceTitle": "U.S. House of Representatives District 45 - Districtwide Results",
   "Reporting": "100% (456 of 456) precincts reporting",
-  "ReportingTime": "March 11, 2024, 4:26 p.m.",
+  "ReportingTime": "March 11, 2024, 5:07 p.m.",
   "candidates": [
     {
       "Name": "Cheyenne Hunt",
       "Party": "Dem",
-      "Votes": "9,087",
-      "Percent": "8.0",
+      "Votes": "9,626",
+      "Percent": "8.1",
       "incumbent": false
     },
     {
       "Name": "Kim Bernice Nguyen-Penaloza",
       "Party": "Dem",
-      "Votes": "17,017",
-      "Percent": "15.1",
+      "Votes": "17,993",
+      "Percent": "15.2",
       "incumbent": false
     },
     {
       "Name": "Aditya Pai",
       "Party": "Dem",
-      "Votes": "5,826",
-      "Percent": "5.2",
+      "Votes": "6,076",
+      "Percent": "5.1",
       "incumbent": false
     },
     {
       "Name": "Derek Tran",
       "Party": "Dem",
-      "Votes": "18,196",
-      "Percent": "16.1",
+      "Votes": "18,947",
+      "Percent": "16.0",
       "incumbent": false
     },
     {
       "Name": "Michelle Steel",
       "Party": "Rep",
-      "Votes": "62,860",
-      "Percent": "55.6",
+      "Votes": "66,100",
+      "Percent": "55.7",
       "incumbent": true
     }
   ]

@@ -1,15 +1,15 @@
 {
   "raceTitle": "Ballot Measures - Santa Clara Results",
   "Reporting": "100.0% (597 of 597) precincts reporting",
-  "ReportingTime": "March 11, 2024, 8:27 a.m.",
+  "ReportingTime": "March 11, 2024, 4:45 p.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "160406",
-      "yesPercent": "55.4",
-      "noVotes": "129070",
-      "noPercent": "44.6"
+      "yesVotes": "168024",
+      "yesPercent": "55.3",
+      "noVotes": "135755",
+      "noPercent": "44.7"
     }
   ]
 }

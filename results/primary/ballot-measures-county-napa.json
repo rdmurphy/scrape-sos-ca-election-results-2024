@@ -1,15 +1,15 @@
 {
   "raceTitle": "Ballot Measures - Napa Results",
   "Reporting": "100.0% (200 of 200) precincts reporting",
-  "ReportingTime": "March 8, 2024, 4:43 p.m.",
+  "ReportingTime": "March 11, 2024, 4:43 p.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "10211",
-      "yesPercent": "52.2",
-      "noVotes": "9332",
-      "noPercent": "47.8"
+      "yesVotes": "14027",
+      "yesPercent": "51.7",
+      "noVotes": "13112",
+      "noPercent": "48.3"
     }
   ]
 }

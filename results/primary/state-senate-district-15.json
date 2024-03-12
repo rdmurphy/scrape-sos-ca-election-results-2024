@@ -1,26 +1,26 @@
 {
   "raceTitle": "State Senate District 15 - Districtwide Results",
   "Reporting": "100% (337 of 337) precincts reporting",
-  "ReportingTime": "March 11, 2024, 4:26 p.m.",
+  "ReportingTime": "March 11, 2024, 5:07 p.m.",
   "candidates": [
     {
       "Name": "Dave Cortese",
       "Party": "Dem",
-      "Votes": "98,265",
-      "Percent": "69.0",
+      "Votes": "103,481",
+      "Percent": "68.9",
       "incumbent": true
     },
     {
       "Name": "Robert Paul Howell",
       "Party": "Rep",
-      "Votes": "27,325",
-      "Percent": "19.2",
+      "Votes": "28,744",
+      "Percent": "19.1",
       "incumbent": false
     },
     {
       "Name": "Tony Loaiza",
       "Party": "Rep",
-      "Votes": "16,901",
+      "Votes": "17,926",
       "Percent": "11.9",
       "incumbent": false
     }

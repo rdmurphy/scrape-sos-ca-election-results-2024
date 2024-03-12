@@ -1,27 +1,27 @@
 {
   "raceTitle": "U.S. House of Representatives District 40 - Districtwide Results",
   "Reporting": "100% (718 of 718) precincts reporting",
-  "ReportingTime": "March 11, 2024, 4:26 p.m.",
+  "ReportingTime": "March 11, 2024, 5:07 p.m.",
   "candidates": [
     {
       "Name": "Allyson Muñiz Damikolas",
       "Party": "Dem",
-      "Votes": "27,749",
-      "Percent": "17.2",
+      "Votes": "30,868",
+      "Percent": "17.6",
       "incumbent": false
     },
     {
       "Name": "Joe Kerr",
       "Party": "Dem",
-      "Votes": "41,115",
-      "Percent": "25.5",
+      "Votes": "44,497",
+      "Percent": "25.3",
       "incumbent": false
     },
     {
       "Name": "Young Kim",
       "Party": "Rep",
-      "Votes": "92,399",
-      "Percent": "57.3",
+      "Votes": "100,200",
+      "Percent": "57.1",
       "incumbent": true
     }
   ]

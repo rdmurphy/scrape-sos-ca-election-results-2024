@@ -1,33 +1,33 @@
 {
   "raceTitle": "U.S. House of Representatives District 50 - Districtwide Results",
   "Reporting": "100% (437 of 437) precincts reporting",
-  "ReportingTime": "March 11, 2024, 4:26 p.m.",
+  "ReportingTime": "March 11, 2024, 5:07 p.m.",
   "candidates": [
     {
       "Name": "Timothy Daniel Bilash",
       "Party": "Dem",
-      "Votes": "11,675",
-      "Percent": "7.4",
+      "Votes": "12,304",
+      "Percent": "7.5",
       "incumbent": false
     },
     {
       "Name": "Scott Peters",
       "Party": "Dem",
-      "Votes": "90,226",
-      "Percent": "57.1",
+      "Votes": "93,842",
+      "Percent": "57.0",
       "incumbent": true
     },
     {
       "Name": "Peter J. Bono",
       "Party": "Rep",
-      "Votes": "37,514",
+      "Votes": "38,951",
       "Percent": "23.7",
       "incumbent": false
     },
     {
       "Name": "Solomon David Moss",
       "Party": "Rep",
-      "Votes": "18,689",
+      "Votes": "19,455",
       "Percent": "11.8",
       "incumbent": false
     }
