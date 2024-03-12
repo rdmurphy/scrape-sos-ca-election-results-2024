@@ -2,27 +2,27 @@
   {
     "raceTitle": "U.S. House of Representatives District 1 - Modoc County Results",
     "Reporting": "100% (21 of 21) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:40 p.m.",
+    "ReportingTime": "March 12, 2024, 11:18 a.m.",
     "candidates": [
       {
         "Name": "Mike Doran",
         "Party": "Dem",
-        "Votes": "152",
-        "Percent": "7.7",
+        "Votes": "202",
+        "Percent": "7.8",
         "incumbent": false
       },
       {
         "Name": "Rose Penelope Yee",
         "Party": "Dem",
-        "Votes": "280",
-        "Percent": "14.1",
+        "Votes": "341",
+        "Percent": "13.2",
         "incumbent": false
       },
       {
         "Name": "Doug LaMalfa",
         "Party": "Rep",
-        "Votes": "1,548",
-        "Percent": "78.2",
+        "Votes": "2,043",
+        "Percent": "79.0",
         "incumbent": true
       }
     ]
@@ -30,27 +30,27 @@
   {
     "raceTitle": "U.S. House of Representatives District 1 - Districtwide Results",
     "Reporting": "100% (490 of 490) precincts reporting",
-    "ReportingTime": "March 12, 2024, 9:28 a.m.",
+    "ReportingTime": "March 12, 2024, 12:00 p.m.",
     "candidates": [
       {
         "Name": "Mike Doran",
         "Party": "Dem",
-        "Votes": "15,192",
-        "Percent": "11.0",
+        "Votes": "15,242",
+        "Percent": "10.9",
         "incumbent": false
       },
       {
         "Name": "Rose Penelope Yee",
         "Party": "Dem",
-        "Votes": "32,693",
-        "Percent": "23.6",
+        "Votes": "32,754",
+        "Percent": "23.5",
         "incumbent": false
       },
       {
         "Name": "Doug LaMalfa",
         "Party": "Rep",
-        "Votes": "90,833",
-        "Percent": "65.5",
+        "Votes": "91,328",
+        "Percent": "65.6",
         "incumbent": true
       }
     ]

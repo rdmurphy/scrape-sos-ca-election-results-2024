@@ -1,41 +1,41 @@
 {
   "raceTitle": "U.S. House of Representatives District 2 - Districtwide Results",
   "Reporting": "100% (629 of 629) precincts reporting",
-  "ReportingTime": "March 12, 2024, 9:28 a.m.",
+  "ReportingTime": "March 12, 2024, 12:00 p.m.",
   "candidates": [
     {
       "Name": "Jared Huffman",
       "Party": "Dem",
-      "Votes": "106,912",
-      "Percent": "74.3",
+      "Votes": "109,928",
+      "Percent": "74.1",
       "incumbent": true
     },
     {
       "Name": "Chris Coulombe",
       "Party": "Rep",
-      "Votes": "23,719",
-      "Percent": "16.5",
+      "Votes": "24,642",
+      "Percent": "16.6",
       "incumbent": false
     },
     {
       "Name": "Tief Gibbs",
       "Party": "Rep",
-      "Votes": "10,682",
-      "Percent": "7.4",
+      "Votes": "11,182",
+      "Percent": "7.5",
       "incumbent": false
     },
     {
       "Name": "Jason Brisendine",
       "Party": "NPP",
-      "Votes": "869",
+      "Votes": "905",
       "Percent": "0.6",
       "incumbent": false
     },
     {
       "Name": "Jolian \"Jo\" Kangas",
       "Party": "NPP",
-      "Votes": "1,624",
-      "Percent": "1.1",
+      "Votes": "1,709",
+      "Percent": "1.2",
       "incumbent": false
     }
   ]

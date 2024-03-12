@@ -2,19 +2,19 @@
   {
     "raceTitle": "U.S. House of Representatives District 5 - Mariposa County Results",
     "Reporting": "100% (27 of 27) precincts reporting",
-    "ReportingTime": "March 11, 2024, 2:53 p.m.",
+    "ReportingTime": "March 12, 2024, 12:00 p.m.",
     "candidates": [
       {
         "Name": "Michael J. \"Mike\" Barkley",
         "Party": "Dem",
-        "Votes": "1,980",
-        "Percent": "33.1",
+        "Votes": "1,983",
+        "Percent": "33.2",
         "incumbent": false
       },
       {
         "Name": "Tom McClintock",
         "Party": "Rep",
-        "Votes": "3,424",
+        "Votes": "3,427",
         "Percent": "57.3",
         "incumbent": true
       },
@@ -30,19 +30,19 @@
   {
     "raceTitle": "U.S. House of Representatives District 5 - Districtwide Results",
     "Reporting": "100% (345 of 345) precincts reporting",
-    "ReportingTime": "March 12, 2024, 9:28 a.m.",
+    "ReportingTime": "March 12, 2024, 12:00 p.m.",
     "candidates": [
       {
         "Name": "Michael J. \"Mike\" Barkley",
         "Party": "Dem",
-        "Votes": "55,753",
+        "Votes": "55,756",
         "Percent": "32.9",
         "incumbent": false
       },
       {
         "Name": "Tom McClintock",
         "Party": "Rep",
-        "Votes": "98,735",
+        "Votes": "98,738",
         "Percent": "58.3",
         "incumbent": true
       },
