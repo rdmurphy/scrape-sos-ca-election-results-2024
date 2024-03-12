@@ -2,34 +2,34 @@
   {
     "raceTitle": "State Assembly District 18 - Alameda County Results",
     "Reporting": "100% (110 of 110) precincts reporting",
-    "ReportingTime": "March 8, 2024, 5:06 p.m.",
+    "ReportingTime": "March 11, 2024, 4:47 p.m.",
     "candidates": [
       {
         "Name": "Mia Bonta",
         "Party": "Dem",
-        "Votes": "30,700",
-        "Percent": "82.2",
+        "Votes": "43,717",
+        "Percent": "83.8",
         "incumbent": true
       },
       {
         "Name": "Cheyenne Kenney",
         "Party": "Rep",
-        "Votes": "2,135",
-        "Percent": "5.7",
+        "Votes": "2,661",
+        "Percent": "5.1",
         "incumbent": false
       },
       {
         "Name": "Mindy Pechenuk",
         "Party": "Rep",
-        "Votes": "2,387",
-        "Percent": "6.4",
+        "Votes": "2,969",
+        "Percent": "5.7",
         "incumbent": false
       },
       {
         "Name": "Andre Sandford",
         "Party": "AI",
-        "Votes": "2,112",
-        "Percent": "5.7",
+        "Votes": "2,820",
+        "Percent": "5.4",
         "incumbent": false
       }
     ]
@@ -37,34 +37,34 @@
   {
     "raceTitle": "State Assembly District 18 - Districtwide Results",
     "Reporting": "100% (111 of 111) precincts reporting",
-    "ReportingTime": "March 11, 2024, 4:26 p.m.",
+    "ReportingTime": "March 11, 2024, 5:07 p.m.",
     "candidates": [
       {
         "Name": "Mia Bonta",
         "Party": "Dem",
-        "Votes": "30,700",
-        "Percent": "82.2",
+        "Votes": "43,717",
+        "Percent": "83.8",
         "incumbent": true
       },
       {
         "Name": "Cheyenne Kenney",
         "Party": "Rep",
-        "Votes": "2,135",
-        "Percent": "5.7",
+        "Votes": "2,661",
+        "Percent": "5.1",
         "incumbent": false
       },
       {
         "Name": "Mindy Pechenuk",
         "Party": "Rep",
-        "Votes": "2,387",
-        "Percent": "6.4",
+        "Votes": "2,969",
+        "Percent": "5.7",
         "incumbent": false
       },
       {
         "Name": "Andre Sandford",
         "Party": "AI",
-        "Votes": "2,112",
-        "Percent": "5.7",
+        "Votes": "2,820",
+        "Percent": "5.4",
         "incumbent": false
       }
     ]

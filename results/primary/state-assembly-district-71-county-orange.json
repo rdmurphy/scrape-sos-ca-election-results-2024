@@ -2,27 +2,27 @@
   {
     "raceTitle": "State Assembly District 71 - Orange County Results",
     "Reporting": "100% (177 of 177) precincts reporting",
-    "ReportingTime": "March 9, 2024, 5:15 p.m.",
+    "ReportingTime": "March 11, 2024, 5:07 p.m.",
     "candidates": [
       {
         "Name": "Gary Kephart",
         "Party": "Dem",
-        "Votes": "16,295",
-        "Percent": "36.1",
+        "Votes": "17,980",
+        "Percent": "35.9",
         "incumbent": false
       },
       {
         "Name": "Kate Sanchez",
         "Party": "Rep",
-        "Votes": "27,665",
-        "Percent": "61.3",
+        "Votes": "30,844",
+        "Percent": "61.5",
         "incumbent": true
       },
       {
         "Name": "Babar Khan",
         "Party": "P&F",
-        "Votes": "1,142",
-        "Percent": "2.5",
+        "Votes": "1,301",
+        "Percent": "2.6",
         "incumbent": false
       }
     ]
@@ -30,27 +30,27 @@
   {
     "raceTitle": "State Assembly District 71 - Districtwide Results",
     "Reporting": "100% (290 of 290) precincts reporting",
-    "ReportingTime": "March 11, 2024, 4:26 p.m.",
+    "ReportingTime": "March 11, 2024, 5:07 p.m.",
     "candidates": [
       {
         "Name": "Gary Kephart",
         "Party": "Dem",
-        "Votes": "33,682",
+        "Votes": "35,367",
         "Percent": "34.2",
         "incumbent": false
       },
       {
         "Name": "Kate Sanchez",
         "Party": "Rep",
-        "Votes": "62,398",
+        "Votes": "65,577",
         "Percent": "63.4",
         "incumbent": true
       },
       {
         "Name": "Babar Khan",
         "Party": "P&F",
-        "Votes": "2,402",
-        "Percent": "2.4",
+        "Votes": "2,561",
+        "Percent": "2.5",
         "incumbent": false
       }
     ]

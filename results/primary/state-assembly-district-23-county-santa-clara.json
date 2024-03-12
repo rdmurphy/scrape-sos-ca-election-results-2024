@@ -2,33 +2,33 @@
   {
     "raceTitle": "State Assembly District 23 - Santa Clara County Results",
     "Reporting": "100% (105 of 105) precincts reporting",
-    "ReportingTime": "March 11, 2024, 8:27 a.m.",
+    "ReportingTime": "March 11, 2024, 4:45 p.m.",
     "candidates": [
       {
         "Name": "Marc Berman",
         "Party": "Dem",
-        "Votes": "35,435",
-        "Percent": "55.4",
+        "Votes": "37,069",
+        "Percent": "55.3",
         "incumbent": true
       },
       {
         "Name": "Lydia Kou",
         "Party": "Dem",
-        "Votes": "14,249",
-        "Percent": "22.3",
+        "Votes": "14,990",
+        "Percent": "22.4",
         "incumbent": false
       },
       {
         "Name": "Allan K. Marson",
         "Party": "Rep",
-        "Votes": "7,587",
+        "Votes": "7,941",
         "Percent": "11.9",
         "incumbent": false
       },
       {
         "Name": "Gus Mattammal",
         "Party": "Rep",
-        "Votes": "6,652",
+        "Votes": "6,997",
         "Percent": "10.4",
         "incumbent": false
       }
@@ -37,33 +37,33 @@
   {
     "raceTitle": "State Assembly District 23 - Districtwide Results",
     "Reporting": "100% (184 of 184) precincts reporting",
-    "ReportingTime": "March 11, 2024, 4:26 p.m.",
+    "ReportingTime": "March 11, 2024, 5:07 p.m.",
     "candidates": [
       {
         "Name": "Marc Berman",
         "Party": "Dem",
-        "Votes": "52,575",
-        "Percent": "57.3",
+        "Votes": "54,209",
+        "Percent": "57.1",
         "incumbent": true
       },
       {
         "Name": "Lydia Kou",
         "Party": "Dem",
-        "Votes": "18,321",
-        "Percent": "20.0",
+        "Votes": "19,062",
+        "Percent": "20.1",
         "incumbent": false
       },
       {
         "Name": "Allan K. Marson",
         "Party": "Rep",
-        "Votes": "10,401",
+        "Votes": "10,755",
         "Percent": "11.3",
         "incumbent": false
       },
       {
         "Name": "Gus Mattammal",
         "Party": "Rep",
-        "Votes": "10,523",
+        "Votes": "10,868",
         "Percent": "11.5",
         "incumbent": false
       }

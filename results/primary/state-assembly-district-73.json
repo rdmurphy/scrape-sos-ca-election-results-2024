@@ -1,27 +1,27 @@
 {
   "raceTitle": "State Assembly District 73 - Districtwide Results",
   "Reporting": "100% (330 of 330) precincts reporting",
-  "ReportingTime": "March 11, 2024, 4:26 p.m.",
+  "ReportingTime": "March 11, 2024, 5:07 p.m.",
   "candidates": [
     {
       "Name": "Cottie Petrie-Norris",
       "Party": "Dem",
-      "Votes": "38,103",
-      "Percent": "55.0",
+      "Votes": "41,480",
+      "Percent": "55.3",
       "incumbent": true
     },
     {
       "Name": "Hengameh Abraham",
       "Party": "Rep",
-      "Votes": "9,508",
-      "Percent": "13.7",
+      "Votes": "10,215",
+      "Percent": "13.6",
       "incumbent": false
     },
     {
       "Name": "Scotty Peotter",
       "Party": "Rep",
-      "Votes": "21,679",
-      "Percent": "31.3",
+      "Votes": "23,317",
+      "Percent": "31.1",
       "incumbent": false
     }
   ]
