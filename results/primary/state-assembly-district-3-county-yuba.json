@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 3 - Yuba County Results",
     "Reporting": "100% (35 of 35) precincts reporting",
-    "ReportingTime": "March 5, 2024, 11:49 p.m.",
+    "ReportingTime": "March 12, 2024, 9:26 a.m.",
     "candidates": [
       {
         "Name": "Aaron Draper",
         "Party": "Dem",
-        "Votes": "1,861",
-        "Percent": "29.7",
+        "Votes": "2,874",
+        "Percent": "30.4",
         "incumbent": false
       },
       {
         "Name": "Jamie \"James\" Gallagher",
         "Party": "Rep",
-        "Votes": "4,401",
-        "Percent": "70.3",
+        "Votes": "6,584",
+        "Percent": "69.6",
         "incumbent": true
       }
     ]
@@ -23,19 +23,19 @@
   {
     "raceTitle": "State Assembly District 3 - Districtwide Results",
     "Reporting": "100% (290 of 290) precincts reporting",
-    "ReportingTime": "March 11, 2024, 7:04 p.m.",
+    "ReportingTime": "March 12, 2024, 9:28 a.m.",
     "candidates": [
       {
         "Name": "Aaron Draper",
         "Party": "Dem",
-        "Votes": "26,173",
+        "Votes": "27,186",
         "Percent": "32.7",
         "incumbent": false
       },
       {
         "Name": "Jamie \"James\" Gallagher",
         "Party": "Rep",
-        "Votes": "53,829",
+        "Votes": "56,012",
         "Percent": "67.3",
         "incumbent": true
       }

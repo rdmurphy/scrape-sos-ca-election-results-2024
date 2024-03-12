@@ -1,15 +1,15 @@
 {
   "raceTitle": "Ballot Measures - Imperial Results",
   "Reporting": "100.0% (305 of 305) precincts reporting",
-  "ReportingTime": "March 8, 2024, 4:31 p.m.",
+  "ReportingTime": "March 12, 2024, 9:28 a.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "5927",
-      "yesPercent": "48.6",
-      "noVotes": "6273",
-      "noPercent": "51.4"
+      "yesVotes": "7025",
+      "yesPercent": "48.1",
+      "noVotes": "7569",
+      "noPercent": "51.9"
     }
   ]
 }
