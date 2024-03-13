@@ -1,41 +1,41 @@
 {
   "raceTitle": "U.S. House of Representatives District 18 - Districtwide Results",
   "Reporting": "100% (281 of 281) precincts reporting",
-  "ReportingTime": "March 12, 2024, 7:01 p.m.",
+  "ReportingTime": "March 13, 2024, 12:06 p.m.",
   "candidates": [
     {
       "Name": "Luele N Kifle",
       "Party": "Dem",
-      "Votes": "1,700",
+      "Votes": "1,898",
       "Percent": "2.1",
       "incumbent": false
     },
     {
       "Name": "Zoe Lofgren",
       "Party": "Dem",
-      "Votes": "42,081",
-      "Percent": "52.5",
+      "Votes": "45,818",
+      "Percent": "51.6",
       "incumbent": true
     },
     {
       "Name": "Lawrence Milan",
       "Party": "Dem",
-      "Votes": "2,188",
-      "Percent": "2.7",
+      "Votes": "2,537",
+      "Percent": "2.9",
       "incumbent": false
     },
     {
       "Name": "Charlene Concepción Nijmeh",
       "Party": "Dem",
-      "Votes": "8,598",
-      "Percent": "10.7",
+      "Votes": "9,680",
+      "Percent": "10.9",
       "incumbent": false
     },
     {
       "Name": "Peter D. Hernandez",
       "Party": "Rep",
-      "Votes": "25,640",
-      "Percent": "32.0",
+      "Votes": "28,806",
+      "Percent": "32.5",
       "incumbent": false
     }
   ]

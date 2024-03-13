@@ -2,27 +2,27 @@
   {
     "raceTitle": "U.S. House of Representatives District 19 - Monterey County Results",
     "Reporting": "100% (97 of 97) precincts reporting",
-    "ReportingTime": "March 8, 2024, 4:20 p.m.",
+    "ReportingTime": "March 13, 2024, 12:06 p.m.",
     "candidates": [
       {
         "Name": "Jimmy Panetta",
         "Party": "Dem",
-        "Votes": "21,783",
-        "Percent": "71.5",
+        "Votes": "30,194",
+        "Percent": "70.0",
         "incumbent": true
       },
       {
         "Name": "Jason Michael Anderson",
         "Party": "Rep",
-        "Votes": "7,509",
-        "Percent": "24.7",
+        "Votes": "11,210",
+        "Percent": "26.0",
         "incumbent": false
       },
       {
         "Name": "Sean Dougherty",
         "Party": "Grn",
-        "Votes": "1,158",
-        "Percent": "3.8",
+        "Votes": "1,758",
+        "Percent": "4.1",
         "incumbent": false
       }
     ]
@@ -30,27 +30,27 @@
   {
     "raceTitle": "U.S. House of Representatives District 19 - Districtwide Results",
     "Reporting": "100% (337 of 337) precincts reporting",
-    "ReportingTime": "March 12, 2024, 7:01 p.m.",
+    "ReportingTime": "March 13, 2024, 12:06 p.m.",
     "candidates": [
       {
         "Name": "Jimmy Panetta",
         "Party": "Dem",
-        "Votes": "116,344",
+        "Votes": "124,755",
         "Percent": "67.0",
         "incumbent": true
       },
       {
         "Name": "Jason Michael Anderson",
         "Party": "Rep",
-        "Votes": "46,082",
-        "Percent": "26.6",
+        "Votes": "49,783",
+        "Percent": "26.7",
         "incumbent": false
       },
       {
         "Name": "Sean Dougherty",
         "Party": "Grn",
-        "Votes": "11,116",
-        "Percent": "6.4",
+        "Votes": "11,716",
+        "Percent": "6.3",
         "incumbent": false
       }
     ]
