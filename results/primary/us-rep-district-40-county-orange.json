@@ -2,27 +2,27 @@
   {
     "raceTitle": "U.S. House of Representatives District 40 - Orange County Results",
     "Reporting": "100% (677 of 677) precincts reporting",
-    "ReportingTime": "March 11, 2024, 5:07 p.m.",
+    "ReportingTime": "March 12, 2024, 5:14 p.m.",
     "candidates": [
       {
         "Name": "Allyson Muñiz Damikolas",
         "Party": "Dem",
-        "Votes": "29,537",
-        "Percent": "17.9",
+        "Votes": "32,284",
+        "Percent": "18.2",
         "incumbent": false
       },
       {
         "Name": "Joe Kerr",
         "Party": "Dem",
-        "Votes": "41,610",
-        "Percent": "25.3",
+        "Votes": "45,142",
+        "Percent": "25.5",
         "incumbent": false
       },
       {
         "Name": "Young Kim",
         "Party": "Rep",
-        "Votes": "93,580",
-        "Percent": "56.8",
+        "Votes": "99,512",
+        "Percent": "56.2",
         "incumbent": true
       }
     ]
@@ -30,27 +30,27 @@
   {
     "raceTitle": "U.S. House of Representatives District 40 - Districtwide Results",
     "Reporting": "100% (718 of 718) precincts reporting",
-    "ReportingTime": "March 12, 2024, 4:25 p.m.",
+    "ReportingTime": "March 12, 2024, 7:01 p.m.",
     "candidates": [
       {
         "Name": "Allyson Muñiz Damikolas",
         "Party": "Dem",
-        "Votes": "31,262",
-        "Percent": "17.6",
+        "Votes": "34,012",
+        "Percent": "17.9",
         "incumbent": false
       },
       {
         "Name": "Joe Kerr",
         "Party": "Dem",
-        "Votes": "45,163",
-        "Percent": "25.4",
+        "Votes": "48,704",
+        "Percent": "25.6",
         "incumbent": false
       },
       {
         "Name": "Young Kim",
         "Party": "Rep",
-        "Votes": "101,243",
-        "Percent": "57.0",
+        "Votes": "107,201",
+        "Percent": "56.4",
         "incumbent": true
       }
     ]

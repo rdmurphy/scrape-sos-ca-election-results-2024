@@ -1,83 +1,83 @@
 {
   "raceTitle": "State Senate District 37 - Districtwide Results",
   "Reporting": "100% (872 of 872) precincts reporting",
-  "ReportingTime": "March 12, 2024, 4:25 p.m.",
+  "ReportingTime": "March 12, 2024, 7:01 p.m.",
   "candidates": [
     {
       "Name": "Gabrielle Ashbaugh",
       "Party": "Dem",
-      "Votes": "3,946",
+      "Votes": "4,240",
       "Percent": "2.0",
       "incumbent": false
     },
     {
       "Name": "Leticia Correa",
       "Party": "Dem",
-      "Votes": "5,359",
+      "Votes": "5,785",
       "Percent": "2.7",
       "incumbent": false
     },
     {
       "Name": "Jacob Niles Creer",
       "Party": "Dem",
-      "Votes": "1,411",
+      "Votes": "1,540",
       "Percent": "0.7",
       "incumbent": false
     },
     {
       "Name": "Stephanie Le",
       "Party": "Dem",
-      "Votes": "4,065",
+      "Votes": "4,357",
       "Percent": "2.0",
       "incumbent": false
     },
     {
       "Name": "Alex Mohajer",
       "Party": "Dem",
-      "Votes": "15,833",
-      "Percent": "7.9",
+      "Votes": "17,702",
+      "Percent": "8.2",
       "incumbent": false
     },
     {
       "Name": "Josh Newman",
       "Party": "Dem",
-      "Votes": "60,304",
-      "Percent": "29.9",
+      "Votes": "64,861",
+      "Percent": "30.1",
       "incumbent": true
     },
     {
       "Name": "Jenny Suarez",
       "Party": "Dem",
-      "Votes": "2,839",
+      "Votes": "3,088",
       "Percent": "1.4",
       "incumbent": false
     },
     {
       "Name": "Steven \"Steve\" Choi",
       "Party": "Rep",
-      "Votes": "44,313",
-      "Percent": "22.0",
+      "Votes": "46,769",
+      "Percent": "21.7",
       "incumbent": false
     },
     {
       "Name": "Anthony C Kuo",
       "Party": "Rep",
-      "Votes": "14,214",
-      "Percent": "7.1",
+      "Votes": "15,129",
+      "Percent": "7.0",
       "incumbent": false
     },
     {
       "Name": "Crystal Miles",
       "Party": "Rep",
-      "Votes": "28,519",
-      "Percent": "14.2",
+      "Votes": "30,123",
+      "Percent": "14.0",
       "incumbent": false
     },
     {
       "Name": "Guy Selleck",
       "Party": "Rep",
-      "Votes": "20,637",
-      "Percent": "10.2",
+      "Votes": "21,806",
+      "Percent": "10.1",
       "incumbent": false
     }
   ]

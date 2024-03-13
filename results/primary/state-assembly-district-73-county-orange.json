@@ -2,27 +2,27 @@
   {
     "raceTitle": "State Assembly District 73 - Orange County Results",
     "Reporting": "100% (330 of 330) precincts reporting",
-    "ReportingTime": "March 11, 2024, 5:07 p.m.",
+    "ReportingTime": "March 12, 2024, 5:14 p.m.",
     "candidates": [
       {
         "Name": "Cottie Petrie-Norris",
         "Party": "Dem",
-        "Votes": "41,480",
-        "Percent": "55.3",
+        "Votes": "44,527",
+        "Percent": "56.0",
         "incumbent": true
       },
       {
         "Name": "Hengameh Abraham",
         "Party": "Rep",
-        "Votes": "10,215",
-        "Percent": "13.6",
+        "Votes": "10,666",
+        "Percent": "13.4",
         "incumbent": false
       },
       {
         "Name": "Scotty Peotter",
         "Party": "Rep",
-        "Votes": "23,317",
-        "Percent": "31.1",
+        "Votes": "24,320",
+        "Percent": "30.6",
         "incumbent": false
       }
     ]
@@ -30,27 +30,27 @@
   {
     "raceTitle": "State Assembly District 73 - Districtwide Results",
     "Reporting": "100% (330 of 330) precincts reporting",
-    "ReportingTime": "March 12, 2024, 4:25 p.m.",
+    "ReportingTime": "March 12, 2024, 7:01 p.m.",
     "candidates": [
       {
         "Name": "Cottie Petrie-Norris",
         "Party": "Dem",
-        "Votes": "41,480",
-        "Percent": "55.3",
+        "Votes": "44,527",
+        "Percent": "56.0",
         "incumbent": true
       },
       {
         "Name": "Hengameh Abraham",
         "Party": "Rep",
-        "Votes": "10,215",
-        "Percent": "13.6",
+        "Votes": "10,666",
+        "Percent": "13.4",
         "incumbent": false
       },
       {
         "Name": "Scotty Peotter",
         "Party": "Rep",
-        "Votes": "23,317",
-        "Percent": "31.1",
+        "Votes": "24,320",
+        "Percent": "30.6",
         "incumbent": false
       }
     ]

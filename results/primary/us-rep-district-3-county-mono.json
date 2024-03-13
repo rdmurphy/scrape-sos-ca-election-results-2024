@@ -2,27 +2,27 @@
   {
     "raceTitle": "U.S. House of Representatives District 3 - Mono County Results",
     "Reporting": "100% (12 of 12) precincts reporting",
-    "ReportingTime": "March 11, 2024, 4:26 p.m.",
+    "ReportingTime": "March 12, 2024, 4:50 p.m.",
     "candidates": [
       {
         "Name": "Jessica Morse",
         "Party": "Dem",
-        "Votes": "1,706",
+        "Votes": "1,709",
         "Percent": "52.7",
         "incumbent": false
       },
       {
         "Name": "Kevin Kiley",
         "Party": "Rep",
-        "Votes": "1,438",
+        "Votes": "1,439",
         "Percent": "44.4",
         "incumbent": true
       },
       {
         "Name": "Robert Smith",
         "Party": "NPP",
-        "Votes": "92",
-        "Percent": "2.8",
+        "Votes": "93",
+        "Percent": "2.9",
         "incumbent": false
       }
     ]
@@ -30,26 +30,26 @@
   {
     "raceTitle": "U.S. House of Representatives District 3 - Districtwide Results",
     "Reporting": "100% (454 of 454) precincts reporting",
-    "ReportingTime": "March 12, 2024, 4:25 p.m.",
+    "ReportingTime": "March 12, 2024, 7:01 p.m.",
     "candidates": [
       {
         "Name": "Jessica Morse",
         "Party": "Dem",
-        "Votes": "86,919",
+        "Votes": "86,922",
         "Percent": "43.2",
         "incumbent": false
       },
       {
         "Name": "Kevin Kiley",
         "Party": "Rep",
-        "Votes": "110,087",
+        "Votes": "110,088",
         "Percent": "54.8",
         "incumbent": true
       },
       {
         "Name": "Robert Smith",
         "Party": "NPP",
-        "Votes": "4,055",
+        "Votes": "4,056",
         "Percent": "2.0",
         "incumbent": false
       }
