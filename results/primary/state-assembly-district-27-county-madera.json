@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 27 - Madera County Results",
     "Reporting": "100% (23 of 23) precincts reporting",
-    "ReportingTime": "March 8, 2024, 3:55 p.m.",
+    "ReportingTime": "March 13, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Esmeralda Soria",
         "Party": "Dem",
-        "Votes": "3,768",
-        "Percent": "48.5",
+        "Votes": "4,793",
+        "Percent": "47.6",
         "incumbent": true
       },
       {
         "Name": "Joanna Garcia Rose",
         "Party": "Rep",
-        "Votes": "3,999",
-        "Percent": "51.5",
+        "Votes": "5,280",
+        "Percent": "52.4",
         "incumbent": false
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "State Assembly District 27 - Districtwide Results",
     "Reporting": "100% (704 of 704) precincts reporting",
-    "ReportingTime": "March 13, 2024, 4:16 p.m.",
+    "ReportingTime": "March 13, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Esmeralda Soria",
         "Party": "Dem",
-        "Votes": "20,388",
-        "Percent": "49.0",
+        "Votes": "21,413",
+        "Percent": "48.8",
         "incumbent": true
       },
       {
         "Name": "Joanna Garcia Rose",
         "Party": "Rep",
-        "Votes": "21,185",
-        "Percent": "51.0",
+        "Votes": "22,466",
+        "Percent": "51.2",
         "incumbent": false
       }
     ]
