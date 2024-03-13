@@ -2,41 +2,41 @@
   {
     "raceTitle": "State Senate District 3 - Contra Costa County Results",
     "Reporting": "100% (184 of 184) precincts reporting",
-    "ReportingTime": "March 8, 2024, 4:03 p.m.",
+    "ReportingTime": "March 13, 2024, 2:57 p.m.",
     "candidates": [
       {
         "Name": "Christopher Cabaldon",
         "Party": "Dem",
-        "Votes": "5,350",
+        "Votes": "6,544",
         "Percent": "25.2",
         "incumbent": false
       },
       {
         "Name": "Jackie Elward",
         "Party": "Dem",
-        "Votes": "3,061",
-        "Percent": "14.4",
+        "Votes": "3,862",
+        "Percent": "14.9",
         "incumbent": false
       },
       {
         "Name": "Rozzana Verder-Aliga",
         "Party": "Dem",
-        "Votes": "3,052",
-        "Percent": "14.4",
+        "Votes": "3,707",
+        "Percent": "14.3",
         "incumbent": false
       },
       {
         "Name": "Thom Bogue",
         "Party": "Rep",
-        "Votes": "7,365",
-        "Percent": "34.6",
+        "Votes": "8,922",
+        "Percent": "34.3",
         "incumbent": false
       },
       {
         "Name": "Jimih Jones",
         "Party": "Rep",
-        "Votes": "2,429",
-        "Percent": "11.4",
+        "Votes": "2,943",
+        "Percent": "11.3",
         "incumbent": false
       }
     ]
@@ -44,41 +44,41 @@
   {
     "raceTitle": "State Senate District 3 - Districtwide Results",
     "Reporting": "100% (693 of 693) precincts reporting",
-    "ReportingTime": "March 13, 2024, 12:06 p.m.",
+    "ReportingTime": "March 13, 2024, 2:57 p.m.",
     "candidates": [
       {
         "Name": "Christopher Cabaldon",
         "Party": "Dem",
-        "Votes": "52,484",
+        "Votes": "53,678",
         "Percent": "26.6",
         "incumbent": false
       },
       {
         "Name": "Jackie Elward",
         "Party": "Dem",
-        "Votes": "35,573",
-        "Percent": "18.1",
+        "Votes": "36,374",
+        "Percent": "18.0",
         "incumbent": false
       },
       {
         "Name": "Rozzana Verder-Aliga",
         "Party": "Dem",
-        "Votes": "40,708",
-        "Percent": "20.7",
+        "Votes": "41,363",
+        "Percent": "20.5",
         "incumbent": false
       },
       {
         "Name": "Thom Bogue",
         "Party": "Rep",
-        "Votes": "55,415",
-        "Percent": "28.1",
+        "Votes": "56,972",
+        "Percent": "28.2",
         "incumbent": false
       },
       {
         "Name": "Jimih Jones",
         "Party": "Rep",
-        "Votes": "12,844",
-        "Percent": "6.5",
+        "Votes": "13,358",
+        "Percent": "6.6",
         "incumbent": false
       }
     ]
