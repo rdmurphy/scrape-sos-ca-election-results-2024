@@ -2,26 +2,26 @@
   {
     "raceTitle": "U.S. House of Representatives District 1 - Siskiyou County Results",
     "Reporting": "100% (56 of 56) precincts reporting",
-    "ReportingTime": "March 12, 2024, 3:35 p.m.",
+    "ReportingTime": "March 13, 2024, 3:47 p.m.",
     "candidates": [
       {
         "Name": "Mike Doran",
         "Party": "Dem",
-        "Votes": "1,426",
+        "Votes": "1,443",
         "Percent": "11.6",
         "incumbent": false
       },
       {
         "Name": "Rose Penelope Yee",
         "Party": "Dem",
-        "Votes": "3,032",
-        "Percent": "24.6",
+        "Votes": "3,052",
+        "Percent": "24.5",
         "incumbent": false
       },
       {
         "Name": "Doug LaMalfa",
         "Party": "Rep",
-        "Votes": "7,867",
+        "Votes": "7,939",
         "Percent": "63.8",
         "incumbent": true
       }
@@ -30,26 +30,26 @@
   {
     "raceTitle": "U.S. House of Representatives District 1 - Districtwide Results",
     "Reporting": "100% (490 of 490) precincts reporting",
-    "ReportingTime": "March 13, 2024, 2:57 p.m.",
+    "ReportingTime": "March 13, 2024, 4:16 p.m.",
     "candidates": [
       {
         "Name": "Mike Doran",
         "Party": "Dem",
-        "Votes": "16,394",
+        "Votes": "16,411",
         "Percent": "10.7",
         "incumbent": false
       },
       {
         "Name": "Rose Penelope Yee",
         "Party": "Dem",
-        "Votes": "35,073",
+        "Votes": "35,093",
         "Percent": "23.0",
         "incumbent": false
       },
       {
         "Name": "Doug LaMalfa",
         "Party": "Rep",
-        "Votes": "101,195",
+        "Votes": "101,267",
         "Percent": "66.3",
         "incumbent": true
       }

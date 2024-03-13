@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 21 - San Mateo County Results",
     "Reporting": "100% (150 of 150) precincts reporting",
-    "ReportingTime": "March 11, 2024, 4:12 p.m.",
+    "ReportingTime": "March 13, 2024, 4:16 p.m.",
     "candidates": [
       {
         "Name": "Diane Papan",
         "Party": "Dem",
-        "Votes": "57,098",
-        "Percent": "74.2",
+        "Votes": "68,478",
+        "Percent": "74.9",
         "incumbent": true
       },
       {
         "Name": "Mark Gilham",
         "Party": "Rep",
-        "Votes": "19,871",
-        "Percent": "25.8",
+        "Votes": "22,991",
+        "Percent": "25.1",
         "incumbent": false
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "State Assembly District 21 - Districtwide Results",
     "Reporting": "100% (150 of 150) precincts reporting",
-    "ReportingTime": "March 13, 2024, 2:57 p.m.",
+    "ReportingTime": "March 13, 2024, 4:16 p.m.",
     "candidates": [
       {
         "Name": "Diane Papan",
         "Party": "Dem",
-        "Votes": "57,098",
-        "Percent": "74.2",
+        "Votes": "68,478",
+        "Percent": "74.9",
         "incumbent": true
       },
       {
         "Name": "Mark Gilham",
         "Party": "Rep",
-        "Votes": "19,871",
-        "Percent": "25.8",
+        "Votes": "22,991",
+        "Percent": "25.1",
         "incumbent": false
       }
     ]

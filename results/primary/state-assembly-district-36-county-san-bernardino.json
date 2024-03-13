@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 36 - San Bernardino County Results",
     "Reporting": "100% (11 of 11) precincts reporting",
-    "ReportingTime": "March 12, 2024, 3:44 p.m.",
+    "ReportingTime": "March 13, 2024, 3:36 p.m.",
     "candidates": [
       {
         "Name": "Jose \"Joey\" Acuña Jr.",
         "Party": "Dem",
         "Votes": "145",
-        "Percent": "16.3",
+        "Percent": "16.2",
         "incumbent": false
       },
       {
         "Name": "Waymond Fermon",
         "Party": "Dem",
-        "Votes": "59",
-        "Percent": "6.6",
+        "Votes": "60",
+        "Percent": "6.7",
         "incumbent": false
       },
       {
@@ -36,21 +36,21 @@
         "Name": "Eric L. Rodriguez",
         "Party": "Dem",
         "Votes": "46",
-        "Percent": "5.2",
+        "Percent": "5.1",
         "incumbent": false
       },
       {
         "Name": "Jeff Gonzalez",
         "Party": "Rep",
         "Votes": "339",
-        "Percent": "38.0",
+        "Percent": "37.9",
         "incumbent": false
       },
       {
         "Name": "Kalin Morse",
         "Party": "Rep",
-        "Votes": "195",
-        "Percent": "21.9",
+        "Votes": "197",
+        "Percent": "22.0",
         "incumbent": false
       }
     ]
@@ -58,7 +58,7 @@
   {
     "raceTitle": "State Assembly District 36 - Districtwide Results",
     "Reporting": "100% (493 of 493) precincts reporting",
-    "ReportingTime": "March 13, 2024, 2:57 p.m.",
+    "ReportingTime": "March 13, 2024, 4:16 p.m.",
     "candidates": [
       {
         "Name": "Jose \"Joey\" Acuña Jr.",
@@ -70,7 +70,7 @@
       {
         "Name": "Waymond Fermon",
         "Party": "Dem",
-        "Votes": "4,747",
+        "Votes": "4,748",
         "Percent": "7.9",
         "incumbent": false
       },
@@ -105,7 +105,7 @@
       {
         "Name": "Kalin Morse",
         "Party": "Rep",
-        "Votes": "6,742",
+        "Votes": "6,744",
         "Percent": "11.3",
         "incumbent": false
       }
