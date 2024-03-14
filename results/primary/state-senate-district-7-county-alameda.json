@@ -2,48 +2,48 @@
   {
     "raceTitle": "State Senate District 7 - Alameda County Results",
     "Reporting": "100% (154 of 154) precincts reporting",
-    "ReportingTime": "March 11, 2024, 4:47 p.m.",
+    "ReportingTime": "March 13, 2024, 4:49 p.m.",
     "candidates": [
       {
         "Name": "Jesse Arreguín",
         "Party": "Dem",
-        "Votes": "29,818",
-        "Percent": "34.0",
+        "Votes": "35,554",
+        "Percent": "33.5",
         "incumbent": false
       },
       {
         "Name": "Jovanka Beckles",
         "Party": "Dem",
-        "Votes": "13,278",
-        "Percent": "15.1",
+        "Votes": "17,454",
+        "Percent": "16.5",
         "incumbent": false
       },
       {
         "Name": "Dan Kalb",
         "Party": "Dem",
-        "Votes": "13,631",
-        "Percent": "15.5",
+        "Votes": "16,075",
+        "Percent": "15.2",
         "incumbent": false
       },
       {
         "Name": "Kathryn Lybarger",
         "Party": "Dem",
-        "Votes": "12,272",
-        "Percent": "14.0",
+        "Votes": "15,090",
+        "Percent": "14.2",
         "incumbent": false
       },
       {
         "Name": "Sandré R Swanson",
         "Party": "Dem",
-        "Votes": "11,843",
-        "Percent": "13.5",
+        "Votes": "14,124",
+        "Percent": "13.3",
         "incumbent": false
       },
       {
         "Name": "Jeanne Solnordal",
         "Party": "Rep",
-        "Votes": "6,948",
-        "Percent": "7.9",
+        "Votes": "7,727",
+        "Percent": "7.3",
         "incumbent": false
       }
     ]
@@ -51,48 +51,48 @@
   {
     "raceTitle": "State Senate District 7 - Districtwide Results",
     "Reporting": "100% (313 of 313) precincts reporting",
-    "ReportingTime": "March 13, 2024, 4:29 p.m.",
+    "ReportingTime": "March 13, 2024, 6:04 p.m.",
     "candidates": [
       {
         "Name": "Jesse Arreguín",
         "Party": "Dem",
-        "Votes": "44,274",
-        "Percent": "32.6",
+        "Votes": "50,010",
+        "Percent": "32.5",
         "incumbent": false
       },
       {
         "Name": "Jovanka Beckles",
         "Party": "Dem",
-        "Votes": "22,025",
-        "Percent": "16.2",
+        "Votes": "26,201",
+        "Percent": "17.0",
         "incumbent": false
       },
       {
         "Name": "Dan Kalb",
         "Party": "Dem",
-        "Votes": "20,946",
-        "Percent": "15.4",
+        "Votes": "23,390",
+        "Percent": "15.2",
         "incumbent": false
       },
       {
         "Name": "Kathryn Lybarger",
         "Party": "Dem",
-        "Votes": "19,392",
-        "Percent": "14.3",
+        "Votes": "22,210",
+        "Percent": "14.4",
         "incumbent": false
       },
       {
         "Name": "Sandré R Swanson",
         "Party": "Dem",
-        "Votes": "15,445",
-        "Percent": "11.4",
+        "Votes": "17,726",
+        "Percent": "11.5",
         "incumbent": false
       },
       {
         "Name": "Jeanne Solnordal",
         "Party": "Rep",
-        "Votes": "13,561",
-        "Percent": "10.0",
+        "Votes": "14,340",
+        "Percent": "9.3",
         "incumbent": false
       }
     ]

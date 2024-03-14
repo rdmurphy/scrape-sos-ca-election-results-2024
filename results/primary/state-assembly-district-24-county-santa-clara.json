@@ -2,27 +2,27 @@
   {
     "raceTitle": "State Assembly District 24 - Santa Clara County Results",
     "Reporting": "100% (59 of 59) precincts reporting",
-    "ReportingTime": "March 12, 2024, 4:23 p.m.",
+    "ReportingTime": "March 13, 2024, 5:01 p.m.",
     "candidates": [
       {
         "Name": "Alex Lee",
         "Party": "Dem",
-        "Votes": "17,354",
-        "Percent": "67.2",
+        "Votes": "18,572",
+        "Percent": "67.1",
         "incumbent": true
       },
       {
         "Name": "Bob Brunton",
         "Party": "Rep",
-        "Votes": "5,531",
+        "Votes": "5,922",
         "Percent": "21.4",
         "incumbent": false
       },
       {
         "Name": "Marti Souza",
         "Party": "Rep",
-        "Votes": "2,953",
-        "Percent": "11.4",
+        "Votes": "3,168",
+        "Percent": "11.5",
         "incumbent": false
       }
     ]
@@ -30,27 +30,27 @@
   {
     "raceTitle": "State Assembly District 24 - Districtwide Results",
     "Reporting": "100% (124 of 124) precincts reporting",
-    "ReportingTime": "March 13, 2024, 4:29 p.m.",
+    "ReportingTime": "March 13, 2024, 6:04 p.m.",
     "candidates": [
       {
         "Name": "Alex Lee",
         "Party": "Dem",
-        "Votes": "34,578",
-        "Percent": "68.2",
+        "Votes": "38,967",
+        "Percent": "68.5",
         "incumbent": true
       },
       {
         "Name": "Bob Brunton",
         "Party": "Rep",
-        "Votes": "11,331",
-        "Percent": "22.3",
+        "Votes": "12,615",
+        "Percent": "22.2",
         "incumbent": false
       },
       {
         "Name": "Marti Souza",
         "Party": "Rep",
-        "Votes": "4,822",
-        "Percent": "9.5",
+        "Votes": "5,320",
+        "Percent": "9.3",
         "incumbent": false
       }
     ]

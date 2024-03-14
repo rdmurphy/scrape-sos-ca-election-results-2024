@@ -1,34 +1,34 @@
 {
   "raceTitle": "State Assembly District 18 - Districtwide Results",
   "Reporting": "100% (111 of 111) precincts reporting",
-  "ReportingTime": "March 13, 2024, 4:29 p.m.",
+  "ReportingTime": "March 13, 2024, 6:04 p.m.",
   "candidates": [
     {
       "Name": "Mia Bonta",
       "Party": "Dem",
-      "Votes": "43,717",
-      "Percent": "83.8",
+      "Votes": "53,170",
+      "Percent": "84.7",
       "incumbent": true
     },
     {
       "Name": "Cheyenne Kenney",
       "Party": "Rep",
-      "Votes": "2,661",
-      "Percent": "5.1",
+      "Votes": "3,019",
+      "Percent": "4.8",
       "incumbent": false
     },
     {
       "Name": "Mindy Pechenuk",
       "Party": "Rep",
-      "Votes": "2,969",
-      "Percent": "5.7",
+      "Votes": "3,299",
+      "Percent": "5.3",
       "incumbent": false
     },
     {
       "Name": "Andre Sandford",
       "Party": "AI",
-      "Votes": "2,820",
-      "Percent": "5.4",
+      "Votes": "3,311",
+      "Percent": "5.3",
       "incumbent": false
     }
   ]

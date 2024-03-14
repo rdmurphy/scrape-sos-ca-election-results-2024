@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 49 - Los Angeles County Results",
     "Reporting": "100% (96 of 96) precincts reporting",
-    "ReportingTime": "March 12, 2024, 4:02 p.m.",
+    "ReportingTime": "March 13, 2024, 4:43 p.m.",
     "candidates": [
       {
         "Name": "Mike Fong",
         "Party": "Dem",
-        "Votes": "39,301",
-        "Percent": "63.9",
+        "Votes": "41,955",
+        "Percent": "64.0",
         "incumbent": true
       },
       {
         "Name": "Long \"David\" Liu",
         "Party": "Rep",
-        "Votes": "22,245",
-        "Percent": "36.1",
+        "Votes": "23,562",
+        "Percent": "36.0",
         "incumbent": false
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "State Assembly District 49 - Districtwide Results",
     "Reporting": "100% (96 of 96) precincts reporting",
-    "ReportingTime": "March 13, 2024, 4:29 p.m.",
+    "ReportingTime": "March 13, 2024, 6:04 p.m.",
     "candidates": [
       {
         "Name": "Mike Fong",
         "Party": "Dem",
-        "Votes": "39,301",
-        "Percent": "63.9",
+        "Votes": "41,955",
+        "Percent": "64.0",
         "incumbent": true
       },
       {
         "Name": "Long \"David\" Liu",
         "Party": "Rep",
-        "Votes": "22,245",
-        "Percent": "36.1",
+        "Votes": "23,562",
+        "Percent": "36.0",
         "incumbent": false
       }
     ]

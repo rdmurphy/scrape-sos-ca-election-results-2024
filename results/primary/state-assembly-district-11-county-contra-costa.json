@@ -37,33 +37,33 @@
   {
     "raceTitle": "State Assembly District 11 - Districtwide Results",
     "Reporting": "100% (301 of 301) precincts reporting",
-    "ReportingTime": "March 13, 2024, 4:29 p.m.",
+    "ReportingTime": "March 13, 2024, 6:04 p.m.",
     "candidates": [
       {
         "Name": "Jeffrey Flack",
         "Party": "Dem",
-        "Votes": "8,927",
+        "Votes": "8,944",
         "Percent": "9.0",
         "incumbent": false
       },
       {
         "Name": "Lori D Wilson",
         "Party": "Dem",
-        "Votes": "49,889",
-        "Percent": "50.3",
+        "Votes": "49,929",
+        "Percent": "50.2",
         "incumbent": true
       },
       {
         "Name": "Dave Ennis",
         "Party": "Rep",
-        "Votes": "25,906",
+        "Votes": "25,944",
         "Percent": "26.1",
         "incumbent": false
       },
       {
         "Name": "Wanda Wallis",
         "Party": "Rep",
-        "Votes": "14,556",
+        "Votes": "14,576",
         "Percent": "14.7",
         "incumbent": false
       }

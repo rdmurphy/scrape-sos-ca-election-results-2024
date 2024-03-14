@@ -2,27 +2,27 @@
   {
     "raceTitle": "State Senate District 27 - Los Angeles County Results",
     "Reporting": "100% (147 of 147) precincts reporting",
-    "ReportingTime": "March 12, 2024, 4:02 p.m.",
+    "ReportingTime": "March 13, 2024, 4:43 p.m.",
     "candidates": [
       {
         "Name": "Susan A. Collins",
         "Party": "Dem",
-        "Votes": "23,586",
-        "Percent": "18.9",
+        "Votes": "26,083",
+        "Percent": "19.0",
         "incumbent": false
       },
       {
         "Name": "Henry Stern",
         "Party": "Dem",
-        "Votes": "62,459",
-        "Percent": "50.0",
+        "Votes": "69,043",
+        "Percent": "50.2",
         "incumbent": true
       },
       {
         "Name": "Lucie Volotzky",
         "Party": "Rep",
-        "Votes": "38,917",
-        "Percent": "31.1",
+        "Votes": "42,367",
+        "Percent": "30.8",
         "incumbent": false
       }
     ]
@@ -30,27 +30,27 @@
   {
     "raceTitle": "State Senate District 27 - Districtwide Results",
     "Reporting": "100% (531 of 531) precincts reporting",
-    "ReportingTime": "March 13, 2024, 4:29 p.m.",
+    "ReportingTime": "March 13, 2024, 6:04 p.m.",
     "candidates": [
       {
         "Name": "Susan A. Collins",
         "Party": "Dem",
-        "Votes": "34,368",
-        "Percent": "17.6",
+        "Votes": "36,865",
+        "Percent": "17.7",
         "incumbent": false
       },
       {
         "Name": "Henry Stern",
         "Party": "Dem",
-        "Votes": "86,455",
-        "Percent": "44.2",
+        "Votes": "93,039",
+        "Percent": "44.7",
         "incumbent": true
       },
       {
         "Name": "Lucie Volotzky",
         "Party": "Rep",
-        "Votes": "74,854",
-        "Percent": "38.3",
+        "Votes": "78,304",
+        "Percent": "37.6",
         "incumbent": false
       }
     ]

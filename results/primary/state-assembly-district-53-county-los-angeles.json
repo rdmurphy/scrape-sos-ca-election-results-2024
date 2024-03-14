@@ -2,41 +2,41 @@
   {
     "raceTitle": "State Assembly District 53 - Los Angeles County Results",
     "Reporting": "100% (30 of 30) precincts reporting",
-    "ReportingTime": "March 12, 2024, 4:02 p.m.",
+    "ReportingTime": "March 13, 2024, 4:43 p.m.",
     "candidates": [
       {
         "Name": "Carlos Goytia",
         "Party": "Dem",
-        "Votes": "1,299",
+        "Votes": "1,401",
         "Percent": "9.4",
         "incumbent": false
       },
       {
         "Name": "Javier Hernandez",
         "Party": "Dem",
-        "Votes": "2,229",
-        "Percent": "16.1",
+        "Votes": "2,429",
+        "Percent": "16.3",
         "incumbent": false
       },
       {
         "Name": "Michelle Rodriguez",
         "Party": "Dem",
-        "Votes": "3,170",
+        "Votes": "3,419",
         "Percent": "22.9",
         "incumbent": false
       },
       {
         "Name": "Robert S. Torres",
         "Party": "Dem",
-        "Votes": "2,796",
+        "Votes": "3,018",
         "Percent": "20.2",
         "incumbent": false
       },
       {
         "Name": "Nick Wilson",
         "Party": "Rep",
-        "Votes": "4,355",
-        "Percent": "31.4",
+        "Votes": "4,659",
+        "Percent": "31.2",
         "incumbent": false
       }
     ]
@@ -44,41 +44,41 @@
   {
     "raceTitle": "State Assembly District 53 - Districtwide Results",
     "Reporting": "100% (233 of 233) precincts reporting",
-    "ReportingTime": "March 13, 2024, 4:29 p.m.",
+    "ReportingTime": "March 13, 2024, 6:04 p.m.",
     "candidates": [
       {
         "Name": "Carlos Goytia",
         "Party": "Dem",
-        "Votes": "2,209",
-        "Percent": "4.3",
+        "Votes": "2,311",
+        "Percent": "4.4",
         "incumbent": false
       },
       {
         "Name": "Javier Hernandez",
         "Party": "Dem",
-        "Votes": "8,076",
+        "Votes": "8,276",
         "Percent": "15.7",
         "incumbent": false
       },
       {
         "Name": "Michelle Rodriguez",
         "Party": "Dem",
-        "Votes": "10,426",
-        "Percent": "20.2",
+        "Votes": "10,675",
+        "Percent": "20.3",
         "incumbent": false
       },
       {
         "Name": "Robert S. Torres",
         "Party": "Dem",
-        "Votes": "8,530",
-        "Percent": "16.5",
+        "Votes": "8,752",
+        "Percent": "16.6",
         "incumbent": false
       },
       {
         "Name": "Nick Wilson",
         "Party": "Rep",
-        "Votes": "22,309",
-        "Percent": "43.3",
+        "Votes": "22,613",
+        "Percent": "43.0",
         "incumbent": false
       }
     ]

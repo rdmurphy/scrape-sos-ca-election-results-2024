@@ -2,27 +2,27 @@
   {
     "raceTitle": "U.S. House of Representatives District 27 - Los Angeles County Results",
     "Reporting": "100% (205 of 205) precincts reporting",
-    "ReportingTime": "March 12, 2024, 4:02 p.m.",
+    "ReportingTime": "March 13, 2024, 4:43 p.m.",
     "candidates": [
       {
         "Name": "Steve Hill",
         "Party": "Dem",
-        "Votes": "15,060",
-        "Percent": "12.0",
+        "Votes": "16,427",
+        "Percent": "12.2",
         "incumbent": false
       },
       {
         "Name": "George Whitesides",
         "Party": "Dem",
-        "Votes": "40,735",
-        "Percent": "32.5",
+        "Votes": "44,175",
+        "Percent": "32.8",
         "incumbent": false
       },
       {
         "Name": "Mike Garcia",
         "Party": "Rep",
-        "Votes": "69,706",
-        "Percent": "55.5",
+        "Votes": "73,919",
+        "Percent": "54.9",
         "incumbent": true
       }
     ]
@@ -30,27 +30,27 @@
   {
     "raceTitle": "U.S. House of Representatives District 27 - Districtwide Results",
     "Reporting": "100% (205 of 205) precincts reporting",
-    "ReportingTime": "March 13, 2024, 4:29 p.m.",
+    "ReportingTime": "March 13, 2024, 6:04 p.m.",
     "candidates": [
       {
         "Name": "Steve Hill",
         "Party": "Dem",
-        "Votes": "15,060",
-        "Percent": "12.0",
+        "Votes": "16,427",
+        "Percent": "12.2",
         "incumbent": false
       },
       {
         "Name": "George Whitesides",
         "Party": "Dem",
-        "Votes": "40,735",
-        "Percent": "32.5",
+        "Votes": "44,175",
+        "Percent": "32.8",
         "incumbent": false
       },
       {
         "Name": "Mike Garcia",
         "Party": "Rep",
-        "Votes": "69,706",
-        "Percent": "55.5",
+        "Votes": "73,919",
+        "Percent": "54.9",
         "incumbent": true
       }
     ]

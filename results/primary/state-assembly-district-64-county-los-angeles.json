@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 64 - Los Angeles County Results",
     "Reporting": "100% (92 of 92) precincts reporting",
-    "ReportingTime": "March 12, 2024, 4:02 p.m.",
+    "ReportingTime": "March 13, 2024, 4:43 p.m.",
     "candidates": [
       {
         "Name": "Blanca Pacheco",
         "Party": "Dem",
-        "Votes": "28,546",
-        "Percent": "59.6",
+        "Votes": "30,915",
+        "Percent": "60.0",
         "incumbent": true
       },
       {
         "Name": "Raul Ortiz Jr.",
         "Party": "Rep",
-        "Votes": "19,341",
-        "Percent": "40.4",
+        "Votes": "20,603",
+        "Percent": "40.0",
         "incumbent": false
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "State Assembly District 64 - Districtwide Results",
     "Reporting": "100% (114 of 114) precincts reporting",
-    "ReportingTime": "March 13, 2024, 4:29 p.m.",
+    "ReportingTime": "March 13, 2024, 6:04 p.m.",
     "candidates": [
       {
         "Name": "Blanca Pacheco",
         "Party": "Dem",
-        "Votes": "33,335",
-        "Percent": "57.9",
+        "Votes": "35,751",
+        "Percent": "58.3",
         "incumbent": true
       },
       {
         "Name": "Raul Ortiz Jr.",
         "Party": "Rep",
-        "Votes": "24,265",
-        "Percent": "42.1",
+        "Votes": "25,564",
+        "Percent": "41.7",
         "incumbent": false
       }
     ]

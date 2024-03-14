@@ -2,41 +2,41 @@
   {
     "raceTitle": "U.S. House of Representatives District 45 - Los Angeles County Results",
     "Reporting": "100% (19 of 19) precincts reporting",
-    "ReportingTime": "March 12, 2024, 4:02 p.m.",
+    "ReportingTime": "March 13, 2024, 4:43 p.m.",
     "candidates": [
       {
         "Name": "Cheyenne Hunt",
         "Party": "Dem",
-        "Votes": "1,282",
-        "Percent": "10.3",
+        "Votes": "1,408",
+        "Percent": "10.5",
         "incumbent": false
       },
       {
         "Name": "Kim Bernice Nguyen-Penaloza",
         "Party": "Dem",
-        "Votes": "1,971",
-        "Percent": "15.9",
+        "Votes": "2,149",
+        "Percent": "16.0",
         "incumbent": false
       },
       {
         "Name": "Aditya Pai",
         "Party": "Dem",
-        "Votes": "1,238",
-        "Percent": "10.0",
+        "Votes": "1,364",
+        "Percent": "10.2",
         "incumbent": false
       },
       {
         "Name": "Derek Tran",
         "Party": "Dem",
-        "Votes": "2,181",
-        "Percent": "17.5",
+        "Votes": "2,336",
+        "Percent": "17.4",
         "incumbent": false
       },
       {
         "Name": "Michelle Steel",
         "Party": "Rep",
-        "Votes": "5,759",
-        "Percent": "46.3",
+        "Votes": "6,139",
+        "Percent": "45.8",
         "incumbent": true
       }
     ]
@@ -44,41 +44,41 @@
   {
     "raceTitle": "U.S. House of Representatives District 45 - Districtwide Results",
     "Reporting": "100% (456 of 456) precincts reporting",
-    "ReportingTime": "March 13, 2024, 4:29 p.m.",
+    "ReportingTime": "March 13, 2024, 6:04 p.m.",
     "candidates": [
       {
         "Name": "Cheyenne Hunt",
         "Party": "Dem",
-        "Votes": "11,142",
-        "Percent": "8.4",
+        "Votes": "11,440",
+        "Percent": "8.5",
         "incumbent": false
       },
       {
         "Name": "Kim Bernice Nguyen-Penaloza",
         "Party": "Dem",
-        "Votes": "20,724",
-        "Percent": "15.6",
+        "Votes": "21,160",
+        "Percent": "15.7",
         "incumbent": false
       },
       {
         "Name": "Aditya Pai",
         "Party": "Dem",
-        "Votes": "6,903",
-        "Percent": "5.2",
+        "Votes": "7,106",
+        "Percent": "5.3",
         "incumbent": false
       },
       {
         "Name": "Derek Tran",
         "Party": "Dem",
-        "Votes": "20,973",
+        "Votes": "21,416",
         "Percent": "15.8",
         "incumbent": false
       },
       {
         "Name": "Michelle Steel",
         "Party": "Rep",
-        "Votes": "72,759",
-        "Percent": "54.9",
+        "Votes": "74,082",
+        "Percent": "54.8",
         "incumbent": true
       }
     ]

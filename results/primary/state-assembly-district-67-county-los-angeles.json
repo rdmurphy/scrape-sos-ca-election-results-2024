@@ -2,27 +2,27 @@
   {
     "raceTitle": "State Assembly District 67 - Los Angeles County Results",
     "Reporting": "100% (16 of 16) precincts reporting",
-    "ReportingTime": "March 12, 2024, 4:02 p.m.",
+    "ReportingTime": "March 13, 2024, 4:43 p.m.",
     "candidates": [
       {
         "Name": "Sharon Quirk-Silva",
         "Party": "Dem",
-        "Votes": "6,215",
-        "Percent": "53.5",
+        "Votes": "6,762",
+        "Percent": "54.0",
         "incumbent": true
       },
       {
         "Name": "Elizabeth \"Beth\" Culver",
         "Party": "Rep",
-        "Votes": "4,392",
-        "Percent": "37.8",
+        "Votes": "4,674",
+        "Percent": "37.3",
         "incumbent": false
       },
       {
         "Name": "Jacob Woo Ho Lee",
         "Party": "NPP",
-        "Votes": "1,020",
-        "Percent": "8.8",
+        "Votes": "1,094",
+        "Percent": "8.7",
         "incumbent": false
       }
     ]
@@ -30,26 +30,26 @@
   {
     "raceTitle": "State Assembly District 67 - Districtwide Results",
     "Reporting": "100% (269 of 269) precincts reporting",
-    "ReportingTime": "March 13, 2024, 4:29 p.m.",
+    "ReportingTime": "March 13, 2024, 6:04 p.m.",
     "candidates": [
       {
         "Name": "Sharon Quirk-Silva",
         "Party": "Dem",
-        "Votes": "34,366",
+        "Votes": "35,259",
         "Percent": "52.6",
         "incumbent": true
       },
       {
         "Name": "Elizabeth \"Beth\" Culver",
         "Party": "Rep",
-        "Votes": "26,711",
-        "Percent": "40.9",
+        "Votes": "27,306",
+        "Percent": "40.8",
         "incumbent": false
       },
       {
         "Name": "Jacob Woo Ho Lee",
         "Party": "NPP",
-        "Votes": "4,301",
+        "Votes": "4,410",
         "Percent": "6.6",
         "incumbent": false
       }
