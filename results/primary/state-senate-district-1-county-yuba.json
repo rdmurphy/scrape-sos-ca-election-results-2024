@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Senate District 1 - Yuba County Results",
     "Reporting": "100% (35 of 35) precincts reporting",
-    "ReportingTime": "March 12, 2024, 9:26 a.m.",
+    "ReportingTime": "March 13, 2024, 9:21 p.m.",
     "candidates": [
       {
         "Name": "Megan Dahle",
         "Party": "Rep",
-        "Votes": "5,206",
-        "Percent": "67.9",
+        "Votes": "7,711",
+        "Percent": "67.8",
         "incumbent": false
       },
       {
         "Name": "David Fennell",
         "Party": "Rep",
-        "Votes": "2,463",
-        "Percent": "32.1",
+        "Votes": "3,664",
+        "Percent": "32.2",
         "incumbent": false
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "State Senate District 1 - Districtwide Results",
     "Reporting": "100% (674 of 674) precincts reporting",
-    "ReportingTime": "March 13, 2024, 6:04 p.m.",
+    "ReportingTime": "March 13, 2024, 9:21 p.m.",
     "candidates": [
       {
         "Name": "Megan Dahle",
         "Party": "Rep",
-        "Votes": "128,836",
-        "Percent": "77.4",
+        "Votes": "131,341",
+        "Percent": "77.2",
         "incumbent": false
       },
       {
         "Name": "David Fennell",
         "Party": "Rep",
-        "Votes": "37,648",
-        "Percent": "22.6",
+        "Votes": "38,849",
+        "Percent": "22.8",
         "incumbent": false
       }
     ]
