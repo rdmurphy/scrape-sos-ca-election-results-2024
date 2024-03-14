@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 3 - Butte County Results",
     "Reporting": "100% (88 of 88) precincts reporting",
-    "ReportingTime": "March 8, 2024, 11:30 a.m.",
+    "ReportingTime": "March 14, 2024, 2:23 p.m.",
     "candidates": [
       {
         "Name": "Aaron Draper",
         "Party": "Dem",
-        "Votes": "16,360",
-        "Percent": "40.3",
+        "Votes": "20,804",
+        "Percent": "39.3",
         "incumbent": false
       },
       {
         "Name": "Jamie \"James\" Gallagher",
         "Party": "Rep",
-        "Votes": "24,193",
-        "Percent": "59.7",
+        "Votes": "32,130",
+        "Percent": "60.7",
         "incumbent": true
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "State Assembly District 3 - Districtwide Results",
     "Reporting": "100% (290 of 290) precincts reporting",
-    "ReportingTime": "March 14, 2024, 12:30 p.m.",
+    "ReportingTime": "March 14, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Aaron Draper",
         "Party": "Dem",
-        "Votes": "29,682",
-        "Percent": "31.7",
+        "Votes": "34,126",
+        "Percent": "32.2",
         "incumbent": false
       },
       {
         "Name": "Jamie \"James\" Gallagher",
         "Party": "Rep",
-        "Votes": "64,040",
-        "Percent": "68.3",
+        "Votes": "71,977",
+        "Percent": "67.8",
         "incumbent": true
       }
     ]

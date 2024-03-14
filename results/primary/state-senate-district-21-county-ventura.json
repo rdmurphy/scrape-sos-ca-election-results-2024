@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Senate District 21 - Ventura County Results",
     "Reporting": "100% (1,015 of 1,015) precincts reporting",
-    "ReportingTime": "March 12, 2024, 3:29 p.m.",
+    "ReportingTime": "March 14, 2024, 3:23 p.m.",
     "candidates": [
       {
         "Name": "S. Monique Limón",
         "Party": "Dem",
-        "Votes": "53,073",
-        "Percent": "62.2",
+        "Votes": "58,408",
+        "Percent": "62.8",
         "incumbent": true
       },
       {
         "Name": "Elijah Mack",
         "Party": "Rep",
-        "Votes": "32,197",
-        "Percent": "37.8",
+        "Votes": "34,616",
+        "Percent": "37.2",
         "incumbent": false
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "State Senate District 21 - Districtwide Results",
     "Reporting": "100% (1,239 of 1,239) precincts reporting",
-    "ReportingTime": "March 14, 2024, 12:30 p.m.",
+    "ReportingTime": "March 14, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "S. Monique Limón",
         "Party": "Dem",
-        "Votes": "118,589",
-        "Percent": "62.2",
+        "Votes": "123,924",
+        "Percent": "62.5",
         "incumbent": true
       },
       {
         "Name": "Elijah Mack",
         "Party": "Rep",
-        "Votes": "72,013",
-        "Percent": "37.8",
+        "Votes": "74,432",
+        "Percent": "37.5",
         "incumbent": false
       }
     ]

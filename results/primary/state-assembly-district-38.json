@@ -1,20 +1,20 @@
 {
   "raceTitle": "State Assembly District 38 - Districtwide Results",
   "Reporting": "100% (877 of 877) precincts reporting",
-  "ReportingTime": "March 14, 2024, 12:30 p.m.",
+  "ReportingTime": "March 14, 2024, 4:29 p.m.",
   "candidates": [
     {
       "Name": "Steve Bennett",
       "Party": "Dem",
-      "Votes": "46,212",
-      "Percent": "61.1",
+      "Votes": "51,041",
+      "Percent": "61.6",
       "incumbent": true
     },
     {
       "Name": "Deborah \"Deb\" Baber",
       "Party": "Rep",
-      "Votes": "29,480",
-      "Percent": "38.9",
+      "Votes": "31,783",
+      "Percent": "38.4",
       "incumbent": false
     }
   ]

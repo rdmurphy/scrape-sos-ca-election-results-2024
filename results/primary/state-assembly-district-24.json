@@ -1,19 +1,19 @@
 {
   "raceTitle": "State Assembly District 24 - Districtwide Results",
   "Reporting": "100% (124 of 124) precincts reporting",
-  "ReportingTime": "March 14, 2024, 12:30 p.m.",
+  "ReportingTime": "March 14, 2024, 4:29 p.m.",
   "candidates": [
     {
       "Name": "Alex Lee",
       "Party": "Dem",
-      "Votes": "38,967",
+      "Votes": "38,971",
       "Percent": "68.5",
       "incumbent": true
     },
     {
       "Name": "Bob Brunton",
       "Party": "Rep",
-      "Votes": "12,615",
+      "Votes": "12,617",
       "Percent": "22.2",
       "incumbent": false
     },

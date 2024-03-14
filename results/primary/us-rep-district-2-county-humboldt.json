@@ -2,41 +2,41 @@
   {
     "raceTitle": "U.S. House of Representatives District 2 - Humboldt County Results",
     "Reporting": "100% (78 of 78) precincts reporting",
-    "ReportingTime": "March 11, 2024, 5:47 p.m.",
+    "ReportingTime": "March 14, 2024, 2:11 p.m.",
     "candidates": [
       {
         "Name": "Jared Huffman",
         "Party": "Dem",
-        "Votes": "12,656",
-        "Percent": "64.4",
+        "Votes": "17,180",
+        "Percent": "65.6",
         "incumbent": true
       },
       {
         "Name": "Chris Coulombe",
         "Party": "Rep",
-        "Votes": "4,006",
-        "Percent": "20.4",
+        "Votes": "5,176",
+        "Percent": "19.8",
         "incumbent": false
       },
       {
         "Name": "Tief Gibbs",
         "Party": "Rep",
-        "Votes": "2,414",
-        "Percent": "12.3",
+        "Votes": "3,038",
+        "Percent": "11.6",
         "incumbent": false
       },
       {
         "Name": "Jason Brisendine",
         "Party": "NPP",
-        "Votes": "162",
-        "Percent": "0.8",
+        "Votes": "186",
+        "Percent": "0.7",
         "incumbent": false
       },
       {
         "Name": "Jolian \"Jo\" Kangas",
         "Party": "NPP",
-        "Votes": "412",
-        "Percent": "2.1",
+        "Votes": "590",
+        "Percent": "2.3",
         "incumbent": false
       }
     ]
@@ -44,40 +44,40 @@
   {
     "raceTitle": "U.S. House of Representatives District 2 - Districtwide Results",
     "Reporting": "100% (629 of 629) precincts reporting",
-    "ReportingTime": "March 14, 2024, 12:30 p.m.",
+    "ReportingTime": "March 14, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Jared Huffman",
         "Party": "Dem",
-        "Votes": "128,282",
-        "Percent": "74.4",
+        "Votes": "132,806",
+        "Percent": "74.2",
         "incumbent": true
       },
       {
         "Name": "Chris Coulombe",
         "Party": "Rep",
-        "Votes": "27,841",
-        "Percent": "16.1",
+        "Votes": "29,011",
+        "Percent": "16.2",
         "incumbent": false
       },
       {
         "Name": "Tief Gibbs",
         "Party": "Rep",
-        "Votes": "13,279",
-        "Percent": "7.7",
+        "Votes": "13,903",
+        "Percent": "7.8",
         "incumbent": false
       },
       {
         "Name": "Jason Brisendine",
         "Party": "NPP",
-        "Votes": "1,020",
+        "Votes": "1,044",
         "Percent": "0.6",
         "incumbent": false
       },
       {
         "Name": "Jolian \"Jo\" Kangas",
         "Party": "NPP",
-        "Votes": "2,028",
+        "Votes": "2,206",
         "Percent": "1.2",
         "incumbent": false
       }

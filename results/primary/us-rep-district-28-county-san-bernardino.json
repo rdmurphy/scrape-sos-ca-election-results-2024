@@ -2,33 +2,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 28 - San Bernardino County Results",
     "Reporting": "100% (155 of 155) precincts reporting",
-    "ReportingTime": "March 13, 2024, 3:36 p.m.",
+    "ReportingTime": "March 14, 2024, 3:28 p.m.",
     "candidates": [
       {
         "Name": "Judy Chu",
         "Party": "Dem",
-        "Votes": "7,667",
+        "Votes": "7,696",
         "Percent": "38.0",
         "incumbent": true
       },
       {
         "Name": "April A. Verlato",
         "Party": "Rep",
-        "Votes": "11,767",
+        "Votes": "11,821",
         "Percent": "58.4",
         "incumbent": false
       },
       {
         "Name": "Jose Castaneda",
         "Party": "Lib",
-        "Votes": "381",
+        "Votes": "384",
         "Percent": "1.9",
         "incumbent": false
       },
       {
         "Name": "William Patterson",
         "Party": "P&F",
-        "Votes": "342",
+        "Votes": "346",
         "Percent": "1.7",
         "incumbent": false
       }
@@ -37,33 +37,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 28 - Districtwide Results",
     "Reporting": "100% (347 of 347) precincts reporting",
-    "ReportingTime": "March 14, 2024, 12:30 p.m.",
+    "ReportingTime": "March 14, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Judy Chu",
         "Party": "Dem",
-        "Votes": "98,683",
-        "Percent": "62.8",
+        "Votes": "98,874",
+        "Percent": "62.7",
         "incumbent": true
       },
       {
         "Name": "April A. Verlato",
         "Party": "Rep",
-        "Votes": "51,968",
-        "Percent": "33.0",
+        "Votes": "52,098",
+        "Percent": "33.1",
         "incumbent": false
       },
       {
         "Name": "Jose Castaneda",
         "Party": "Lib",
-        "Votes": "3,132",
+        "Votes": "3,138",
         "Percent": "2.0",
         "incumbent": false
       },
       {
         "Name": "William Patterson",
         "Party": "P&F",
-        "Votes": "3,464",
+        "Votes": "3,475",
         "Percent": "2.2",
         "incumbent": false
       }

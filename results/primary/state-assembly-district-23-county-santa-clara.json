@@ -2,33 +2,33 @@
   {
     "raceTitle": "State Assembly District 23 - Santa Clara County Results",
     "Reporting": "100% (105 of 105) precincts reporting",
-    "ReportingTime": "March 13, 2024, 5:01 p.m.",
+    "ReportingTime": "March 14, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Marc Berman",
         "Party": "Dem",
-        "Votes": "43,396",
-        "Percent": "55.3",
+        "Votes": "43,407",
+        "Percent": "55.2",
         "incumbent": true
       },
       {
         "Name": "Lydia Kou",
         "Party": "Dem",
-        "Votes": "17,757",
+        "Votes": "17,766",
         "Percent": "22.6",
         "incumbent": false
       },
       {
         "Name": "Allan K. Marson",
         "Party": "Rep",
-        "Votes": "9,223",
+        "Votes": "9,230",
         "Percent": "11.7",
         "incumbent": false
       },
       {
         "Name": "Gus Mattammal",
         "Party": "Rep",
-        "Votes": "8,161",
+        "Votes": "8,167",
         "Percent": "10.4",
         "incumbent": false
       }
@@ -37,33 +37,33 @@
   {
     "raceTitle": "State Assembly District 23 - Districtwide Results",
     "Reporting": "100% (184 of 184) precincts reporting",
-    "ReportingTime": "March 14, 2024, 12:30 p.m.",
+    "ReportingTime": "March 14, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Marc Berman",
         "Party": "Dem",
-        "Votes": "63,755",
+        "Votes": "63,766",
         "Percent": "57.2",
         "incumbent": true
       },
       {
         "Name": "Lydia Kou",
         "Party": "Dem",
-        "Votes": "22,719",
+        "Votes": "22,728",
         "Percent": "20.4",
         "incumbent": false
       },
       {
         "Name": "Allan K. Marson",
         "Party": "Rep",
-        "Votes": "12,430",
+        "Votes": "12,437",
         "Percent": "11.2",
         "incumbent": false
       },
       {
         "Name": "Gus Mattammal",
         "Party": "Rep",
-        "Votes": "12,566",
+        "Votes": "12,572",
         "Percent": "11.3",
         "incumbent": false
       }

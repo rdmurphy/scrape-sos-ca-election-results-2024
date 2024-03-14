@@ -1,19 +1,19 @@
 {
   "raceTitle": "U.S. House of Representatives District 15 - Districtwide Results",
   "Reporting": "100% (252 of 252) precincts reporting",
-  "ReportingTime": "March 14, 2024, 12:30 p.m.",
+  "ReportingTime": "March 14, 2024, 4:29 p.m.",
   "candidates": [
     {
       "Name": "Kevin Mullin",
       "Party": "Dem",
-      "Votes": "97,468",
+      "Votes": "97,535",
       "Percent": "74.9",
       "incumbent": true
     },
     {
       "Name": "Anna Cheng Kramer",
       "Party": "Rep",
-      "Votes": "32,636",
+      "Votes": "32,660",
       "Percent": "25.1",
       "incumbent": false
     }
