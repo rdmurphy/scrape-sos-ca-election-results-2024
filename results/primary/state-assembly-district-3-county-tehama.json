@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 3 - Tehama County Results",
     "Reporting": "100% (40 of 40) precincts reporting",
-    "ReportingTime": "March 11, 2024, 5:17 p.m.",
+    "ReportingTime": "March 15, 2024, 12:34 p.m.",
     "candidates": [
       {
         "Name": "Aaron Draper",
         "Party": "Dem",
-        "Votes": "2,628",
-        "Percent": "23.0",
+        "Votes": "3,256",
+        "Percent": "22.1",
         "incumbent": false
       },
       {
         "Name": "Jamie \"James\" Gallagher",
         "Party": "Rep",
-        "Votes": "8,819",
-        "Percent": "77.0",
+        "Votes": "11,502",
+        "Percent": "77.9",
         "incumbent": true
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "State Assembly District 3 - Districtwide Results",
     "Reporting": "100% (290 of 290) precincts reporting",
-    "ReportingTime": "March 14, 2024, 5:49 p.m.",
+    "ReportingTime": "March 15, 2024, 12:49 p.m.",
     "candidates": [
       {
         "Name": "Aaron Draper",
         "Party": "Dem",
-        "Votes": "34,126",
-        "Percent": "32.2",
+        "Votes": "34,754",
+        "Percent": "31.8",
         "incumbent": false
       },
       {
         "Name": "Jamie \"James\" Gallagher",
         "Party": "Rep",
-        "Votes": "71,977",
-        "Percent": "67.8",
+        "Votes": "74,660",
+        "Percent": "68.2",
         "incumbent": true
       }
     ]

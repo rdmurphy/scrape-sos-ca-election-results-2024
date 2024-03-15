@@ -2,19 +2,19 @@
   {
     "raceTitle": "State Senate District 1 - Plumas County Results",
     "Reporting": "100% (29 of 29) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:18 p.m.",
+    "ReportingTime": "March 15, 2024, 12:01 p.m.",
     "candidates": [
       {
         "Name": "Megan Dahle",
         "Party": "Rep",
-        "Votes": "3,416",
+        "Votes": "4,376",
         "Percent": "83.2",
         "incumbent": false
       },
       {
         "Name": "David Fennell",
         "Party": "Rep",
-        "Votes": "690",
+        "Votes": "884",
         "Percent": "16.8",
         "incumbent": false
       }
@@ -23,20 +23,20 @@
   {
     "raceTitle": "State Senate District 1 - Districtwide Results",
     "Reporting": "100% (674 of 674) precincts reporting",
-    "ReportingTime": "March 14, 2024, 5:49 p.m.",
+    "ReportingTime": "March 15, 2024, 12:49 p.m.",
     "candidates": [
       {
         "Name": "Megan Dahle",
         "Party": "Rep",
-        "Votes": "139,431",
-        "Percent": "77.2",
+        "Votes": "148,141",
+        "Percent": "77.3",
         "incumbent": false
       },
       {
         "Name": "David Fennell",
         "Party": "Rep",
-        "Votes": "41,268",
-        "Percent": "22.8",
+        "Votes": "43,613",
+        "Percent": "22.7",
         "incumbent": false
       }
     ]
