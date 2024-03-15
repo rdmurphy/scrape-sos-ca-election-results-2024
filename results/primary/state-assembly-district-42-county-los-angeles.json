@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 42 - Los Angeles County Results",
     "Reporting": "100% (49 of 49) precincts reporting",
-    "ReportingTime": "March 14, 2024, 4:05 p.m.",
+    "ReportingTime": "March 15, 2024, 4:19 p.m.",
     "candidates": [
       {
         "Name": "Jacqui Irwin",
         "Party": "Dem",
-        "Votes": "28,116",
-        "Percent": "62.6",
+        "Votes": "28,171",
+        "Percent": "62.5",
         "incumbent": true
       },
       {
         "Name": "Ted Nordblum",
         "Party": "Rep",
-        "Votes": "16,826",
-        "Percent": "37.4",
+        "Votes": "16,867",
+        "Percent": "37.5",
         "incumbent": false
       }
     ]
@@ -23,19 +23,19 @@
   {
     "raceTitle": "State Assembly District 42 - Districtwide Results",
     "Reporting": "100% (564 of 564) precincts reporting",
-    "ReportingTime": "March 15, 2024, 3:39 p.m.",
+    "ReportingTime": "March 15, 2024, 4:31 p.m.",
     "candidates": [
       {
         "Name": "Jacqui Irwin",
         "Party": "Dem",
-        "Votes": "77,624",
+        "Votes": "77,679",
         "Percent": "54.5",
         "incumbent": true
       },
       {
         "Name": "Ted Nordblum",
         "Party": "Rep",
-        "Votes": "64,725",
+        "Votes": "64,766",
         "Percent": "45.5",
         "incumbent": false
       }

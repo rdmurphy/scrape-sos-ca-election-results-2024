@@ -2,26 +2,26 @@
   {
     "raceTitle": "U.S. House of Representatives District 3 - Inyo County Results",
     "Reporting": "100% (13 of 13) precincts reporting",
-    "ReportingTime": "March 12, 2024, 3:44 p.m.",
+    "ReportingTime": "March 15, 2024, 3:59 p.m.",
     "candidates": [
       {
         "Name": "Jessica Morse",
         "Party": "Dem",
-        "Votes": "2,398",
-        "Percent": "43.9",
+        "Votes": "2,426",
+        "Percent": "43.7",
         "incumbent": false
       },
       {
         "Name": "Kevin Kiley",
         "Party": "Rep",
-        "Votes": "2,909",
-        "Percent": "53.3",
+        "Votes": "2,965",
+        "Percent": "53.4",
         "incumbent": true
       },
       {
         "Name": "Robert Smith",
         "Party": "NPP",
-        "Votes": "155",
+        "Votes": "157",
         "Percent": "2.8",
         "incumbent": false
       }
@@ -30,26 +30,26 @@
   {
     "raceTitle": "U.S. House of Representatives District 3 - Districtwide Results",
     "Reporting": "100% (454 of 454) precincts reporting",
-    "ReportingTime": "March 15, 2024, 3:39 p.m.",
+    "ReportingTime": "March 15, 2024, 4:31 p.m.",
     "candidates": [
       {
         "Name": "Jessica Morse",
         "Party": "Dem",
-        "Votes": "89,444",
-        "Percent": "43.2",
+        "Votes": "101,547",
+        "Percent": "42.2",
         "incumbent": false
       },
       {
         "Name": "Kevin Kiley",
         "Party": "Rep",
-        "Votes": "113,584",
-        "Percent": "54.8",
+        "Votes": "134,283",
+        "Percent": "55.8",
         "incumbent": true
       },
       {
         "Name": "Robert Smith",
         "Party": "NPP",
-        "Votes": "4,191",
+        "Votes": "4,858",
         "Percent": "2.0",
         "incumbent": false
       }

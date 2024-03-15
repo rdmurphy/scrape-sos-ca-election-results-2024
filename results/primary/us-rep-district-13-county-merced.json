@@ -2,20 +2,20 @@
   {
     "raceTitle": "U.S. House of Representatives District 13 - Merced County Results",
     "Reporting": "100% (729 of 729) precincts reporting",
-    "ReportingTime": "March 13, 2024, 4:55 p.m.",
+    "ReportingTime": "March 15, 2024, 4:11 p.m.",
     "candidates": [
       {
         "Name": "Adam Gray",
         "Party": "Dem",
-        "Votes": "15,539",
-        "Percent": "46.7",
+        "Votes": "16,368",
+        "Percent": "46.8",
         "incumbent": false
       },
       {
         "Name": "John Duarte",
         "Party": "Rep",
-        "Votes": "17,703",
-        "Percent": "53.3",
+        "Votes": "18,611",
+        "Percent": "53.2",
         "incumbent": true
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "U.S. House of Representatives District 13 - Districtwide Results",
     "Reporting": "100% (865 of 865) precincts reporting",
-    "ReportingTime": "March 15, 2024, 3:39 p.m.",
+    "ReportingTime": "March 15, 2024, 4:31 p.m.",
     "candidates": [
       {
         "Name": "Adam Gray",
         "Party": "Dem",
-        "Votes": "36,762",
-        "Percent": "45.0",
+        "Votes": "37,591",
+        "Percent": "45.1",
         "incumbent": false
       },
       {
         "Name": "John Duarte",
         "Party": "Rep",
-        "Votes": "44,890",
-        "Percent": "55.0",
+        "Votes": "45,798",
+        "Percent": "54.9",
         "incumbent": true
       }
     ]

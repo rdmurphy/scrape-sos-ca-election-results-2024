@@ -2,34 +2,34 @@
   {
     "raceTitle": "State Assembly District 5 - El Dorado County Results",
     "Reporting": "100% (64 of 64) precincts reporting",
-    "ReportingTime": "March 8, 2024, 2:52 p.m.",
+    "ReportingTime": "March 15, 2024, 3:51 p.m.",
     "candidates": [
       {
         "Name": "Neva Parker",
         "Party": "Dem",
-        "Votes": "11,855",
-        "Percent": "25.2",
+        "Votes": "11,986",
+        "Percent": "25.3",
         "incumbent": false
       },
       {
         "Name": "Athena Singh",
         "Party": "Dem",
-        "Votes": "4,511",
+        "Votes": "4,560",
         "Percent": "9.6",
         "incumbent": false
       },
       {
         "Name": "Aabhash \"ABG\" Gautam",
         "Party": "Rep",
-        "Votes": "2,301",
+        "Votes": "2,333",
         "Percent": "4.9",
         "incumbent": false
       },
       {
         "Name": "Joe Patterson",
         "Party": "Rep",
-        "Votes": "28,344",
-        "Percent": "60.3",
+        "Votes": "28,587",
+        "Percent": "60.2",
         "incumbent": true
       }
     ]
@@ -37,34 +37,34 @@
   {
     "raceTitle": "State Assembly District 5 - Districtwide Results",
     "Reporting": "100% (216 of 216) precincts reporting",
-    "ReportingTime": "March 15, 2024, 3:39 p.m.",
+    "ReportingTime": "March 15, 2024, 4:31 p.m.",
     "candidates": [
       {
         "Name": "Neva Parker",
         "Party": "Dem",
-        "Votes": "41,058",
-        "Percent": "29.9",
+        "Votes": "46,818",
+        "Percent": "29.6",
         "incumbent": false
       },
       {
         "Name": "Athena Singh",
         "Party": "Dem",
-        "Votes": "11,077",
-        "Percent": "8.1",
+        "Votes": "12,357",
+        "Percent": "7.8",
         "incumbent": false
       },
       {
         "Name": "Aabhash \"ABG\" Gautam",
         "Party": "Rep",
-        "Votes": "5,909",
-        "Percent": "4.3",
+        "Votes": "6,922",
+        "Percent": "4.4",
         "incumbent": false
       },
       {
         "Name": "Joe Patterson",
         "Party": "Rep",
-        "Votes": "79,137",
-        "Percent": "57.7",
+        "Votes": "92,077",
+        "Percent": "58.2",
         "incumbent": true
       }
     ]

@@ -1,19 +1,19 @@
 {
   "raceTitle": "State Assembly District 34 - Districtwide Results",
   "Reporting": "100% (1,169 of 1,169) precincts reporting",
-  "ReportingTime": "March 15, 2024, 3:39 p.m.",
+  "ReportingTime": "March 15, 2024, 4:31 p.m.",
   "candidates": [
     {
       "Name": "Ricardo Ortega",
       "Party": "Dem",
-      "Votes": "28,945",
+      "Votes": "28,960",
       "Percent": "33.8",
       "incumbent": false
     },
     {
       "Name": "Tom Lackey",
       "Party": "Rep",
-      "Votes": "56,768",
+      "Votes": "56,800",
       "Percent": "66.2",
       "incumbent": true
     }

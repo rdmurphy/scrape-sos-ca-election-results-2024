@@ -1,76 +1,76 @@
 {
   "raceTitle": "State Assembly District 6 - Districtwide Results",
   "Reporting": "100% (195 of 195) precincts reporting",
-  "ReportingTime": "March 15, 2024, 3:39 p.m.",
+  "ReportingTime": "March 15, 2024, 4:31 p.m.",
   "candidates": [
     {
       "Name": "Emmanuel Amanfor",
       "Party": "Dem",
-      "Votes": "2,463",
-      "Percent": "3.5",
+      "Votes": "3,468",
+      "Percent": "3.7",
       "incumbent": false
     },
     {
       "Name": "Sean Frame",
       "Party": "Dem",
-      "Votes": "4,188",
-      "Percent": "6.0",
+      "Votes": "5,959",
+      "Percent": "6.4",
       "incumbent": false
     },
     {
       "Name": "Rosanna Herber",
       "Party": "Dem",
-      "Votes": "6,291",
-      "Percent": "9.0",
+      "Votes": "8,373",
+      "Percent": "8.9",
       "incumbent": false
     },
     {
       "Name": "Maggy Krell",
       "Party": "Dem",
-      "Votes": "18,646",
-      "Percent": "26.6",
+      "Votes": "23,880",
+      "Percent": "25.5",
       "incumbent": false
     },
     {
       "Name": "Carlos Marquez III",
       "Party": "Dem",
-      "Votes": "6,343",
-      "Percent": "9.1",
+      "Votes": "8,439",
+      "Percent": "9.0",
       "incumbent": false
     },
     {
       "Name": "Evan Minton",
       "Party": "Dem",
-      "Votes": "1,655",
-      "Percent": "2.4",
+      "Votes": "2,346",
+      "Percent": "2.5",
       "incumbent": false
     },
     {
       "Name": "Paula Villescaz",
       "Party": "Dem",
-      "Votes": "8,835",
-      "Percent": "12.6",
+      "Votes": "12,362",
+      "Percent": "13.2",
       "incumbent": false
     },
     {
       "Name": "Nikki Ellis",
       "Party": "Rep",
-      "Votes": "10,635",
-      "Percent": "15.2",
+      "Votes": "13,906",
+      "Percent": "14.9",
       "incumbent": false
     },
     {
       "Name": "Preston Romero",
       "Party": "Rep",
-      "Votes": "9,819",
-      "Percent": "14.0",
+      "Votes": "13,273",
+      "Percent": "14.2",
       "incumbent": false
     },
     {
       "Name": "Kevin Olmar Martinez",
       "Party": "P&F",
-      "Votes": "1,143",
-      "Percent": "1.6",
+      "Votes": "1,559",
+      "Percent": "1.7",
       "incumbent": false
     }
   ]

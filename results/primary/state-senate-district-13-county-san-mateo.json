@@ -2,26 +2,26 @@
   {
     "raceTitle": "State Senate District 13 - San Mateo County Results",
     "Reporting": "100% (229 of 229) precincts reporting",
-    "ReportingTime": "March 13, 2024, 4:16 p.m.",
+    "ReportingTime": "March 15, 2024, 4:15 p.m.",
     "candidates": [
       {
         "Name": "Josh Becker",
         "Party": "Dem",
-        "Votes": "91,352",
-        "Percent": "73.8",
+        "Votes": "103,416",
+        "Percent": "74.2",
         "incumbent": true
       },
       {
         "Name": "Alexander Glew",
         "Party": "Rep",
-        "Votes": "24,013",
-        "Percent": "19.4",
+        "Votes": "26,440",
+        "Percent": "19.0",
         "incumbent": false
       },
       {
         "Name": "Christina Laskowski",
         "Party": "Rep",
-        "Votes": "8,471",
+        "Votes": "9,472",
         "Percent": "6.8",
         "incumbent": false
       }
@@ -30,27 +30,27 @@
   {
     "raceTitle": "State Senate District 13 - Districtwide Results",
     "Reporting": "100% (357 of 357) precincts reporting",
-    "ReportingTime": "March 15, 2024, 3:39 p.m.",
+    "ReportingTime": "March 15, 2024, 4:31 p.m.",
     "candidates": [
       {
         "Name": "Josh Becker",
         "Party": "Dem",
-        "Votes": "154,392",
-        "Percent": "73.3",
+        "Votes": "166,468",
+        "Percent": "73.6",
         "incumbent": true
       },
       {
         "Name": "Alexander Glew",
         "Party": "Rep",
-        "Votes": "40,189",
-        "Percent": "19.1",
+        "Votes": "42,620",
+        "Percent": "18.8",
         "incumbent": false
       },
       {
         "Name": "Christina Laskowski",
         "Party": "Rep",
-        "Votes": "16,176",
-        "Percent": "7.7",
+        "Votes": "17,179",
+        "Percent": "7.6",
         "incumbent": false
       }
     ]

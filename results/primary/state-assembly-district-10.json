@@ -1,20 +1,20 @@
 {
   "raceTitle": "State Assembly District 10 - Districtwide Results",
   "Reporting": "100% (185 of 185) precincts reporting",
-  "ReportingTime": "March 15, 2024, 3:39 p.m.",
+  "ReportingTime": "March 15, 2024, 4:31 p.m.",
   "candidates": [
     {
       "Name": "Stephanie Nguyen",
       "Party": "Dem",
-      "Votes": "40,657",
-      "Percent": "67.0",
+      "Votes": "55,908",
+      "Percent": "67.5",
       "incumbent": true
     },
     {
       "Name": "Vinaya Singh",
       "Party": "Rep",
-      "Votes": "20,032",
-      "Percent": "33.0",
+      "Votes": "26,967",
+      "Percent": "32.5",
       "incumbent": false
     }
   ]

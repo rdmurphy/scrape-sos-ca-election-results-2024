@@ -2,34 +2,34 @@
   {
     "raceTitle": "State Assembly District 11 - Sacramento County Results",
     "Reporting": "100% (1 of 1) precincts reporting",
-    "ReportingTime": "March 12, 2024, 3:48 p.m.",
+    "ReportingTime": "March 15, 2024, 4:07 p.m.",
     "candidates": [
       {
         "Name": "Jeffrey Flack",
         "Party": "Dem",
-        "Votes": "14",
-        "Percent": "10.4",
+        "Votes": "22",
+        "Percent": "10.6",
         "incumbent": false
       },
       {
         "Name": "Lori D Wilson",
         "Party": "Dem",
-        "Votes": "51",
-        "Percent": "37.8",
+        "Votes": "80",
+        "Percent": "38.5",
         "incumbent": true
       },
       {
         "Name": "Dave Ennis",
         "Party": "Rep",
-        "Votes": "49",
-        "Percent": "36.3",
+        "Votes": "76",
+        "Percent": "36.5",
         "incumbent": false
       },
       {
         "Name": "Wanda Wallis",
         "Party": "Rep",
-        "Votes": "21",
-        "Percent": "15.6",
+        "Votes": "30",
+        "Percent": "14.4",
         "incumbent": false
       }
     ]
@@ -37,33 +37,33 @@
   {
     "raceTitle": "State Assembly District 11 - Districtwide Results",
     "Reporting": "100% (301 of 301) precincts reporting",
-    "ReportingTime": "March 15, 2024, 3:39 p.m.",
+    "ReportingTime": "March 15, 2024, 4:31 p.m.",
     "candidates": [
       {
         "Name": "Jeffrey Flack",
         "Party": "Dem",
-        "Votes": "8,952",
+        "Votes": "8,960",
         "Percent": "9.0",
         "incumbent": false
       },
       {
         "Name": "Lori D Wilson",
         "Party": "Dem",
-        "Votes": "49,976",
+        "Votes": "50,005",
         "Percent": "50.2",
         "incumbent": true
       },
       {
         "Name": "Dave Ennis",
         "Party": "Rep",
-        "Votes": "26,004",
+        "Votes": "26,031",
         "Percent": "26.1",
         "incumbent": false
       },
       {
         "Name": "Wanda Wallis",
         "Party": "Rep",
-        "Votes": "14,604",
+        "Votes": "14,613",
         "Percent": "14.7",
         "incumbent": false
       }

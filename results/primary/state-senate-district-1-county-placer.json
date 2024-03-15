@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Senate District 1 - Placer County Results",
     "Reporting": "100% (30 of 30) precincts reporting",
-    "ReportingTime": "March 12, 2024, 3:49 p.m.",
+    "ReportingTime": "March 15, 2024, 4:31 p.m.",
     "candidates": [
       {
         "Name": "Megan Dahle",
         "Party": "Rep",
-        "Votes": "9,258",
-        "Percent": "73.9",
+        "Votes": "11,224",
+        "Percent": "73.7",
         "incumbent": false
       },
       {
         "Name": "David Fennell",
         "Party": "Rep",
-        "Votes": "3,262",
-        "Percent": "26.1",
+        "Votes": "4,003",
+        "Percent": "26.3",
         "incumbent": false
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "State Senate District 1 - Districtwide Results",
     "Reporting": "100% (674 of 674) precincts reporting",
-    "ReportingTime": "March 15, 2024, 3:39 p.m.",
+    "ReportingTime": "March 15, 2024, 4:31 p.m.",
     "candidates": [
       {
         "Name": "Megan Dahle",
         "Party": "Rep",
-        "Votes": "149,597",
-        "Percent": "77.3",
+        "Votes": "151,563",
+        "Percent": "77.2",
         "incumbent": false
       },
       {
         "Name": "David Fennell",
         "Party": "Rep",
-        "Votes": "43,961",
-        "Percent": "22.7",
+        "Votes": "44,702",
+        "Percent": "22.8",
         "incumbent": false
       }
     ]

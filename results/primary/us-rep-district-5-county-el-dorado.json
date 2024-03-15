@@ -2,26 +2,26 @@
   {
     "raceTitle": "U.S. House of Representatives District 5 - El Dorado County Results",
     "Reporting": "100% (60 of 60) precincts reporting",
-    "ReportingTime": "March 8, 2024, 2:52 p.m.",
+    "ReportingTime": "March 15, 2024, 3:51 p.m.",
     "candidates": [
       {
         "Name": "Michael J. \"Mike\" Barkley",
         "Party": "Dem",
-        "Votes": "14,899",
+        "Votes": "15,068",
         "Percent": "32.3",
         "incumbent": false
       },
       {
         "Name": "Tom McClintock",
         "Party": "Rep",
-        "Votes": "26,859",
-        "Percent": "58.2",
+        "Votes": "27,087",
+        "Percent": "58.1",
         "incumbent": true
       },
       {
         "Name": "Steve Wozniak",
         "Party": "NPP",
-        "Votes": "4,425",
+        "Votes": "4,476",
         "Percent": "9.6",
         "incumbent": false
       }
@@ -30,26 +30,26 @@
   {
     "raceTitle": "U.S. House of Representatives District 5 - Districtwide Results",
     "Reporting": "100% (345 of 345) precincts reporting",
-    "ReportingTime": "March 15, 2024, 3:39 p.m.",
+    "ReportingTime": "March 15, 2024, 4:31 p.m.",
     "candidates": [
       {
         "Name": "Michael J. \"Mike\" Barkley",
         "Party": "Dem",
-        "Votes": "65,259",
+        "Votes": "65,463",
         "Percent": "32.7",
         "incumbent": false
       },
       {
         "Name": "Tom McClintock",
         "Party": "Rep",
-        "Votes": "116,831",
+        "Votes": "117,115",
         "Percent": "58.6",
         "incumbent": true
       },
       {
         "Name": "Steve Wozniak",
         "Party": "NPP",
-        "Votes": "17,278",
+        "Votes": "17,342",
         "Percent": "8.7",
         "incumbent": false
       }

@@ -1,26 +1,26 @@
 {
   "raceTitle": "State Assembly District 25 - Districtwide Results",
   "Reporting": "100% (145 of 145) precincts reporting",
-  "ReportingTime": "March 15, 2024, 3:39 p.m.",
+  "ReportingTime": "March 15, 2024, 4:31 p.m.",
   "candidates": [
     {
       "Name": "Ash Kalra",
       "Party": "Dem",
-      "Votes": "35,660",
+      "Votes": "35,670",
       "Percent": "51.6",
       "incumbent": true
     },
     {
       "Name": "Lan Ngo",
       "Party": "Dem",
-      "Votes": "15,359",
+      "Votes": "15,366",
       "Percent": "22.2",
       "incumbent": false
     },
     {
       "Name": "Ted Stroll",
       "Party": "Rep",
-      "Votes": "18,140",
+      "Votes": "18,148",
       "Percent": "26.2",
       "incumbent": false
     }
