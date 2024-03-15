@@ -2,26 +2,26 @@
   {
     "raceTitle": "U.S. House of Representatives District 7 - Yolo County Results",
     "Reporting": "100% (8 of 8) precincts reporting",
-    "ReportingTime": "March 12, 2024, 3:25 p.m.",
+    "ReportingTime": "March 15, 2024, 3:09 p.m.",
     "candidates": [
       {
         "Name": "David Lee Mandel",
         "Party": "Dem",
-        "Votes": "1,117",
-        "Percent": "10.9",
+        "Votes": "1,154",
+        "Percent": "11.1",
         "incumbent": false
       },
       {
         "Name": "Doris Matsui",
         "Party": "Dem",
-        "Votes": "5,843",
-        "Percent": "57.1",
+        "Votes": "5,941",
+        "Percent": "56.9",
         "incumbent": true
       },
       {
         "Name": "Tom Silva",
         "Party": "Rep",
-        "Votes": "3,279",
+        "Votes": "3,337",
         "Percent": "32.0",
         "incumbent": false
       }
@@ -30,26 +30,26 @@
   {
     "raceTitle": "U.S. House of Representatives District 7 - Districtwide Results",
     "Reporting": "100% (291 of 291) precincts reporting",
-    "ReportingTime": "March 15, 2024, 12:49 p.m.",
+    "ReportingTime": "March 15, 2024, 3:39 p.m.",
     "candidates": [
       {
         "Name": "David Lee Mandel",
         "Party": "Dem",
-        "Votes": "12,451",
+        "Votes": "12,488",
         "Percent": "11.1",
         "incumbent": false
       },
       {
         "Name": "Doris Matsui",
         "Party": "Dem",
-        "Votes": "64,290",
+        "Votes": "64,388",
         "Percent": "57.5",
         "incumbent": true
       },
       {
         "Name": "Tom Silva",
         "Party": "Rep",
-        "Votes": "35,125",
+        "Votes": "35,183",
         "Percent": "31.4",
         "incumbent": false
       }

@@ -1,15 +1,15 @@
 {
   "raceTitle": "Ballot Measures - Colusa Results",
   "Reporting": "100.0% (19 of 19) precincts reporting",
-  "ReportingTime": "March 11, 2024, 9:39 a.m.",
+  "ReportingTime": "March 15, 2024, 3:20 p.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "903",
-      "yesPercent": "29.1",
-      "noVotes": "2202",
-      "noPercent": "70.9"
+      "yesVotes": "1046",
+      "yesPercent": "29.3",
+      "noVotes": "2526",
+      "noPercent": "70.7"
     }
   ]
 }

@@ -2,33 +2,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 9 - Contra Costa County Results",
     "Reporting": "100% (37 of 37) precincts reporting",
-    "ReportingTime": "March 13, 2024, 2:57 p.m.",
+    "ReportingTime": "March 15, 2024, 3:23 p.m.",
     "candidates": [
       {
         "Name": "Josh Harder",
         "Party": "Dem",
-        "Votes": "1,734",
-        "Percent": "41.6",
+        "Votes": "1,762",
+        "Percent": "41.7",
         "incumbent": true
       },
       {
         "Name": "Khalid Jeffrey Jafri",
         "Party": "Rep",
-        "Votes": "443",
-        "Percent": "10.6",
+        "Votes": "445",
+        "Percent": "10.5",
         "incumbent": false
       },
       {
         "Name": "Kevin Lincoln",
         "Party": "Rep",
-        "Votes": "1,196",
-        "Percent": "28.7",
+        "Votes": "1,208",
+        "Percent": "28.6",
         "incumbent": false
       },
       {
         "Name": "John McBride",
         "Party": "Rep",
-        "Votes": "799",
+        "Votes": "814",
         "Percent": "19.2",
         "incumbent": false
       }
@@ -37,33 +37,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 9 - Districtwide Results",
     "Reporting": "100% (240 of 240) precincts reporting",
-    "ReportingTime": "March 15, 2024, 12:49 p.m.",
+    "ReportingTime": "March 15, 2024, 3:39 p.m.",
     "candidates": [
       {
         "Name": "Josh Harder",
         "Party": "Dem",
-        "Votes": "58,771",
-        "Percent": "50.1",
+        "Votes": "59,484",
+        "Percent": "50.0",
         "incumbent": true
       },
       {
         "Name": "Khalid Jeffrey Jafri",
         "Party": "Rep",
-        "Votes": "8,575",
+        "Votes": "8,701",
         "Percent": "7.3",
         "incumbent": false
       },
       {
         "Name": "Kevin Lincoln",
         "Party": "Rep",
-        "Votes": "35,147",
+        "Votes": "35,607",
         "Percent": "29.9",
         "incumbent": false
       },
       {
         "Name": "John McBride",
         "Party": "Rep",
-        "Votes": "14,897",
+        "Votes": "15,137",
         "Percent": "12.7",
         "incumbent": false
       }

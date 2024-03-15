@@ -2,33 +2,33 @@
   {
     "raceTitle": "State Assembly District 11 - Contra Costa County Results",
     "Reporting": "100% (119 of 119) precincts reporting",
-    "ReportingTime": "March 13, 2024, 2:57 p.m.",
+    "ReportingTime": "March 15, 2024, 3:23 p.m.",
     "candidates": [
       {
         "Name": "Jeffrey Flack",
         "Party": "Dem",
-        "Votes": "769",
+        "Votes": "777",
         "Percent": "6.4",
         "incumbent": false
       },
       {
         "Name": "Lori D Wilson",
         "Party": "Dem",
-        "Votes": "5,112",
-        "Percent": "42.7",
+        "Votes": "5,159",
+        "Percent": "42.6",
         "incumbent": true
       },
       {
         "Name": "Dave Ennis",
         "Party": "Rep",
-        "Votes": "3,982",
-        "Percent": "33.3",
+        "Votes": "4,042",
+        "Percent": "33.4",
         "incumbent": false
       },
       {
         "Name": "Wanda Wallis",
         "Party": "Rep",
-        "Votes": "2,107",
+        "Votes": "2,135",
         "Percent": "17.6",
         "incumbent": false
       }
@@ -37,33 +37,33 @@
   {
     "raceTitle": "State Assembly District 11 - Districtwide Results",
     "Reporting": "100% (301 of 301) precincts reporting",
-    "ReportingTime": "March 15, 2024, 12:49 p.m.",
+    "ReportingTime": "March 15, 2024, 3:39 p.m.",
     "candidates": [
       {
         "Name": "Jeffrey Flack",
         "Party": "Dem",
-        "Votes": "8,944",
+        "Votes": "8,952",
         "Percent": "9.0",
         "incumbent": false
       },
       {
         "Name": "Lori D Wilson",
         "Party": "Dem",
-        "Votes": "49,929",
+        "Votes": "49,976",
         "Percent": "50.2",
         "incumbent": true
       },
       {
         "Name": "Dave Ennis",
         "Party": "Rep",
-        "Votes": "25,944",
+        "Votes": "26,004",
         "Percent": "26.1",
         "incumbent": false
       },
       {
         "Name": "Wanda Wallis",
         "Party": "Rep",
-        "Votes": "14,576",
+        "Votes": "14,604",
         "Percent": "14.7",
         "incumbent": false
       }

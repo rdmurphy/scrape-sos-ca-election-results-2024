@@ -1,20 +1,20 @@
 {
   "raceTitle": "State Assembly District 29 - Districtwide Results",
   "Reporting": "100% (199 of 199) precincts reporting",
-  "ReportingTime": "March 15, 2024, 12:49 p.m.",
+  "ReportingTime": "March 15, 2024, 3:39 p.m.",
   "candidates": [
     {
       "Name": "Robert Rivas",
       "Party": "Dem",
-      "Votes": "40,370",
-      "Percent": "64.8",
+      "Votes": "40,471",
+      "Percent": "64.7",
       "incumbent": true
     },
     {
       "Name": "J.W. Paine",
       "Party": "Rep",
-      "Votes": "21,950",
-      "Percent": "35.2",
+      "Votes": "22,045",
+      "Percent": "35.3",
       "incumbent": false
     }
   ]

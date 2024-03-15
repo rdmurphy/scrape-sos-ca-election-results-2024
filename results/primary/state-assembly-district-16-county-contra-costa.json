@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 16 - Contra Costa County Results",
     "Reporting": "100% (235 of 235) precincts reporting",
-    "ReportingTime": "March 13, 2024, 2:57 p.m.",
+    "ReportingTime": "March 15, 2024, 3:23 p.m.",
     "candidates": [
       {
         "Name": "Rebecca Bauer-Kahan",
         "Party": "Dem",
-        "Votes": "58,063",
-        "Percent": "66.9",
+        "Votes": "58,675",
+        "Percent": "66.8",
         "incumbent": true
       },
       {
         "Name": "Joseph A. Rubay",
         "Party": "Rep",
-        "Votes": "28,721",
-        "Percent": "33.1",
+        "Votes": "29,114",
+        "Percent": "33.2",
         "incumbent": false
       }
     ]
@@ -23,19 +23,19 @@
   {
     "raceTitle": "State Assembly District 16 - Districtwide Results",
     "Reporting": "100% (319 of 319) precincts reporting",
-    "ReportingTime": "March 15, 2024, 12:49 p.m.",
+    "ReportingTime": "March 15, 2024, 3:39 p.m.",
     "candidates": [
       {
         "Name": "Rebecca Bauer-Kahan",
         "Party": "Dem",
-        "Votes": "76,588",
+        "Votes": "77,200",
         "Percent": "65.9",
         "incumbent": true
       },
       {
         "Name": "Joseph A. Rubay",
         "Party": "Rep",
-        "Votes": "39,555",
+        "Votes": "39,948",
         "Percent": "34.1",
         "incumbent": false
       }

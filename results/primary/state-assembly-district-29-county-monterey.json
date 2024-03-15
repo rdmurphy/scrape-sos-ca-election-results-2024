@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 29 - Monterey County Results",
     "Reporting": "100% (121 of 121) precincts reporting",
-    "ReportingTime": "March 13, 2024, 12:06 p.m.",
+    "ReportingTime": "March 15, 2024, 3:01 p.m.",
     "candidates": [
       {
         "Name": "Robert Rivas",
         "Party": "Dem",
-        "Votes": "17,884",
-        "Percent": "64.2",
+        "Votes": "17,985",
+        "Percent": "64.1",
         "incumbent": true
       },
       {
         "Name": "J.W. Paine",
         "Party": "Rep",
-        "Votes": "9,978",
-        "Percent": "35.8",
+        "Votes": "10,073",
+        "Percent": "35.9",
         "incumbent": false
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "State Assembly District 29 - Districtwide Results",
     "Reporting": "100% (199 of 199) precincts reporting",
-    "ReportingTime": "March 15, 2024, 12:49 p.m.",
+    "ReportingTime": "March 15, 2024, 3:39 p.m.",
     "candidates": [
       {
         "Name": "Robert Rivas",
         "Party": "Dem",
-        "Votes": "40,370",
-        "Percent": "64.8",
+        "Votes": "40,471",
+        "Percent": "64.7",
         "incumbent": true
       },
       {
         "Name": "J.W. Paine",
         "Party": "Rep",
-        "Votes": "21,950",
-        "Percent": "35.2",
+        "Votes": "22,045",
+        "Percent": "35.3",
         "incumbent": false
       }
     ]

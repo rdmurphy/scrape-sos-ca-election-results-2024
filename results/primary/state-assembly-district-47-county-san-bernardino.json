@@ -2,12 +2,12 @@
   {
     "raceTitle": "State Assembly District 47 - San Bernardino County Results",
     "Reporting": "100% (288 of 288) precincts reporting",
-    "ReportingTime": "March 14, 2024, 3:28 p.m.",
+    "ReportingTime": "March 15, 2024, 3:33 p.m.",
     "candidates": [
       {
         "Name": "Christy Holstege",
         "Party": "Dem",
-        "Votes": "8,966",
+        "Votes": "8,970",
         "Percent": "33.3",
         "incumbent": false
       },
@@ -21,7 +21,7 @@
       {
         "Name": "Greg Wallis",
         "Party": "Rep",
-        "Votes": "16,970",
+        "Votes": "16,981",
         "Percent": "63.1",
         "incumbent": true
       }
@@ -30,12 +30,12 @@
   {
     "raceTitle": "State Assembly District 47 - Districtwide Results",
     "Reporting": "100% (495 of 495) precincts reporting",
-    "ReportingTime": "March 15, 2024, 12:49 p.m.",
+    "ReportingTime": "March 15, 2024, 3:39 p.m.",
     "candidates": [
       {
         "Name": "Christy Holstege",
         "Party": "Dem",
-        "Votes": "55,154",
+        "Votes": "55,158",
         "Percent": "46.5",
         "incumbent": false
       },
@@ -49,7 +49,7 @@
       {
         "Name": "Greg Wallis",
         "Party": "Rep",
-        "Votes": "57,532",
+        "Votes": "57,543",
         "Percent": "48.5",
         "incumbent": true
       }

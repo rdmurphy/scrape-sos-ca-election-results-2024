@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 37 - San Luis Obispo County Results",
     "Reporting": "100% (13 of 13) precincts reporting",
-    "ReportingTime": "March 8, 2024, 3:59 p.m.",
+    "ReportingTime": "March 15, 2024, 1:59 p.m.",
     "candidates": [
       {
         "Name": "Gregg Hart",
         "Party": "Dem",
-        "Votes": "2,902",
-        "Percent": "50.3",
+        "Votes": "3,226",
+        "Percent": "49.1",
         "incumbent": true
       },
       {
         "Name": "Sari M. Domingues",
         "Party": "Rep",
-        "Votes": "2,872",
-        "Percent": "49.7",
+        "Votes": "3,339",
+        "Percent": "50.9",
         "incumbent": false
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "State Assembly District 37 - Districtwide Results",
     "Reporting": "100% (207 of 207) precincts reporting",
-    "ReportingTime": "March 15, 2024, 12:49 p.m.",
+    "ReportingTime": "March 15, 2024, 3:39 p.m.",
     "candidates": [
       {
         "Name": "Gregg Hart",
         "Party": "Dem",
-        "Votes": "61,821",
-        "Percent": "61.0",
+        "Votes": "62,145",
+        "Percent": "60.8",
         "incumbent": true
       },
       {
         "Name": "Sari M. Domingues",
         "Party": "Rep",
-        "Votes": "39,531",
-        "Percent": "39.0",
+        "Votes": "39,998",
+        "Percent": "39.2",
         "incumbent": false
       }
     ]

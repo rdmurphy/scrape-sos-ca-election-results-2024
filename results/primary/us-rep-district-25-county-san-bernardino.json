@@ -2,7 +2,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 25 - San Bernardino County Results",
     "Reporting": "100% (11 of 11) precincts reporting",
-    "ReportingTime": "March 14, 2024, 3:28 p.m.",
+    "ReportingTime": "March 15, 2024, 3:33 p.m.",
     "candidates": [
       {
         "Name": "Oscar Ortiz",
@@ -14,8 +14,8 @@
       {
         "Name": "Raul Ruiz",
         "Party": "Dem",
-        "Votes": "241",
-        "Percent": "27.9",
+        "Votes": "243",
+        "Percent": "28.1",
         "incumbent": true
       },
       {
@@ -29,14 +29,14 @@
         "Name": "Ceci \"Cecilia\" Truman",
         "Party": "Rep",
         "Votes": "277",
-        "Percent": "32.1",
+        "Percent": "32.0",
         "incumbent": false
       },
       {
         "Name": "Ian M. Weeks",
         "Party": "Rep",
         "Votes": "174",
-        "Percent": "20.2",
+        "Percent": "20.1",
         "incumbent": false
       },
       {
@@ -51,7 +51,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 25 - Districtwide Results",
     "Reporting": "100% (582 of 582) precincts reporting",
-    "ReportingTime": "March 15, 2024, 12:49 p.m.",
+    "ReportingTime": "March 15, 2024, 3:39 p.m.",
     "candidates": [
       {
         "Name": "Oscar Ortiz",
@@ -63,7 +63,7 @@
       {
         "Name": "Raul Ruiz",
         "Party": "Dem",
-        "Votes": "45,302",
+        "Votes": "45,304",
         "Percent": "45.4",
         "incumbent": true
       },
