@@ -2,33 +2,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 22 - Tulare County Results",
     "Reporting": "100% (40 of 40) precincts reporting",
-    "ReportingTime": "March 13, 2024, 6:04 p.m.",
+    "ReportingTime": "March 14, 2024, 5:48 p.m.",
     "candidates": [
       {
         "Name": "Melissa Hurtado",
         "Party": "Dem",
-        "Votes": "2,700",
+        "Votes": "2,701",
         "Percent": "16.4",
         "incumbent": false
       },
       {
         "Name": "Rudy Salas",
         "Party": "Dem",
-        "Votes": "3,653",
+        "Votes": "3,657",
         "Percent": "22.1",
         "incumbent": false
       },
       {
         "Name": "Chris Mathys",
         "Party": "Rep",
-        "Votes": "4,551",
+        "Votes": "4,554",
         "Percent": "27.6",
         "incumbent": false
       },
       {
         "Name": "David G. Valadao",
         "Party": "Rep",
-        "Votes": "5,602",
+        "Votes": "5,605",
         "Percent": "33.9",
         "incumbent": true
       }
@@ -37,33 +37,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 22 - Districtwide Results",
     "Reporting": "100% (414 of 414) precincts reporting",
-    "ReportingTime": "March 14, 2024, 4:29 p.m.",
+    "ReportingTime": "March 14, 2024, 5:49 p.m.",
     "candidates": [
       {
         "Name": "Melissa Hurtado",
         "Party": "Dem",
-        "Votes": "7,754",
+        "Votes": "7,755",
         "Percent": "14.0",
         "incumbent": false
       },
       {
         "Name": "Rudy Salas",
         "Party": "Dem",
-        "Votes": "16,861",
+        "Votes": "16,865",
         "Percent": "30.5",
         "incumbent": false
       },
       {
         "Name": "Chris Mathys",
         "Party": "Rep",
-        "Votes": "12,410",
+        "Votes": "12,413",
         "Percent": "22.5",
         "incumbent": false
       },
       {
         "Name": "David G. Valadao",
         "Party": "Rep",
-        "Votes": "18,229",
+        "Votes": "18,232",
         "Percent": "33.0",
         "incumbent": true
       }

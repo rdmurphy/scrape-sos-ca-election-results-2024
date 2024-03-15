@@ -1,82 +1,82 @@
 {
   "raceTitle": "State Senate District 37 - Districtwide Results",
   "Reporting": "100% (872 of 872) precincts reporting",
-  "ReportingTime": "March 14, 2024, 4:29 p.m.",
+  "ReportingTime": "March 14, 2024, 5:49 p.m.",
   "candidates": [
     {
       "Name": "Gabrielle Ashbaugh",
       "Party": "Dem",
-      "Votes": "4,288",
+      "Votes": "4,310",
       "Percent": "2.0",
       "incumbent": false
     },
     {
       "Name": "Leticia Correa",
       "Party": "Dem",
-      "Votes": "5,875",
+      "Votes": "5,895",
       "Percent": "2.7",
       "incumbent": false
     },
     {
       "Name": "Jacob Niles Creer",
       "Party": "Dem",
-      "Votes": "1,568",
+      "Votes": "1,573",
       "Percent": "0.7",
       "incumbent": false
     },
     {
       "Name": "Stephanie Le",
       "Party": "Dem",
-      "Votes": "4,429",
+      "Votes": "4,440",
       "Percent": "2.0",
       "incumbent": false
     },
     {
       "Name": "Alex Mohajer",
       "Party": "Dem",
-      "Votes": "18,073",
+      "Votes": "18,140",
       "Percent": "8.3",
       "incumbent": false
     },
     {
       "Name": "Josh Newman",
       "Party": "Dem",
-      "Votes": "65,582",
+      "Votes": "65,782",
       "Percent": "30.1",
       "incumbent": true
     },
     {
       "Name": "Jenny Suarez",
       "Party": "Dem",
-      "Votes": "3,123",
+      "Votes": "3,131",
       "Percent": "1.4",
       "incumbent": false
     },
     {
       "Name": "Steven \"Steve\" Choi",
       "Party": "Rep",
-      "Votes": "47,308",
+      "Votes": "47,446",
       "Percent": "21.7",
       "incumbent": false
     },
     {
       "Name": "Anthony C Kuo",
       "Party": "Rep",
-      "Votes": "15,350",
+      "Votes": "15,406",
       "Percent": "7.0",
       "incumbent": false
     },
     {
       "Name": "Crystal Miles",
       "Party": "Rep",
-      "Votes": "30,492",
+      "Votes": "30,602",
       "Percent": "14.0",
       "incumbent": false
     },
     {
       "Name": "Guy Selleck",
       "Party": "Rep",
-      "Votes": "22,072",
+      "Votes": "22,155",
       "Percent": "10.1",
       "incumbent": false
     }
