@@ -2,34 +2,34 @@
   {
     "raceTitle": "U.S. House of Representatives District 38 - Orange County Results",
     "Reporting": "100% (22 of 22) precincts reporting",
-    "ReportingTime": "March 14, 2024, 5:11 p.m.",
+    "ReportingTime": "March 15, 2024, 5:03 p.m.",
     "candidates": [
       {
         "Name": "Linda T. Sánchez",
         "Party": "Dem",
-        "Votes": "4,770",
-        "Percent": "48.9",
+        "Votes": "4,777",
+        "Percent": "48.8",
         "incumbent": true
       },
       {
         "Name": "Eric J. Ching",
         "Party": "Rep",
-        "Votes": "2,474",
-        "Percent": "25.3",
+        "Votes": "2,482",
+        "Percent": "25.4",
         "incumbent": false
       },
       {
         "Name": "Robert Zhang Ochoa",
         "Party": "Rep",
         "Votes": "806",
-        "Percent": "8.3",
+        "Percent": "8.2",
         "incumbent": false
       },
       {
         "Name": "John Sarega",
         "Party": "Rep",
-        "Votes": "1,714",
-        "Percent": "17.6",
+        "Votes": "1,715",
+        "Percent": "17.5",
         "incumbent": false
       }
     ]
@@ -37,19 +37,19 @@
   {
     "raceTitle": "U.S. House of Representatives District 38 - Districtwide Results",
     "Reporting": "100% (197 of 197) precincts reporting",
-    "ReportingTime": "March 15, 2024, 4:53 p.m.",
+    "ReportingTime": "March 15, 2024, 5:59 p.m.",
     "candidates": [
       {
         "Name": "Linda T. Sánchez",
         "Party": "Dem",
-        "Votes": "62,081",
+        "Votes": "62,088",
         "Percent": "56.2",
         "incumbent": true
       },
       {
         "Name": "Eric J. Ching",
         "Party": "Rep",
-        "Votes": "26,649",
+        "Votes": "26,657",
         "Percent": "24.1",
         "incumbent": false
       },
@@ -63,7 +63,7 @@
       {
         "Name": "John Sarega",
         "Party": "Rep",
-        "Votes": "13,783",
+        "Votes": "13,784",
         "Percent": "12.5",
         "incumbent": false
       }

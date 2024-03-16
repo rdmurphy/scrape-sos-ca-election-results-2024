@@ -2,40 +2,40 @@
   {
     "raceTitle": "U.S. House of Representatives District 49 - Orange County Results",
     "Reporting": "100% (194 of 194) precincts reporting",
-    "ReportingTime": "March 14, 2024, 5:11 p.m.",
+    "ReportingTime": "March 15, 2024, 5:03 p.m.",
     "candidates": [
       {
         "Name": "Mike Levin",
         "Party": "Dem",
-        "Votes": "29,606",
-        "Percent": "43.9",
+        "Votes": "29,662",
+        "Percent": "44.0",
         "incumbent": true
       },
       {
         "Name": "Sheryl Adams",
         "Party": "Rep",
-        "Votes": "2,108",
+        "Votes": "2,109",
         "Percent": "3.1",
         "incumbent": false
       },
       {
         "Name": "Matt Gunderson",
         "Party": "Rep",
-        "Votes": "18,595",
+        "Votes": "18,603",
         "Percent": "27.6",
         "incumbent": false
       },
       {
         "Name": "Kate Monroe",
         "Party": "Rep",
-        "Votes": "9,466",
+        "Votes": "9,473",
         "Percent": "14.0",
         "incumbent": false
       },
       {
         "Name": "Margarita Wilkinson",
         "Party": "Rep",
-        "Votes": "7,632",
+        "Votes": "7,637",
         "Percent": "11.3",
         "incumbent": false
       }
@@ -44,40 +44,40 @@
   {
     "raceTitle": "U.S. House of Representatives District 49 - Districtwide Results",
     "Reporting": "100% (472 of 472) precincts reporting",
-    "ReportingTime": "March 15, 2024, 4:53 p.m.",
+    "ReportingTime": "March 15, 2024, 5:59 p.m.",
     "candidates": [
       {
         "Name": "Mike Levin",
         "Party": "Dem",
-        "Votes": "96,312",
+        "Votes": "96,368",
         "Percent": "51.0",
         "incumbent": true
       },
       {
         "Name": "Sheryl Adams",
         "Party": "Rep",
-        "Votes": "4,574",
+        "Votes": "4,575",
         "Percent": "2.4",
         "incumbent": false
       },
       {
         "Name": "Matt Gunderson",
         "Party": "Rep",
-        "Votes": "48,573",
+        "Votes": "48,581",
         "Percent": "25.7",
         "incumbent": false
       },
       {
         "Name": "Kate Monroe",
         "Party": "Rep",
-        "Votes": "18,843",
+        "Votes": "18,850",
         "Percent": "10.0",
         "incumbent": false
       },
       {
         "Name": "Margarita Wilkinson",
         "Party": "Rep",
-        "Votes": "20,692",
+        "Votes": "20,697",
         "Percent": "10.9",
         "incumbent": false
       }
