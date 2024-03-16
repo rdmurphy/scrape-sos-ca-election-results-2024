@@ -2,7 +2,7 @@
   {
     "raceTitle": "State Assembly District 18 - San Francisco County Results",
     "Reporting": "100% (1 of 1) precincts reporting",
-    "ReportingTime": "March 14, 2024, 4:15 p.m.",
+    "ReportingTime": "March 15, 2024, 4:47 p.m.",
     "candidates": [
       {
         "Name": "Mia Bonta",
@@ -37,34 +37,34 @@
   {
     "raceTitle": "State Assembly District 18 - Districtwide Results",
     "Reporting": "100% (111 of 111) precincts reporting",
-    "ReportingTime": "March 15, 2024, 4:31 p.m.",
+    "ReportingTime": "March 15, 2024, 4:53 p.m.",
     "candidates": [
       {
         "Name": "Mia Bonta",
         "Party": "Dem",
-        "Votes": "53,170",
-        "Percent": "84.7",
+        "Votes": "61,606",
+        "Percent": "84.9",
         "incumbent": true
       },
       {
         "Name": "Cheyenne Kenney",
         "Party": "Rep",
-        "Votes": "3,019",
-        "Percent": "4.8",
+        "Votes": "3,416",
+        "Percent": "4.7",
         "incumbent": false
       },
       {
         "Name": "Mindy Pechenuk",
         "Party": "Rep",
-        "Votes": "3,299",
-        "Percent": "5.3",
+        "Votes": "3,757",
+        "Percent": "5.2",
         "incumbent": false
       },
       {
         "Name": "Andre Sandford",
         "Party": "AI",
-        "Votes": "3,311",
-        "Percent": "5.3",
+        "Votes": "3,793",
+        "Percent": "5.2",
         "incumbent": false
       }
     ]

@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 16 - Alameda County Results",
     "Reporting": "100% (84 of 84) precincts reporting",
-    "ReportingTime": "March 13, 2024, 4:49 p.m.",
+    "ReportingTime": "March 15, 2024, 4:52 p.m.",
     "candidates": [
       {
         "Name": "Rebecca Bauer-Kahan",
         "Party": "Dem",
-        "Votes": "18,525",
-        "Percent": "63.1",
+        "Votes": "20,219",
+        "Percent": "63.3",
         "incumbent": true
       },
       {
         "Name": "Joseph A. Rubay",
         "Party": "Rep",
-        "Votes": "10,834",
-        "Percent": "36.9",
+        "Votes": "11,712",
+        "Percent": "36.7",
         "incumbent": false
       }
     ]
@@ -23,19 +23,19 @@
   {
     "raceTitle": "State Assembly District 16 - Districtwide Results",
     "Reporting": "100% (319 of 319) precincts reporting",
-    "ReportingTime": "March 15, 2024, 4:31 p.m.",
+    "ReportingTime": "March 15, 2024, 4:53 p.m.",
     "candidates": [
       {
         "Name": "Rebecca Bauer-Kahan",
         "Party": "Dem",
-        "Votes": "77,200",
+        "Votes": "78,894",
         "Percent": "65.9",
         "incumbent": true
       },
       {
         "Name": "Joseph A. Rubay",
         "Party": "Rep",
-        "Votes": "39,948",
+        "Votes": "40,826",
         "Percent": "34.1",
         "incumbent": false
       }

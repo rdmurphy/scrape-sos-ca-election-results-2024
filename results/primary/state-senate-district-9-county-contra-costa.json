@@ -23,20 +23,20 @@
   {
     "raceTitle": "State Senate District 9 - Districtwide Results",
     "Reporting": "100% (686 of 686) precincts reporting",
-    "ReportingTime": "March 15, 2024, 4:31 p.m.",
+    "ReportingTime": "March 15, 2024, 4:53 p.m.",
     "candidates": [
       {
         "Name": "Tim Grayson",
         "Party": "Dem",
-        "Votes": "97,539",
-        "Percent": "60.2",
+        "Votes": "99,234",
+        "Percent": "60.0",
         "incumbent": false
       },
       {
         "Name": "Marisol Rubio",
         "Party": "Dem",
-        "Votes": "64,423",
-        "Percent": "39.8",
+        "Votes": "66,134",
+        "Percent": "40.0",
         "incumbent": false
       }
     ]

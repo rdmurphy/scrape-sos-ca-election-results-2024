@@ -1,33 +1,33 @@
 {
   "raceTitle": "U.S. House of Representatives District 14 - Districtwide Results",
   "Reporting": "100% (348 of 348) precincts reporting",
-  "ReportingTime": "March 15, 2024, 4:31 p.m.",
+  "ReportingTime": "March 15, 2024, 4:53 p.m.",
   "candidates": [
     {
       "Name": "Eric Swalwell",
       "Party": "Dem",
-      "Votes": "58,998",
-      "Percent": "66.8",
+      "Votes": "64,526",
+      "Percent": "67.0",
       "incumbent": true
     },
     {
       "Name": "Alison Hayden",
       "Party": "Rep",
-      "Votes": "8,365",
-      "Percent": "9.5",
+      "Votes": "9,034",
+      "Percent": "9.4",
       "incumbent": false
     },
     {
       "Name": "Vin Kruttiventi",
       "Party": "Rep",
-      "Votes": "15,543",
-      "Percent": "17.6",
+      "Votes": "16,842",
+      "Percent": "17.5",
       "incumbent": false
     },
     {
       "Name": "Luis Reynoso",
       "Party": "Rep",
-      "Votes": "5,443",
+      "Votes": "5,945",
       "Percent": "6.2",
       "incumbent": false
     }
