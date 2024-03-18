@@ -2,7 +2,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 35 - San Bernardino County Results",
     "Reporting": "100% (389 of 389) precincts reporting",
-    "ReportingTime": "March 15, 2024, 3:33 p.m.",
+    "ReportingTime": "March 18, 2024, 3:34 p.m.",
     "candidates": [
       {
         "Name": "Melissa May",
@@ -14,21 +14,21 @@
       {
         "Name": "Norma J. Torres",
         "Party": "Dem",
-        "Votes": "28,283",
+        "Votes": "28,294",
         "Percent": "47.7",
         "incumbent": true
       },
       {
         "Name": "Mike Cargile",
         "Party": "Rep",
-        "Votes": "24,589",
+        "Votes": "24,597",
         "Percent": "41.5",
         "incumbent": false
       },
       {
         "Name": "Vijal Suthar",
         "Party": "Rep",
-        "Votes": "2,460",
+        "Votes": "2,461",
         "Percent": "4.2",
         "incumbent": false
       }
@@ -37,33 +37,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 35 - Districtwide Results",
     "Reporting": "100% (431 of 431) precincts reporting",
-    "ReportingTime": "March 18, 2024, 2:05 p.m.",
+    "ReportingTime": "March 18, 2024, 4:27 p.m.",
     "candidates": [
       {
         "Name": "Melissa May",
         "Party": "Dem",
-        "Votes": "6,318",
+        "Votes": "6,320",
         "Percent": "7.9",
         "incumbent": false
       },
       {
         "Name": "Norma J. Torres",
         "Party": "Dem",
-        "Votes": "38,683",
+        "Votes": "38,701",
         "Percent": "48.3",
         "incumbent": true
       },
       {
         "Name": "Mike Cargile",
         "Party": "Rep",
-        "Votes": "31,655",
+        "Votes": "31,667",
         "Percent": "39.5",
         "incumbent": false
       },
       {
         "Name": "Vijal Suthar",
         "Party": "Rep",
-        "Votes": "3,422",
+        "Votes": "3,424",
         "Percent": "4.3",
         "incumbent": false
       }

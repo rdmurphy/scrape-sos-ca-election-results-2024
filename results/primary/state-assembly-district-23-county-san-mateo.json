@@ -2,33 +2,33 @@
   {
     "raceTitle": "State Assembly District 23 - San Mateo County Results",
     "Reporting": "100% (79 of 79) precincts reporting",
-    "ReportingTime": "March 15, 2024, 4:15 p.m.",
+    "ReportingTime": "March 18, 2024, 4:06 p.m.",
     "candidates": [
       {
         "Name": "Marc Berman",
         "Party": "Dem",
-        "Votes": "23,483",
-        "Percent": "62.0",
+        "Votes": "23,542",
+        "Percent": "61.9",
         "incumbent": true
       },
       {
         "Name": "Lydia Kou",
         "Party": "Dem",
-        "Votes": "5,755",
+        "Votes": "5,796",
         "Percent": "15.2",
         "incumbent": false
       },
       {
         "Name": "Allan K. Marson",
         "Party": "Rep",
-        "Votes": "3,583",
+        "Votes": "3,600",
         "Percent": "9.5",
         "incumbent": false
       },
       {
         "Name": "Gus Mattammal",
         "Party": "Rep",
-        "Votes": "5,062",
+        "Votes": "5,077",
         "Percent": "13.4",
         "incumbent": false
       }
@@ -37,33 +37,33 @@
   {
     "raceTitle": "State Assembly District 23 - Districtwide Results",
     "Reporting": "100% (184 of 184) precincts reporting",
-    "ReportingTime": "March 18, 2024, 2:05 p.m.",
+    "ReportingTime": "March 18, 2024, 4:27 p.m.",
     "candidates": [
       {
         "Name": "Marc Berman",
         "Party": "Dem",
-        "Votes": "66,994",
+        "Votes": "67,053",
         "Percent": "57.4",
         "incumbent": true
       },
       {
         "Name": "Lydia Kou",
         "Party": "Dem",
-        "Votes": "23,616",
+        "Votes": "23,657",
         "Percent": "20.2",
         "incumbent": false
       },
       {
         "Name": "Allan K. Marson",
         "Party": "Rep",
-        "Votes": "12,842",
+        "Votes": "12,859",
         "Percent": "11.0",
         "incumbent": false
       },
       {
         "Name": "Gus Mattammal",
         "Party": "Rep",
-        "Votes": "13,252",
+        "Votes": "13,267",
         "Percent": "11.4",
         "incumbent": false
       }

@@ -2,7 +2,7 @@
   {
     "raceTitle": "State Assembly District 41 - San Bernardino County Results",
     "Reporting": "100% (173 of 173) precincts reporting",
-    "ReportingTime": "March 15, 2024, 3:33 p.m.",
+    "ReportingTime": "March 18, 2024, 3:34 p.m.",
     "candidates": [
       {
         "Name": "John Harabedian",
@@ -37,34 +37,34 @@
   {
     "raceTitle": "State Assembly District 41 - Districtwide Results",
     "Reporting": "100% (306 of 306) precincts reporting",
-    "ReportingTime": "March 18, 2024, 2:05 p.m.",
+    "ReportingTime": "March 18, 2024, 4:27 p.m.",
     "candidates": [
       {
         "Name": "John Harabedian",
         "Party": "Dem",
-        "Votes": "36,351",
+        "Votes": "36,367",
         "Percent": "29.8",
         "incumbent": false
       },
       {
         "Name": "Jed Leano",
         "Party": "Dem",
-        "Votes": "18,292",
+        "Votes": "18,303",
         "Percent": "15.0",
         "incumbent": false
       },
       {
         "Name": "Phlunté Riddle",
         "Party": "Dem",
-        "Votes": "18,959",
+        "Votes": "18,968",
         "Percent": "15.5",
         "incumbent": false
       },
       {
         "Name": "Michelle Del Rosario Martinez",
         "Party": "Rep",
-        "Votes": "48,560",
-        "Percent": "39.8",
+        "Votes": "48,572",
+        "Percent": "39.7",
         "incumbent": false
       }
     ]

@@ -2,19 +2,19 @@
   {
     "raceTitle": "State Assembly District 34 - San Bernardino County Results",
     "Reporting": "100% (1,056 of 1,056) precincts reporting",
-    "ReportingTime": "March 15, 2024, 3:33 p.m.",
+    "ReportingTime": "March 18, 2024, 3:34 p.m.",
     "candidates": [
       {
         "Name": "Ricardo Ortega",
         "Party": "Dem",
-        "Votes": "17,776",
+        "Votes": "17,781",
         "Percent": "34.3",
         "incumbent": false
       },
       {
         "Name": "Tom Lackey",
         "Party": "Rep",
-        "Votes": "34,081",
+        "Votes": "34,085",
         "Percent": "65.7",
         "incumbent": true
       }
@@ -23,20 +23,20 @@
   {
     "raceTitle": "State Assembly District 34 - Districtwide Results",
     "Reporting": "100% (1,169 of 1,169) precincts reporting",
-    "ReportingTime": "March 18, 2024, 2:05 p.m.",
+    "ReportingTime": "March 18, 2024, 4:27 p.m.",
     "candidates": [
       {
         "Name": "Ricardo Ortega",
         "Party": "Dem",
-        "Votes": "29,537",
-        "Percent": "33.8",
+        "Votes": "29,548",
+        "Percent": "33.9",
         "incumbent": false
       },
       {
         "Name": "Tom Lackey",
         "Party": "Rep",
-        "Votes": "57,722",
-        "Percent": "66.2",
+        "Votes": "57,730",
+        "Percent": "66.1",
         "incumbent": true
       }
     ]
