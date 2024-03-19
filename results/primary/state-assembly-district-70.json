@@ -1,20 +1,20 @@
 {
   "raceTitle": "State Assembly District 70 - Districtwide Results",
   "Reporting": "100% (268 of 268) precincts reporting",
-  "ReportingTime": "March 18, 2024, 4:27 p.m.",
+  "ReportingTime": "March 18, 2024, 5:31 p.m.",
   "candidates": [
     {
       "Name": "Jimmy D. Pham",
       "Party": "Dem",
-      "Votes": "30,949",
-      "Percent": "40.7",
+      "Votes": "31,358",
+      "Percent": "40.5",
       "incumbent": false
     },
     {
       "Name": "Tri Ta",
       "Party": "Rep",
-      "Votes": "45,156",
-      "Percent": "59.3",
+      "Votes": "46,007",
+      "Percent": "59.5",
       "incumbent": true
     }
   ]
