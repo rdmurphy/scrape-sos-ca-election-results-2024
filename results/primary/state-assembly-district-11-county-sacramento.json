@@ -2,34 +2,34 @@
   {
     "raceTitle": "State Assembly District 11 - Sacramento County Results",
     "Reporting": "100% (1 of 1) precincts reporting",
-    "ReportingTime": "March 15, 2024, 4:07 p.m.",
+    "ReportingTime": "March 19, 2024, 3:17 p.m.",
     "candidates": [
       {
         "Name": "Jeffrey Flack",
         "Party": "Dem",
         "Votes": "22",
-        "Percent": "10.6",
+        "Percent": "10.5",
         "incumbent": false
       },
       {
         "Name": "Lori D Wilson",
         "Party": "Dem",
-        "Votes": "80",
-        "Percent": "38.5",
+        "Votes": "82",
+        "Percent": "39.0",
         "incumbent": true
       },
       {
         "Name": "Dave Ennis",
         "Party": "Rep",
         "Votes": "76",
-        "Percent": "36.5",
+        "Percent": "36.2",
         "incumbent": false
       },
       {
         "Name": "Wanda Wallis",
         "Party": "Rep",
         "Votes": "30",
-        "Percent": "14.4",
+        "Percent": "14.3",
         "incumbent": false
       }
     ]
@@ -37,7 +37,7 @@
   {
     "raceTitle": "State Assembly District 11 - Districtwide Results",
     "Reporting": "100% (301 of 301) precincts reporting",
-    "ReportingTime": "March 19, 2024, 8:02 a.m.",
+    "ReportingTime": "March 19, 2024, 4:21 p.m.",
     "candidates": [
       {
         "Name": "Jeffrey Flack",
@@ -49,7 +49,7 @@
       {
         "Name": "Lori D Wilson",
         "Party": "Dem",
-        "Votes": "50,048",
+        "Votes": "50,050",
         "Percent": "50.2",
         "incumbent": true
       },

@@ -2,34 +2,34 @@
   {
     "raceTitle": "U.S. House of Representatives District 9 - Stanislaus County Results",
     "Reporting": "100% (2 of 2) precincts reporting",
-    "ReportingTime": "March 14, 2024, 3:06 p.m.",
+    "ReportingTime": "March 19, 2024, 3:23 p.m.",
     "candidates": [
       {
         "Name": "Josh Harder",
         "Party": "Dem",
-        "Votes": "109",
-        "Percent": "24.8",
+        "Votes": "110",
+        "Percent": "24.9",
         "incumbent": true
       },
       {
         "Name": "Khalid Jeffrey Jafri",
         "Party": "Rep",
-        "Votes": "95",
-        "Percent": "21.6",
+        "Votes": "96",
+        "Percent": "21.8",
         "incumbent": false
       },
       {
         "Name": "Kevin Lincoln",
         "Party": "Rep",
         "Votes": "148",
-        "Percent": "33.7",
+        "Percent": "33.6",
         "incumbent": false
       },
       {
         "Name": "John McBride",
         "Party": "Rep",
         "Votes": "87",
-        "Percent": "19.8",
+        "Percent": "19.7",
         "incumbent": false
       }
     ]
@@ -37,19 +37,19 @@
   {
     "raceTitle": "U.S. House of Representatives District 9 - Districtwide Results",
     "Reporting": "100% (240 of 240) precincts reporting",
-    "ReportingTime": "March 19, 2024, 8:02 a.m.",
+    "ReportingTime": "March 19, 2024, 4:21 p.m.",
     "candidates": [
       {
         "Name": "Josh Harder",
         "Party": "Dem",
-        "Votes": "59,679",
+        "Votes": "59,680",
         "Percent": "50.0",
         "incumbent": true
       },
       {
         "Name": "Khalid Jeffrey Jafri",
         "Party": "Rep",
-        "Votes": "8,748",
+        "Votes": "8,749",
         "Percent": "7.3",
         "incumbent": false
       },

@@ -2,34 +2,34 @@
   {
     "raceTitle": "State Assembly District 5 - Placer County Results",
     "Reporting": "100% (152 of 152) precincts reporting",
-    "ReportingTime": "March 15, 2024, 4:31 p.m.",
+    "ReportingTime": "March 19, 2024, 4:21 p.m.",
     "candidates": [
       {
         "Name": "Neva Parker",
         "Party": "Dem",
-        "Votes": "34,832",
+        "Votes": "34,939",
         "Percent": "31.5",
         "incumbent": false
       },
       {
         "Name": "Athena Singh",
         "Party": "Dem",
-        "Votes": "7,797",
+        "Votes": "7,821",
         "Percent": "7.0",
         "incumbent": false
       },
       {
         "Name": "Aabhash \"ABG\" Gautam",
         "Party": "Rep",
-        "Votes": "4,589",
+        "Votes": "4,606",
         "Percent": "4.1",
         "incumbent": false
       },
       {
         "Name": "Joe Patterson",
         "Party": "Rep",
-        "Votes": "63,490",
-        "Percent": "57.3",
+        "Votes": "63,696",
+        "Percent": "57.4",
         "incumbent": true
       }
     ]
@@ -37,33 +37,33 @@
   {
     "raceTitle": "State Assembly District 5 - Districtwide Results",
     "Reporting": "100% (216 of 216) precincts reporting",
-    "ReportingTime": "March 19, 2024, 8:02 a.m.",
+    "ReportingTime": "March 19, 2024, 4:21 p.m.",
     "candidates": [
       {
         "Name": "Neva Parker",
         "Party": "Dem",
-        "Votes": "46,818",
+        "Votes": "46,925",
         "Percent": "29.6",
         "incumbent": false
       },
       {
         "Name": "Athena Singh",
         "Party": "Dem",
-        "Votes": "12,357",
+        "Votes": "12,381",
         "Percent": "7.8",
         "incumbent": false
       },
       {
         "Name": "Aabhash \"ABG\" Gautam",
         "Party": "Rep",
-        "Votes": "6,922",
+        "Votes": "6,939",
         "Percent": "4.4",
         "incumbent": false
       },
       {
         "Name": "Joe Patterson",
         "Party": "Rep",
-        "Votes": "92,077",
+        "Votes": "92,283",
         "Percent": "58.2",
         "incumbent": true
       }

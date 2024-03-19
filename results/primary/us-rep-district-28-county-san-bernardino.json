@@ -2,19 +2,19 @@
   {
     "raceTitle": "U.S. House of Representatives District 28 - San Bernardino County Results",
     "Reporting": "100% (155 of 155) precincts reporting",
-    "ReportingTime": "March 18, 2024, 3:34 p.m.",
+    "ReportingTime": "March 19, 2024, 3:33 p.m.",
     "candidates": [
       {
         "Name": "Judy Chu",
         "Party": "Dem",
-        "Votes": "7,699",
+        "Votes": "7,715",
         "Percent": "38.0",
         "incumbent": true
       },
       {
         "Name": "April A. Verlato",
         "Party": "Rep",
-        "Votes": "11,829",
+        "Votes": "11,849",
         "Percent": "58.4",
         "incumbent": false
       },
@@ -28,7 +28,7 @@
       {
         "Name": "William Patterson",
         "Party": "P&F",
-        "Votes": "346",
+        "Votes": "347",
         "Percent": "1.7",
         "incumbent": false
       }
@@ -37,33 +37,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 28 - Districtwide Results",
     "Reporting": "100% (347 of 347) precincts reporting",
-    "ReportingTime": "March 19, 2024, 8:02 a.m.",
+    "ReportingTime": "March 19, 2024, 4:21 p.m.",
     "candidates": [
       {
         "Name": "Judy Chu",
         "Party": "Dem",
-        "Votes": "99,077",
+        "Votes": "99,130",
         "Percent": "62.7",
         "incumbent": true
       },
       {
         "Name": "April A. Verlato",
         "Party": "Rep",
-        "Votes": "52,199",
+        "Votes": "52,239",
         "Percent": "33.1",
         "incumbent": false
       },
       {
         "Name": "Jose Castaneda",
         "Party": "Lib",
-        "Votes": "3,142",
+        "Votes": "3,146",
         "Percent": "2.0",
         "incumbent": false
       },
       {
         "Name": "William Patterson",
         "Party": "P&F",
-        "Votes": "3,490",
+        "Votes": "3,494",
         "Percent": "2.2",
         "incumbent": false
       }

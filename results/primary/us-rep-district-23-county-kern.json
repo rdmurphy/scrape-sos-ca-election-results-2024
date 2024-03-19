@@ -2,7 +2,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 23 - Kern County Results",
     "Reporting": "100% (23 of 23) precincts reporting",
-    "ReportingTime": "March 15, 2024, 5:59 p.m.",
+    "ReportingTime": "March 19, 2024, 3:16 p.m.",
     "candidates": [
       {
         "Name": "Derek Marshall",
@@ -23,19 +23,19 @@
   {
     "raceTitle": "U.S. House of Representatives District 23 - Districtwide Results",
     "Reporting": "100% (1,609 of 1,609) precincts reporting",
-    "ReportingTime": "March 19, 2024, 8:02 a.m.",
+    "ReportingTime": "March 19, 2024, 4:21 p.m.",
     "candidates": [
       {
         "Name": "Derek Marshall",
         "Party": "Dem",
-        "Votes": "39,930",
+        "Votes": "40,003",
         "Percent": "36.6",
         "incumbent": false
       },
       {
         "Name": "Jay Obernolte",
         "Party": "Rep",
-        "Votes": "69,273",
+        "Votes": "69,381",
         "Percent": "63.4",
         "incumbent": true
       }

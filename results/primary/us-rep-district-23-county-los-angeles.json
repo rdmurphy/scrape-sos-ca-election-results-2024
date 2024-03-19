@@ -2,19 +2,19 @@
   {
     "raceTitle": "U.S. House of Representatives District 23 - Los Angeles County Results",
     "Reporting": "100% (9 of 9) precincts reporting",
-    "ReportingTime": "March 18, 2024, 4:08 p.m.",
+    "ReportingTime": "March 19, 2024, 4:13 p.m.",
     "candidates": [
       {
         "Name": "Derek Marshall",
         "Party": "Dem",
-        "Votes": "862",
+        "Votes": "863",
         "Percent": "44.3",
         "incumbent": false
       },
       {
         "Name": "Jay Obernolte",
         "Party": "Rep",
-        "Votes": "1,085",
+        "Votes": "1,086",
         "Percent": "55.7",
         "incumbent": true
       }
@@ -23,19 +23,19 @@
   {
     "raceTitle": "U.S. House of Representatives District 23 - Districtwide Results",
     "Reporting": "100% (1,609 of 1,609) precincts reporting",
-    "ReportingTime": "March 19, 2024, 8:02 a.m.",
+    "ReportingTime": "March 19, 2024, 4:21 p.m.",
     "candidates": [
       {
         "Name": "Derek Marshall",
         "Party": "Dem",
-        "Votes": "39,930",
+        "Votes": "40,003",
         "Percent": "36.6",
         "incumbent": false
       },
       {
         "Name": "Jay Obernolte",
         "Party": "Rep",
-        "Votes": "69,273",
+        "Votes": "69,381",
         "Percent": "63.4",
         "incumbent": true
       }

@@ -2,19 +2,19 @@
   {
     "raceTitle": "U.S. House of Representatives District 13 - Stanislaus County Results",
     "Reporting": "100% (60 of 60) precincts reporting",
-    "ReportingTime": "March 14, 2024, 3:06 p.m.",
+    "ReportingTime": "March 19, 2024, 3:23 p.m.",
     "candidates": [
       {
         "Name": "Adam Gray",
         "Party": "Dem",
-        "Votes": "9,797",
+        "Votes": "9,847",
         "Percent": "48.2",
         "incumbent": false
       },
       {
         "Name": "John Duarte",
         "Party": "Rep",
-        "Votes": "10,540",
+        "Votes": "10,593",
         "Percent": "51.8",
         "incumbent": true
       }
@@ -23,19 +23,19 @@
   {
     "raceTitle": "U.S. House of Representatives District 13 - Districtwide Results",
     "Reporting": "100% (865 of 865) precincts reporting",
-    "ReportingTime": "March 19, 2024, 8:02 a.m.",
+    "ReportingTime": "March 19, 2024, 4:21 p.m.",
     "candidates": [
       {
         "Name": "Adam Gray",
         "Party": "Dem",
-        "Votes": "37,777",
+        "Votes": "37,827",
         "Percent": "45.0",
         "incumbent": false
       },
       {
         "Name": "John Duarte",
         "Party": "Rep",
-        "Votes": "46,171",
+        "Votes": "46,224",
         "Percent": "55.0",
         "incumbent": true
       }

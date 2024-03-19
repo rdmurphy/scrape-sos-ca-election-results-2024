@@ -1,19 +1,19 @@
 {
   "raceTitle": "State Assembly District 69 - Districtwide Results",
   "Reporting": "100% (119 of 119) precincts reporting",
-  "ReportingTime": "March 19, 2024, 8:02 a.m.",
+  "ReportingTime": "March 19, 2024, 4:21 p.m.",
   "candidates": [
     {
       "Name": "Josh Lowenthal",
       "Party": "Dem",
-      "Votes": "54,700",
+      "Votes": "54,733",
       "Percent": "68.0",
       "incumbent": true
     },
     {
       "Name": "Joshua Rodriguez",
       "Party": "Rep",
-      "Votes": "25,725",
+      "Votes": "25,733",
       "Percent": "32.0",
       "incumbent": false
     }

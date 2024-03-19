@@ -1,19 +1,19 @@
 {
   "raceTitle": "U.S. House of Representatives District 44 - Districtwide Results",
   "Reporting": "100% (174 of 174) precincts reporting",
-  "ReportingTime": "March 19, 2024, 8:02 a.m.",
+  "ReportingTime": "March 19, 2024, 4:21 p.m.",
   "candidates": [
     {
       "Name": "Nanette Diaz Barragán",
       "Party": "Dem",
-      "Votes": "63,538",
+      "Votes": "63,564",
       "Percent": "70.8",
       "incumbent": true
     },
     {
       "Name": "Roger Groh",
       "Party": "Rep",
-      "Votes": "26,155",
+      "Votes": "26,165",
       "Percent": "29.2",
       "incumbent": false
     }
