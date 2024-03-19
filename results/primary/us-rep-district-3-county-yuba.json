@@ -2,27 +2,27 @@
   {
     "raceTitle": "U.S. House of Representatives District 3 - Yuba County Results",
     "Reporting": "100% (12 of 12) precincts reporting",
-    "ReportingTime": "March 13, 2024, 9:21 p.m.",
+    "ReportingTime": "March 19, 2024, 8:02 a.m.",
     "candidates": [
       {
         "Name": "Jessica Morse",
         "Party": "Dem",
-        "Votes": "1,063",
-        "Percent": "27.3",
+        "Votes": "1,099",
+        "Percent": "27.4",
         "incumbent": false
       },
       {
         "Name": "Kevin Kiley",
         "Party": "Rep",
-        "Votes": "2,774",
-        "Percent": "71.2",
+        "Votes": "2,855",
+        "Percent": "71.1",
         "incumbent": true
       },
       {
         "Name": "Robert Smith",
         "Party": "NPP",
         "Votes": "61",
-        "Percent": "1.6",
+        "Percent": "1.5",
         "incumbent": false
       }
     ]
@@ -30,19 +30,19 @@
   {
     "raceTitle": "U.S. House of Representatives District 3 - Districtwide Results",
     "Reporting": "100% (454 of 454) precincts reporting",
-    "ReportingTime": "March 18, 2024, 5:31 p.m.",
+    "ReportingTime": "March 19, 2024, 8:02 a.m.",
     "candidates": [
       {
         "Name": "Jessica Morse",
         "Party": "Dem",
-        "Votes": "101,553",
+        "Votes": "101,589",
         "Percent": "42.2",
         "incumbent": false
       },
       {
         "Name": "Kevin Kiley",
         "Party": "Rep",
-        "Votes": "134,291",
+        "Votes": "134,372",
         "Percent": "55.8",
         "incumbent": true
       },
