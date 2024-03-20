@@ -30,27 +30,27 @@
   {
     "raceTitle": "State Assembly District 24 - Districtwide Results",
     "Reporting": "100% (124 of 124) precincts reporting",
-    "ReportingTime": "March 20, 2024, 12:12 p.m.",
+    "ReportingTime": "March 20, 2024, 4:20 p.m.",
     "candidates": [
       {
         "Name": "Alex Lee",
         "Party": "Dem",
-        "Votes": "39,786",
-        "Percent": "68.4",
+        "Votes": "45,523",
+        "Percent": "68.3",
         "incumbent": true
       },
       {
         "Name": "Bob Brunton",
         "Party": "Rep",
-        "Votes": "12,926",
-        "Percent": "22.2",
+        "Votes": "14,944",
+        "Percent": "22.4",
         "incumbent": false
       },
       {
         "Name": "Marti Souza",
         "Party": "Rep",
-        "Votes": "5,423",
-        "Percent": "9.3",
+        "Votes": "6,147",
+        "Percent": "9.2",
         "incumbent": false
       }
     ]

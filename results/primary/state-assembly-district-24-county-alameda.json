@@ -2,27 +2,27 @@
   {
     "raceTitle": "State Assembly District 24 - Alameda County Results",
     "Reporting": "100% (65 of 65) precincts reporting",
-    "ReportingTime": "March 15, 2024, 4:52 p.m.",
+    "ReportingTime": "March 20, 2024, 4:09 p.m.",
     "candidates": [
       {
         "Name": "Alex Lee",
         "Party": "Dem",
-        "Votes": "21,142",
-        "Percent": "69.6",
+        "Votes": "26,879",
+        "Percent": "69.2",
         "incumbent": true
       },
       {
         "Name": "Bob Brunton",
         "Party": "Rep",
-        "Votes": "6,973",
-        "Percent": "23.0",
+        "Votes": "8,991",
+        "Percent": "23.1",
         "incumbent": false
       },
       {
         "Name": "Marti Souza",
         "Party": "Rep",
-        "Votes": "2,247",
-        "Percent": "7.4",
+        "Votes": "2,971",
+        "Percent": "7.6",
         "incumbent": false
       }
     ]
@@ -30,27 +30,27 @@
   {
     "raceTitle": "State Assembly District 24 - Districtwide Results",
     "Reporting": "100% (124 of 124) precincts reporting",
-    "ReportingTime": "March 20, 2024, 12:12 p.m.",
+    "ReportingTime": "March 20, 2024, 4:20 p.m.",
     "candidates": [
       {
         "Name": "Alex Lee",
         "Party": "Dem",
-        "Votes": "39,786",
-        "Percent": "68.4",
+        "Votes": "45,523",
+        "Percent": "68.3",
         "incumbent": true
       },
       {
         "Name": "Bob Brunton",
         "Party": "Rep",
-        "Votes": "12,926",
-        "Percent": "22.2",
+        "Votes": "14,944",
+        "Percent": "22.4",
         "incumbent": false
       },
       {
         "Name": "Marti Souza",
         "Party": "Rep",
-        "Votes": "5,423",
-        "Percent": "9.3",
+        "Votes": "6,147",
+        "Percent": "9.2",
         "incumbent": false
       }
     ]

@@ -30,27 +30,27 @@
   {
     "raceTitle": "State Assembly District 14 - Districtwide Results",
     "Reporting": "100% (213 of 213) precincts reporting",
-    "ReportingTime": "March 20, 2024, 12:12 p.m.",
+    "ReportingTime": "March 20, 2024, 4:20 p.m.",
     "candidates": [
       {
         "Name": "Margot Smith",
         "Party": "Dem",
-        "Votes": "16,690",
-        "Percent": "16.7",
+        "Votes": "18,233",
+        "Percent": "17.1",
         "incumbent": false
       },
       {
         "Name": "Buffy Wicks",
         "Party": "Dem",
-        "Votes": "73,481",
-        "Percent": "73.6",
+        "Votes": "78,586",
+        "Percent": "73.5",
         "incumbent": true
       },
       {
         "Name": "Utkarsh Jain",
         "Party": "Rep",
-        "Votes": "9,637",
-        "Percent": "9.7",
+        "Votes": "10,040",
+        "Percent": "9.4",
         "incumbent": false
       }
     ]

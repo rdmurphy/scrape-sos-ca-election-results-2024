@@ -1,15 +1,15 @@
 {
   "raceTitle": "Ballot Measures - San Luis Obispo Results",
   "Reporting": "100.0% (131 of 131) precincts reporting",
-  "ReportingTime": "March 15, 2024, 1:59 p.m.",
+  "ReportingTime": "March 20, 2024, 4:20 p.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "32359",
-      "yesPercent": "47.8",
-      "noVotes": "35337",
-      "noPercent": "52.2"
+      "yesVotes": "39215",
+      "yesPercent": "46.0",
+      "noVotes": "46023",
+      "noPercent": "54.0"
     }
   ]
 }

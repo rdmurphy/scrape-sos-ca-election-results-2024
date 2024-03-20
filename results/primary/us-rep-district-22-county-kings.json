@@ -2,33 +2,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 22 - Kings County Results",
     "Reporting": "100% (11 of 11) precincts reporting",
-    "ReportingTime": "March 12, 2024, 3:57 p.m.",
+    "ReportingTime": "March 20, 2024, 3:46 p.m.",
     "candidates": [
       {
         "Name": "Melissa Hurtado",
         "Party": "Dem",
-        "Votes": "940",
+        "Votes": "946",
         "Percent": "11.8",
         "incumbent": false
       },
       {
         "Name": "Rudy Salas",
         "Party": "Dem",
-        "Votes": "2,103",
+        "Votes": "2,114",
         "Percent": "26.4",
         "incumbent": false
       },
       {
         "Name": "Chris Mathys",
         "Party": "Rep",
-        "Votes": "1,996",
-        "Percent": "25.0",
+        "Votes": "2,008",
+        "Percent": "25.1",
         "incumbent": false
       },
       {
         "Name": "David G. Valadao",
         "Party": "Rep",
-        "Votes": "2,932",
+        "Votes": "2,947",
         "Percent": "36.8",
         "incumbent": true
       }
@@ -37,33 +37,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 22 - Districtwide Results",
     "Reporting": "100% (414 of 414) precincts reporting",
-    "ReportingTime": "March 20, 2024, 12:12 p.m.",
+    "ReportingTime": "March 20, 2024, 4:20 p.m.",
     "candidates": [
       {
         "Name": "Melissa Hurtado",
         "Party": "Dem",
-        "Votes": "8,645",
+        "Votes": "8,651",
         "Percent": "14.0",
         "incumbent": false
       },
       {
         "Name": "Rudy Salas",
         "Party": "Dem",
-        "Votes": "19,377",
+        "Votes": "19,388",
         "Percent": "31.4",
         "incumbent": false
       },
       {
         "Name": "Chris Mathys",
         "Party": "Rep",
-        "Votes": "13,556",
+        "Votes": "13,568",
         "Percent": "22.0",
         "incumbent": false
       },
       {
         "Name": "David G. Valadao",
         "Party": "Rep",
-        "Votes": "20,178",
+        "Votes": "20,193",
         "Percent": "32.7",
         "incumbent": true
       }
