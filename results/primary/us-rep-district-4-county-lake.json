@@ -2,33 +2,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 4 - Lake County Results",
     "Reporting": "100% (48 of 48) precincts reporting",
-    "ReportingTime": "March 12, 2024, 5:12 p.m.",
+    "ReportingTime": "March 20, 2024, 9:33 a.m.",
     "candidates": [
       {
         "Name": "Andrew David Engdahl",
         "Party": "Dem",
-        "Votes": "273",
+        "Votes": "363",
         "Percent": "3.6",
         "incumbent": false
       },
       {
         "Name": "Mike Thompson",
         "Party": "Dem",
-        "Votes": "4,203",
-        "Percent": "55.9",
+        "Votes": "5,668",
+        "Percent": "55.8",
         "incumbent": true
       },
       {
         "Name": "John Munn",
         "Party": "Rep",
-        "Votes": "2,981",
-        "Percent": "39.6",
+        "Votes": "4,037",
+        "Percent": "39.7",
         "incumbent": false
       },
       {
         "Name": "Niket Patwardhan",
         "Party": "NPP",
-        "Votes": "65",
+        "Votes": "90",
         "Percent": "0.9",
         "incumbent": false
       }
@@ -37,33 +37,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 4 - Districtwide Results",
     "Reporting": "100% (570 of 570) precincts reporting",
-    "ReportingTime": "March 19, 2024, 5:30 p.m.",
+    "ReportingTime": "March 20, 2024, 9:33 a.m.",
     "candidates": [
       {
         "Name": "Andrew David Engdahl",
         "Party": "Dem",
-        "Votes": "11,082",
+        "Votes": "11,172",
         "Percent": "6.0",
         "incumbent": false
       },
       {
         "Name": "Mike Thompson",
         "Party": "Dem",
-        "Votes": "116,522",
-        "Percent": "63.1",
+        "Votes": "117,987",
+        "Percent": "63.0",
         "incumbent": true
       },
       {
         "Name": "John Munn",
         "Party": "Rep",
-        "Votes": "55,112",
-        "Percent": "29.8",
+        "Votes": "56,168",
+        "Percent": "30.0",
         "incumbent": false
       },
       {
         "Name": "Niket Patwardhan",
         "Party": "NPP",
-        "Votes": "2,029",
+        "Votes": "2,054",
         "Percent": "1.1",
         "incumbent": false
       }
