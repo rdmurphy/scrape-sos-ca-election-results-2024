@@ -2,27 +2,27 @@
   {
     "raceTitle": "U.S. House of Representatives District 41 - Riverside County Results",
     "Reporting": "100% (338 of 338) precincts reporting",
-    "ReportingTime": "March 18, 2024, 5:31 p.m.",
+    "ReportingTime": "March 19, 2024, 5:30 p.m.",
     "candidates": [
       {
         "Name": "Anna Nevenic",
         "Party": "Dem",
-        "Votes": "13,667",
+        "Votes": "13,693",
         "Percent": "8.5",
         "incumbent": false
       },
       {
         "Name": "Will Rollins",
         "Party": "Dem",
-        "Votes": "61,825",
+        "Votes": "61,893",
         "Percent": "38.5",
         "incumbent": false
       },
       {
         "Name": "Ken Calvert",
         "Party": "Rep",
-        "Votes": "84,929",
-        "Percent": "52.9",
+        "Votes": "85,104",
+        "Percent": "53.0",
         "incumbent": true
       }
     ]
@@ -30,27 +30,27 @@
   {
     "raceTitle": "U.S. House of Representatives District 41 - Districtwide Results",
     "Reporting": "100% (338 of 338) precincts reporting",
-    "ReportingTime": "March 19, 2024, 4:21 p.m.",
+    "ReportingTime": "March 19, 2024, 5:30 p.m.",
     "candidates": [
       {
         "Name": "Anna Nevenic",
         "Party": "Dem",
-        "Votes": "13,667",
+        "Votes": "13,693",
         "Percent": "8.5",
         "incumbent": false
       },
       {
         "Name": "Will Rollins",
         "Party": "Dem",
-        "Votes": "61,825",
+        "Votes": "61,893",
         "Percent": "38.5",
         "incumbent": false
       },
       {
         "Name": "Ken Calvert",
         "Party": "Rep",
-        "Votes": "84,929",
-        "Percent": "52.9",
+        "Votes": "85,104",
+        "Percent": "53.0",
         "incumbent": true
       }
     ]
