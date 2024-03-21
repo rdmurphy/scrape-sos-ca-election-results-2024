@@ -1,20 +1,20 @@
 {
   "raceTitle": "State Assembly District 31 - Districtwide Results",
   "Reporting": "100% (148 of 148) precincts reporting",
-  "ReportingTime": "March 20, 2024, 4:41 p.m.",
+  "ReportingTime": "March 20, 2024, 7:06 p.m.",
   "candidates": [
     {
       "Name": "Joaquin Arambula",
       "Party": "Dem",
-      "Votes": "27,734",
-      "Percent": "59.9",
+      "Votes": "28,201",
+      "Percent": "60.0",
       "incumbent": true
     },
     {
       "Name": "Solomon Verduzco",
       "Party": "Rep",
-      "Votes": "18,544",
-      "Percent": "40.1",
+      "Votes": "18,824",
+      "Percent": "40.0",
       "incumbent": false
     }
   ]

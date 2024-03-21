@@ -2,7 +2,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 18 - Santa Clara County Results",
     "Reporting": "100% (126 of 126) precincts reporting",
-    "ReportingTime": "March 19, 2024, 4:21 p.m.",
+    "ReportingTime": "March 20, 2024, 4:56 p.m.",
     "candidates": [
       {
         "Name": "Luele N Kifle",
@@ -14,28 +14,28 @@
       {
         "Name": "Zoe Lofgren",
         "Party": "Dem",
-        "Votes": "28,727",
+        "Votes": "28,732",
         "Percent": "55.4",
         "incumbent": true
       },
       {
         "Name": "Lawrence Milan",
         "Party": "Dem",
-        "Votes": "1,134",
+        "Votes": "1,136",
         "Percent": "2.2",
         "incumbent": false
       },
       {
         "Name": "Charlene Concepción Nijmeh",
         "Party": "Dem",
-        "Votes": "5,655",
+        "Votes": "5,658",
         "Percent": "10.9",
         "incumbent": false
       },
       {
         "Name": "Peter D. Hernandez",
         "Party": "Rep",
-        "Votes": "15,220",
+        "Votes": "15,226",
         "Percent": "29.3",
         "incumbent": false
       }
@@ -44,40 +44,40 @@
   {
     "raceTitle": "U.S. House of Representatives District 18 - Districtwide Results",
     "Reporting": "100% (281 of 281) precincts reporting",
-    "ReportingTime": "March 20, 2024, 4:41 p.m.",
+    "ReportingTime": "March 20, 2024, 7:06 p.m.",
     "candidates": [
       {
         "Name": "Luele N Kifle",
         "Party": "Dem",
-        "Votes": "2,024",
+        "Votes": "2,028",
         "Percent": "2.1",
         "incumbent": false
       },
       {
         "Name": "Zoe Lofgren",
         "Party": "Dem",
-        "Votes": "49,231",
-        "Percent": "51.3",
+        "Votes": "49,288",
+        "Percent": "51.2",
         "incumbent": true
       },
       {
         "Name": "Lawrence Milan",
         "Party": "Dem",
-        "Votes": "2,704",
+        "Votes": "2,710",
         "Percent": "2.8",
         "incumbent": false
       },
       {
         "Name": "Charlene Concepción Nijmeh",
         "Party": "Dem",
-        "Votes": "10,581",
+        "Votes": "10,603",
         "Percent": "11.0",
         "incumbent": false
       },
       {
         "Name": "Peter D. Hernandez",
         "Party": "Rep",
-        "Votes": "31,510",
+        "Votes": "31,595",
         "Percent": "32.8",
         "incumbent": false
       }

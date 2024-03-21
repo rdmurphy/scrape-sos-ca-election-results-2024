@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 72 - Orange County Results",
     "Reporting": "100% (369 of 369) precincts reporting",
-    "ReportingTime": "March 19, 2024, 5:02 p.m.",
+    "ReportingTime": "March 20, 2024, 5:04 p.m.",
     "candidates": [
       {
         "Name": "Dom Jones",
         "Party": "Dem",
-        "Votes": "56,085",
-        "Percent": "39.0",
+        "Votes": "56,324",
+        "Percent": "39.1",
         "incumbent": false
       },
       {
         "Name": "Diane Dixon",
         "Party": "Rep",
-        "Votes": "87,541",
-        "Percent": "61.0",
+        "Votes": "87,818",
+        "Percent": "60.9",
         "incumbent": true
       }
     ]
@@ -23,20 +23,20 @@
   {
     "raceTitle": "State Assembly District 72 - Districtwide Results",
     "Reporting": "100% (369 of 369) precincts reporting",
-    "ReportingTime": "March 20, 2024, 4:41 p.m.",
+    "ReportingTime": "March 20, 2024, 7:06 p.m.",
     "candidates": [
       {
         "Name": "Dom Jones",
         "Party": "Dem",
-        "Votes": "56,085",
-        "Percent": "39.0",
+        "Votes": "56,324",
+        "Percent": "39.1",
         "incumbent": false
       },
       {
         "Name": "Diane Dixon",
         "Party": "Rep",
-        "Votes": "87,541",
-        "Percent": "61.0",
+        "Votes": "87,818",
+        "Percent": "60.9",
         "incumbent": true
       }
     ]

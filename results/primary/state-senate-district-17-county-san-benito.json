@@ -2,33 +2,33 @@
   {
     "raceTitle": "State Senate District 17 - San Benito County Results",
     "Reporting": "100% (28 of 28) precincts reporting",
-    "ReportingTime": "March 13, 2024, 5:31 p.m.",
+    "ReportingTime": "March 20, 2024, 5:12 p.m.",
     "candidates": [
       {
         "Name": "John Laird",
         "Party": "Dem",
-        "Votes": "6,269",
-        "Percent": "51.0",
+        "Votes": "6,327",
+        "Percent": "50.9",
         "incumbent": true
       },
       {
         "Name": "Eric Tao",
         "Party": "Rep",
-        "Votes": "1,788",
+        "Votes": "1,809",
         "Percent": "14.5",
         "incumbent": false
       },
       {
         "Name": "Tony Virrueta",
         "Party": "Rep",
-        "Votes": "4,027",
-        "Percent": "32.8",
+        "Votes": "4,092",
+        "Percent": "32.9",
         "incumbent": false
       },
       {
         "Name": "Michael Oxford",
         "Party": "Lib",
-        "Votes": "207",
+        "Votes": "211",
         "Percent": "1.7",
         "incumbent": false
       }
@@ -37,33 +37,33 @@
   {
     "raceTitle": "State Senate District 17 - Districtwide Results",
     "Reporting": "100% (445 of 445) precincts reporting",
-    "ReportingTime": "March 20, 2024, 4:41 p.m.",
+    "ReportingTime": "March 20, 2024, 7:06 p.m.",
     "candidates": [
       {
         "Name": "John Laird",
         "Party": "Dem",
-        "Votes": "142,342",
+        "Votes": "142,400",
         "Percent": "64.7",
         "incumbent": true
       },
       {
         "Name": "Eric Tao",
         "Party": "Rep",
-        "Votes": "25,360",
+        "Votes": "25,381",
         "Percent": "11.5",
         "incumbent": false
       },
       {
         "Name": "Tony Virrueta",
         "Party": "Rep",
-        "Votes": "47,907",
+        "Votes": "47,972",
         "Percent": "21.8",
         "incumbent": false
       },
       {
         "Name": "Michael Oxford",
         "Party": "Lib",
-        "Votes": "4,504",
+        "Votes": "4,508",
         "Percent": "2.0",
         "incumbent": false
       }

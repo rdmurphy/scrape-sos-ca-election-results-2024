@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 64 - Orange County Results",
     "Reporting": "100% (22 of 22) precincts reporting",
-    "ReportingTime": "March 19, 2024, 5:02 p.m.",
+    "ReportingTime": "March 20, 2024, 5:04 p.m.",
     "candidates": [
       {
         "Name": "Blanca Pacheco",
         "Party": "Dem",
-        "Votes": "4,891",
-        "Percent": "49.4",
+        "Votes": "4,929",
+        "Percent": "49.5",
         "incumbent": true
       },
       {
         "Name": "Raul Ortiz Jr.",
         "Party": "Rep",
-        "Votes": "5,014",
-        "Percent": "50.6",
+        "Votes": "5,036",
+        "Percent": "50.5",
         "incumbent": false
       }
     ]
@@ -23,19 +23,19 @@
   {
     "raceTitle": "State Assembly District 64 - Districtwide Results",
     "Reporting": "100% (114 of 114) precincts reporting",
-    "ReportingTime": "March 20, 2024, 4:41 p.m.",
+    "ReportingTime": "March 20, 2024, 7:06 p.m.",
     "candidates": [
       {
         "Name": "Blanca Pacheco",
         "Party": "Dem",
-        "Votes": "35,979",
+        "Votes": "36,017",
         "Percent": "58.3",
         "incumbent": true
       },
       {
         "Name": "Raul Ortiz Jr.",
         "Party": "Rep",
-        "Votes": "25,725",
+        "Votes": "25,747",
         "Percent": "41.7",
         "incumbent": false
       }

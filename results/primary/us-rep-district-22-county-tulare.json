@@ -2,34 +2,34 @@
   {
     "raceTitle": "U.S. House of Representatives District 22 - Tulare County Results",
     "Reporting": "100% (40 of 40) precincts reporting",
-    "ReportingTime": "March 18, 2024, 5:17 p.m.",
+    "ReportingTime": "March 20, 2024, 6:15 p.m.",
     "candidates": [
       {
         "Name": "Melissa Hurtado",
         "Party": "Dem",
-        "Votes": "2,706",
+        "Votes": "2,718",
         "Percent": "16.3",
         "incumbent": false
       },
       {
         "Name": "Rudy Salas",
         "Party": "Dem",
-        "Votes": "3,669",
-        "Percent": "22.2",
+        "Votes": "3,686",
+        "Percent": "22.1",
         "incumbent": false
       },
       {
         "Name": "Chris Mathys",
         "Party": "Rep",
-        "Votes": "4,567",
+        "Votes": "4,599",
         "Percent": "27.6",
         "incumbent": false
       },
       {
         "Name": "David G. Valadao",
         "Party": "Rep",
-        "Votes": "5,615",
-        "Percent": "33.9",
+        "Votes": "5,658",
+        "Percent": "34.0",
         "incumbent": true
       }
     ]
@@ -37,33 +37,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 22 - Districtwide Results",
     "Reporting": "100% (414 of 414) precincts reporting",
-    "ReportingTime": "March 20, 2024, 4:41 p.m.",
+    "ReportingTime": "March 20, 2024, 7:06 p.m.",
     "candidates": [
       {
         "Name": "Melissa Hurtado",
         "Party": "Dem",
-        "Votes": "8,651",
+        "Votes": "8,663",
         "Percent": "14.0",
         "incumbent": false
       },
       {
         "Name": "Rudy Salas",
         "Party": "Dem",
-        "Votes": "19,388",
-        "Percent": "31.4",
+        "Votes": "19,405",
+        "Percent": "31.3",
         "incumbent": false
       },
       {
         "Name": "Chris Mathys",
         "Party": "Rep",
-        "Votes": "13,568",
+        "Votes": "13,600",
         "Percent": "22.0",
         "incumbent": false
       },
       {
         "Name": "David G. Valadao",
         "Party": "Rep",
-        "Votes": "20,193",
+        "Votes": "20,236",
         "Percent": "32.7",
         "incumbent": true
       }

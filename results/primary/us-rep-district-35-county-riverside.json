@@ -2,26 +2,26 @@
   {
     "raceTitle": "U.S. House of Representatives District 35 - Riverside County Results",
     "Reporting": "100% (14 of 14) precincts reporting",
-    "ReportingTime": "March 19, 2024, 5:30 p.m.",
+    "ReportingTime": "March 20, 2024, 5:55 p.m.",
     "candidates": [
       {
         "Name": "Melissa May",
         "Party": "Dem",
-        "Votes": "501",
+        "Votes": "502",
         "Percent": "8.1",
         "incumbent": false
       },
       {
         "Name": "Norma J. Torres",
         "Party": "Dem",
-        "Votes": "2,403",
+        "Votes": "2,407",
         "Percent": "39.1",
         "incumbent": true
       },
       {
         "Name": "Mike Cargile",
         "Party": "Rep",
-        "Votes": "2,935",
+        "Votes": "2,940",
         "Percent": "47.7",
         "incumbent": false
       },
@@ -29,7 +29,7 @@
         "Name": "Vijal Suthar",
         "Party": "Rep",
         "Votes": "311",
-        "Percent": "5.1",
+        "Percent": "5.0",
         "incumbent": false
       }
     ]
@@ -37,26 +37,26 @@
   {
     "raceTitle": "U.S. House of Representatives District 35 - Districtwide Results",
     "Reporting": "100% (431 of 431) precincts reporting",
-    "ReportingTime": "March 20, 2024, 4:41 p.m.",
+    "ReportingTime": "March 20, 2024, 7:06 p.m.",
     "candidates": [
       {
         "Name": "Melissa May",
         "Party": "Dem",
-        "Votes": "6,337",
+        "Votes": "6,338",
         "Percent": "7.9",
         "incumbent": false
       },
       {
         "Name": "Norma J. Torres",
         "Party": "Dem",
-        "Votes": "38,763",
+        "Votes": "38,767",
         "Percent": "48.3",
         "incumbent": true
       },
       {
         "Name": "Mike Cargile",
         "Party": "Rep",
-        "Votes": "31,716",
+        "Votes": "31,721",
         "Percent": "39.5",
         "incumbent": false
       },
