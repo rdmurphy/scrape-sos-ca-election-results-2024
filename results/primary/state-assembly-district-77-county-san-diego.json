@@ -2,27 +2,27 @@
   {
     "raceTitle": "State Assembly District 77 - San Diego County Results",
     "Reporting": "100% (292 of 292) precincts reporting",
-    "ReportingTime": "March 15, 2024, 4:21 p.m.",
+    "ReportingTime": "March 20, 2024, 4:41 p.m.",
     "candidates": [
       {
         "Name": "Tasha Boerner",
         "Party": "Dem",
-        "Votes": "71,639",
+        "Votes": "72,528",
         "Percent": "56.9",
         "incumbent": true
       },
       {
         "Name": "Henny Kupferstein",
         "Party": "Dem",
-        "Votes": "5,784",
-        "Percent": "4.6",
+        "Votes": "5,963",
+        "Percent": "4.7",
         "incumbent": false
       },
       {
         "Name": "James Browne",
         "Party": "Rep",
-        "Votes": "48,489",
-        "Percent": "38.5",
+        "Votes": "48,967",
+        "Percent": "38.4",
         "incumbent": false
       }
     ]
@@ -30,27 +30,27 @@
   {
     "raceTitle": "State Assembly District 77 - Districtwide Results",
     "Reporting": "100% (292 of 292) precincts reporting",
-    "ReportingTime": "March 20, 2024, 4:20 p.m.",
+    "ReportingTime": "March 20, 2024, 4:41 p.m.",
     "candidates": [
       {
         "Name": "Tasha Boerner",
         "Party": "Dem",
-        "Votes": "71,639",
+        "Votes": "72,528",
         "Percent": "56.9",
         "incumbent": true
       },
       {
         "Name": "Henny Kupferstein",
         "Party": "Dem",
-        "Votes": "5,784",
-        "Percent": "4.6",
+        "Votes": "5,963",
+        "Percent": "4.7",
         "incumbent": false
       },
       {
         "Name": "James Browne",
         "Party": "Rep",
-        "Votes": "48,489",
-        "Percent": "38.5",
+        "Votes": "48,967",
+        "Percent": "38.4",
         "incumbent": false
       }
     ]
