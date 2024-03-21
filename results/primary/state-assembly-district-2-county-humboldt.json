@@ -58,55 +58,55 @@
   {
     "raceTitle": "State Assembly District 2 - Districtwide Results",
     "Reporting": "100% (581 of 581) precincts reporting",
-    "ReportingTime": "March 21, 2024, 12:29 p.m.",
+    "ReportingTime": "March 21, 2024, 4:23 p.m.",
     "candidates": [
       {
         "Name": "Cynthia A. Click",
         "Party": "Dem",
-        "Votes": "1,469",
+        "Votes": "1,536",
         "Percent": "1.1",
         "incumbent": false
       },
       {
         "Name": "Rusty Hicks",
         "Party": "Dem",
-        "Votes": "24,042",
-        "Percent": "18.6",
+        "Votes": "25,586",
+        "Percent": "18.4",
         "incumbent": false
       },
       {
         "Name": "Ariel Kelley",
         "Party": "Dem",
-        "Votes": "18,478",
-        "Percent": "14.3",
+        "Votes": "19,449",
+        "Percent": "14.0",
         "incumbent": false
       },
       {
         "Name": "Frankie Myers",
         "Party": "Dem",
-        "Votes": "16,265",
-        "Percent": "12.6",
+        "Votes": "17,680",
+        "Percent": "12.7",
         "incumbent": false
       },
       {
         "Name": "Chris Rogers",
         "Party": "Dem",
-        "Votes": "25,859",
-        "Percent": "20.0",
+        "Votes": "27,075",
+        "Percent": "19.5",
         "incumbent": false
       },
       {
         "Name": "Ted Williams",
         "Party": "Dem",
-        "Votes": "7,715",
-        "Percent": "6.0",
+        "Votes": "9,539",
+        "Percent": "6.9",
         "incumbent": false
       },
       {
         "Name": "Michael Greer",
         "Party": "Rep",
-        "Votes": "35,199",
-        "Percent": "27.3",
+        "Votes": "38,029",
+        "Percent": "27.4",
         "incumbent": false
       }
     ]

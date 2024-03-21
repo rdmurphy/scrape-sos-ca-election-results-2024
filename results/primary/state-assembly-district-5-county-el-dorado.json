@@ -2,33 +2,33 @@
   {
     "raceTitle": "State Assembly District 5 - El Dorado County Results",
     "Reporting": "100% (64 of 64) precincts reporting",
-    "ReportingTime": "March 15, 2024, 3:51 p.m.",
+    "ReportingTime": "March 21, 2024, 4:23 p.m.",
     "candidates": [
       {
         "Name": "Neva Parker",
         "Party": "Dem",
-        "Votes": "11,986",
-        "Percent": "25.3",
+        "Votes": "12,014",
+        "Percent": "25.2",
         "incumbent": false
       },
       {
         "Name": "Athena Singh",
         "Party": "Dem",
-        "Votes": "4,560",
+        "Votes": "4,582",
         "Percent": "9.6",
         "incumbent": false
       },
       {
         "Name": "Aabhash \"ABG\" Gautam",
         "Party": "Rep",
-        "Votes": "2,333",
+        "Votes": "2,342",
         "Percent": "4.9",
         "incumbent": false
       },
       {
         "Name": "Joe Patterson",
         "Party": "Rep",
-        "Votes": "28,587",
+        "Votes": "28,693",
         "Percent": "60.2",
         "incumbent": true
       }
@@ -37,33 +37,33 @@
   {
     "raceTitle": "State Assembly District 5 - Districtwide Results",
     "Reporting": "100% (216 of 216) precincts reporting",
-    "ReportingTime": "March 21, 2024, 12:29 p.m.",
+    "ReportingTime": "March 21, 2024, 4:23 p.m.",
     "candidates": [
       {
         "Name": "Neva Parker",
         "Party": "Dem",
-        "Votes": "46,925",
+        "Votes": "46,953",
         "Percent": "29.6",
         "incumbent": false
       },
       {
         "Name": "Athena Singh",
         "Party": "Dem",
-        "Votes": "12,381",
+        "Votes": "12,403",
         "Percent": "7.8",
         "incumbent": false
       },
       {
         "Name": "Aabhash \"ABG\" Gautam",
         "Party": "Rep",
-        "Votes": "6,939",
+        "Votes": "6,948",
         "Percent": "4.4",
         "incumbent": false
       },
       {
         "Name": "Joe Patterson",
         "Party": "Rep",
-        "Votes": "92,283",
+        "Votes": "92,389",
         "Percent": "58.2",
         "incumbent": true
       }

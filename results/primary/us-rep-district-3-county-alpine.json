@@ -2,27 +2,27 @@
   {
     "raceTitle": "U.S. House of Representatives District 3 - Alpine County Results",
     "Reporting": "100% (5 of 5) precincts reporting",
-    "ReportingTime": "March 5, 2024, 9:09 p.m.",
+    "ReportingTime": "March 21, 2024, 2:56 p.m.",
     "candidates": [
       {
         "Name": "Jessica Morse",
         "Party": "Dem",
-        "Votes": "202",
-        "Percent": "58.7",
+        "Votes": "261",
+        "Percent": "61.8",
         "incumbent": false
       },
       {
         "Name": "Kevin Kiley",
         "Party": "Rep",
-        "Votes": "133",
-        "Percent": "38.7",
+        "Votes": "152",
+        "Percent": "36.0",
         "incumbent": true
       },
       {
         "Name": "Robert Smith",
         "Party": "NPP",
         "Votes": "9",
-        "Percent": "2.6",
+        "Percent": "2.1",
         "incumbent": false
       }
     ]
@@ -30,26 +30,26 @@
   {
     "raceTitle": "U.S. House of Representatives District 3 - Districtwide Results",
     "Reporting": "100% (454 of 454) precincts reporting",
-    "ReportingTime": "March 21, 2024, 12:29 p.m.",
+    "ReportingTime": "March 21, 2024, 4:23 p.m.",
     "candidates": [
       {
         "Name": "Jessica Morse",
         "Party": "Dem",
-        "Votes": "102,082",
+        "Votes": "102,244",
         "Percent": "42.2",
         "incumbent": false
       },
       {
         "Name": "Kevin Kiley",
         "Party": "Rep",
-        "Votes": "134,953",
+        "Votes": "135,119",
         "Percent": "55.8",
         "incumbent": true
       },
       {
         "Name": "Robert Smith",
         "Party": "NPP",
-        "Votes": "4,889",
+        "Votes": "4,899",
         "Percent": "2.0",
         "incumbent": false
       }

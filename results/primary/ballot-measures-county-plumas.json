@@ -1,15 +1,15 @@
 {
   "raceTitle": "Ballot Measures - Plumas Results",
   "Reporting": "100.0% (29 of 29) precincts reporting",
-  "ReportingTime": "March 15, 2024, 12:01 p.m.",
+  "ReportingTime": "March 21, 2024, 2:34 p.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
-      "yesVotes": "2197",
-      "yesPercent": "33.9",
-      "noVotes": "4293",
-      "noPercent": "66.1"
+      "yesVotes": "2280",
+      "yesPercent": "34.1",
+      "noVotes": "4412",
+      "noPercent": "65.9"
     }
   ]
 }

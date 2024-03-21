@@ -2,26 +2,26 @@
   {
     "raceTitle": "State Senate District 27 - Ventura County Results",
     "Reporting": "100% (384 of 384) precincts reporting",
-    "ReportingTime": "March 19, 2024, 3:29 p.m.",
+    "ReportingTime": "March 21, 2024, 3:40 p.m.",
     "candidates": [
       {
         "Name": "Susan A. Collins",
         "Party": "Dem",
-        "Votes": "13,184",
+        "Votes": "13,210",
         "Percent": "15.7",
         "incumbent": false
       },
       {
         "Name": "Henry Stern",
         "Party": "Dem",
-        "Votes": "28,663",
+        "Votes": "28,715",
         "Percent": "34.2",
         "incumbent": true
       },
       {
         "Name": "Lucie Volotzky",
         "Party": "Rep",
-        "Votes": "41,955",
+        "Votes": "42,064",
         "Percent": "50.1",
         "incumbent": false
       }
@@ -30,26 +30,26 @@
   {
     "raceTitle": "State Senate District 27 - Districtwide Results",
     "Reporting": "100% (531 of 531) precincts reporting",
-    "ReportingTime": "March 21, 2024, 12:29 p.m.",
+    "ReportingTime": "March 21, 2024, 4:23 p.m.",
     "candidates": [
       {
         "Name": "Susan A. Collins",
         "Party": "Dem",
-        "Votes": "39,410",
+        "Votes": "39,436",
         "Percent": "17.8",
         "incumbent": false
       },
       {
         "Name": "Henry Stern",
         "Party": "Dem",
-        "Votes": "97,999",
-        "Percent": "44.2",
+        "Votes": "98,051",
+        "Percent": "44.1",
         "incumbent": true
       },
       {
         "Name": "Lucie Volotzky",
         "Party": "Rep",
-        "Votes": "84,515",
+        "Votes": "84,624",
         "Percent": "38.1",
         "incumbent": false
       }

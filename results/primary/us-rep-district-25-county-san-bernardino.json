@@ -2,41 +2,41 @@
   {
     "raceTitle": "U.S. House of Representatives District 25 - San Bernardino County Results",
     "Reporting": "100% (11 of 11) precincts reporting",
-    "ReportingTime": "March 19, 2024, 3:33 p.m.",
+    "ReportingTime": "March 21, 2024, 3:32 p.m.",
     "candidates": [
       {
         "Name": "Oscar Ortiz",
         "Party": "Dem",
-        "Votes": "96",
+        "Votes": "97",
         "Percent": "11.1",
         "incumbent": false
       },
       {
         "Name": "Raul Ruiz",
         "Party": "Dem",
-        "Votes": "244",
-        "Percent": "28.2",
+        "Votes": "245",
+        "Percent": "28.1",
         "incumbent": true
       },
       {
         "Name": "Miguel Chapa",
         "Party": "Rep",
         "Votes": "62",
-        "Percent": "7.2",
+        "Percent": "7.1",
         "incumbent": false
       },
       {
         "Name": "Ceci \"Cecilia\" Truman",
         "Party": "Rep",
-        "Votes": "277",
-        "Percent": "32.0",
+        "Votes": "282",
+        "Percent": "32.3",
         "incumbent": false
       },
       {
         "Name": "Ian M. Weeks",
         "Party": "Rep",
         "Votes": "174",
-        "Percent": "20.1",
+        "Percent": "19.9",
         "incumbent": false
       },
       {
@@ -51,19 +51,19 @@
   {
     "raceTitle": "U.S. House of Representatives District 25 - Districtwide Results",
     "Reporting": "100% (582 of 582) precincts reporting",
-    "ReportingTime": "March 21, 2024, 12:29 p.m.",
+    "ReportingTime": "March 21, 2024, 4:23 p.m.",
     "candidates": [
       {
         "Name": "Oscar Ortiz",
         "Party": "Dem",
-        "Votes": "10,080",
+        "Votes": "10,081",
         "Percent": "10.0",
         "incumbent": false
       },
       {
         "Name": "Raul Ruiz",
         "Party": "Dem",
-        "Votes": "45,715",
+        "Votes": "45,716",
         "Percent": "45.1",
         "incumbent": true
       },
@@ -77,7 +77,7 @@
       {
         "Name": "Ceci \"Cecilia\" Truman",
         "Party": "Rep",
-        "Votes": "17,690",
+        "Votes": "17,695",
         "Percent": "17.5",
         "incumbent": false
       },

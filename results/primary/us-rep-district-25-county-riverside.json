@@ -51,19 +51,19 @@
   {
     "raceTitle": "U.S. House of Representatives District 25 - Districtwide Results",
     "Reporting": "100% (582 of 582) precincts reporting",
-    "ReportingTime": "March 21, 2024, 12:29 p.m.",
+    "ReportingTime": "March 21, 2024, 4:23 p.m.",
     "candidates": [
       {
         "Name": "Oscar Ortiz",
         "Party": "Dem",
-        "Votes": "10,080",
+        "Votes": "10,081",
         "Percent": "10.0",
         "incumbent": false
       },
       {
         "Name": "Raul Ruiz",
         "Party": "Dem",
-        "Votes": "45,715",
+        "Votes": "45,716",
         "Percent": "45.1",
         "incumbent": true
       },
@@ -77,7 +77,7 @@
       {
         "Name": "Ceci \"Cecilia\" Truman",
         "Party": "Rep",
-        "Votes": "17,690",
+        "Votes": "17,695",
         "Percent": "17.5",
         "incumbent": false
       },

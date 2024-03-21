@@ -2,27 +2,27 @@
   {
     "raceTitle": "State Assembly District 47 - San Bernardino County Results",
     "Reporting": "100% (288 of 288) precincts reporting",
-    "ReportingTime": "March 19, 2024, 3:33 p.m.",
+    "ReportingTime": "March 21, 2024, 3:32 p.m.",
     "candidates": [
       {
         "Name": "Christy Holstege",
         "Party": "Dem",
-        "Votes": "8,988",
+        "Votes": "9,045",
         "Percent": "33.3",
         "incumbent": false
       },
       {
         "Name": "Jamie Swain",
         "Party": "Dem",
-        "Votes": "983",
-        "Percent": "3.6",
+        "Votes": "992",
+        "Percent": "3.7",
         "incumbent": false
       },
       {
         "Name": "Greg Wallis",
         "Party": "Rep",
-        "Votes": "17,016",
-        "Percent": "63.1",
+        "Votes": "17,114",
+        "Percent": "63.0",
         "incumbent": true
       }
     ]
@@ -30,26 +30,26 @@
   {
     "raceTitle": "State Assembly District 47 - Districtwide Results",
     "Reporting": "100% (495 of 495) precincts reporting",
-    "ReportingTime": "March 21, 2024, 12:29 p.m.",
+    "ReportingTime": "March 21, 2024, 4:23 p.m.",
     "candidates": [
       {
         "Name": "Christy Holstege",
         "Party": "Dem",
-        "Votes": "55,402",
+        "Votes": "55,459",
         "Percent": "46.4",
         "incumbent": false
       },
       {
         "Name": "Jamie Swain",
         "Party": "Dem",
-        "Votes": "6,059",
+        "Votes": "6,068",
         "Percent": "5.1",
         "incumbent": false
       },
       {
         "Name": "Greg Wallis",
         "Party": "Rep",
-        "Votes": "57,835",
+        "Votes": "57,933",
         "Percent": "48.5",
         "incumbent": true
       }

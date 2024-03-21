@@ -2,26 +2,26 @@
   {
     "raceTitle": "U.S. House of Representatives District 3 - Plumas County Results",
     "Reporting": "100% (29 of 29) precincts reporting",
-    "ReportingTime": "March 15, 2024, 12:01 p.m.",
+    "ReportingTime": "March 21, 2024, 2:34 p.m.",
     "candidates": [
       {
         "Name": "Jessica Morse",
         "Party": "Dem",
-        "Votes": "2,382",
+        "Votes": "2,458",
         "Percent": "37.0",
         "incumbent": false
       },
       {
         "Name": "Kevin Kiley",
         "Party": "Rep",
-        "Votes": "3,910",
-        "Percent": "60.7",
+        "Votes": "4,017",
+        "Percent": "60.5",
         "incumbent": true
       },
       {
         "Name": "Robert Smith",
         "Party": "NPP",
-        "Votes": "153",
+        "Votes": "162",
         "Percent": "2.4",
         "incumbent": false
       }
@@ -30,26 +30,26 @@
   {
     "raceTitle": "U.S. House of Representatives District 3 - Districtwide Results",
     "Reporting": "100% (454 of 454) precincts reporting",
-    "ReportingTime": "March 21, 2024, 12:29 p.m.",
+    "ReportingTime": "March 21, 2024, 4:23 p.m.",
     "candidates": [
       {
         "Name": "Jessica Morse",
         "Party": "Dem",
-        "Votes": "102,082",
+        "Votes": "102,244",
         "Percent": "42.2",
         "incumbent": false
       },
       {
         "Name": "Kevin Kiley",
         "Party": "Rep",
-        "Votes": "134,953",
+        "Votes": "135,119",
         "Percent": "55.8",
         "incumbent": true
       },
       {
         "Name": "Robert Smith",
         "Party": "NPP",
-        "Votes": "4,889",
+        "Votes": "4,899",
         "Percent": "2.0",
         "incumbent": false
       }
