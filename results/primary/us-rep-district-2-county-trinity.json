@@ -2,26 +2,26 @@
   {
     "raceTitle": "U.S. House of Representatives District 2 - Trinity County Results",
     "Reporting": "100% (8 of 8) precincts reporting",
-    "ReportingTime": "March 14, 2024, 12:28 p.m.",
+    "ReportingTime": "March 21, 2024, 8:05 a.m.",
     "candidates": [
       {
         "Name": "Jared Huffman",
         "Party": "Dem",
-        "Votes": "1,651",
+        "Votes": "1,655",
         "Percent": "45.0",
         "incumbent": true
       },
       {
         "Name": "Chris Coulombe",
         "Party": "Rep",
-        "Votes": "1,137",
+        "Votes": "1,140",
         "Percent": "31.0",
         "incumbent": false
       },
       {
         "Name": "Tief Gibbs",
         "Party": "Rep",
-        "Votes": "768",
+        "Votes": "769",
         "Percent": "20.9",
         "incumbent": false
       },
@@ -44,26 +44,26 @@
   {
     "raceTitle": "U.S. House of Representatives District 2 - Districtwide Results",
     "Reporting": "100% (629 of 629) precincts reporting",
-    "ReportingTime": "March 20, 2024, 7:06 p.m.",
+    "ReportingTime": "March 21, 2024, 9:39 a.m.",
     "candidates": [
       {
         "Name": "Jared Huffman",
         "Party": "Dem",
-        "Votes": "154,704",
+        "Votes": "154,708",
         "Percent": "74.3",
         "incumbent": true
       },
       {
         "Name": "Chris Coulombe",
         "Party": "Rep",
-        "Votes": "33,386",
+        "Votes": "33,389",
         "Percent": "16.0",
         "incumbent": false
       },
       {
         "Name": "Tief Gibbs",
         "Party": "Rep",
-        "Votes": "16,176",
+        "Votes": "16,177",
         "Percent": "7.8",
         "incumbent": false
       },
