@@ -2,26 +2,26 @@
   {
     "raceTitle": "U.S. House of Representatives District 5 - Tuolumne County Results",
     "Reporting": "100% (38 of 38) precincts reporting",
-    "ReportingTime": "March 11, 2024, 11:09 a.m.",
+    "ReportingTime": "March 21, 2024, 10:48 a.m.",
     "candidates": [
       {
         "Name": "Michael J. \"Mike\" Barkley",
         "Party": "Dem",
-        "Votes": "5,869",
-        "Percent": "33.6",
+        "Votes": "5,914",
+        "Percent": "33.5",
         "incumbent": false
       },
       {
         "Name": "Tom McClintock",
         "Party": "Rep",
-        "Votes": "10,087",
-        "Percent": "57.7",
+        "Votes": "10,189",
+        "Percent": "57.8",
         "incumbent": true
       },
       {
         "Name": "Steve Wozniak",
         "Party": "NPP",
-        "Votes": "1,525",
+        "Votes": "1,534",
         "Percent": "8.7",
         "incumbent": false
       }
@@ -30,26 +30,26 @@
   {
     "raceTitle": "U.S. House of Representatives District 5 - Districtwide Results",
     "Reporting": "100% (345 of 345) precincts reporting",
-    "ReportingTime": "March 21, 2024, 9:39 a.m.",
+    "ReportingTime": "March 21, 2024, 12:29 p.m.",
     "candidates": [
       {
         "Name": "Michael J. \"Mike\" Barkley",
         "Party": "Dem",
-        "Votes": "66,334",
+        "Votes": "66,389",
         "Percent": "32.8",
         "incumbent": false
       },
       {
         "Name": "Tom McClintock",
         "Party": "Rep",
-        "Votes": "118,375",
+        "Votes": "118,501",
         "Percent": "58.5",
         "incumbent": true
       },
       {
         "Name": "Steve Wozniak",
         "Party": "NPP",
-        "Votes": "17,549",
+        "Votes": "17,563",
         "Percent": "8.7",
         "incumbent": false
       }
