@@ -2,33 +2,33 @@
   {
     "raceTitle": "State Senate District 11 - San Francisco County Results",
     "Reporting": "100% (512 of 512) precincts reporting",
-    "ReportingTime": "March 21, 2024, 9:39 a.m.",
+    "ReportingTime": "March 21, 2024, 4:51 p.m.",
     "candidates": [
       {
         "Name": "Cynthia Cravens",
         "Party": "Dem",
-        "Votes": "15,925",
+        "Votes": "15,927",
         "Percent": "7.7",
         "incumbent": false
       },
       {
         "Name": "Scott Wiener",
         "Party": "Dem",
-        "Votes": "152,842",
+        "Votes": "152,864",
         "Percent": "74.2",
         "incumbent": true
       },
       {
         "Name": "Yvette Corkrean",
         "Party": "Rep",
-        "Votes": "29,328",
+        "Votes": "29,337",
         "Percent": "14.2",
         "incumbent": false
       },
       {
         "Name": "Jing Chao Xiong",
         "Party": "NPP",
-        "Votes": "7,921",
+        "Votes": "7,923",
         "Percent": "3.8",
         "incumbent": false
       }
@@ -37,33 +37,33 @@
   {
     "raceTitle": "State Senate District 11 - Districtwide Results",
     "Reporting": "100% (549 of 549) precincts reporting",
-    "ReportingTime": "March 21, 2024, 4:23 p.m.",
+    "ReportingTime": "March 21, 2024, 6:29 p.m.",
     "candidates": [
       {
         "Name": "Cynthia Cravens",
         "Party": "Dem",
-        "Votes": "18,511",
+        "Votes": "18,513",
         "Percent": "8.1",
         "incumbent": false
       },
       {
         "Name": "Scott Wiener",
         "Party": "Dem",
-        "Votes": "166,568",
+        "Votes": "166,590",
         "Percent": "73.0",
         "incumbent": true
       },
       {
         "Name": "Yvette Corkrean",
         "Party": "Rep",
-        "Votes": "34,428",
+        "Votes": "34,437",
         "Percent": "15.1",
         "incumbent": false
       },
       {
         "Name": "Jing Chao Xiong",
         "Party": "NPP",
-        "Votes": "8,715",
+        "Votes": "8,717",
         "Percent": "3.8",
         "incumbent": false
       }

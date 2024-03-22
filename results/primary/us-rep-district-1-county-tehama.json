@@ -2,27 +2,27 @@
   {
     "raceTitle": "U.S. House of Representatives District 1 - Tehama County Results",
     "Reporting": "100% (40 of 40) precincts reporting",
-    "ReportingTime": "March 15, 2024, 12:34 p.m.",
+    "ReportingTime": "March 21, 2024, 6:29 p.m.",
     "candidates": [
       {
         "Name": "Mike Doran",
         "Party": "Dem",
-        "Votes": "1,218",
-        "Percent": "8.2",
+        "Votes": "1,250",
+        "Percent": "8.3",
         "incumbent": false
       },
       {
         "Name": "Rose Penelope Yee",
         "Party": "Dem",
-        "Votes": "2,437",
+        "Votes": "2,486",
         "Percent": "16.5",
         "incumbent": false
       },
       {
         "Name": "Doug LaMalfa",
         "Party": "Rep",
-        "Votes": "11,126",
-        "Percent": "75.3",
+        "Votes": "11,354",
+        "Percent": "75.2",
         "incumbent": true
       }
     ]
@@ -30,27 +30,27 @@
   {
     "raceTitle": "U.S. House of Representatives District 1 - Districtwide Results",
     "Reporting": "100% (490 of 490) precincts reporting",
-    "ReportingTime": "March 21, 2024, 4:23 p.m.",
+    "ReportingTime": "March 21, 2024, 6:29 p.m.",
     "candidates": [
       {
         "Name": "Mike Doran",
         "Party": "Dem",
-        "Votes": "19,416",
+        "Votes": "19,448",
         "Percent": "10.7",
         "incumbent": false
       },
       {
         "Name": "Rose Penelope Yee",
         "Party": "Dem",
-        "Votes": "41,129",
-        "Percent": "22.7",
+        "Votes": "41,178",
+        "Percent": "22.6",
         "incumbent": false
       },
       {
         "Name": "Doug LaMalfa",
         "Party": "Rep",
-        "Votes": "120,980",
-        "Percent": "66.6",
+        "Votes": "121,208",
+        "Percent": "66.7",
         "incumbent": true
       }
     ]
