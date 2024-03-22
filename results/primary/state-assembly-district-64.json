@@ -1,19 +1,19 @@
 {
   "raceTitle": "State Assembly District 64 - Districtwide Results",
   "Reporting": "100% (114 of 114) precincts reporting",
-  "ReportingTime": "March 21, 2024, 4:23 p.m.",
+  "ReportingTime": "March 21, 2024, 6:29 p.m.",
   "candidates": [
     {
       "Name": "Blanca Pacheco",
       "Party": "Dem",
-      "Votes": "36,017",
+      "Votes": "36,033",
       "Percent": "58.3",
       "incumbent": true
     },
     {
       "Name": "Raul Ortiz Jr.",
       "Party": "Rep",
-      "Votes": "25,747",
+      "Votes": "25,759",
       "Percent": "41.7",
       "incumbent": false
     }
