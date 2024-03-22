@@ -1,15 +1,15 @@
 {
   "raceTitle": "Ballot Measures - Mariposa Results",
   "Reporting": "100.0% (27 of 27) precincts reporting",
-  "ReportingTime": "March 12, 2024, 12:00 p.m.",
+  "ReportingTime": "March 22, 2024, 12:02 p.m.",
   "ballot-measures": [
     {
       "Name": "Bonds for Mental Health Treatment Facilities",
       "Number": "01",
       "yesVotes": "2192",
-      "yesPercent": "36.6",
-      "noVotes": "3803",
-      "noPercent": "63.4"
+      "yesPercent": "36.5",
+      "noVotes": "3809",
+      "noPercent": "63.5"
     }
   ]
 }

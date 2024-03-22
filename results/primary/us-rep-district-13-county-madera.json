@@ -2,19 +2,19 @@
   {
     "raceTitle": "U.S. House of Representatives District 13 - Madera County Results",
     "Reporting": "100% (30 of 30) precincts reporting",
-    "ReportingTime": "March 13, 2024, 4:29 p.m.",
+    "ReportingTime": "March 22, 2024, 10:38 a.m.",
     "candidates": [
       {
         "Name": "Adam Gray",
         "Party": "Dem",
-        "Votes": "5,406",
+        "Votes": "5,421",
         "Percent": "36.9",
         "incumbent": false
       },
       {
         "Name": "John Duarte",
         "Party": "Rep",
-        "Votes": "9,247",
+        "Votes": "9,267",
         "Percent": "63.1",
         "incumbent": true
       }
@@ -23,19 +23,19 @@
   {
     "raceTitle": "U.S. House of Representatives District 13 - Districtwide Results",
     "Reporting": "100% (865 of 865) precincts reporting",
-    "ReportingTime": "March 21, 2024, 6:29 p.m.",
+    "ReportingTime": "March 22, 2024, 1:32 p.m.",
     "candidates": [
       {
         "Name": "Adam Gray",
         "Party": "Dem",
-        "Votes": "38,167",
+        "Votes": "38,182",
         "Percent": "45.0",
         "incumbent": false
       },
       {
         "Name": "John Duarte",
         "Party": "Rep",
-        "Votes": "46,588",
+        "Votes": "46,608",
         "Percent": "55.0",
         "incumbent": true
       }

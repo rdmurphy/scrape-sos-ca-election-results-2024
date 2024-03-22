@@ -2,27 +2,27 @@
   {
     "raceTitle": "U.S. House of Representatives District 1 - Butte County Results",
     "Reporting": "100% (88 of 88) precincts reporting",
-    "ReportingTime": "March 14, 2024, 2:23 p.m.",
+    "ReportingTime": "March 22, 2024, 11:48 a.m.",
     "candidates": [
       {
         "Name": "Mike Doran",
         "Party": "Dem",
-        "Votes": "6,956",
+        "Votes": "7,062",
         "Percent": "13.1",
         "incumbent": false
       },
       {
         "Name": "Rose Penelope Yee",
         "Party": "Dem",
-        "Votes": "16,655",
-        "Percent": "31.2",
+        "Votes": "16,844",
+        "Percent": "31.1",
         "incumbent": false
       },
       {
         "Name": "Doug LaMalfa",
         "Party": "Rep",
-        "Votes": "29,688",
-        "Percent": "55.7",
+        "Votes": "30,187",
+        "Percent": "55.8",
         "incumbent": true
       }
     ]
@@ -30,27 +30,27 @@
   {
     "raceTitle": "U.S. House of Representatives District 1 - Districtwide Results",
     "Reporting": "100% (490 of 490) precincts reporting",
-    "ReportingTime": "March 21, 2024, 6:29 p.m.",
+    "ReportingTime": "March 22, 2024, 1:32 p.m.",
     "candidates": [
       {
         "Name": "Mike Doran",
         "Party": "Dem",
-        "Votes": "19,448",
+        "Votes": "19,554",
         "Percent": "10.7",
         "incumbent": false
       },
       {
         "Name": "Rose Penelope Yee",
         "Party": "Dem",
-        "Votes": "41,178",
-        "Percent": "22.6",
+        "Votes": "41,367",
+        "Percent": "22.7",
         "incumbent": false
       },
       {
         "Name": "Doug LaMalfa",
         "Party": "Rep",
-        "Votes": "121,208",
-        "Percent": "66.7",
+        "Votes": "121,707",
+        "Percent": "66.6",
         "incumbent": true
       }
     ]

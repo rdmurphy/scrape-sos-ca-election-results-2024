@@ -2,27 +2,27 @@
   {
     "raceTitle": "U.S. House of Representatives District 7 - Sacramento County Results",
     "Reporting": "100% (282 of 282) precincts reporting",
-    "ReportingTime": "March 19, 2024, 3:17 p.m.",
+    "ReportingTime": "March 22, 2024, 1:32 p.m.",
     "candidates": [
       {
         "Name": "David Lee Mandel",
         "Party": "Dem",
-        "Votes": "18,333",
-        "Percent": "12.6",
+        "Votes": "18,845",
+        "Percent": "12.8",
         "incumbent": false
       },
       {
         "Name": "Doris Matsui",
         "Party": "Dem",
-        "Votes": "82,582",
-        "Percent": "56.8",
+        "Votes": "83,409",
+        "Percent": "56.4",
         "incumbent": true
       },
       {
         "Name": "Tom Silva",
         "Party": "Rep",
-        "Votes": "44,589",
-        "Percent": "30.6",
+        "Votes": "45,508",
+        "Percent": "30.8",
         "incumbent": false
       }
     ]
@@ -30,27 +30,27 @@
   {
     "raceTitle": "U.S. House of Representatives District 7 - Districtwide Results",
     "Reporting": "100% (291 of 291) precincts reporting",
-    "ReportingTime": "March 21, 2024, 6:29 p.m.",
+    "ReportingTime": "March 22, 2024, 1:32 p.m.",
     "candidates": [
       {
         "Name": "David Lee Mandel",
         "Party": "Dem",
-        "Votes": "19,534",
-        "Percent": "12.5",
+        "Votes": "20,046",
+        "Percent": "12.7",
         "incumbent": false
       },
       {
         "Name": "Doris Matsui",
         "Party": "Dem",
-        "Votes": "88,629",
-        "Percent": "56.8",
+        "Votes": "89,456",
+        "Percent": "56.5",
         "incumbent": true
       },
       {
         "Name": "Tom Silva",
         "Party": "Rep",
-        "Votes": "48,001",
-        "Percent": "30.7",
+        "Votes": "48,920",
+        "Percent": "30.9",
         "incumbent": false
       }
     ]

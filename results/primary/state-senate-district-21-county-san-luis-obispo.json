@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Senate District 21 - San Luis Obispo County Results",
     "Reporting": "100% (30 of 30) precincts reporting",
-    "ReportingTime": "March 20, 2024, 4:20 p.m.",
+    "ReportingTime": "March 22, 2024, 12:27 p.m.",
     "candidates": [
       {
         "Name": "S. Monique Limón",
         "Party": "Dem",
-        "Votes": "7,816",
-        "Percent": "49.1",
+        "Votes": "8,002",
+        "Percent": "48.8",
         "incumbent": true
       },
       {
         "Name": "Elijah Mack",
         "Party": "Rep",
-        "Votes": "8,109",
-        "Percent": "50.9",
+        "Votes": "8,392",
+        "Percent": "51.2",
         "incumbent": false
       }
     ]
@@ -23,19 +23,19 @@
   {
     "raceTitle": "State Senate District 21 - Districtwide Results",
     "Reporting": "100% (1,239 of 1,239) precincts reporting",
-    "ReportingTime": "March 21, 2024, 6:29 p.m.",
+    "ReportingTime": "March 22, 2024, 1:32 p.m.",
     "candidates": [
       {
         "Name": "S. Monique Limón",
         "Party": "Dem",
-        "Votes": "126,864",
+        "Votes": "127,050",
         "Percent": "61.9",
         "incumbent": true
       },
       {
         "Name": "Elijah Mack",
         "Party": "Rep",
-        "Votes": "78,060",
+        "Votes": "78,343",
         "Percent": "38.1",
         "incumbent": false
       }
