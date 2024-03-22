@@ -2,34 +2,34 @@
   {
     "raceTitle": "U.S. House of Representatives District 9 - Contra Costa County Results",
     "Reporting": "100% (37 of 37) precincts reporting",
-    "ReportingTime": "March 15, 2024, 3:23 p.m.",
+    "ReportingTime": "March 22, 2024, 3:15 p.m.",
     "candidates": [
       {
         "Name": "Josh Harder",
         "Party": "Dem",
-        "Votes": "1,762",
+        "Votes": "1,769",
         "Percent": "41.7",
         "incumbent": true
       },
       {
         "Name": "Khalid Jeffrey Jafri",
         "Party": "Rep",
-        "Votes": "445",
+        "Votes": "446",
         "Percent": "10.5",
         "incumbent": false
       },
       {
         "Name": "Kevin Lincoln",
         "Party": "Rep",
-        "Votes": "1,208",
-        "Percent": "28.6",
+        "Votes": "1,211",
+        "Percent": "28.5",
         "incumbent": false
       },
       {
         "Name": "John McBride",
         "Party": "Rep",
-        "Votes": "814",
-        "Percent": "19.2",
+        "Votes": "817",
+        "Percent": "19.3",
         "incumbent": false
       }
     ]
@@ -37,33 +37,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 9 - Districtwide Results",
     "Reporting": "100% (240 of 240) precincts reporting",
-    "ReportingTime": "March 22, 2024, 1:32 p.m.",
+    "ReportingTime": "March 22, 2024, 4:06 p.m.",
     "candidates": [
       {
         "Name": "Josh Harder",
         "Party": "Dem",
-        "Votes": "59,897",
+        "Votes": "59,904",
         "Percent": "49.9",
         "incumbent": true
       },
       {
         "Name": "Khalid Jeffrey Jafri",
         "Party": "Rep",
-        "Votes": "8,839",
+        "Votes": "8,840",
         "Percent": "7.4",
         "incumbent": false
       },
       {
         "Name": "Kevin Lincoln",
         "Party": "Rep",
-        "Votes": "35,933",
+        "Votes": "35,936",
         "Percent": "30.0",
         "incumbent": false
       },
       {
         "Name": "John McBride",
         "Party": "Rep",
-        "Votes": "15,296",
+        "Votes": "15,299",
         "Percent": "12.8",
         "incumbent": false
       }

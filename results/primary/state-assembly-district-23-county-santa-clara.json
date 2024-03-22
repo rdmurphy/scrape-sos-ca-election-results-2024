@@ -2,26 +2,26 @@
   {
     "raceTitle": "State Assembly District 23 - Santa Clara County Results",
     "Reporting": "100% (105 of 105) precincts reporting",
-    "ReportingTime": "March 21, 2024, 4:04 p.m.",
+    "ReportingTime": "March 22, 2024, 3:49 p.m.",
     "candidates": [
       {
         "Name": "Marc Berman",
         "Party": "Dem",
-        "Votes": "43,545",
+        "Votes": "43,553",
         "Percent": "55.2",
         "incumbent": true
       },
       {
         "Name": "Lydia Kou",
         "Party": "Dem",
-        "Votes": "17,890",
+        "Votes": "17,896",
         "Percent": "22.7",
         "incumbent": false
       },
       {
         "Name": "Allan K. Marson",
         "Party": "Rep",
-        "Votes": "9,275",
+        "Votes": "9,278",
         "Percent": "11.8",
         "incumbent": false
       },
@@ -37,33 +37,33 @@
   {
     "raceTitle": "State Assembly District 23 - Districtwide Results",
     "Reporting": "100% (184 of 184) precincts reporting",
-    "ReportingTime": "March 22, 2024, 1:32 p.m.",
+    "ReportingTime": "March 22, 2024, 4:06 p.m.",
     "candidates": [
       {
         "Name": "Marc Berman",
         "Party": "Dem",
-        "Votes": "67,094",
+        "Votes": "67,106",
         "Percent": "57.4",
         "incumbent": true
       },
       {
         "Name": "Lydia Kou",
         "Party": "Dem",
-        "Votes": "23,690",
+        "Votes": "23,699",
         "Percent": "20.3",
         "incumbent": false
       },
       {
         "Name": "Allan K. Marson",
         "Party": "Rep",
-        "Votes": "12,878",
+        "Votes": "12,881",
         "Percent": "11.0",
         "incumbent": false
       },
       {
         "Name": "Gus Mattammal",
         "Party": "Rep",
-        "Votes": "13,276",
+        "Votes": "13,277",
         "Percent": "11.4",
         "incumbent": false
       }
