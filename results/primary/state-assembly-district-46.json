@@ -1,19 +1,19 @@
 {
   "raceTitle": "State Assembly District 46 - Districtwide Results",
   "Reporting": "100% (114 of 114) precincts reporting",
-  "ReportingTime": "March 22, 2024, 4:06 p.m.",
+  "ReportingTime": "March 22, 2024, 4:22 p.m.",
   "candidates": [
     {
       "Name": "Jesse Gabriel",
       "Party": "Dem",
-      "Votes": "50,120",
+      "Votes": "50,132",
       "Percent": "65.5",
       "incumbent": true
     },
     {
       "Name": "Tracey Schroeder",
       "Party": "Rep",
-      "Votes": "26,354",
+      "Votes": "26,363",
       "Percent": "34.5",
       "incumbent": false
     }

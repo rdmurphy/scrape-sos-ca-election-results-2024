@@ -2,19 +2,19 @@
   {
     "raceTitle": "U.S. House of Representatives District 28 - Los Angeles County Results",
     "Reporting": "100% (192 of 192) precincts reporting",
-    "ReportingTime": "March 19, 2024, 4:13 p.m.",
+    "ReportingTime": "March 22, 2024, 4:22 p.m.",
     "candidates": [
       {
         "Name": "Judy Chu",
         "Party": "Dem",
-        "Votes": "91,415",
+        "Votes": "91,432",
         "Percent": "66.4",
         "incumbent": true
       },
       {
         "Name": "April A. Verlato",
         "Party": "Rep",
-        "Votes": "40,390",
+        "Votes": "40,401",
         "Percent": "29.3",
         "incumbent": false
       },
@@ -28,7 +28,7 @@
       {
         "Name": "William Patterson",
         "Party": "P&F",
-        "Votes": "3,147",
+        "Votes": "3,148",
         "Percent": "2.3",
         "incumbent": false
       }
@@ -37,19 +37,19 @@
   {
     "raceTitle": "U.S. House of Representatives District 28 - Districtwide Results",
     "Reporting": "100% (347 of 347) precincts reporting",
-    "ReportingTime": "March 22, 2024, 4:06 p.m.",
+    "ReportingTime": "March 22, 2024, 4:22 p.m.",
     "candidates": [
       {
         "Name": "Judy Chu",
         "Party": "Dem",
-        "Votes": "99,169",
+        "Votes": "99,186",
         "Percent": "62.7",
         "incumbent": true
       },
       {
         "Name": "April A. Verlato",
         "Party": "Rep",
-        "Votes": "52,298",
+        "Votes": "52,309",
         "Percent": "33.1",
         "incumbent": false
       },
@@ -63,7 +63,7 @@
       {
         "Name": "William Patterson",
         "Party": "P&F",
-        "Votes": "3,497",
+        "Votes": "3,498",
         "Percent": "2.2",
         "incumbent": false
       }

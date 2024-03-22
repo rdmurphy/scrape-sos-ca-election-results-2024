@@ -37,19 +37,19 @@
   {
     "raceTitle": "U.S. House of Representatives District 28 - Districtwide Results",
     "Reporting": "100% (347 of 347) precincts reporting",
-    "ReportingTime": "March 22, 2024, 4:06 p.m.",
+    "ReportingTime": "March 22, 2024, 4:22 p.m.",
     "candidates": [
       {
         "Name": "Judy Chu",
         "Party": "Dem",
-        "Votes": "99,169",
+        "Votes": "99,186",
         "Percent": "62.7",
         "incumbent": true
       },
       {
         "Name": "April A. Verlato",
         "Party": "Rep",
-        "Votes": "52,298",
+        "Votes": "52,309",
         "Percent": "33.1",
         "incumbent": false
       },
@@ -63,7 +63,7 @@
       {
         "Name": "William Patterson",
         "Party": "P&F",
-        "Votes": "3,497",
+        "Votes": "3,498",
         "Percent": "2.2",
         "incumbent": false
       }

@@ -1,33 +1,33 @@
 {
   "raceTitle": "U.S. House of Representatives District 36 - Districtwide Results",
   "Reporting": "100% (163 of 163) precincts reporting",
-  "ReportingTime": "March 22, 2024, 4:06 p.m.",
+  "ReportingTime": "March 22, 2024, 4:22 p.m.",
   "candidates": [
     {
       "Name": "Ted W. Lieu",
       "Party": "Dem",
-      "Votes": "125,737",
+      "Votes": "125,795",
       "Percent": "68.5",
       "incumbent": true
     },
     {
       "Name": "Ariana Hakami",
       "Party": "Rep",
-      "Votes": "25,790",
+      "Votes": "25,813",
       "Percent": "14.1",
       "incumbent": false
     },
     {
       "Name": "Melissa Toomim",
       "Party": "Rep",
-      "Votes": "27,409",
+      "Votes": "27,430",
       "Percent": "14.9",
       "incumbent": false
     },
     {
       "Name": "Claire Ragge Anderson",
       "Party": "NPP",
-      "Votes": "4,500",
+      "Votes": "4,506",
       "Percent": "2.5",
       "incumbent": false
     }
