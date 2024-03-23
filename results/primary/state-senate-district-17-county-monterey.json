@@ -2,33 +2,33 @@
   {
     "raceTitle": "State Senate District 17 - Monterey County Results",
     "Reporting": "100% (207 of 207) precincts reporting",
-    "ReportingTime": "March 15, 2024, 3:01 p.m.",
+    "ReportingTime": "March 22, 2024, 5:17 p.m.",
     "candidates": [
       {
         "Name": "John Laird",
         "Party": "Dem",
-        "Votes": "41,465",
+        "Votes": "41,501",
         "Percent": "63.5",
         "incumbent": true
       },
       {
         "Name": "Eric Tao",
         "Party": "Rep",
-        "Votes": "8,003",
+        "Votes": "8,013",
         "Percent": "12.3",
         "incumbent": false
       },
       {
         "Name": "Tony Virrueta",
         "Party": "Rep",
-        "Votes": "14,504",
+        "Votes": "14,528",
         "Percent": "22.2",
         "incumbent": false
       },
       {
         "Name": "Michael Oxford",
         "Party": "Lib",
-        "Votes": "1,354",
+        "Votes": "1,356",
         "Percent": "2.1",
         "incumbent": false
       }
@@ -37,33 +37,33 @@
   {
     "raceTitle": "State Senate District 17 - Districtwide Results",
     "Reporting": "100% (445 of 445) precincts reporting",
-    "ReportingTime": "March 22, 2024, 5:09 p.m.",
+    "ReportingTime": "March 22, 2024, 5:17 p.m.",
     "candidates": [
       {
         "Name": "John Laird",
         "Party": "Dem",
-        "Votes": "143,354",
+        "Votes": "143,390",
         "Percent": "64.5",
         "incumbent": true
       },
       {
         "Name": "Eric Tao",
         "Party": "Rep",
-        "Votes": "25,712",
+        "Votes": "25,722",
         "Percent": "11.6",
         "incumbent": false
       },
       {
         "Name": "Tony Virrueta",
         "Party": "Rep",
-        "Votes": "48,587",
+        "Votes": "48,611",
         "Percent": "21.9",
         "incumbent": false
       },
       {
         "Name": "Michael Oxford",
         "Party": "Lib",
-        "Votes": "4,554",
+        "Votes": "4,556",
         "Percent": "2.0",
         "incumbent": false
       }

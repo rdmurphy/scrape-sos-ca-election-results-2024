@@ -1,27 +1,27 @@
 {
   "raceTitle": "State Assembly District 60 - Districtwide Results",
   "Reporting": "100% (139 of 139) precincts reporting",
-  "ReportingTime": "March 22, 2024, 5:09 p.m.",
+  "ReportingTime": "March 22, 2024, 5:17 p.m.",
   "candidates": [
     {
       "Name": "Corey A Jackson",
       "Party": "Dem",
-      "Votes": "22,796",
+      "Votes": "22,839",
       "Percent": "51.8",
       "incumbent": true
     },
     {
       "Name": "Hector Diaz Nava",
       "Party": "Rep",
-      "Votes": "9,252",
-      "Percent": "21.0",
+      "Votes": "9,284",
+      "Percent": "21.1",
       "incumbent": false
     },
     {
       "Name": "Ron Edwards",
       "Party": "Rep",
-      "Votes": "11,928",
-      "Percent": "27.1",
+      "Votes": "11,975",
+      "Percent": "27.2",
       "incumbent": false
     }
   ]
