@@ -23,20 +23,20 @@
   {
     "raceTitle": "State Assembly District 3 - Districtwide Results",
     "Reporting": "100% (290 of 290) precincts reporting",
-    "ReportingTime": "March 22, 2024, 4:22 p.m.",
+    "ReportingTime": "March 22, 2024, 5:09 p.m.",
     "candidates": [
       {
         "Name": "Aaron Draper",
         "Party": "Dem",
-        "Votes": "35,403",
-        "Percent": "31.7",
+        "Votes": "35,413",
+        "Percent": "31.6",
         "incumbent": false
       },
       {
         "Name": "Jamie \"James\" Gallagher",
         "Party": "Rep",
-        "Votes": "76,453",
-        "Percent": "68.3",
+        "Votes": "76,487",
+        "Percent": "68.4",
         "incumbent": true
       }
     ]

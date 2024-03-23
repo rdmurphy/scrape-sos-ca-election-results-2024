@@ -2,33 +2,33 @@
   {
     "raceTitle": "State Senate District 17 - Santa Cruz County Results",
     "Reporting": "100% (109 of 109) precincts reporting",
-    "ReportingTime": "March 19, 2024, 4:11 p.m.",
+    "ReportingTime": "March 22, 2024, 4:39 p.m.",
     "candidates": [
       {
         "Name": "John Laird",
         "Party": "Dem",
-        "Votes": "58,172",
+        "Votes": "58,317",
         "Percent": "77.7",
         "incumbent": true
       },
       {
         "Name": "Eric Tao",
         "Party": "Rep",
-        "Votes": "5,165",
+        "Votes": "5,179",
         "Percent": "6.9",
         "incumbent": false
       },
       {
         "Name": "Tony Virrueta",
         "Party": "Rep",
-        "Votes": "9,946",
+        "Votes": "9,970",
         "Percent": "13.3",
         "incumbent": false
       },
       {
         "Name": "Michael Oxford",
         "Party": "Lib",
-        "Votes": "1,580",
+        "Votes": "1,589",
         "Percent": "2.1",
         "incumbent": false
       }
@@ -37,33 +37,33 @@
   {
     "raceTitle": "State Senate District 17 - Districtwide Results",
     "Reporting": "100% (445 of 445) precincts reporting",
-    "ReportingTime": "March 22, 2024, 4:22 p.m.",
+    "ReportingTime": "March 22, 2024, 5:09 p.m.",
     "candidates": [
       {
         "Name": "John Laird",
         "Party": "Dem",
-        "Votes": "143,209",
+        "Votes": "143,354",
         "Percent": "64.5",
         "incumbent": true
       },
       {
         "Name": "Eric Tao",
         "Party": "Rep",
-        "Votes": "25,698",
+        "Votes": "25,712",
         "Percent": "11.6",
         "incumbent": false
       },
       {
         "Name": "Tony Virrueta",
         "Party": "Rep",
-        "Votes": "48,563",
+        "Votes": "48,587",
         "Percent": "21.9",
         "incumbent": false
       },
       {
         "Name": "Michael Oxford",
         "Party": "Lib",
-        "Votes": "4,545",
+        "Votes": "4,554",
         "Percent": "2.0",
         "incumbent": false
       }

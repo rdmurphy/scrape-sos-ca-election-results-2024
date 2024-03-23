@@ -2,27 +2,27 @@
   {
     "raceTitle": "State Senate District 5 - San Joaquin County Results",
     "Reporting": "100% (214 of 214) precincts reporting",
-    "ReportingTime": "March 20, 2024, 4:08 p.m.",
+    "ReportingTime": "March 22, 2024, 5:00 p.m.",
     "candidates": [
       {
         "Name": "Jerry McNerney",
         "Party": "Dem",
-        "Votes": "37,720",
-        "Percent": "31.3",
+        "Votes": "38,044",
+        "Percent": "31.2",
         "incumbent": false
       },
       {
         "Name": "Carlos Villapudua",
         "Party": "Dem",
-        "Votes": "26,722",
+        "Votes": "27,020",
         "Percent": "22.2",
         "incumbent": false
       },
       {
         "Name": "Jim Shoemaker",
         "Party": "Rep",
-        "Votes": "55,983",
-        "Percent": "46.5",
+        "Votes": "56,734",
+        "Percent": "46.6",
         "incumbent": false
       }
     ]
@@ -30,27 +30,27 @@
   {
     "raceTitle": "State Senate District 5 - Districtwide Results",
     "Reporting": "100% (330 of 330) precincts reporting",
-    "ReportingTime": "March 22, 2024, 4:22 p.m.",
+    "ReportingTime": "March 22, 2024, 5:09 p.m.",
     "candidates": [
       {
         "Name": "Jerry McNerney",
         "Party": "Dem",
-        "Votes": "56,716",
-        "Percent": "33.3",
+        "Votes": "57,040",
+        "Percent": "33.2",
         "incumbent": false
       },
       {
         "Name": "Carlos Villapudua",
         "Party": "Dem",
-        "Votes": "39,350",
+        "Votes": "39,648",
         "Percent": "23.1",
         "incumbent": false
       },
       {
         "Name": "Jim Shoemaker",
         "Party": "Rep",
-        "Votes": "74,184",
-        "Percent": "43.6",
+        "Votes": "74,935",
+        "Percent": "43.7",
         "incumbent": false
       }
     ]

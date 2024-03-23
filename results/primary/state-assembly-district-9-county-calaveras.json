@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 9 - Calaveras County Results",
     "Reporting": "100% (6 of 6) precincts reporting",
-    "ReportingTime": "March 15, 2024, 4:15 p.m.",
+    "ReportingTime": "March 22, 2024, 5:09 p.m.",
     "candidates": [
       {
         "Name": "Heath Flora",
         "Party": "Rep",
-        "Votes": "3,621",
-        "Percent": "78.5",
+        "Votes": "3,651",
+        "Percent": "78.6",
         "incumbent": true
       },
       {
         "Name": "Tami Nobriga",
         "Party": "AI",
-        "Votes": "991",
-        "Percent": "21.5",
+        "Votes": "993",
+        "Percent": "21.4",
         "incumbent": false
       }
     ]
@@ -23,19 +23,19 @@
   {
     "raceTitle": "State Assembly District 9 - Districtwide Results",
     "Reporting": "100% (186 of 186) precincts reporting",
-    "ReportingTime": "March 22, 2024, 4:22 p.m.",
+    "ReportingTime": "March 22, 2024, 5:09 p.m.",
     "candidates": [
       {
         "Name": "Heath Flora",
         "Party": "Rep",
-        "Votes": "65,177",
+        "Votes": "65,598",
         "Percent": "75.0",
         "incumbent": true
       },
       {
         "Name": "Tami Nobriga",
         "Party": "AI",
-        "Votes": "21,682",
+        "Votes": "21,814",
         "Percent": "25.0",
         "incumbent": false
       }

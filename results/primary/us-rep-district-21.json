@@ -1,19 +1,19 @@
 {
   "raceTitle": "U.S. House of Representatives District 21 - Districtwide Results",
   "Reporting": "100% (208 of 208) precincts reporting",
-  "ReportingTime": "March 22, 2024, 4:22 p.m.",
+  "ReportingTime": "March 22, 2024, 5:09 p.m.",
   "candidates": [
     {
       "Name": "Jim Costa",
       "Party": "Dem",
-      "Votes": "41,913",
+      "Votes": "42,170",
       "Percent": "52.9",
       "incumbent": true
     },
     {
       "Name": "Michael Maher",
       "Party": "Rep",
-      "Votes": "37,388",
+      "Votes": "37,573",
       "Percent": "47.1",
       "incumbent": false
     }
