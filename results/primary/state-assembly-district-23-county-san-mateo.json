@@ -2,12 +2,12 @@
   {
     "raceTitle": "State Assembly District 23 - San Mateo County Results",
     "Reporting": "100% (79 of 79) precincts reporting",
-    "ReportingTime": "March 22, 2024, 4:06 p.m.",
+    "ReportingTime": "March 25, 2024, 4:04 p.m.",
     "candidates": [
       {
         "Name": "Marc Berman",
         "Party": "Dem",
-        "Votes": "23,553",
+        "Votes": "23,560",
         "Percent": "61.9",
         "incumbent": true
       },
@@ -21,7 +21,7 @@
       {
         "Name": "Allan K. Marson",
         "Party": "Rep",
-        "Votes": "3,603",
+        "Votes": "3,605",
         "Percent": "9.5",
         "incumbent": false
       },
@@ -29,7 +29,7 @@
         "Name": "Gus Mattammal",
         "Party": "Rep",
         "Votes": "5,079",
-        "Percent": "13.4",
+        "Percent": "13.3",
         "incumbent": false
       }
     ]
@@ -37,12 +37,12 @@
   {
     "raceTitle": "State Assembly District 23 - Districtwide Results",
     "Reporting": "100% (184 of 184) precincts reporting",
-    "ReportingTime": "March 25, 2024, 8:28 a.m.",
+    "ReportingTime": "March 25, 2024, 4:04 p.m.",
     "candidates": [
       {
         "Name": "Marc Berman",
         "Party": "Dem",
-        "Votes": "67,106",
+        "Votes": "67,113",
         "Percent": "57.4",
         "incumbent": true
       },
@@ -56,7 +56,7 @@
       {
         "Name": "Allan K. Marson",
         "Party": "Rep",
-        "Votes": "12,881",
+        "Votes": "12,883",
         "Percent": "11.0",
         "incumbent": false
       },
