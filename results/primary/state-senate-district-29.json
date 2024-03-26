@@ -1,33 +1,33 @@
 {
   "raceTitle": "State Senate District 29 - Districtwide Results",
   "Reporting": "100% (825 of 825) precincts reporting",
-  "ReportingTime": "March 26, 2024, 12:53 p.m.",
+  "ReportingTime": "March 26, 2024, 4:29 p.m.",
   "candidates": [
     {
       "Name": "Jason O'Brien",
       "Party": "Dem",
-      "Votes": "9,998",
-      "Percent": "10.0",
+      "Votes": "10,045",
+      "Percent": "10.1",
       "incumbent": false
     },
     {
       "Name": "Eloise Gomez Reyes",
       "Party": "Dem",
-      "Votes": "44,774",
+      "Votes": "44,947",
       "Percent": "45.0",
       "incumbent": false
     },
     {
       "Name": "Carlos A. Garcia",
       "Party": "Rep",
-      "Votes": "31,794",
+      "Votes": "31,932",
       "Percent": "32.0",
       "incumbent": false
     },
     {
       "Name": "Kathleen Torres Hazelton",
       "Party": "Rep",
-      "Votes": "12,923",
+      "Votes": "12,991",
       "Percent": "13.0",
       "incumbent": false
     }

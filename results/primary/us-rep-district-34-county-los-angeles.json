@@ -2,7 +2,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 34 - Los Angeles County Results",
     "Reporting": "100% (153 of 153) precincts reporting",
-    "ReportingTime": "March 22, 2024, 4:22 p.m.",
+    "ReportingTime": "March 26, 2024, 4:27 p.m.",
     "candidates": [
       {
         "Name": "David M. Ferrell",
@@ -14,14 +14,14 @@
       {
         "Name": "Jimmy Gomez",
         "Party": "Dem",
-        "Votes": "41,578",
+        "Votes": "41,582",
         "Percent": "51.2",
         "incumbent": true
       },
       {
         "Name": "David Kim",
         "Party": "Dem",
-        "Votes": "22,685",
+        "Votes": "22,688",
         "Percent": "27.9",
         "incumbent": false
       },
@@ -35,7 +35,7 @@
       {
         "Name": "Aaron Reveles",
         "Party": "P&F",
-        "Votes": "3,220",
+        "Votes": "3,221",
         "Percent": "4.0",
         "incumbent": false
       }
@@ -44,7 +44,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 34 - Districtwide Results",
     "Reporting": "100% (153 of 153) precincts reporting",
-    "ReportingTime": "March 26, 2024, 12:53 p.m.",
+    "ReportingTime": "March 26, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "David M. Ferrell",
@@ -56,14 +56,14 @@
       {
         "Name": "Jimmy Gomez",
         "Party": "Dem",
-        "Votes": "41,578",
+        "Votes": "41,582",
         "Percent": "51.2",
         "incumbent": true
       },
       {
         "Name": "David Kim",
         "Party": "Dem",
-        "Votes": "22,685",
+        "Votes": "22,688",
         "Percent": "27.9",
         "incumbent": false
       },
@@ -77,7 +77,7 @@
       {
         "Name": "Aaron Reveles",
         "Party": "P&F",
-        "Votes": "3,220",
+        "Votes": "3,221",
         "Percent": "4.0",
         "incumbent": false
       }

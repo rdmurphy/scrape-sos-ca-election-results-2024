@@ -1,7 +1,7 @@
 {
   "raceTitle": "U.S. House of Representatives District 32 - Districtwide Results",
   "Reporting": "100% (185 of 185) precincts reporting",
-  "ReportingTime": "March 26, 2024, 12:53 p.m.",
+  "ReportingTime": "March 26, 2024, 4:29 p.m.",
   "candidates": [
     {
       "Name": "Dave Abbitt",
@@ -20,7 +20,7 @@
     {
       "Name": "Brad Sherman",
       "Party": "Dem",
-      "Votes": "91,914",
+      "Votes": "91,918",
       "Percent": "58.6",
       "incumbent": true
     },
@@ -41,14 +41,14 @@
     {
       "Name": "James Shuster",
       "Party": "Rep",
-      "Votes": "16,597",
+      "Votes": "16,599",
       "Percent": "10.6",
       "incumbent": false
     },
     {
       "Name": "Larry Thompson",
       "Party": "Rep",
-      "Votes": "29,927",
+      "Votes": "29,929",
       "Percent": "19.1",
       "incumbent": false
     }

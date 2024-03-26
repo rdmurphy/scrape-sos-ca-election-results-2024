@@ -2,7 +2,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 26 - Los Angeles County Results",
     "Reporting": "100% (17 of 17) precincts reporting",
-    "ReportingTime": "March 22, 2024, 4:22 p.m.",
+    "ReportingTime": "March 26, 2024, 4:27 p.m.",
     "candidates": [
       {
         "Name": "Chris Anstead",
@@ -14,7 +14,7 @@
       {
         "Name": "Julia Brownley",
         "Party": "Dem",
-        "Votes": "7,808",
+        "Votes": "7,809",
         "Percent": "52.1",
         "incumbent": true
       },
@@ -28,7 +28,7 @@
       {
         "Name": "Michael Koslow",
         "Party": "Rep",
-        "Votes": "4,893",
+        "Votes": "4,895",
         "Percent": "32.7",
         "incumbent": false
       }
@@ -37,33 +37,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 26 - Districtwide Results",
     "Reporting": "100% (1,076 of 1,076) precincts reporting",
-    "ReportingTime": "March 26, 2024, 12:53 p.m.",
+    "ReportingTime": "March 26, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Chris Anstead",
         "Party": "Dem",
-        "Votes": "6,810",
+        "Votes": "6,829",
         "Percent": "4.1",
         "incumbent": false
       },
       {
         "Name": "Julia Brownley",
         "Party": "Dem",
-        "Votes": "84,726",
+        "Votes": "84,879",
         "Percent": "51.4",
         "incumbent": true
       },
       {
         "Name": "Bruce Boyer",
         "Party": "Rep",
-        "Votes": "17,641",
+        "Votes": "17,690",
         "Percent": "10.7",
         "incumbent": false
       },
       {
         "Name": "Michael Koslow",
         "Party": "Rep",
-        "Votes": "55,753",
+        "Votes": "55,840",
         "Percent": "33.8",
         "incumbent": false
       }

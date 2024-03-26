@@ -1,19 +1,19 @@
 {
   "raceTitle": "U.S. House of Representatives District 17 - Districtwide Results",
   "Reporting": "100% (186 of 186) precincts reporting",
-  "ReportingTime": "March 26, 2024, 12:53 p.m.",
+  "ReportingTime": "March 26, 2024, 4:29 p.m.",
   "candidates": [
     {
       "Name": "Ro Khanna",
       "Party": "Dem",
-      "Votes": "73,963",
+      "Votes": "73,968",
       "Percent": "62.9",
       "incumbent": true
     },
     {
       "Name": "Mario Art Ramirez",
       "Party": "Dem",
-      "Votes": "4,492",
+      "Votes": "4,493",
       "Percent": "3.8",
       "incumbent": false
     },
@@ -27,7 +27,7 @@
     {
       "Name": "Anita Chen",
       "Party": "Rep",
-      "Votes": "31,546",
+      "Votes": "31,547",
       "Percent": "26.8",
       "incumbent": false
     },

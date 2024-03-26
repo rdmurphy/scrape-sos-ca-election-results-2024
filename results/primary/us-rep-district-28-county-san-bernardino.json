@@ -2,33 +2,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 28 - San Bernardino County Results",
     "Reporting": "100% (155 of 155) precincts reporting",
-    "ReportingTime": "March 21, 2024, 3:32 p.m.",
+    "ReportingTime": "March 26, 2024, 3:31 p.m.",
     "candidates": [
       {
         "Name": "Judy Chu",
         "Party": "Dem",
-        "Votes": "7,754",
+        "Votes": "7,774",
         "Percent": "38.0",
         "incumbent": true
       },
       {
         "Name": "April A. Verlato",
         "Party": "Rep",
-        "Votes": "11,908",
+        "Votes": "11,948",
         "Percent": "58.4",
         "incumbent": false
       },
       {
         "Name": "Jose Castaneda",
         "Party": "Lib",
-        "Votes": "389",
+        "Votes": "391",
         "Percent": "1.9",
         "incumbent": false
       },
       {
         "Name": "William Patterson",
         "Party": "P&F",
-        "Votes": "350",
+        "Votes": "353",
         "Percent": "1.7",
         "incumbent": false
       }
@@ -37,33 +37,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 28 - Districtwide Results",
     "Reporting": "100% (347 of 347) precincts reporting",
-    "ReportingTime": "March 26, 2024, 12:53 p.m.",
+    "ReportingTime": "March 26, 2024, 4:29 p.m.",
     "candidates": [
       {
         "Name": "Judy Chu",
         "Party": "Dem",
-        "Votes": "99,186",
+        "Votes": "99,211",
         "Percent": "62.7",
         "incumbent": true
       },
       {
         "Name": "April A. Verlato",
         "Party": "Rep",
-        "Votes": "52,309",
+        "Votes": "52,351",
         "Percent": "33.1",
         "incumbent": false
       },
       {
         "Name": "Jose Castaneda",
         "Party": "Lib",
-        "Votes": "3,150",
+        "Votes": "3,152",
         "Percent": "2.0",
         "incumbent": false
       },
       {
         "Name": "William Patterson",
         "Party": "P&F",
-        "Votes": "3,498",
+        "Votes": "3,501",
         "Percent": "2.2",
         "incumbent": false
       }

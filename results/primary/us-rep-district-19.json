@@ -1,26 +1,26 @@
 {
   "raceTitle": "U.S. House of Representatives District 19 - Districtwide Results",
   "Reporting": "100% (337 of 337) precincts reporting",
-  "ReportingTime": "March 26, 2024, 12:53 p.m.",
+  "ReportingTime": "March 26, 2024, 4:29 p.m.",
   "candidates": [
     {
       "Name": "Jimmy Panetta",
       "Party": "Dem",
-      "Votes": "132,553",
+      "Votes": "132,558",
       "Percent": "65.1",
       "incumbent": true
     },
     {
       "Name": "Jason Michael Anderson",
       "Party": "Rep",
-      "Votes": "58,128",
+      "Votes": "58,129",
       "Percent": "28.5",
       "incumbent": false
     },
     {
       "Name": "Sean Dougherty",
       "Party": "Grn",
-      "Votes": "13,012",
+      "Votes": "13,014",
       "Percent": "6.4",
       "incumbent": false
     }
