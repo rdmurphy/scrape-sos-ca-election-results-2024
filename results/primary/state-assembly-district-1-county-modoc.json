@@ -2,7 +2,7 @@
   {
     "raceTitle": "State Assembly District 1 - Modoc County Results",
     "Reporting": "100% (21 of 21) precincts reporting",
-    "ReportingTime": "March 15, 2024, 5:15 p.m.",
+    "ReportingTime": "March 26, 2024, 12:53 p.m.",
     "candidates": [
       {
         "Name": "Tenessa Audette",
@@ -22,14 +22,14 @@
         "Name": "Melissa Hunt",
         "Party": "Rep",
         "Votes": "195",
-        "Percent": "8.1",
+        "Percent": "8.2",
         "incumbent": false
       },
       {
         "Name": "Mark Mezzano",
         "Party": "Rep",
-        "Votes": "284",
-        "Percent": "11.9",
+        "Votes": "283",
+        "Percent": "11.8",
         "incumbent": false
       }
     ]
@@ -37,7 +37,7 @@
   {
     "raceTitle": "State Assembly District 1 - Districtwide Results",
     "Reporting": "100% (435 of 435) precincts reporting",
-    "ReportingTime": "March 25, 2024, 6:26 p.m.",
+    "ReportingTime": "March 26, 2024, 12:53 p.m.",
     "candidates": [
       {
         "Name": "Tenessa Audette",
@@ -63,7 +63,7 @@
       {
         "Name": "Mark Mezzano",
         "Party": "Rep",
-        "Votes": "29,856",
+        "Votes": "29,855",
         "Percent": "25.5",
         "incumbent": false
       }
