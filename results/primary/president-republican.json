@@ -1,33 +1,33 @@
 {
   "raceTitle": "President Republican - Statewide Results",
   "Reporting": "100% (20,855 of 20,855) precincts reporting",
-  "ReportingTime": "March 25, 2024, 4:04 p.m.",
+  "ReportingTime": "March 25, 2024, 6:26 p.m.",
   "candidates": [
     {
       "Name": "Ryan L Binkley",
       "Party": "Rep",
-      "Votes": "3,563",
+      "Votes": "3,567",
       "Percent": "0.1",
       "incumbent": false
     },
     {
       "Name": "Chris Christie",
       "Party": "Rep",
-      "Votes": "20,164",
+      "Votes": "20,165",
       "Percent": "0.8",
       "incumbent": false
     },
     {
       "Name": "Ron DeSantis",
       "Party": "Rep",
-      "Votes": "35,583",
+      "Votes": "35,588",
       "Percent": "1.4",
       "incumbent": false
     },
     {
       "Name": "Nikki Haley",
       "Party": "Rep",
-      "Votes": "430,826",
+      "Votes": "430,857",
       "Percent": "17.5",
       "incumbent": false
     },
@@ -48,21 +48,21 @@
     {
       "Name": "David Stuckenberg",
       "Party": "Rep",
-      "Votes": "3,895",
+      "Votes": "3,898",
       "Percent": "0.2",
       "incumbent": false
     },
     {
       "Name": "Rachel Swift",
       "Party": "Rep",
-      "Votes": "4,231",
+      "Votes": "4,233",
       "Percent": "0.2",
       "incumbent": false
     },
     {
       "Name": "Donald J. Trump",
       "Party": "Rep",
-      "Votes": "1,954,152",
+      "Votes": "1,954,575",
       "Percent": "79.2",
       "incumbent": false
     }

@@ -2,19 +2,19 @@
   {
     "raceTitle": "U.S. House of Representatives District 13 - San Joaquin County Results",
     "Reporting": "100% (13 of 13) precincts reporting",
-    "ReportingTime": "March 22, 2024, 5:00 p.m.",
+    "ReportingTime": "March 25, 2024, 6:26 p.m.",
     "candidates": [
       {
         "Name": "Adam Gray",
         "Party": "Dem",
-        "Votes": "3,118",
+        "Votes": "3,121",
         "Percent": "51.9",
         "incumbent": false
       },
       {
         "Name": "John Duarte",
         "Party": "Rep",
-        "Votes": "2,890",
+        "Votes": "2,897",
         "Percent": "48.1",
         "incumbent": true
       }
@@ -23,19 +23,19 @@
   {
     "raceTitle": "U.S. House of Representatives District 13 - Districtwide Results",
     "Reporting": "100% (865 of 865) precincts reporting",
-    "ReportingTime": "March 25, 2024, 4:04 p.m.",
+    "ReportingTime": "March 25, 2024, 6:26 p.m.",
     "candidates": [
       {
         "Name": "Adam Gray",
         "Party": "Dem",
-        "Votes": "38,232",
+        "Votes": "38,235",
         "Percent": "45.0",
         "incumbent": false
       },
       {
         "Name": "John Duarte",
         "Party": "Rep",
-        "Votes": "46,686",
+        "Votes": "46,693",
         "Percent": "55.0",
         "incumbent": true
       }

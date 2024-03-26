@@ -1,26 +1,26 @@
 {
   "raceTitle": "State Assembly District 71 - Districtwide Results",
   "Reporting": "100% (290 of 290) precincts reporting",
-  "ReportingTime": "March 25, 2024, 4:04 p.m.",
+  "ReportingTime": "March 25, 2024, 6:26 p.m.",
   "candidates": [
     {
       "Name": "Gary Kephart",
       "Party": "Dem",
-      "Votes": "38,564",
+      "Votes": "38,573",
       "Percent": "34.3",
       "incumbent": false
     },
     {
       "Name": "Kate Sanchez",
       "Party": "Rep",
-      "Votes": "70,958",
+      "Votes": "70,992",
       "Percent": "63.1",
       "incumbent": true
     },
     {
       "Name": "Babar Khan",
       "Party": "P&F",
-      "Votes": "2,902",
+      "Votes": "2,904",
       "Percent": "2.6",
       "incumbent": false
     }
