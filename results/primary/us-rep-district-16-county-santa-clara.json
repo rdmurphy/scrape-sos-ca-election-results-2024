@@ -2,7 +2,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 16 - Santa Clara County Results",
     "Reporting": "100% (199 of 199) precincts reporting",
-    "ReportingTime": "March 26, 2024, 4:29 p.m.",
+    "ReportingTime": "March 27, 2024, 3:26 p.m.",
     "candidates": [
       {
         "Name": "Joby B Bernstein",
@@ -14,7 +14,7 @@
       {
         "Name": "Peter Dixon",
         "Party": "Dem",
-        "Votes": "9,900",
+        "Votes": "9,903",
         "Percent": "6.9",
         "incumbent": false
       },
@@ -28,7 +28,7 @@
       {
         "Name": "Sam Liccardo",
         "Party": "Dem",
-        "Votes": "31,547",
+        "Votes": "31,550",
         "Percent": "22.0",
         "incumbent": false
       },
@@ -36,7 +36,7 @@
         "Name": "Evan Low",
         "Party": "Dem",
         "Votes": "25,068",
-        "Percent": "17.5",
+        "Percent": "17.4",
         "incumbent": false
       },
       {
@@ -56,7 +56,7 @@
       {
         "Name": "Joe Simitian",
         "Party": "Dem",
-        "Votes": "23,760",
+        "Votes": "23,764",
         "Percent": "16.5",
         "incumbent": false
       },
@@ -77,7 +77,7 @@
       {
         "Name": "Karl Ryan",
         "Party": "Rep",
-        "Votes": "9,404",
+        "Votes": "9,405",
         "Percent": "6.5",
         "incumbent": false
       }
@@ -86,7 +86,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 16 - Districtwide Results",
     "Reporting": "100% (274 of 274) precincts reporting",
-    "ReportingTime": "March 27, 2024, 12:57 p.m.",
+    "ReportingTime": "March 27, 2024, 4:05 p.m.",
     "candidates": [
       {
         "Name": "Joby B Bernstein",
@@ -98,7 +98,7 @@
       {
         "Name": "Peter Dixon",
         "Party": "Dem",
-        "Votes": "14,661",
+        "Votes": "14,664",
         "Percent": "8.1",
         "incumbent": false
       },
@@ -112,14 +112,14 @@
       {
         "Name": "Sam Liccardo",
         "Party": "Dem",
-        "Votes": "38,470",
+        "Votes": "38,473",
         "Percent": "21.1",
         "incumbent": false
       },
       {
         "Name": "Evan Low",
         "Party": "Dem",
-        "Votes": "30,232",
+        "Votes": "30,233",
         "Percent": "16.6",
         "incumbent": false
       },
@@ -140,7 +140,7 @@
       {
         "Name": "Joe Simitian",
         "Party": "Dem",
-        "Votes": "30,234",
+        "Votes": "30,238",
         "Percent": "16.6",
         "incumbent": false
       },
@@ -161,7 +161,7 @@
       {
         "Name": "Karl Ryan",
         "Party": "Rep",
-        "Votes": "11,547",
+        "Votes": "11,548",
         "Percent": "6.3",
         "incumbent": false
       }
