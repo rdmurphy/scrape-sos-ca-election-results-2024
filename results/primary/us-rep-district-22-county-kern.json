@@ -2,34 +2,34 @@
   {
     "raceTitle": "U.S. House of Representatives District 22 - Kern County Results",
     "Reporting": "100% (363 of 363) precincts reporting",
-    "ReportingTime": "March 22, 2024, 5:14 p.m.",
+    "ReportingTime": "March 26, 2024, 5:34 p.m.",
     "candidates": [
       {
         "Name": "Melissa Hurtado",
         "Party": "Dem",
-        "Votes": "4,999",
+        "Votes": "5,013",
         "Percent": "13.4",
         "incumbent": false
       },
       {
         "Name": "Rudy Salas",
         "Party": "Dem",
-        "Votes": "13,605",
+        "Votes": "13,653",
         "Percent": "36.5",
         "incumbent": false
       },
       {
         "Name": "Chris Mathys",
         "Party": "Rep",
-        "Votes": "6,993",
+        "Votes": "7,039",
         "Percent": "18.8",
         "incumbent": false
       },
       {
         "Name": "David G. Valadao",
         "Party": "Rep",
-        "Votes": "11,631",
-        "Percent": "31.2",
+        "Votes": "11,703",
+        "Percent": "31.3",
         "incumbent": true
       }
     ]
@@ -37,33 +37,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 22 - Districtwide Results",
     "Reporting": "100% (414 of 414) precincts reporting",
-    "ReportingTime": "March 26, 2024, 4:29 p.m.",
+    "ReportingTime": "March 26, 2024, 5:36 p.m.",
     "candidates": [
       {
         "Name": "Melissa Hurtado",
         "Party": "Dem",
-        "Votes": "8,672",
+        "Votes": "8,687",
         "Percent": "14.0",
         "incumbent": false
       },
       {
         "Name": "Rudy Salas",
         "Party": "Dem",
-        "Votes": "19,411",
+        "Votes": "19,461",
         "Percent": "31.3",
         "incumbent": false
       },
       {
         "Name": "Chris Mathys",
         "Party": "Rep",
-        "Votes": "13,607",
+        "Votes": "13,656",
         "Percent": "22.0",
         "incumbent": false
       },
       {
         "Name": "David G. Valadao",
         "Party": "Rep",
-        "Votes": "20,248",
+        "Votes": "20,321",
         "Percent": "32.7",
         "incumbent": true
       }

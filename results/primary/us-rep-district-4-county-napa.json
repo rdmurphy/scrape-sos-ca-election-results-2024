@@ -2,33 +2,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 4 - Napa County Results",
     "Reporting": "100% (200 of 200) precincts reporting",
-    "ReportingTime": "March 19, 2024, 3:53 p.m.",
+    "ReportingTime": "March 26, 2024, 5:36 p.m.",
     "candidates": [
       {
         "Name": "Andrew David Engdahl",
         "Party": "Dem",
-        "Votes": "1,653",
+        "Votes": "1,662",
         "Percent": "4.5",
         "incumbent": false
       },
       {
         "Name": "Mike Thompson",
         "Party": "Dem",
-        "Votes": "24,481",
+        "Votes": "24,545",
         "Percent": "67.0",
         "incumbent": true
       },
       {
         "Name": "John Munn",
         "Party": "Rep",
-        "Votes": "10,180",
+        "Votes": "10,214",
         "Percent": "27.9",
         "incumbent": false
       },
       {
         "Name": "Niket Patwardhan",
         "Party": "NPP",
-        "Votes": "201",
+        "Votes": "202",
         "Percent": "0.6",
         "incumbent": false
       }
@@ -37,33 +37,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 4 - Districtwide Results",
     "Reporting": "100% (570 of 570) precincts reporting",
-    "ReportingTime": "March 26, 2024, 4:29 p.m.",
+    "ReportingTime": "March 26, 2024, 5:36 p.m.",
     "candidates": [
       {
         "Name": "Andrew David Engdahl",
         "Party": "Dem",
-        "Votes": "11,265",
+        "Votes": "11,276",
         "Percent": "6.0",
         "incumbent": false
       },
       {
         "Name": "Mike Thompson",
         "Party": "Dem",
-        "Votes": "118,719",
+        "Votes": "118,793",
         "Percent": "62.9",
         "incumbent": true
       },
       {
         "Name": "John Munn",
         "Party": "Rep",
-        "Votes": "56,823",
+        "Votes": "56,860",
         "Percent": "30.1",
         "incumbent": false
       },
       {
         "Name": "Niket Patwardhan",
         "Party": "NPP",
-        "Votes": "2,075",
+        "Votes": "2,076",
         "Percent": "1.1",
         "incumbent": false
       }
