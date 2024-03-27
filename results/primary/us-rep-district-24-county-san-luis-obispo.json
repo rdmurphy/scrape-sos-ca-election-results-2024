@@ -2,26 +2,26 @@
   {
     "raceTitle": "U.S. House of Representatives District 24 - San Luis Obispo County Results",
     "Reporting": "100% (88 of 88) precincts reporting",
-    "ReportingTime": "March 22, 2024, 12:27 p.m.",
+    "ReportingTime": "March 27, 2024, 10:10 a.m.",
     "candidates": [
       {
         "Name": "Salud Carbajal",
         "Party": "Dem",
-        "Votes": "31,123",
-        "Percent": "55.3",
+        "Votes": "31,357",
+        "Percent": "55.2",
         "incumbent": true
       },
       {
         "Name": "Helena Pasquarella",
         "Party": "Dem",
-        "Votes": "3,485",
-        "Percent": "6.2",
+        "Votes": "3,635",
+        "Percent": "6.4",
         "incumbent": false
       },
       {
         "Name": "Thomas Cole",
         "Party": "Rep",
-        "Votes": "21,648",
+        "Votes": "21,864",
         "Percent": "38.5",
         "incumbent": false
       }
@@ -30,26 +30,26 @@
   {
     "raceTitle": "U.S. House of Representatives District 24 - Districtwide Results",
     "Reporting": "100% (617 of 617) precincts reporting",
-    "ReportingTime": "March 26, 2024, 5:36 p.m.",
+    "ReportingTime": "March 27, 2024, 10:10 a.m.",
     "candidates": [
       {
         "Name": "Salud Carbajal",
         "Party": "Dem",
-        "Votes": "102,281",
-        "Percent": "53.8",
+        "Votes": "102,515",
+        "Percent": "53.7",
         "incumbent": true
       },
       {
         "Name": "Helena Pasquarella",
         "Party": "Dem",
-        "Votes": "17,141",
-        "Percent": "9.0",
+        "Votes": "17,291",
+        "Percent": "9.1",
         "incumbent": false
       },
       {
         "Name": "Thomas Cole",
         "Party": "Rep",
-        "Votes": "70,868",
+        "Votes": "71,084",
         "Percent": "37.2",
         "incumbent": false
       }

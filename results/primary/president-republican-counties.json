@@ -2,7 +2,7 @@
   {
     "raceTitle": "President Republican - Statewide Results",
     "Reporting": "100% (20,855 of 20,855) precincts reporting",
-    "ReportingTime": "March 26, 2024, 5:36 p.m.",
+    "ReportingTime": "March 27, 2024, 10:10 a.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -14,21 +14,21 @@
       {
         "Name": "Chris Christie",
         "Party": "Rep",
-        "Votes": "20,174",
+        "Votes": "20,175",
         "Percent": "0.8",
         "incumbent": false
       },
       {
         "Name": "Ron DeSantis",
         "Party": "Rep",
-        "Votes": "35,614",
+        "Votes": "35,618",
         "Percent": "1.4",
         "incumbent": false
       },
       {
         "Name": "Nikki Haley",
         "Party": "Rep",
-        "Votes": "431,053",
+        "Votes": "431,088",
         "Percent": "17.5",
         "incumbent": false
       },
@@ -42,7 +42,7 @@
       {
         "Name": "Vivek Ramaswamy",
         "Party": "Rep",
-        "Votes": "11,079",
+        "Votes": "11,082",
         "Percent": "0.4",
         "incumbent": false
       },
@@ -56,14 +56,14 @@
       {
         "Name": "Rachel Swift",
         "Party": "Rep",
-        "Votes": "4,236",
+        "Votes": "4,237",
         "Percent": "0.2",
         "incumbent": false
       },
       {
         "Name": "Donald J. Trump",
         "Party": "Rep",
-        "Votes": "1,956,233",
+        "Votes": "1,956,528",
         "Percent": "79.2",
         "incumbent": false
       }
@@ -2802,7 +2802,7 @@
   {
     "raceTitle": "President Republican - San Luis Obispo County Results",
     "Reporting": "100% (131 of 131) precincts reporting",
-    "ReportingTime": "March 22, 2024, 12:27 p.m.",
+    "ReportingTime": "March 27, 2024, 10:10 a.m.",
     "candidates": [
       {
         "Name": "Ryan L Binkley",
@@ -2814,22 +2814,22 @@
       {
         "Name": "Chris Christie",
         "Party": "Rep",
-        "Votes": "282",
+        "Votes": "283",
         "Percent": "0.8",
         "incumbent": false
       },
       {
         "Name": "Ron DeSantis",
         "Party": "Rep",
-        "Votes": "520",
+        "Votes": "524",
         "Percent": "1.4",
         "incumbent": false
       },
       {
         "Name": "Nikki Haley",
         "Party": "Rep",
-        "Votes": "7,037",
-        "Percent": "19.4",
+        "Votes": "7,072",
+        "Percent": "19.3",
         "incumbent": false
       },
       {
@@ -2842,7 +2842,7 @@
       {
         "Name": "Vivek Ramaswamy",
         "Party": "Rep",
-        "Votes": "170",
+        "Votes": "173",
         "Percent": "0.5",
         "incumbent": false
       },
@@ -2856,15 +2856,15 @@
       {
         "Name": "Rachel Swift",
         "Party": "Rep",
-        "Votes": "31",
+        "Votes": "32",
         "Percent": "0.1",
         "incumbent": false
       },
       {
         "Name": "Donald J. Trump",
         "Party": "Rep",
-        "Votes": "28,156",
-        "Percent": "77.5",
+        "Votes": "28,451",
+        "Percent": "77.6",
         "incumbent": false
       }
     ]

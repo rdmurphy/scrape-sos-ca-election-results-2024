@@ -2,33 +2,33 @@
   {
     "raceTitle": "State Senate District 17 - San Luis Obispo County Results",
     "Reporting": "100% (101 of 101) precincts reporting",
-    "ReportingTime": "March 22, 2024, 12:27 p.m.",
+    "ReportingTime": "March 27, 2024, 10:10 a.m.",
     "candidates": [
       {
         "Name": "John Laird",
         "Party": "Dem",
-        "Votes": "37,245",
+        "Votes": "37,568",
         "Percent": "53.7",
         "incumbent": true
       },
       {
         "Name": "Eric Tao",
         "Party": "Rep",
-        "Votes": "10,721",
+        "Votes": "10,817",
         "Percent": "15.5",
         "incumbent": false
       },
       {
         "Name": "Tony Virrueta",
         "Party": "Rep",
-        "Votes": "20,021",
-        "Percent": "28.9",
+        "Votes": "20,188",
+        "Percent": "28.8",
         "incumbent": false
       },
       {
         "Name": "Michael Oxford",
         "Party": "Lib",
-        "Votes": "1,400",
+        "Votes": "1,424",
         "Percent": "2.0",
         "incumbent": false
       }
@@ -37,34 +37,34 @@
   {
     "raceTitle": "State Senate District 17 - Districtwide Results",
     "Reporting": "100% (445 of 445) precincts reporting",
-    "ReportingTime": "March 26, 2024, 5:36 p.m.",
+    "ReportingTime": "March 27, 2024, 10:10 a.m.",
     "candidates": [
       {
         "Name": "John Laird",
         "Party": "Dem",
-        "Votes": "143,426",
+        "Votes": "143,749",
         "Percent": "64.5",
         "incumbent": true
       },
       {
         "Name": "Eric Tao",
         "Party": "Rep",
-        "Votes": "25,728",
+        "Votes": "25,824",
         "Percent": "11.6",
         "incumbent": false
       },
       {
         "Name": "Tony Virrueta",
         "Party": "Rep",
-        "Votes": "48,620",
+        "Votes": "48,787",
         "Percent": "21.9",
         "incumbent": false
       },
       {
         "Name": "Michael Oxford",
         "Party": "Lib",
-        "Votes": "4,556",
-        "Percent": "2.0",
+        "Votes": "4,580",
+        "Percent": "2.1",
         "incumbent": false
       }
     ]
