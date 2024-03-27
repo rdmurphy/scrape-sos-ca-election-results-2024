@@ -2,20 +2,20 @@
   {
     "raceTitle": "U.S. House of Representatives District 3 - Nevada County Results",
     "Reporting": "100% (108 of 108) precincts reporting",
-    "ReportingTime": "March 22, 2024, 3:17 p.m.",
+    "ReportingTime": "March 27, 2024, 12:57 p.m.",
     "candidates": [
       {
         "Name": "Jessica Morse",
         "Party": "Dem",
-        "Votes": "19,401",
+        "Votes": "19,411",
         "Percent": "50.9",
         "incumbent": false
       },
       {
         "Name": "Kevin Kiley",
         "Party": "Rep",
-        "Votes": "17,924",
-        "Percent": "47.1",
+        "Votes": "17,926",
+        "Percent": "47.0",
         "incumbent": true
       },
       {
@@ -30,19 +30,19 @@
   {
     "raceTitle": "U.S. House of Representatives District 3 - Districtwide Results",
     "Reporting": "100% (454 of 454) precincts reporting",
-    "ReportingTime": "March 27, 2024, 10:10 a.m.",
+    "ReportingTime": "March 27, 2024, 12:57 p.m.",
     "candidates": [
       {
         "Name": "Jessica Morse",
         "Party": "Dem",
-        "Votes": "102,861",
+        "Votes": "102,871",
         "Percent": "42.2",
         "incumbent": false
       },
       {
         "Name": "Kevin Kiley",
         "Party": "Rep",
-        "Votes": "136,074",
+        "Votes": "136,076",
         "Percent": "55.8",
         "incumbent": true
       },

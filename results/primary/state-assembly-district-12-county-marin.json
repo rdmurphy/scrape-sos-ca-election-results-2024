@@ -2,12 +2,12 @@
   {
     "raceTitle": "State Assembly District 12 - Marin County Results",
     "Reporting": "100% (63 of 63) precincts reporting",
-    "ReportingTime": "March 22, 2024, 2:02 p.m.",
+    "ReportingTime": "March 27, 2024, 11:38 a.m.",
     "candidates": [
       {
         "Name": "Damon Connolly",
         "Party": "Dem",
-        "Votes": "67,901",
+        "Votes": "67,921",
         "Percent": "81.1",
         "incumbent": true
       },
@@ -21,7 +21,7 @@
       {
         "Name": "Andy Podshadley",
         "Party": "Rep",
-        "Votes": "9,513",
+        "Votes": "9,519",
         "Percent": "11.4",
         "incumbent": false
       }
@@ -30,12 +30,12 @@
   {
     "raceTitle": "State Assembly District 12 - Districtwide Results",
     "Reporting": "100% (247 of 247) precincts reporting",
-    "ReportingTime": "March 27, 2024, 10:10 a.m.",
+    "ReportingTime": "March 27, 2024, 12:57 p.m.",
     "candidates": [
       {
         "Name": "Damon Connolly",
         "Party": "Dem",
-        "Votes": "111,342",
+        "Votes": "111,362",
         "Percent": "77.5",
         "incumbent": true
       },
@@ -49,7 +49,7 @@
       {
         "Name": "Andy Podshadley",
         "Party": "Rep",
-        "Votes": "17,257",
+        "Votes": "17,263",
         "Percent": "12.0",
         "incumbent": false
       }
