@@ -1,27 +1,27 @@
 {
   "raceTitle": "State Senate District 5 - Districtwide Results",
   "Reporting": "100% (330 of 330) precincts reporting",
-  "ReportingTime": "March 27, 2024, 4:05 p.m.",
+  "ReportingTime": "March 27, 2024, 5:52 p.m.",
   "candidates": [
     {
       "Name": "Jerry McNerney",
       "Party": "Dem",
-      "Votes": "57,101",
-      "Percent": "33.2",
+      "Votes": "57,324",
+      "Percent": "33.4",
       "incumbent": false
     },
     {
       "Name": "Carlos Villapudua",
       "Party": "Dem",
-      "Votes": "39,706",
-      "Percent": "23.1",
+      "Votes": "39,885",
+      "Percent": "23.2",
       "incumbent": false
     },
     {
       "Name": "Jim Shoemaker",
       "Party": "Rep",
-      "Votes": "75,141",
-      "Percent": "43.7",
+      "Votes": "74,490",
+      "Percent": "43.4",
       "incumbent": false
     }
   ]
