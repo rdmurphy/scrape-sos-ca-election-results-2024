@@ -2,12 +2,12 @@
   {
     "raceTitle": "President Democratic - Statewide Results",
     "Reporting": "100% (20,855 of 20,855) precincts reporting",
-    "ReportingTime": "March 28, 2024, 3:17 p.m.",
+    "ReportingTime": "March 28, 2024, 4:16 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
         "Party": "Dem",
-        "Votes": "3,203,496",
+        "Votes": "3,203,505",
         "Percent": "89.2",
         "incumbent": true
       },
@@ -56,7 +56,7 @@
       {
         "Name": "Marianne Williamson",
         "Party": "Dem",
-        "Votes": "146,008",
+        "Votes": "146,010",
         "Percent": "4.1",
         "incumbent": false
       }
@@ -2711,12 +2711,12 @@
   {
     "raceTitle": "President Democratic - Santa Clara County Results",
     "Reporting": "100% (597 of 597) precincts reporting",
-    "ReportingTime": "March 27, 2024, 3:26 p.m.",
+    "ReportingTime": "March 28, 2024, 4:16 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
         "Party": "Dem",
-        "Votes": "184,835",
+        "Votes": "184,844",
         "Percent": "90.0",
         "incumbent": true
       },
@@ -2765,7 +2765,7 @@
       {
         "Name": "Marianne Williamson",
         "Party": "Dem",
-        "Votes": "7,750",
+        "Votes": "7,752",
         "Percent": "3.8",
         "incumbent": false
       }
