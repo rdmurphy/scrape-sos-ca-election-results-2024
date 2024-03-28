@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 22 - Merced County Results",
     "Reporting": "100% (99 of 99) precincts reporting",
-    "ReportingTime": "March 21, 2024, 4:45 p.m.",
+    "ReportingTime": "March 28, 2024, 2:20 p.m.",
     "candidates": [
       {
         "Name": "Jessica Self",
         "Party": "Dem",
-        "Votes": "962",
-        "Percent": "26.4",
+        "Votes": "984",
+        "Percent": "26.5",
         "incumbent": false
       },
       {
         "Name": "Juan Alanis",
         "Party": "Rep",
-        "Votes": "2,688",
-        "Percent": "73.6",
+        "Votes": "2,736",
+        "Percent": "73.5",
         "incumbent": true
       }
     ]
@@ -23,19 +23,19 @@
   {
     "raceTitle": "State Assembly District 22 - Districtwide Results",
     "Reporting": "100% (227 of 227) precincts reporting",
-    "ReportingTime": "March 28, 2024, 12:09 p.m.",
+    "ReportingTime": "March 28, 2024, 3:17 p.m.",
     "candidates": [
       {
         "Name": "Jessica Self",
         "Party": "Dem",
-        "Votes": "25,993",
+        "Votes": "26,015",
         "Percent": "42.4",
         "incumbent": false
       },
       {
         "Name": "Juan Alanis",
         "Party": "Rep",
-        "Votes": "35,344",
+        "Votes": "35,392",
         "Percent": "57.6",
         "incumbent": true
       }
