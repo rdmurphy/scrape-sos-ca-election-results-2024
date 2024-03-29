@@ -2,34 +2,34 @@
   {
     "raceTitle": "U.S. House of Representatives District 42 - Los Angeles County Results",
     "Reporting": "100% (172 of 172) precincts reporting",
-    "ReportingTime": "March 26, 2024, 4:27 p.m.",
+    "ReportingTime": "March 29, 2024, 12:24 p.m.",
     "candidates": [
       {
         "Name": "Joaquín Beltrán",
         "Party": "Dem",
-        "Votes": "6,524",
+        "Votes": "6,532",
         "Percent": "6.8",
         "incumbent": false
       },
       {
         "Name": "Robert Garcia",
         "Party": "Dem",
-        "Votes": "49,865",
+        "Votes": "49,891",
         "Percent": "52.1",
         "incumbent": true
       },
       {
         "Name": "J. Nicole Lopez",
         "Party": "Dem",
-        "Votes": "8,749",
+        "Votes": "8,758",
         "Percent": "9.1",
         "incumbent": false
       },
       {
         "Name": "John Briscoe",
         "Party": "Rep",
-        "Votes": "30,587",
-        "Percent": "32.0",
+        "Votes": "30,599",
+        "Percent": "31.9",
         "incumbent": false
       }
     ]
@@ -37,34 +37,34 @@
   {
     "raceTitle": "U.S. House of Representatives District 42 - Districtwide Results",
     "Reporting": "100% (172 of 172) precincts reporting",
-    "ReportingTime": "March 28, 2024, 5:18 p.m.",
+    "ReportingTime": "March 29, 2024, 12:24 p.m.",
     "candidates": [
       {
         "Name": "Joaquín Beltrán",
         "Party": "Dem",
-        "Votes": "6,524",
+        "Votes": "6,532",
         "Percent": "6.8",
         "incumbent": false
       },
       {
         "Name": "Robert Garcia",
         "Party": "Dem",
-        "Votes": "49,865",
+        "Votes": "49,891",
         "Percent": "52.1",
         "incumbent": true
       },
       {
         "Name": "J. Nicole Lopez",
         "Party": "Dem",
-        "Votes": "8,749",
+        "Votes": "8,758",
         "Percent": "9.1",
         "incumbent": false
       },
       {
         "Name": "John Briscoe",
         "Party": "Rep",
-        "Votes": "30,587",
-        "Percent": "32.0",
+        "Votes": "30,599",
+        "Percent": "31.9",
         "incumbent": false
       }
     ]
