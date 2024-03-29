@@ -1,7 +1,7 @@
 {
   "raceTitle": "U.S. House of Representatives District 41 - Districtwide Results",
   "Reporting": "100% (338 of 338) precincts reporting",
-  "ReportingTime": "March 28, 2024, 4:36 p.m.",
+  "ReportingTime": "March 28, 2024, 5:18 p.m.",
   "candidates": [
     {
       "Name": "Anna Nevenic",
@@ -13,14 +13,14 @@
     {
       "Name": "Will Rollins",
       "Party": "Dem",
-      "Votes": "62,184",
+      "Votes": "62,189",
       "Percent": "38.4",
       "incumbent": false
     },
     {
       "Name": "Ken Calvert",
       "Party": "Rep",
-      "Votes": "85,871",
+      "Votes": "85,875",
       "Percent": "53.0",
       "incumbent": true
     }
