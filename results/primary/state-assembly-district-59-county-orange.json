@@ -23,19 +23,19 @@
   {
     "raceTitle": "State Assembly District 59 - Districtwide Results",
     "Reporting": "100% (525 of 525) precincts reporting",
-    "ReportingTime": "March 29, 2024, 12:24 p.m.",
+    "ReportingTime": "March 29, 2024, 4:05 p.m.",
     "candidates": [
       {
         "Name": "Dave Obrand",
         "Party": "Dem",
-        "Votes": "42,718",
+        "Votes": "42,719",
         "Percent": "36.2",
         "incumbent": false
       },
       {
         "Name": "Phillip Chen",
         "Party": "Rep",
-        "Votes": "75,177",
+        "Votes": "75,179",
         "Percent": "63.8",
         "incumbent": true
       }

@@ -37,26 +37,26 @@
   {
     "raceTitle": "U.S. House of Representatives District 35 - Districtwide Results",
     "Reporting": "100% (431 of 431) precincts reporting",
-    "ReportingTime": "March 29, 2024, 12:24 p.m.",
+    "ReportingTime": "March 29, 2024, 4:05 p.m.",
     "candidates": [
       {
         "Name": "Melissa May",
         "Party": "Dem",
-        "Votes": "6,430",
+        "Votes": "6,431",
         "Percent": "7.9",
         "incumbent": false
       },
       {
         "Name": "Norma J. Torres",
         "Party": "Dem",
-        "Votes": "39,036",
+        "Votes": "39,045",
         "Percent": "48.2",
         "incumbent": true
       },
       {
         "Name": "Mike Cargile",
         "Party": "Rep",
-        "Votes": "32,074",
+        "Votes": "32,077",
         "Percent": "39.6",
         "incumbent": false
       },

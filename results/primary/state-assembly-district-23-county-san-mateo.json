@@ -2,12 +2,12 @@
   {
     "raceTitle": "State Assembly District 23 - San Mateo County Results",
     "Reporting": "100% (79 of 79) precincts reporting",
-    "ReportingTime": "March 28, 2024, 4:36 p.m.",
+    "ReportingTime": "March 29, 2024, 4:05 p.m.",
     "candidates": [
       {
         "Name": "Marc Berman",
         "Party": "Dem",
-        "Votes": "23,575",
+        "Votes": "23,577",
         "Percent": "61.9",
         "incumbent": true
       },
@@ -28,7 +28,7 @@
       {
         "Name": "Gus Mattammal",
         "Party": "Rep",
-        "Votes": "5,081",
+        "Votes": "5,082",
         "Percent": "13.3",
         "incumbent": false
       }
@@ -37,12 +37,12 @@
   {
     "raceTitle": "State Assembly District 23 - Districtwide Results",
     "Reporting": "100% (184 of 184) precincts reporting",
-    "ReportingTime": "March 29, 2024, 12:24 p.m.",
+    "ReportingTime": "March 29, 2024, 4:05 p.m.",
     "candidates": [
       {
         "Name": "Marc Berman",
         "Party": "Dem",
-        "Votes": "67,156",
+        "Votes": "67,158",
         "Percent": "57.4",
         "incumbent": true
       },
@@ -63,7 +63,7 @@
       {
         "Name": "Gus Mattammal",
         "Party": "Rep",
-        "Votes": "13,284",
+        "Votes": "13,285",
         "Percent": "11.3",
         "incumbent": false
       }
