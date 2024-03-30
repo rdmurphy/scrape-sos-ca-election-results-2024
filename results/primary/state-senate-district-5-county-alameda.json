@@ -2,26 +2,26 @@
   {
     "raceTitle": "State Senate District 5 - Alameda County Results",
     "Reporting": "100% (116 of 116) precincts reporting",
-    "ReportingTime": "March 20, 2024, 4:09 p.m.",
+    "ReportingTime": "March 29, 2024, 4:36 p.m.",
     "candidates": [
       {
         "Name": "Jerry McNerney",
         "Party": "Dem",
-        "Votes": "18,996",
+        "Votes": "19,012",
         "Percent": "38.1",
         "incumbent": false
       },
       {
         "Name": "Carlos Villapudua",
         "Party": "Dem",
-        "Votes": "12,628",
-        "Percent": "25.3",
+        "Votes": "12,646",
+        "Percent": "25.4",
         "incumbent": false
       },
       {
         "Name": "Jim Shoemaker",
         "Party": "Rep",
-        "Votes": "18,201",
+        "Votes": "18,217",
         "Percent": "36.5",
         "incumbent": false
       }
@@ -30,27 +30,27 @@
   {
     "raceTitle": "State Senate District 5 - Districtwide Results",
     "Reporting": "100% (330 of 330) precincts reporting",
-    "ReportingTime": "March 29, 2024, 4:05 p.m.",
+    "ReportingTime": "March 29, 2024, 5:42 p.m.",
     "candidates": [
       {
         "Name": "Jerry McNerney",
         "Party": "Dem",
-        "Votes": "57,324",
-        "Percent": "33.4",
+        "Votes": "57,433",
+        "Percent": "33.2",
         "incumbent": false
       },
       {
         "Name": "Carlos Villapudua",
         "Party": "Dem",
-        "Votes": "39,885",
-        "Percent": "23.2",
+        "Votes": "39,958",
+        "Percent": "23.1",
         "incumbent": false
       },
       {
         "Name": "Jim Shoemaker",
         "Party": "Rep",
-        "Votes": "74,490",
-        "Percent": "43.4",
+        "Votes": "75,629",
+        "Percent": "43.7",
         "incumbent": false
       }
     ]

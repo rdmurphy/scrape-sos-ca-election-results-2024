@@ -2,26 +2,26 @@
   {
     "raceTitle": "U.S. House of Representatives District 5 - Fresno County Results",
     "Reporting": "100% (44 of 44) precincts reporting",
-    "ReportingTime": "March 22, 2024, 4:42 p.m.",
+    "ReportingTime": "March 29, 2024, 5:00 p.m.",
     "candidates": [
       {
         "Name": "Michael J. \"Mike\" Barkley",
         "Party": "Dem",
-        "Votes": "11,354",
+        "Votes": "11,499",
         "Percent": "34.2",
         "incumbent": false
       },
       {
         "Name": "Tom McClintock",
         "Party": "Rep",
-        "Votes": "19,798",
-        "Percent": "59.6",
+        "Votes": "19,987",
+        "Percent": "59.5",
         "incumbent": true
       },
       {
         "Name": "Steve Wozniak",
         "Party": "NPP",
-        "Votes": "2,076",
+        "Votes": "2,096",
         "Percent": "6.2",
         "incumbent": false
       }
@@ -30,26 +30,26 @@
   {
     "raceTitle": "U.S. House of Representatives District 5 - Districtwide Results",
     "Reporting": "100% (345 of 345) precincts reporting",
-    "ReportingTime": "March 29, 2024, 4:05 p.m.",
+    "ReportingTime": "March 29, 2024, 5:42 p.m.",
     "candidates": [
       {
         "Name": "Michael J. \"Mike\" Barkley",
         "Party": "Dem",
-        "Votes": "66,535",
+        "Votes": "66,680",
         "Percent": "32.8",
         "incumbent": false
       },
       {
         "Name": "Tom McClintock",
         "Party": "Rep",
-        "Votes": "118,769",
+        "Votes": "118,958",
         "Percent": "58.5",
         "incumbent": true
       },
       {
         "Name": "Steve Wozniak",
         "Party": "NPP",
-        "Votes": "17,616",
+        "Votes": "17,636",
         "Percent": "8.7",
         "incumbent": false
       }
