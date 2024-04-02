@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 23 - San Mateo County Results",
     "Reporting": "100% (79 of 79) precincts reporting",
-    "ReportingTime": "April 1, 2024, 4:09 p.m.",
+    "ReportingTime": "April 2, 2024, 4:09 p.m.",
     "candidates": [
       {
         "Name": "Marc Berman",
         "Party": "Dem",
-        "Votes": "23,581",
+        "Votes": "23,583",
         "Percent": "61.9",
         "incumbent": true
       },
       {
         "Name": "Lydia Kou",
         "Party": "Dem",
-        "Votes": "5,807",
-        "Percent": "15.2",
+        "Votes": "5,808",
+        "Percent": "15.3",
         "incumbent": false
       },
       {
@@ -28,7 +28,7 @@
       {
         "Name": "Gus Mattammal",
         "Party": "Rep",
-        "Votes": "5,082",
+        "Votes": "5,084",
         "Percent": "13.3",
         "incumbent": false
       }
@@ -37,19 +37,19 @@
   {
     "raceTitle": "State Assembly District 23 - Districtwide Results",
     "Reporting": "100% (184 of 184) precincts reporting",
-    "ReportingTime": "April 2, 2024, 1:18 p.m.",
+    "ReportingTime": "April 2, 2024, 4:19 p.m.",
     "candidates": [
       {
         "Name": "Marc Berman",
         "Party": "Dem",
-        "Votes": "67,165",
+        "Votes": "67,167",
         "Percent": "57.4",
         "incumbent": true
       },
       {
         "Name": "Lydia Kou",
         "Party": "Dem",
-        "Votes": "23,715",
+        "Votes": "23,716",
         "Percent": "20.3",
         "incumbent": false
       },
@@ -63,7 +63,7 @@
       {
         "Name": "Gus Mattammal",
         "Party": "Rep",
-        "Votes": "13,287",
+        "Votes": "13,289",
         "Percent": "11.4",
         "incumbent": false
       }

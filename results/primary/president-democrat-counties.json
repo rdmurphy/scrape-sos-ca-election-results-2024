@@ -2,12 +2,12 @@
   {
     "raceTitle": "President Democratic - Statewide Results",
     "Reporting": "100% (20,855 of 20,855) precincts reporting",
-    "ReportingTime": "April 2, 2024, 1:18 p.m.",
+    "ReportingTime": "April 2, 2024, 4:19 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
         "Party": "Dem",
-        "Votes": "3,206,934",
+        "Votes": "3,206,939",
         "Percent": "89.2",
         "incumbent": true
       },
@@ -56,7 +56,7 @@
       {
         "Name": "Marianne Williamson",
         "Party": "Dem",
-        "Votes": "146,260",
+        "Votes": "146,262",
         "Percent": "4.1",
         "incumbent": false
       }
@@ -1577,13 +1577,13 @@
   {
     "raceTitle": "President Democratic - Modoc County Results",
     "Reporting": "100% (21 of 21) precincts reporting",
-    "ReportingTime": "March 26, 2024, 12:53 p.m.",
+    "ReportingTime": "April 2, 2024, 4:19 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
         "Party": "Dem",
-        "Votes": "401",
-        "Percent": "87.0",
+        "Votes": "405",
+        "Percent": "87.1",
         "incumbent": true
       },
       {
@@ -1632,7 +1632,7 @@
         "Name": "Marianne Williamson",
         "Party": "Dem",
         "Votes": "21",
-        "Percent": "4.6",
+        "Percent": "4.5",
         "incumbent": false
       }
     ]
@@ -2144,7 +2144,7 @@
   {
     "raceTitle": "President Democratic - Sacramento County Results",
     "Reporting": "100% (620 of 620) precincts reporting",
-    "ReportingTime": "March 29, 2024, 2:07 p.m.",
+    "ReportingTime": "April 2, 2024, 2:13 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
@@ -2585,12 +2585,12 @@
   {
     "raceTitle": "President Democratic - San Mateo County Results",
     "Reporting": "100% (266 of 266) precincts reporting",
-    "ReportingTime": "April 1, 2024, 4:09 p.m.",
+    "ReportingTime": "April 2, 2024, 4:09 p.m.",
     "candidates": [
       {
         "Name": "Joseph R Biden Jr",
         "Party": "Dem",
-        "Votes": "98,594",
+        "Votes": "98,595",
         "Percent": "92.9",
         "incumbent": true
       },
@@ -2639,7 +2639,7 @@
       {
         "Name": "Marianne Williamson",
         "Party": "Dem",
-        "Votes": "2,890",
+        "Votes": "2,892",
         "Percent": "2.7",
         "incumbent": false
       }
