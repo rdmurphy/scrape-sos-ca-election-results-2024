@@ -1,33 +1,33 @@
 {
   "raceTitle": "State Assembly District 5 - Districtwide Results",
   "Reporting": "100% (216 of 216) precincts reporting",
-  "ReportingTime": "April 1, 2024, 4:09 p.m.",
+  "ReportingTime": "April 1, 2024, 5:51 p.m.",
   "candidates": [
     {
       "Name": "Neva Parker",
       "Party": "Dem",
-      "Votes": "47,254",
-      "Percent": "29.6",
+      "Votes": "47,611",
+      "Percent": "29.5",
       "incumbent": false
     },
     {
       "Name": "Athena Singh",
       "Party": "Dem",
-      "Votes": "12,478",
+      "Votes": "12,581",
       "Percent": "7.8",
       "incumbent": false
     },
     {
       "Name": "Aabhash \"ABG\" Gautam",
       "Party": "Rep",
-      "Votes": "7,002",
+      "Votes": "7,125",
       "Percent": "4.4",
       "incumbent": false
     },
     {
       "Name": "Joe Patterson",
       "Party": "Rep",
-      "Votes": "92,814",
+      "Votes": "93,875",
       "Percent": "58.2",
       "incumbent": true
     }

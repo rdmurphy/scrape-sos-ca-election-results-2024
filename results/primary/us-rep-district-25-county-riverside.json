@@ -2,33 +2,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 25 - Riverside County Results",
     "Reporting": "100% (266 of 266) precincts reporting",
-    "ReportingTime": "March 29, 2024, 5:39 p.m.",
+    "ReportingTime": "April 1, 2024, 5:51 p.m.",
     "candidates": [
       {
         "Name": "Oscar Ortiz",
         "Party": "Dem",
-        "Votes": "6,493",
-        "Percent": "7.9",
+        "Votes": "6,500",
+        "Percent": "8.0",
         "incumbent": false
       },
       {
         "Name": "Raul Ruiz",
         "Party": "Dem",
-        "Votes": "38,702",
+        "Votes": "38,719",
         "Percent": "47.4",
         "incumbent": true
       },
       {
         "Name": "Miguel Chapa",
         "Party": "Rep",
-        "Votes": "4,086",
+        "Votes": "4,094",
         "Percent": "5.0",
         "incumbent": false
       },
       {
         "Name": "Ceci \"Cecilia\" Truman",
         "Party": "Rep",
-        "Votes": "14,601",
+        "Votes": "14,611",
         "Percent": "17.9",
         "incumbent": false
       },
@@ -42,7 +42,7 @@
       {
         "Name": "Ryan Dean Burkett",
         "Party": "NPP",
-        "Votes": "841",
+        "Votes": "843",
         "Percent": "1.0",
         "incumbent": false
       }
@@ -51,33 +51,33 @@
   {
     "raceTitle": "U.S. House of Representatives District 25 - Districtwide Results",
     "Reporting": "100% (582 of 582) precincts reporting",
-    "ReportingTime": "April 1, 2024, 4:09 p.m.",
+    "ReportingTime": "April 1, 2024, 5:51 p.m.",
     "candidates": [
       {
         "Name": "Oscar Ortiz",
         "Party": "Dem",
-        "Votes": "10,160",
+        "Votes": "10,167",
         "Percent": "10.0",
         "incumbent": false
       },
       {
         "Name": "Raul Ruiz",
         "Party": "Dem",
-        "Votes": "45,850",
+        "Votes": "45,867",
         "Percent": "45.0",
         "incumbent": true
       },
       {
         "Name": "Miguel Chapa",
         "Party": "Rep",
-        "Votes": "5,848",
-        "Percent": "5.7",
+        "Votes": "5,856",
+        "Percent": "5.8",
         "incumbent": false
       },
       {
         "Name": "Ceci \"Cecilia\" Truman",
         "Party": "Rep",
-        "Votes": "17,800",
+        "Votes": "17,810",
         "Percent": "17.5",
         "incumbent": false
       },
@@ -91,7 +91,7 @@
       {
         "Name": "Ryan Dean Burkett",
         "Party": "NPP",
-        "Votes": "1,127",
+        "Votes": "1,129",
         "Percent": "1.1",
         "incumbent": false
       }

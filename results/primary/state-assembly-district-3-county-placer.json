@@ -2,20 +2,20 @@
   {
     "raceTitle": "State Assembly District 3 - Placer County Results",
     "Reporting": "100% (4 of 4) precincts reporting",
-    "ReportingTime": "March 22, 2024, 4:54 p.m.",
+    "ReportingTime": "April 1, 2024, 4:55 p.m.",
     "candidates": [
       {
         "Name": "Aaron Draper",
         "Party": "Dem",
-        "Votes": "768",
-        "Percent": "26.7",
+        "Votes": "770",
+        "Percent": "26.4",
         "incumbent": false
       },
       {
         "Name": "Jamie \"James\" Gallagher",
         "Party": "Rep",
-        "Votes": "2,106",
-        "Percent": "73.3",
+        "Votes": "2,145",
+        "Percent": "73.6",
         "incumbent": true
       }
     ]
@@ -23,19 +23,19 @@
   {
     "raceTitle": "State Assembly District 3 - Districtwide Results",
     "Reporting": "100% (290 of 290) precincts reporting",
-    "ReportingTime": "April 1, 2024, 4:09 p.m.",
+    "ReportingTime": "April 1, 2024, 5:51 p.m.",
     "candidates": [
       {
         "Name": "Aaron Draper",
         "Party": "Dem",
-        "Votes": "35,432",
+        "Votes": "35,434",
         "Percent": "31.6",
         "incumbent": false
       },
       {
         "Name": "Jamie \"James\" Gallagher",
         "Party": "Rep",
-        "Votes": "76,531",
+        "Votes": "76,570",
         "Percent": "68.4",
         "incumbent": true
       }
