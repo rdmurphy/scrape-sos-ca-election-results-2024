@@ -2,7 +2,7 @@
   {
     "raceTitle": "U.S. House of Representatives District 18 - Santa Cruz County Results",
     "Reporting": "100% (17 of 17) precincts reporting",
-    "ReportingTime": "March 26, 2024, 4:34 p.m.",
+    "ReportingTime": "April 2, 2024, 5:42 p.m.",
     "candidates": [
       {
         "Name": "Luele N Kifle",
@@ -14,7 +14,7 @@
       {
         "Name": "Zoe Lofgren",
         "Party": "Dem",
-        "Votes": "4,216",
+        "Votes": "4,222",
         "Percent": "53.3",
         "incumbent": true
       },
@@ -28,14 +28,14 @@
       {
         "Name": "Charlene Concepción Nijmeh",
         "Party": "Dem",
-        "Votes": "1,184",
+        "Votes": "1,188",
         "Percent": "15.0",
         "incumbent": false
       },
       {
         "Name": "Peter D. Hernandez",
         "Party": "Rep",
-        "Votes": "2,064",
+        "Votes": "2,069",
         "Percent": "26.1",
         "incumbent": false
       }
@@ -44,19 +44,19 @@
   {
     "raceTitle": "U.S. House of Representatives District 18 - Districtwide Results",
     "Reporting": "100% (281 of 281) precincts reporting",
-    "ReportingTime": "April 2, 2024, 4:19 p.m.",
+    "ReportingTime": "April 2, 2024, 6:13 p.m.",
     "candidates": [
       {
         "Name": "Luele N Kifle",
         "Party": "Dem",
-        "Votes": "2,033",
+        "Votes": "2,034",
         "Percent": "2.1",
         "incumbent": false
       },
       {
         "Name": "Zoe Lofgren",
         "Party": "Dem",
-        "Votes": "49,364",
+        "Votes": "49,370",
         "Percent": "51.2",
         "incumbent": true
       },
@@ -70,14 +70,14 @@
       {
         "Name": "Charlene Concepción Nijmeh",
         "Party": "Dem",
-        "Votes": "10,626",
+        "Votes": "10,631",
         "Percent": "11.0",
         "incumbent": false
       },
       {
         "Name": "Peter D. Hernandez",
         "Party": "Rep",
-        "Votes": "31,655",
+        "Votes": "31,665",
         "Percent": "32.8",
         "incumbent": false
       }

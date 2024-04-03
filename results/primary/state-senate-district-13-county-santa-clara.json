@@ -2,26 +2,26 @@
   {
     "raceTitle": "State Senate District 13 - Santa Clara County Results",
     "Reporting": "100% (128 of 128) precincts reporting",
-    "ReportingTime": "March 29, 2024, 4:37 p.m.",
+    "ReportingTime": "April 2, 2024, 5:34 p.m.",
     "candidates": [
       {
         "Name": "Josh Becker",
         "Party": "Dem",
-        "Votes": "63,372",
+        "Votes": "63,387",
         "Percent": "72.5",
         "incumbent": true
       },
       {
         "Name": "Alexander Glew",
         "Party": "Rep",
-        "Votes": "16,248",
+        "Votes": "16,253",
         "Percent": "18.6",
         "incumbent": false
       },
       {
         "Name": "Christina Laskowski",
         "Party": "Rep",
-        "Votes": "7,758",
+        "Votes": "7,760",
         "Percent": "8.9",
         "incumbent": false
       }
@@ -30,26 +30,26 @@
   {
     "raceTitle": "State Senate District 13 - Districtwide Results",
     "Reporting": "100% (357 of 357) precincts reporting",
-    "ReportingTime": "April 2, 2024, 4:19 p.m.",
+    "ReportingTime": "April 2, 2024, 6:13 p.m.",
     "candidates": [
       {
         "Name": "Josh Becker",
         "Party": "Dem",
-        "Votes": "167,269",
+        "Votes": "167,284",
         "Percent": "73.6",
         "incumbent": true
       },
       {
         "Name": "Alexander Glew",
         "Party": "Rep",
-        "Votes": "42,836",
+        "Votes": "42,841",
         "Percent": "18.8",
         "incumbent": false
       },
       {
         "Name": "Christina Laskowski",
         "Party": "Rep",
-        "Votes": "17,293",
+        "Votes": "17,295",
         "Percent": "7.6",
         "incumbent": false
       }
