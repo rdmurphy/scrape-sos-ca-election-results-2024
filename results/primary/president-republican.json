@@ -1,7 +1,7 @@
 {
   "raceTitle": "President Republican - Statewide Results",
   "Reporting": "100% (20,855 of 20,855) precincts reporting",
-  "ReportingTime": "April 3, 2024, 12:48 p.m.",
+  "ReportingTime": "April 4, 2024, 12:28 p.m.",
   "candidates": [
     {
       "Name": "Ryan L Binkley",
@@ -13,21 +13,21 @@
     {
       "Name": "Chris Christie",
       "Party": "Rep",
-      "Votes": "20,207",
+      "Votes": "20,209",
       "Percent": "0.8",
       "incumbent": false
     },
     {
       "Name": "Ron DeSantis",
       "Party": "Rep",
-      "Votes": "35,709",
+      "Votes": "35,715",
       "Percent": "1.4",
       "incumbent": false
     },
     {
       "Name": "Nikki Haley",
       "Party": "Rep",
-      "Votes": "431,835",
+      "Votes": "431,869",
       "Percent": "17.4",
       "incumbent": false
     },
@@ -41,14 +41,14 @@
     {
       "Name": "Vivek Ramaswamy",
       "Party": "Rep",
-      "Votes": "11,112",
+      "Votes": "11,113",
       "Percent": "0.4",
       "incumbent": false
     },
     {
       "Name": "David Stuckenberg",
       "Party": "Rep",
-      "Votes": "3,907",
+      "Votes": "3,908",
       "Percent": "0.2",
       "incumbent": false
     },
@@ -62,7 +62,7 @@
     {
       "Name": "Donald J. Trump",
       "Party": "Rep",
-      "Votes": "1,962,687",
+      "Votes": "1,962,849",
       "Percent": "79.2",
       "incumbent": false
     }
